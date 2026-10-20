@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T20:55:17.279Z",
+  "updatedAt": "2026-10-20T21:18:18.185Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1tr7i2p",
+      "title": "Audit regulator looking into Manchester City accounting",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T20:56:53.000Z",
+      "summary": "No formal investigation has started, but the regulator is making inquiries into the case."
+    },
     {
       "id": "feed-1tvy752",
       "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-19T21:12:30.000Z",
       "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail."
-    },
-    {
-      "id": "feed-d9lngo",
-      "title": "US bans China's DeepSeek from government in race for AI dominance",
-      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T18:21:54.000Z",
-      "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
     }
   ]
 }
