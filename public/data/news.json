@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T15:26:08.802Z",
-  "generatedAt": "2026-10-20T15:26:08.802Z",
+  "updatedAt": "2026-10-20T15:58:42.882Z",
+  "generatedAt": "2026-10-20T15:58:42.882Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -104,14 +104,104 @@
   ],
   "articles": [
     {
-      "id": "feed-172yrl8",
-      "title": "England chasing 303 to beat Pakistan in men’s tri-series cricket ODI – live",
+      "id": "feed-54yyog",
+      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o",
+      "publishedAt": "2026-10-20T15:53:13.000Z",
+      "category": "uk",
+      "summary": "The government increased taxes on online casino and sports betting in last year's Budget."
+    },
+    {
+      "id": "feed-16r3q8d",
+      "title": "South Africa v Australia: second men’s cricket Test, day three – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates",
+      "publishedAt": "2026-10-20T15:51:59.000Z",
+      "category": "uk",
+      "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 47th over: South Africa 106-5 (Bavuma 42, Mulder 10) Bavuma looks intent on settling in. Cummins gives him a couple of bouncers, but he’s very happy to get out o"
+    },
+    {
+      "id": "feed-1lttmg2",
+      "title": "Harry says he wants to 'reconcile' with his family",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o",
+      "publishedAt": "2026-10-20T15:49:54.000Z",
+      "category": "uk",
+      "summary": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month."
+    },
+    {
+      "id": "feed-11g06l",
+      "title": "England collapse to 87-run defeat by Pakistan in men’s tri-series cricket ODI – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live",
-      "publishedAt": "2026-10-20T15:21:09.000Z",
+      "publishedAt": "2026-10-20T15:48:40.000Z",
       "category": "uk",
-      "summary": "Over-by-over updates from Rawalpindi (9am BST) Brook relishing responsibility | Get in touch! Mail Rob 12th over: Pakistan 51-2 (Babar Azam 29, Saad Baig 11) Atkinson gets a breather after a solid opening spell (5-0-22-1). On comes Jamie Overton, the Liam Plun"
+      "summary": "Pakistan’s young all-rounder Arafat Minhas starred with bat and ball as England were well beaten in Rawalpindi 12th over: Pakistan 51-2 (Babar Azam 29, Saad Baig 11) Atkinson gets a breather after a solid opening spell (5-0-22-1). On comes Jamie Overton, the L"
+    },
+    {
+      "id": "feed-6eot2k",
+      "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
+      "publishedAt": "2026-10-20T15:41:44.000Z",
+      "category": "uk",
+      "summary": "Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody it To Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Bra"
+    },
+    {
+      "id": "feed-x5u2uf",
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
+      "publishedAt": "2026-10-20T15:39:04.000Z",
+      "category": "world",
+      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence."
+    },
+    {
+      "id": "feed-1mr8y2k",
+      "title": "Vincent Kompany to miss Bayern’s clash with Arsenal due to legs-affecting virus",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league",
+      "publishedAt": "2026-10-20T15:37:55.000Z",
+      "category": "uk",
+      "summary": "Kompany told to rest after struggling with infection His assistant poised to oversee Champions League game Vincent Kompany is touch and go to be in the Bayern Munich dugout against Arsenal at the Allianz Arena on Wednesday night as he battles a debilitating vi"
+    },
+    {
+      "id": "feed-143wpux",
+      "title": "Google says services recovering after cloud outage hits UK banks and websites",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
+      "publishedAt": "2026-10-20T15:37:26.000Z",
+      "category": "technology",
+      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers."
+    },
+    {
+      "id": "feed-1g0l7td",
+      "title": "Ban ‘intrusive’ cameras on mental health wards in England, say bereaved families",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/society/2026/oct/20/ban-intrusive-cameras-mental-health-wards-england-bereaved-families",
+      "publishedAt": "2026-10-20T15:32:52.000Z",
+      "category": "uk",
+      "summary": "Lawyers tell inquiry ‘patients’ lives are at stake’ through improper use of Oxevision system for most vulnerable Families bereaved by the misuse of an “intrusive” camera monitoring system for vulnerable patients used in half of England’s mental health wards, h"
+    },
+    {
+      "id": "feed-f06dfz",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
+      "publishedAt": "2026-10-20T15:31:51.000Z",
+      "category": "world",
+      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
     },
     {
       "id": "feed-1pypmwt",
@@ -119,9 +209,29 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-      "publishedAt": "2026-10-20T15:20:46.000Z",
+      "publishedAt": "2026-10-20T15:28:59.000Z",
       "category": "uk",
       "summary": "Andy Haldane writes that Conservative economic plans would be best for growth ahead of Healey budget Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creat"
+    },
+    {
+      "id": "feed-1u4h7od",
+      "title": "Could this be a Deep Blue moment for the cryptic crossword?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/puzzles/crossword-blog/2026/oct/20/could-this-be-a-deep-blue-moment-for-the-cryptic-crossword",
+      "publishedAt": "2026-10-20T15:27:50.000Z",
+      "category": "technology",
+      "summary": "A computer program has finally oudone humans at solving cryptic crosswords. Plus, more from around the puzzleverse • Don’t get Cluesletter, our weekly puzzles newsletter, delivered to your inbox? Sign up here When the IBM supercomputer Deep Blue beat Garry Kas"
+    },
+    {
+      "id": "feed-vd4fw0",
+      "title": "House Democrat accuses Rubio and Trump of ‘lying’ about not witholding intelligence from Ukraine as Trump continues campaigning – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+      "publishedAt": "2026-10-20T15:24:38.000Z",
+      "category": "world",
+      "summary": "Eugene Vindman, armed services committee member, says president and secretary of state are ‘gaslighting’ over intelligence sharing as Trump heads to North Carolina Sign up for the Breaking News US email Representative Eugene Vindman , the Democratic congressma"
     },
     {
       "id": "feed-1khecr1",
@@ -144,44 +254,14 @@
       "summary": "The star of Michael, the most commercially successful biopic of all time, has said sequel will give airtime to point-of-view of late singer Of all the criticisms levelled at the authorised biopic of Michael Jackson released earlier this year, the most persiste"
     },
     {
-      "id": "feed-16r3q8d",
-      "title": "South Africa v Australia: second men’s cricket Test, day three – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates",
-      "publishedAt": "2026-10-20T15:15:07.000Z",
-      "category": "uk",
-      "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 47th over: South Africa 106-5 (Bavuma 42, Mulder 10) Bavuma looks intent on settling in. Cummins gives him a couple of bouncers, but he’s very happy to get out o"
-    },
-    {
-      "id": "feed-10ao7h5",
-      "title": "BBC closures make business sense, but far more savings are needed, says Katie Razzall",
+      "id": "feed-fnqkzh",
+      "title": "Katie Razzall: BBC closures make business sense, but far more savings are needed",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c63eln34yle3o",
       "publishedAt": "2026-10-20T15:14:58.000Z",
       "category": "uk",
       "summary": "The BBC announced it will close its BBC Three, BBC Scotland and Radio 4 Extra broadcast channels."
-    },
-    {
-      "id": "feed-1lxgetw",
-      "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-      "publishedAt": "2026-10-20T15:09:28.000Z",
-      "category": "world",
-      "summary": "President to stump for Michael Whatley, who is facing an uphill battle against Democrat Roy Cooper for the Senate, as elections are just two weeks away Sign up for the Breaking News US email Representative Eugene Vindman , the Democratic congressman from Virgi"
-    },
-    {
-      "id": "feed-143wpux",
-      "title": "Google says services recovering after cloud outage hits UK banks and websites",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
-      "publishedAt": "2026-10-20T15:03:30.000Z",
-      "category": "technology",
-      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers."
     },
     {
       "id": "feed-1d7ilyx",
@@ -211,7 +291,7 @@
       "url": "https://www.theguardian.com/lifeandstyle/2026/oct/20/rspca-capacity-crisis-cats-arrive-faster-rehomed",
       "publishedAt": "2026-10-20T14:59:55.000Z",
       "category": "uk",
-      "summary": "About 20,000 cats were taken into charity’s care last year, an increase driven in part by pet hoarders There is a cat crisis in rescue centres across the country, the RSPCA has warned, as abandoned felines now outnumber dogs in the charity’s shelters. Cats are"
+      "summary": "About 20,000 cats were taken into charity’s care last year, an increase driven in part by pet hoarders There is a cat crisis in rescue centres across the country, the RSPCA has said, as abandoned felines now outnumber dogs in the charity’s shelters. Cats are a"
     },
     {
       "id": "feed-1rkdwrr",
@@ -234,18 +314,8 @@
       "summary": "Corporation announces broadcast closures and job losses in effort to find savings of £500m UK politics live – latest updates Television channels BBC Three and BBC Scotland are to close and the Radio 4 Extra radio station will be scrapped, as part of the corpor"
     },
     {
-      "id": "feed-54yyog",
-      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o",
-      "publishedAt": "2026-10-20T14:53:02.000Z",
-      "category": "uk",
-      "summary": "The government increased taxes on online casino and sports betting in last year's Budget."
-    },
-    {
-      "id": "feed-1i4eycf",
-      "title": "Union attacks NatWest plans to reduce working from home",
+      "id": "feed-36a10x",
+      "title": "Union attacks NatWest plans to get workers back to the office",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo",
@@ -321,7 +391,7 @@
       "url": "https://www.theguardian.com/society/2026/oct/20/paddy-power-owner-flutter-tax-rises-jobs-cuts-gambling",
       "publishedAt": "2026-10-20T14:24:36.000Z",
       "category": "uk",
-      "summary": "Flutter says one in 10 UK and Ireland workers at risk of redundancy because of a ‘material increase in betting and gaming duties’ Business live – latest updates The gambling company behind Paddy Power and SkyBet has announced up to 1,400 job cuts, blaming tax "
+      "summary": "Flutter says one in 10 UK and Ireland workers at risk of redundancy because of a ‘material increase in betting and gaming duties’ Business live – latest updates The gambling company behind Paddy Power and Sky Bet has announced up to 1,400 job cuts, blaming tax"
     },
     {
       "id": "feed-152eigs",
@@ -344,36 +414,6 @@
       "summary": "Drivers are set to receive new rights to stand up to unfair private parking fines, the government has announced."
     },
     {
-      "id": "feed-1bvvjal",
-      "title": "Jalen Hurts played through a blood clot. Are NFL players cattle?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/20/jalen-hurts-blood-clots-eagles-nfl",
-      "publishedAt": "2026-10-20T14:15:51.000Z",
-      "category": "uk",
-      "summary": "The Eagles quarterback’s recent health issues highlight how football’s toughness culture puts its players at risk Jalen Hurts is likely to miss the rest of the season after an ultrasound revealed blood clots in his lungs. Thankfully, he’s now restricted from p"
-    },
-    {
-      "id": "feed-42idm",
-      "title": "‘We’ll keep doing this if people pay us!’ The cast of TV hit Ghosts on making a movie – and maybe a caveman spinoff",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/oct/20/ghosts-the-possession-of-button-house-caveman-robin",
-      "publishedAt": "2026-10-20T14:14:43.000Z",
-      "category": "uk",
-      "summary": "As the haunters of Button House hit the big screen with a plot about an escaped phantom, we hear how the team just missed each other too much – and why grunting Robin may get his own show When the final episode of Ghosts was aired in December 2023, the sitcom "
-    },
-    {
-      "id": "feed-1ql4ht",
-      "title": "Explosive births, talking foxes and the devil in a trenchcoat – the Sitges fantastic film festival in all its creepy glory",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/oct/20/international-fantastic-film-festival-sitges",
-      "publishedAt": "2026-10-20T14:10:14.000Z",
-      "category": "uk",
-      "summary": "Olivia Colman goes vulpine, Rupert Grint’s newborn is a monster and Joko Anwar makes a warmhearted violent ghost story set in an Indonesian prison If I’d ever wanted children, the films showing at the 59th edition of the International Fantastic film festival o"
-    },
-    {
       "id": "feed-orsytw",
       "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
       "source": "BBC News",
@@ -392,16 +432,6 @@
       "publishedAt": "2026-10-20T14:04:00.000Z",
       "category": "uk",
       "summary": "Prince Harry has spoken of how he would like to \"reconcile\" with his family."
-    },
-    {
-      "id": "feed-1lttmg2",
-      "title": "Harry says he wants to 'reconcile' with his family",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o",
-      "publishedAt": "2026-10-20T14:01:40.000Z",
-      "category": "uk",
-      "summary": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month."
     },
     {
       "id": "feed-r4nxmw",
@@ -442,16 +472,6 @@
       "publishedAt": "2026-10-20T13:51:59.000Z",
       "category": "world",
       "summary": "The Married … with Children actor says the news is ‘unnerving’ and ‘really confusing’ Sign up for the Breaking News US newsletter email After becoming a prominent advocate for multiple sclerosis awareness and chronicling her struggles in an emotional memoir pu"
-    },
-    {
-      "id": "feed-x5u2uf",
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
-      "publishedAt": "2026-10-20T13:51:40.000Z",
-      "category": "world",
-      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence."
     },
     {
       "id": "feed-1k1mgh6",
@@ -582,16 +602,6 @@
       "publishedAt": "2026-10-20T12:45:48.000Z",
       "category": "world",
       "summary": "Timmy Teepell’s firm paid $250,000 by America Next, which has been trying to gin up ‘organic’ opposition to El-Sayed Man who heckled El-Sayed is former Josh Hawley aide, records show The man who attempted to ambush the Democratic Senate candidate Abdul El-Saye"
-    },
-    {
-      "id": "feed-f06dfz",
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
-      "publishedAt": "2026-10-20T12:45:43.000Z",
-      "category": "world",
-      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
     },
     {
       "id": "feed-kjtb1e",
@@ -830,7 +840,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
       "publishedAt": "2026-10-20T09:53:27.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Low-cost broadband provider Jio Platforms aims for £81bn valuation when it floats on the stock market on Wednesday Business live – latest updates India’s second-richest man, Mukesh Ambani, is launching what could be the country’s biggest-ever initial public of"
     },
     {
@@ -1314,14 +1324,14 @@
       "summary": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\"."
     },
     {
-      "id": "feed-1suy1jn",
-      "title": "‘Concerning issues’ found at GB power grid by inquiry into cover-up claims",
+      "id": "feed-6n2h5y",
+      "title": "Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/19/concerning-issues-found-at-gb-power-grid-by-inquiry-into-cover-up-claims",
-      "publishedAt": "2026-10-19T16:14:47.000Z",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
+      "publishedAt": "2026-10-19T16:21:06.000Z",
       "category": "business",
-      "summary": "Neso control room staff accused senior executives of covering up extent of blackout risks during June heatwave Independent investigators have found significant and concerning “cultural issues” at Great Britain’s grid operator after control room staff accused s"
+      "summary": "American warship sank in 1944 with approximately 1,400 tonnes of munitions onboard A sunken US wartime ship in the Thames estuary holding enough unexploded bombs to devastate a Kent coastal town and send a tidal wave through London has been made slightly safer"
     },
     {
       "id": "feed-u70feu",
@@ -1602,16 +1612,6 @@
       "publishedAt": "2026-10-18T13:05:14.000Z",
       "category": "technology",
       "summary": "Development by UK firm Nscale heralded by ministers as largest of its kind in country loses anchor tenant The development of a huge AI datacentre hailed by the UK government has received a fresh setback after Microsoft pulled out of the project over concerns a"
-    },
-    {
-      "id": "feed-18d6y4u",
-      "title": "The best toys and gifts for eight-year-olds, tested by eight-year-olds",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/thefilter/2026/oct/18/best-toys-gifts-for-eight-year-olds-uk",
-      "publishedAt": "2026-10-18T11:00:00.000Z",
-      "category": "technology",
-      "summary": "From science kits to karaoke machines, shower sets to brain-boosting games, here are the presents our mini testers loved the most • The best gifts for seven-year-olds Eight is such a wonderful age. Kids are old enough to have their own interests and hobbies, b"
     },
     {
       "id": "feed-1keydv3",
