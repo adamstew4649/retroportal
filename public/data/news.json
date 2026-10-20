@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T05:39:42.995Z",
-  "generatedAt": "2026-10-20T05:39:42.995Z",
+  "updatedAt": "2026-10-20T05:55:33.832Z",
+  "generatedAt": "2026-10-20T05:55:33.832Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,16 @@
   ],
   "articles": [
     {
+      "id": "feed-ks1vst",
+      "title": "Tuesday briefing: Can Andy Burnham beat Britain’s headphone dodgers?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/20/tuesday-briefing-can-andy-burnham-beat-britains-headphone-dodgers",
+      "publishedAt": "2026-10-20T05:44:25.000Z",
+      "category": "world",
+      "summary": "In today’s newsletter: The prime minister’s campaign against noisy passengers has struck a chord with commuters. Whether anyone hears him remains to be seen. Good morning. Me again, back from the October school holiday (a week in glorious Wales, thanks for ask"
+    },
+    {
       "id": "feed-fsudj9",
       "title": "The British island where red squirrels are thriving",
       "source": "BBC News",
@@ -119,8 +129,8 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "publishedAt": "2026-10-20T05:33:38.000Z",
-      "category": "world",
+      "publishedAt": "2026-10-20T05:35:35.000Z",
+      "category": "uk",
       "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleges ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across "
     },
     {
@@ -142,6 +152,16 @@
       "publishedAt": "2026-10-20T05:20:16.000Z",
       "category": "uk",
       "summary": "In an eye-opening documentary, she meets long-term ketamine users. Plus: never-before-seen clips from Only Fools and Horses. Here’s what to watch this evening 9pm, BBC Three To be clear, Stacey Dooley says she has never taken ketamine. But it is one of the mos"
+    },
+    {
+      "id": "feed-se7ls0",
+      "title": "What the Helen Haines tragedy means for Australian democracy – podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/audio/2026/oct/20/what-the-helen-haines-tragedy-means-for-australian-democracy-full-story-podcast",
+      "publishedAt": "2026-10-20T05:18:57.000Z",
+      "category": "uk",
+      "summary": "Helen Haines, the independent federal MP for the Victorian seat of Indi, is in a critical condition and has lost a leg after an alleged attack outside her electorate office in Wangaratta on Monday afternoon. On Tuesday the alleged attacker and driver of the ca"
     },
     {
       "id": "feed-1nfmt3m",
@@ -540,8 +560,18 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
       "publishedAt": "2026-10-19T23:17:12.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completion Colorado officials have tracked herds of elk, bears, pronghorn and even northern leopard frogs ambling across its new wildlife overpass. Acc"
+    },
+    {
+      "id": "feed-pyxz4s",
+      "title": "I have a condition people are too embarrassed to talk about",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgr43l7pdpo",
+      "publishedAt": "2026-10-19T23:11:13.000Z",
+      "category": "uk",
+      "summary": "Women share their experience of lichen sclerosus."
     },
     {
       "id": "feed-mdm63r",
@@ -580,7 +610,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo",
       "publishedAt": "2026-10-19T23:00:21.000Z",
-      "category": "business",
+      "category": "uk",
       "summary": "The BBC hears from people who think dating events are better value for money than dating apps."
     },
     {
@@ -600,7 +630,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
       "publishedAt": "2026-10-19T22:30:08.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face."
     },
     {
@@ -894,23 +924,13 @@
       "summary": "Curraghs Wildlife Park has its busiest October weekend ever after the birth of eight capybara pups."
     },
     {
-      "id": "feed-1hefwkw",
-      "title": "Four arrested after police officer injured in shooting",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo",
-      "publishedAt": "2026-10-19T15:50:14.000Z",
-      "category": "uk",
-      "summary": "The officer was shot in the foot and remains in hospital in a stable condition, police say."
-    },
-    {
       "id": "feed-aewf85",
       "title": "Bikes 'not for jousting,' says Lime after duel video",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo",
       "publishedAt": "2026-10-19T15:44:53.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust."
     },
     {
@@ -1312,16 +1332,6 @@
       "publishedAt": "2026-10-19T05:38:04.000Z",
       "category": "science",
       "summary": "In the last two seasons, almost 500,000 trees and 27,233 metres of new hedges, have been planted."
-    },
-    {
-      "id": "feed-fqib23",
-      "title": "Charities 'busier than ever' with furniture poverty",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo",
-      "publishedAt": "2026-10-19T05:10:28.000Z",
-      "category": "business",
-      "summary": "Charities in Hampshire tell the BBC that furniture poverty is becoming an increasing problem."
     },
     {
       "id": "feed-15oh47e",
@@ -1892,16 +1902,6 @@
       "publishedAt": "2026-10-12T14:12:58.000Z",
       "category": "science",
       "summary": "Russia’s silence over the death of a lab worker underlines that pandemic preparedness amounts to nothing if information on threats is withheld In pandemic preparedness work , scientists like to focus on the technical challenges: identifying pathogens, diagnosi"
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
