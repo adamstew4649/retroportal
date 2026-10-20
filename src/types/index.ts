@@ -38,6 +38,7 @@ export const WIDGET_TYPES = [
   'welcome',
   'clock',
   'weather',
+  'fish',
   'news',
   'calendar',
   'notes',
@@ -197,6 +198,19 @@ export interface RssFeed {
   sourceUrl?: string;
 }
 
+export type FishSpeed = 'calm' | 'normal' | 'lively';
+export type FishWater = 'reef' | 'lagoon' | 'freshwater' | 'night';
+
+export interface FishSettings {
+  fishCount: number;
+  colours: string[];
+  speed: FishSpeed;
+  water: FishWater;
+  bubbles: boolean;
+  plants: boolean;
+  tall: boolean;
+}
+
 export interface WidgetSettingsMap {
   clock: {
     analogue: boolean;
@@ -209,6 +223,7 @@ export interface WidgetSettingsMap {
     unit: 'celsius' | 'fahrenheit';
     forecast: boolean;
   };
+  fish: FishSettings;
   calendar: {
     weekStartsOn: 0 | 1;
   };

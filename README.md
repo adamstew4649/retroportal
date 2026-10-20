@@ -11,8 +11,9 @@ A dark-mode, iGoogle-inspired personal homepage for the late-2000s web, rebuilt 
 - **Classic Web 2.0 look** — glossy gradient title bars, bevelled borders, inset highlights, rounded panels and restrained blue steel accents.
 - **Central search** — Google, DuckDuckGo, Bing, Brave Search and Startpage, plus custom HTTPS engines. Queries are encoded safely, history is optional, `/` focuses the search box and results can open in a new tab.
 - **Customisable shortcuts** — add, edit, delete, reorder, categorise and choose icons. Safe URL validation blocks `javascript:` and other unsafe protocols.
-- **Nine draggable widgets, multiple instances** — Welcome, Clock, Weather, Calendar, Notes, To-do, RSS, UK News and Bookmarks. Add another Clock, RSS reader or News panel at any time; each copy has its own settings and, for collection widgets, its own notes, tasks, events or bookmarks. Widgets can be collapsed, renamed, removed and reordered between columns.
+- **Ten draggable widget types, multiple instances** — Welcome, Clock, Weather, Fish, Calendar, Notes, To-do, RSS, UK News and Bookmarks. The default layout uses nine; Fish is available from **Settings → Layout**. Add another Clock, RSS reader or News panel at any time; each copy has its own settings and, for collection widgets, its own notes, tasks, events or bookmarks. Widgets can be collapsed, renamed, removed and reordered between columns.
 - **Live UK weather** — Open-Meteo current conditions and a three-day forecast for London by default, with manual location search. No API key or geolocation prompt.
+- **A living fish tank** — an original canvas aquarium inspired by the classic iGoogle Fish gadget. Fish follow your pointer, you click the water to drop food, and they swim over to eat it. Choose the number of fish, individual colours, water theme, current speed, bubbles, plants and tank height.
 - **Real news aggregation** — a scheduled GitHub Action retrieves BBC, Guardian and Sky RSS/Atom feeds, de-duplicates articles and publishes a static JSON dataset. The site never fabricates headlines and labels stale data as cached.
 - **Scrolling UK news ticker** — real headlines with publisher labels, category filter, pause/resume, previous/next, adjustable speed, hover pause and `prefers-reduced-motion` support.
 - **Full customisation** — five built-in themes plus custom colours, gradient/colour/image backgrounds, font presets, size, radius, shadows, density, search-bar style, columns and gap.
@@ -143,7 +144,7 @@ Weather uses Open-Meteo's free forecast API (no key). Requests are cached briefl
 - **Layout:** one to four columns, gap size, add additional widget instances, remove widgets, reset positions, restore the default set, and drag handles. On narrow screens columns collapse to one while preserving order.
 - **Search:** default engine, custom HTTPS engine templates containing `%s`, history on/off, and new-tab preference.
 - **News:** dataset endpoint, default categories, sources, article count, refresh interval, ticker on/off, speed and ticker categories.
-- **Widgets:** per-instance settings and custom names for clock format/time zone, weather location/units, RSS feeds and count, news categories/sources/count, note colours and taller layouts. Collection widgets keep separate content per instance.
+- **Widgets:** per-instance settings and custom names for clock format/time zone, weather location/units, fish count/colours/water/speed, RSS feeds and count, news categories/sources/count, note colours and taller layouts. Collection widgets keep separate content per instance.
 
 ## Accessibility and security
 
@@ -161,7 +162,7 @@ npm test
 npm run typecheck
 ```
 
-The automated suite covers search URL construction and template validation, RSS/Atom parsing, de-duplication, unsafe link rejection, snapshot parsing, backup round-trips, v1→v2 storage migration, layout reconciliation, per-instance settings and content, widget add/remove/restore lifecycle, manifest discovery, news dataset validation, news-provider filtering and error states, extension hosted-URL validation, and core search-bar interactions. See the manual QA checklist at the end of this document.
+The automated suite covers search URL construction and template validation, RSS/Atom parsing, de-duplication, unsafe link rejection, snapshot parsing, backup round-trips, v1→v2 storage migration, layout reconciliation, per-instance settings and content, fish colour/count validation, widget add/remove/restore lifecycle, manifest discovery, news dataset validation, news-provider filtering and error states, extension hosted-URL validation, and core search-bar interactions. See the manual QA checklist at the end of this document.
 
 ## Deploy to GitHub Pages
 
@@ -216,14 +217,16 @@ Automated tests cover parsing, storage and search behaviour. For visual and brow
 4. Add, edit, reorder and delete a shortcut; reload and confirm persistence.
 5. Drag a widget between columns using a mouse and using the keyboard sensor; collapse, rename and remove widgets.
 6. Add a second Clock and a second RSS widget from **Settings → Layout**. Give them different time zones/feeds, reload, and confirm both keep independent settings and that removing one leaves the other intact.
-7. Add a note, task, event and bookmark to a second collection widget. Confirm each widget shows only its own content, then remove one and check the confirmation names the affected item count.
-8. Open **Settings**, switch themes, change colours, upload a background, export a backup, reset, then re-import the backup.
-9. With the ticker visible, test pause, previous/next, speed changes, category filtering and hover pause. Enable reduced motion at the OS level and confirm the static fallback.
-10. Disable the network and confirm cached/local sections still render with a clear offline state.
-11. Build the extension, load it unpacked, and confirm a new tab opens RetroPortal. Test both bundled and hosted modes in the options page.
+7. Add Fish from **Settings → Layout**, move the pointer over the tank and click the water to drop food. Confirm the fish follow the pointer, eat the food and that a second Fish widget keeps its own colours, water and tank height.
+8. Add a note, task, event and bookmark to a second collection widget. Confirm each widget shows only its own content, then remove one and check the confirmation names the affected item count.
+9. Open **Settings**, switch themes, change colours, upload a background, export a backup, reset, then re-import the backup.
+10. With the ticker visible, test pause, previous/next, speed changes, category filtering and hover pause. Enable reduced motion at the OS level and confirm the static fallback.
+11. Disable the network and confirm cached/local sections still render with a clear offline state.
+12. Build the extension, load it unpacked, and confirm a new tab opens RetroPortal. Test both bundled and hosted modes in the options page.
 
 ## Acknowledgements
 
 - Weather data by [Open-Meteo](https://open-meteo.com/).
 - Headlines and feed data remain the property of their publishers (BBC News, The Guardian and Sky News); RetroPortal links to the original articles and does not republish full content.
+- The Fish widget is an original canvas implementation inspired by [aBowman's classic iGoogle Fish gadget](https://www.abowman.com/gadgets/fish/). No original Flash assets or code are used.
 - Icons by [Lucide](https://lucide.dev/).

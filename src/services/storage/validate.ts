@@ -12,6 +12,8 @@ import {
   type BookmarkCategory,
   type CalendarEvent,
   type ColumnCount,
+  type FishSpeed,
+  type FishWater,
   type NewsArticle,
   type NewsCategory,
   type NewsDataset,
@@ -34,11 +36,14 @@ import { createId, clamp, isRecord } from '../../utils/id';
 import { safeHttpUrl, safeHttpUrlWithHttpsFallback, stripControlCharacters } from '../../utils/url';
 import { validateEngineTemplate } from '../../services/search/engines';
 import { createDefaultWidgetSettings } from '../../widgets/defaults';
+import { clampFishCount, resolveFishColours } from '../../widgets/Fish/palette';
 
 type AnyWidgetSettings = WidgetSettingsMap[WidgetType];
 
 const SHORTCUT_COLOURS = ['yellow', 'blue', 'green', 'pink', 'plain'] as const;
 const TICKER_SPEEDS = ['slow', 'normal', 'fast'] as const;
+const FISH_SPEEDS = ['calm', 'normal', 'lively'] as const;
+const FISH_WATERS = ['reef', 'lagoon', 'freshwater', 'night'] as const;
 
 function str(value: unknown, fallback: string, max = 400): string {
   if (typeof value !== 'string') return fallback;
@@ -186,6 +191,23 @@ function sanitiseWidgetSettingsFor(type: WidgetType, raw: unknown): AnyWidgetSet
         },
         unit: value.unit === 'fahrenheit' ? 'fahrenheit' : 'celsius',
         forecast: bool(value.forecast, defaults.forecast),
+      };
+    }
+    case 'fish': {
+      const defaults = createDefaultWidgetSettings('fish');
+      const fishCount = clampFishCount(value.fishCount);
+      return {
+        fishCount,
+        colours: resolveFishColours(value.colours, fishCount),
+        speed: (FISH_SPEEDS as readonly string[]).includes(String(value.speed))
+          ? (value.speed as FishSpeed)
+          : defaults.speed,
+        water: (FISH_WATERS as readonly string[]).includes(String(value.water))
+          ? (value.water as FishWater)
+          : defaults.water,
+        bubbles: bool(value.bubbles, defaults.bubbles),
+        plants: bool(value.plants, defaults.plants),
+        tall: bool(value.tall, defaults.tall),
       };
     }
     case 'calendar': {

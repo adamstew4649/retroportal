@@ -1,0 +1,118 @@
+/* Fish tank ------------------------------------------------------------- */
+.fish-widget {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.fish-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-height: 22px;
+}
+
+.fish-toolbar .status-pill {
+  gap: 5px;
+}
+
+.fish-toolbar__speed {
+  color: color-mix(in srgb, var(--muted) 72%, transparent);
+}
+
+.fish-canvas {
+  display: block;
+  width: 100%;
+  height: 190px;
+  padding: 0;
+  background: #031a24;
+  border: 1px solid color-mix(in srgb, var(--border) 80%, #1891ad);
+  border-radius: 7px;
+  box-shadow:
+    inset 0 1px rgba(255, 255, 255, 0.08),
+    0 3px 10px rgba(0, 0, 0, 0.38);
+  cursor: crosshair;
+  touch-action: pan-y;
+  user-select: none;
+}
+
+.fish-widget--tall .fish-canvas {
+  height: 320px;
+}
+
+.fish-widget__note {
+  margin: 0;
+  padding: 5px 8px;
+  font-size: 0.68rem;
+}
+
+/* Settings -------------------------------------------------------------- */
+.fish-colour-fieldset {
+  min-width: 0;
+  margin: 0;
+  padding: 8px;
+  background: rgba(0, 0, 0, 0.12);
+  border: 1px solid color-mix(in srgb, var(--border) 65%, transparent);
+  border-radius: 6px;
+}
+
+.fish-colour-fieldset legend {
+  padding: 0 4px;
+}
+
+.fish-colour-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(66px, 1fr));
+  gap: 6px;
+}
+
+.fish-colour {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 3px;
+  color: var(--muted);
+  font-size: 0.64rem;
+  text-align: center;
+}
+
+.fish-colour input[type='color'] {
+  width: 100%;
+  height: 22px;
+  padding: 1px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid color-mix(in srgb, var(--border) 80%, transparent);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.fish-colour input[type='color']::-webkit-color-swatch-wrapper {
+  padding: 2px;
+}
+
+.fish-colour input[type='color']::-webkit-color-swatch {
+  border: 0;
+  border-radius: 2px;
+}
+
+.fish-colour input[type='color']:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--accent) 75%, white);
+  outline-offset: 1px;
+}
+
+@media (max-width: 520px) {
+  .fish-canvas {
+    height: 165px;
+  }
+
+  .fish-widget--tall .fish-canvas {
+    height: 260px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fish-canvas {
+    cursor: default;
+  }
+}

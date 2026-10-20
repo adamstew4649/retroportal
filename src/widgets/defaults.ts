@@ -1,5 +1,6 @@
 import { ALL_NEWS_CATEGORIES } from '../config/news';
 import type { RssFeed, WidgetSettingsMap, WidgetType } from '../types';
+import { resolveFishColours } from './Fish/palette';
 
 const DEFAULT_RSS_FEEDS: RssFeed[] = [
   {
@@ -45,6 +46,15 @@ const factories: { [K in WidgetType]: () => WidgetSettingsMap[K] } = {
     },
     unit: 'celsius',
     forecast: true,
+  }),
+  fish: () => ({
+    fishCount: 4,
+    colours: resolveFishColours(undefined, 4),
+    speed: 'normal',
+    water: 'reef',
+    bubbles: true,
+    plants: true,
+    tall: false,
   }),
   news: () => ({
     categories: [...ALL_NEWS_CATEGORIES],
