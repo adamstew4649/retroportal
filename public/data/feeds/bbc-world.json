@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T17:27:53.911Z",
+  "updatedAt": "2026-10-20T17:54:05.826Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,28 +8,20 @@
   },
   "articles": [
     {
+      "id": "feed-fsnwvf",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T17:30:15.000Z",
+      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
+    },
+    {
       "id": "feed-r1he0c",
       "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo",
       "source": "BBC News",
       "publishedAt": "2026-10-20T16:59:06.000Z",
       "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure."
-    },
-    {
-      "id": "feed-x5u2uf",
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T16:11:56.000Z",
-      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence."
-    },
-    {
-      "id": "feed-fsnwvf",
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T16:09:54.000Z",
-      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
     },
     {
       "id": "feed-f06dfz",
@@ -150,6 +142,14 @@
       "source": "BBC News",
       "publishedAt": "2026-10-19T23:30:03.000Z",
       "summary": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?"
+    },
+    {
+      "id": "feed-mdm63r",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-19T23:08:25.000Z",
+      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence."
     }
   ]
 }
