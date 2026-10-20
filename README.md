@@ -2,6 +2,8 @@
 
 A dark-mode, iGoogle-inspired personal homepage for the late-2000s web, rebuilt with React, TypeScript and Vite. It ships as a static GitHub Pages site **and** as a Manifest V3 new-tab extension from the same codebase.
 
+**Live site:** <https://adamstew4649.github.io/retroportal/>
+
 ![RetroPortal desktop](docs/screenshot-desktop.png)
 
 ## Features
