@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T06:18:20.071Z",
+  "updatedAt": "2026-10-20T07:10:52.105Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-ofef18",
+      "title": "Orionid meteor shower to peak in UK skies this week",
+      "link": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T06:31:04.000Z",
+      "summary": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
+    },
     {
       "id": "feed-fsudj9",
       "title": "The British island where red squirrels are thriving",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-18T08:12:24.000Z",
       "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities."
-    },
-    {
-      "id": "feed-eiqocc",
-      "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-17T19:13:21.000Z",
-      "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T06:18:20.074Z",
-  "generatedAt": "2026-10-20T06:18:20.074Z",
+  "updatedAt": "2026-10-20T07:10:52.108Z",
+  "generatedAt": "2026-10-20T07:10:52.108Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 8
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,24 +104,154 @@
   ],
   "articles": [
     {
-      "id": "feed-1hy5o24",
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
+      "id": "feed-61gu96",
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno",
+      "publishedAt": "2026-10-20T07:04:02.000Z",
+      "category": "uk",
+      "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
+    },
+    {
+      "id": "feed-ar4imd",
+      "title": "UK unemployment rate falls in pre-budget boost, but firms keep cutting vacancies – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
+      "publishedAt": "2026-10-20T06:54:43.000Z",
+      "category": "uk",
+      "summary": "Rolling coverage of the latest economic and financial news Another interesting line in today’s jobs report is that the number of workers on company payrolls has risen. Payrolls increased by 13,000 in September, to around 30.3m. The UK is still amidst a jobs dr"
+    },
+    {
+      "id": "feed-1cd5b9f",
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo",
-      "publishedAt": "2026-10-20T06:13:16.000Z",
+      "publishedAt": "2026-10-20T06:50:52.000Z",
       "category": "uk",
       "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
     },
     {
-      "id": "feed-7xh1h",
-      "title": "Helen Haines live updates: Helen Haines loses a leg and surgeons fight to save the other after alleged attack outside electorate office",
+      "id": "feed-y8ymuc",
+      "title": "Job vacancies fall as small firms cut back on recruitment",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o",
+      "publishedAt": "2026-10-20T06:49:02.000Z",
+      "category": "uk",
+      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
+    },
+    {
+      "id": "feed-1js6pev",
+      "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
+      "publishedAt": "2026-10-20T06:47:18.000Z",
+      "category": "world",
+      "summary": "Ukrainian president accuses Washington of ‘denial of reality’ in continuing row with Trump over apparent support for Moscow Ukraine did not receive a warning from the US about an impending Russian missile attack on Sunday evening, Volodymyr Zelenskyy has said,"
+    },
+    {
+      "id": "feed-ee6d0x",
+      "title": "Alberta votes to remain part of Canada",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218",
+      "publishedAt": "2026-10-20T06:41:00.000Z",
+      "category": "world",
+      "summary": "Alberta ‌has voted to remain part of Canada in the province's first-ever referendum on separation."
+    },
+    {
+      "id": "feed-13n8vrq",
+      "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
+      "publishedAt": "2026-10-20T06:35:57.000Z",
+      "category": "world",
+      "summary": "Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary."
+    },
+    {
+      "id": "feed-ofef18",
+      "title": "Orionid meteor shower to peak in UK skies this week",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o",
+      "publishedAt": "2026-10-20T06:31:04.000Z",
+      "category": "science",
+      "summary": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
+    },
+    {
+      "id": "feed-1w64eut",
+      "title": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests",
+      "publishedAt": "2026-10-20T06:30:18.000Z",
+      "category": "uk",
+      "summary": "​After a protest clip went viral, a teenager’s life was torn apart by threats that sent her and her family into hiding. Plus, a book on citizen journalism Before 24 July, a person I will call R was preoccupied with the ordinary routines of teenage life: experi"
+    },
+    {
+      "id": "feed-4wnyu4",
+      "title": "Helen Haines loses a leg and surgeons fight to save the other after alleged attack outside electorate office – as it happened",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "publishedAt": "2026-10-20T06:09:15.000Z",
+      "publishedAt": "2026-10-20T06:30:03.000Z",
+      "category": "world",
+      "summary": "This blog is now closed ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s very clear that this was a deliberate act’, PM says The prime minister, Anthon"
+    },
+    {
+      "id": "feed-1aoxvfp",
+      "title": "Surprise drop in UK unemployment to 4.7%",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
+      "publishedAt": "2026-10-20T06:29:57.000Z",
+      "category": "world",
+      "summary": "ONS data shows rate down from 4.9% but number of job vacancies continues to shrink Business live – news updates Unemployment in the UK fell unexpectedly in the three months to August, to 4.7% from 4.9%. The Office for National Statistics figures, which provide"
+    },
+    {
+      "id": "feed-3089ia",
+      "title": "A young life ‘dominated by gambling’: Victorian coroner delivers stinging findings on death of 22-year-old",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/kyle-hudson-inquest-victorian-coroner-gambling-online-betting-ntwnfb",
+      "publishedAt": "2026-10-20T06:29:05.000Z",
+      "category": "world",
+      "summary": "Online betting was the ‘direct and paramount’ cause behind Kyle Hudson’s decision to take his own life, inquest finds Get our breaking news email , free app or daily news podcast Kyle Hudson was “a young man brimming with promise”, with a loving and supportive"
+    },
+    {
+      "id": "feed-bdij07",
+      "title": "‘Lack of curiosity’ about family’s religious beliefs was ‘missed opportunity’ to save eight-year-old, inquest hears",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/elizabeth-struhs-death-inquest-saints-religious-sect-coroner-evidence-ntwnfb",
+      "publishedAt": "2026-10-20T06:28:57.000Z",
+      "category": "world",
+      "summary": "Coroner says she’s considering adopting recommendations from Victoria’s cults inquiry as investigation into Elizabeth Struh’s death continues Get our breaking news email , free app or daily news podcast The coroner investigating the death of Elizabeth Struhs i"
+    },
+    {
+      "id": "feed-29328b",
+      "title": "Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb",
+      "publishedAt": "2026-10-20T06:27:56.000Z",
+      "category": "world",
+      "summary": "Father of 43-year-old Tarrawingee man who allegedly attacked the independent MP says incident is ‘devastating and unfathomable’ Who is Helen Haines, the MP allegedly attacked in Victoria? Get our new political email , free app or daily news podcast The father "
+    },
+    {
+      "id": "feed-dgcq8z",
+      "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+      "publishedAt": "2026-10-20T06:24:12.000Z",
       "category": "uk",
-      "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleges ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across "
+      "summary": "Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years ‘I don’t want to be known as a hero’: barber who rushed to "
     },
     {
       "id": "feed-1abep49",
@@ -264,6 +394,16 @@
       "summary": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\"."
     },
     {
+      "id": "feed-1wz76j6",
+      "title": "Australian MP loses leg after car 'reversed to hit her a second time'",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/australian-mp-loses-leg-after-car-reversed-to-hit-her-a-second-time-13601198",
+      "publishedAt": "2026-10-20T05:36:00.000Z",
+      "category": "world",
+      "summary": "An Australian MP has had a leg amputated after a man allegedly drove into her and reversed to hit her a second time."
+    },
+    {
       "id": "feed-1w0nnw5",
       "title": "NHS trust prosecuted over children's sepsis deaths",
       "source": "BBC News",
@@ -292,16 +432,6 @@
       "publishedAt": "2026-10-20T05:20:16.000Z",
       "category": "uk",
       "summary": "In an eye-opening documentary, she meets long-term ketamine users. Plus: never-before-seen clips from Only Fools and Horses. Here’s what to watch this evening 9pm, BBC Three To be clear, Stacey Dooley says she has never taken ketamine. But it is one of the mos"
-    },
-    {
-      "id": "feed-se7ls0",
-      "title": "What the Helen Haines tragedy means for Australian democracy – podcast",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/audio/2026/oct/20/what-the-helen-haines-tragedy-means-for-australian-democracy-full-story-podcast",
-      "publishedAt": "2026-10-20T05:18:57.000Z",
-      "category": "uk",
-      "summary": "Helen Haines, the independent federal MP for the Victorian seat of Indi, is in a critical condition and has lost a leg after an alleged attack outside her electorate office in Wangaratta on Monday afternoon. On Tuesday the alleged attacker and driver of the ca"
     },
     {
       "id": "feed-1nfmt3m",
@@ -334,6 +464,16 @@
       "summary": "Critics said images of detained former leader were a stunt by the military to end country’s diplomatic isolation Myanmar has delivered presents from Britain’s ​King Charles to Aung San Suu Kyi , releasing rare photos of the imprisoned former leader in what cri"
     },
     {
+      "id": "feed-n8hxjv",
+      "title": "Rantzen felt 'deprived of choice' over her own death",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cky93njxlwjjo",
+      "publishedAt": "2026-10-20T05:01:51.000Z",
+      "category": "uk",
+      "summary": "A note written by Dame Esther Rantzen is released by her family following a private funeral."
+    },
+    {
       "id": "feed-cfzf22",
       "title": "How is the US economy really doing under President Trump?",
       "source": "BBC News",
@@ -360,7 +500,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/stage/2026/oct/20/royal-exchange-theatre-boss-selina-cartmell-new-plays-censorship-row",
       "publishedAt": "2026-10-20T05:00:17.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Selina Cartmell announces season including Stockport-set version of Phaedra myth by Simon Stephens A theatre boss has promised to channel the “pioneering spirit of Manchester” and be “brave and fearless” as she unveiled a new season of work, two years after a "
     },
     {
@@ -420,18 +560,8 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/surprise-dip-in-jobless-rate-supports-interest-rate-hike-13601180",
       "publishedAt": "2026-10-20T04:31:00.000Z",
-      "category": "business",
+      "category": "uk",
       "summary": "The UK's unemployment rate has fallen to 4.7%, in a set of official figures that will support the case for a Bank of England interest rate hike next month."
-    },
-    {
-      "id": "feed-lpkptx",
-      "title": "Mother of alleged Alan Jones victim ‘absolutely trusted’ the radio host, court told",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/alan-jones-alleged-victim-mother-trusted-radio-host-ntwnfb",
-      "publishedAt": "2026-10-20T04:16:22.000Z",
-      "category": "world",
-      "summary": "Witness breaks down in tears, tells court ‘I was scared’ after son declined to report alleged kissing and touching by broadcaster Listen to the podcast Alan Jones on Trial Sign up for Guardian Australia’s free weekly media newsletter here The mother of the you"
     },
     {
       "id": "feed-12zkwau",
@@ -460,7 +590,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
       "publishedAt": "2026-10-20T04:00:15.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom"
     },
     {
@@ -481,7 +611,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
       "publishedAt": "2026-10-20T02:54:05.000Z",
       "category": "world",
-      "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats."
+      "summary": "In the wake of the apparent attack on Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats."
     },
     {
       "id": "feed-sfykdx",
@@ -544,36 +674,6 @@
       "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest."
     },
     {
-      "id": "feed-1gpxapd",
-      "title": "Kumanjayi Little Baby: damning report finds ‘heartbreaking’ child protection failures before five-year-old’s death",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/kumanjayi-little-baby-damning-report-finds-heartbreaking-child-protection-failures-before-five-year-olds-death-ntwnfb",
-      "publishedAt": "2026-10-20T01:50:49.000Z",
-      "category": "world",
-      "summary": "Northern Territory government announced sweeping reforms of child protection sector in May, just days after the Warlpiri girl was found dead • Warning: This article contains images of and references to Indigenous Australians who have died Get our breaking news"
-    },
-    {
-      "id": "feed-1bllpoh",
-      "title": "Helen Haines loses leg after car allegedly did U-turn and struck her twice in Wangaratta",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
-      "publishedAt": "2026-10-20T01:50:34.000Z",
-      "category": "world",
-      "summary": "Independent MP is in critical yet stable condition, as police interview alleged attacker in Wangaratta incident Follow our Helen Haines live blog for latest updates Who is Helen Haines, the MP allegedly attacked in Victoria? Get our new political email , free "
-    },
-    {
-      "id": "feed-1d4hj39",
-      "title": "‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb",
-      "publishedAt": "2026-10-20T01:49:55.000Z",
-      "category": "world",
-      "summary": "Ricky Jefferies says he had just finished cutting hair when he grabbed and held the driver who allegedly deliberately struck the Indi MP Follow our Helen Haines live blog for latest updates Who is Helen Haines, the MP allegedly attacked in Victoria? Get our ne"
-    },
-    {
       "id": "feed-r9oo5",
       "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
       "source": "The Guardian",
@@ -622,16 +722,6 @@
       "publishedAt": "2026-10-19T23:21:38.000Z",
       "category": "uk",
       "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change."
-    },
-    {
-      "id": "feed-1gtnehq",
-      "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
-      "publishedAt": "2026-10-19T23:17:12.000Z",
-      "category": "world",
-      "summary": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completion Colorado officials have tracked herds of elk, bears, pronghorn and even northern leopard frogs ambling across its new wildlife overpass. Acc"
     },
     {
       "id": "feed-pyxz4s",
@@ -684,16 +774,6 @@
       "summary": "The BBC hears from people who think dating events are better value for money than dating apps."
     },
     {
-      "id": "feed-sfn9n2",
-      "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
-      "publishedAt": "2026-10-19T22:34:43.000Z",
-      "category": "world",
-      "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk o"
-    },
-    {
       "id": "feed-kyi63v",
       "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
       "source": "The Guardian",
@@ -722,26 +802,6 @@
       "publishedAt": "2026-10-19T21:30:07.000Z",
       "category": "business",
       "summary": "Drivers to get five minutes to decide whether to park and 10 minutes to leave after their session ends Drivers will get a guaranteed five minutes to decide whether to park and 10 minutes to leave after their parking session ends before they face a fine under n"
-    },
-    {
-      "id": "feed-61gu96",
-      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno",
-      "publishedAt": "2026-10-19T21:30:06.000Z",
-      "category": "uk",
-      "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
-    },
-    {
-      "id": "feed-1dhjve5",
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo",
-      "publishedAt": "2026-10-19T21:14:53.000Z",
-      "category": "world",
-      "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots."
     },
     {
       "id": "feed-1bya32d",
@@ -874,16 +934,6 @@
       "summary": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition."
     },
     {
-      "id": "feed-rgav70",
-      "title": "Troubles legacy bill is not an amnesty for soldiers - NI secretary",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o",
-      "publishedAt": "2026-10-19T18:05:14.000Z",
-      "category": "uk",
-      "summary": "Amendments to the bill are being debated by MPs, as the long-awaited legislation returns to the House of Commons."
-    },
-    {
       "id": "feed-1rpytxp",
       "title": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
       "source": "The Guardian",
@@ -902,16 +952,6 @@
       "publishedAt": "2026-10-19T17:31:00.000Z",
       "category": "uk",
       "summary": "A pack of buyout firms will this week submit initial offers for Flora Food Group, the spreads giant behind brands including I Can't Believe It's Not Butter."
-    },
-    {
-      "id": "feed-1ukw4ye",
-      "title": "Trial hears Robinson 'intimidated' Daily Mail reporters",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cry83jz19v26o",
-      "publishedAt": "2026-10-19T17:24:27.000Z",
-      "category": "uk",
-      "summary": "The activist is accused of \"bully-boy tactics\" and denies harassment causing fear of violence."
     },
     {
       "id": "feed-1swo4r3",
@@ -942,16 +982,6 @@
       "publishedAt": "2026-10-19T16:31:00.000Z",
       "category": "business",
       "summary": "Former BBC presenter says programme starring Martin Clunes gave a misleading and unfair account of his downfall Britain’s media regulator is investigating a complaint from the former BBC news presenter Huw Edwards about a Channel 5 drama depicting his downfall"
-    },
-    {
-      "id": "feed-2aro4g",
-      "title": "Schools 'explosive device' email a hoax, say police",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m4pvdzzj0o",
-      "publishedAt": "2026-10-19T16:28:44.000Z",
-      "category": "uk",
-      "summary": "Assistant Chief Constable Ryan Henderson said police consider the risk to the public \"as low\"."
     },
     {
       "id": "feed-6n2h5y",
@@ -1064,16 +1094,6 @@
       "summary": "Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informed Get our breaking news email , free app or daily news podcast Employers are increasingly using technology, f"
     },
     {
-      "id": "feed-1hrfzkk",
-      "title": "The Canary news website announces closure after ‘vicious campaign against us’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/media/2026/oct/19/the-canary-leftwing-news-website-closure",
-      "publishedAt": "2026-10-19T13:52:00.000Z",
-      "category": "business",
-      "summary": "Leftwing outlet said it had faced ‘multiple attacks’ and ‘malicious lies’ which made its situation unsustainable The leftwing news site the Canary has announced that it is closing indefinitely. Earlier this year the media outlet was blocked from accessing fund"
-    },
-    {
       "id": "feed-3e1s6v",
       "title": "UN cuts food aid to half a million Gazans over funding shortages",
       "source": "Sky News",
@@ -1174,16 +1194,6 @@
       "summary": "After Houthis escalated their attacks on Saudi Arabia, the US turned down calls from MBS for help For years, Saudi Arabia’s crown prince, Mohammed bin Salman, cultivated a close relationship with Donald Trump and his son-in-law and former top adviser, Jared Ku"
     },
     {
-      "id": "feed-h5oz1c",
-      "title": "Four Canadian soldiers killed after grass fire spread 'a kilometre in 36 seconds'",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/four-canadian-soldiers-killed-after-grass-fire-spread-a-kilometre-in-36-seconds-13600915",
-      "publishedAt": "2026-10-19T10:24:00.000Z",
-      "category": "world",
-      "summary": "The four Canadian soldiers who died during a training exercise at the weekend did so when a grass fire spread \"a kilometre in 36 seconds\", officials said."
-    },
-    {
       "id": "feed-1gyaj1l",
       "title": "Man admits Huntingdon train stabbings - but still faces trial on attempted murder charges",
       "source": "Sky News",
@@ -1202,26 +1212,6 @@
       "publishedAt": "2026-10-19T10:00:05.000Z",
       "category": "technology",
       "summary": "Exclusive: Using test accounts acting as 13-year-olds, Tech Transparency Project downloaded 135 apps with features to generate nonconsensual nude imagery In December 2025, Morgan Dorfman received distressing news: a student at her daughter’s Pennsylvania high "
-    },
-    {
-      "id": "feed-9w8zw0",
-      "title": "We must tax the wealth of billionaires, not just income. California can lead the way | Ro Khanna",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california",
-      "publishedAt": "2026-10-19T10:00:05.000Z",
-      "category": "business",
-      "summary": "Will California stand with the working class or the oligarchs in the vote this November? The Democratic party has a choice to make. Are we going to be New Deal Democrats or corporate Democrats? Are we standing with the working class or the tech oligarchs? Prop"
-    },
-    {
-      "id": "feed-hct3j7",
-      "title": "Tourists are avoiding York, my home town – but I know how to get them back",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/tourists-york",
-      "publishedAt": "2026-10-19T10:00:05.000Z",
-      "category": "business",
-      "summary": "Are they put off by the hen parties, the tea rooms or the £5-an-hour parking? No matter. It’s time for my bold new approach ... York may be falling out of fashion with tourists. The BBC reports January-to-June visitor numbers to my home town fell 8% compared w"
     },
     {
       "id": "feed-1p27dhq",
@@ -1272,16 +1262,6 @@
       "publishedAt": "2026-10-19T09:38:25.000Z",
       "category": "technology",
       "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing."
-    },
-    {
-      "id": "feed-2iekhp",
-      "title": "China’s economy grows faster than forecast after AI boom boosts exports",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
-      "publishedAt": "2026-10-19T09:27:04.000Z",
-      "category": "business",
-      "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s "
     },
     {
       "id": "feed-viv41a",
@@ -1352,16 +1332,6 @@
       "publishedAt": "2026-10-19T05:55:20.000Z",
       "category": "technology",
       "summary": "I’d become obsessed with appealing to my invisible audience. But since I ditched the app a year ago, my quieter moments have taken on brilliant new meaning I first downloaded Instagram when I was 17 and became hooked on it the way most people fall in love: slo"
-    },
-    {
-      "id": "feed-3lpmw6",
-      "title": "Arrests over Israeli settler attacks on US photojournalist and European diplomats in West Bank",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/arrests-over-israeli-settler-attacks-on-us-photojournalist-and-european-diplomats-in-west-bank-13600842",
-      "publishedAt": "2026-10-19T05:51:00.000Z",
-      "category": "world",
-      "summary": "Ten suspects have been arrested in connection with recent violence in the West Bank including attacks on an ​American ⁠photojournalist and European ⁠diplomats, Israeli police have said."
     },
     {
       "id": "feed-l7kon9",
@@ -1572,16 +1542,6 @@
       "publishedAt": "2026-10-17T20:24:32.000Z",
       "category": "technology",
       "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney."
-    },
-    {
-      "id": "feed-eiqocc",
-      "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo",
-      "publishedAt": "2026-10-17T19:13:21.000Z",
-      "category": "science",
-      "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state."
     },
     {
       "id": "feed-1ecaj7c",
@@ -1902,6 +1862,36 @@
       "publishedAt": "2026-10-12T16:00:00.000Z",
       "category": "science",
       "summary": "The solutions to today’s puzzles Earlier today I set you these six puzzles. Here they are again with solutions. The round table Continue reading..."
+    },
+    {
+      "id": "feed-1i7t8mw",
+      "title": "As a scientist, here's what worries me about the suspected Russian plague victim | Devi Sridhar",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic",
+      "publishedAt": "2026-10-12T14:12:58.000Z",
+      "category": "science",
+      "summary": "Russia’s silence over the death of a lab worker underlines that pandemic preparedness amounts to nothing if information on threats is withheld In pandemic preparedness work , scientists like to focus on the technical challenges: identifying pathogens, diagnosi"
+    },
+    {
+      "id": "feed-aihyai",
+      "title": "Tech Now",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "category": "technology",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
+    },
+    {
+      "id": "feed-c0d85p",
+      "title": "The little known 'income' rule to avoid inheritance tax | Money newsletter",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142",
+      "publishedAt": "2025-05-13T12:06:00.000Z",
+      "category": "business",
+      "summary": "More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week."
     }
   ]
 }

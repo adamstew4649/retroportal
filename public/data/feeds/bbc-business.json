@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T06:18:20.071Z",
+  "updatedAt": "2026-10-20T07:10:52.104Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
-      "id": "feed-1hy5o24",
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
+      "id": "feed-61gu96",
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T07:04:02.000Z",
+      "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
+    },
+    {
+      "id": "feed-1cd5b9f",
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo",
       "source": "BBC News",
-      "publishedAt": "2026-10-20T06:13:16.000Z",
+      "publishedAt": "2026-10-20T06:50:52.000Z",
       "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
+    },
+    {
+      "id": "feed-y8ymuc",
+      "title": "Job vacancies fall as small firms cut back on recruitment",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T06:49:02.000Z",
+      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
     },
     {
       "id": "feed-1nfmt3m",
@@ -46,14 +62,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-19T23:00:21.000Z",
       "summary": "The BBC hears from people who think dating events are better value for money than dating apps."
-    },
-    {
-      "id": "feed-61gu96",
-      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T21:30:06.000Z",
-      "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
     },
     {
       "id": "feed-1bya32d",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-19T09:01:40.000Z",
       "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
-    },
-    {
-      "id": "feed-t57ie4",
-      "title": "China's growth accelerates as AI boom helps boost exports",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T06:08:02.000Z",
-      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
     }
   ]
 }
