@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T17:54:05.826Z",
+  "updatedAt": "2026-10-20T18:18:02.659Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1yn7vyz",
+      "title": "Google resolves cloud outage affecting UK banks and websites",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T18:03:19.000Z",
+      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers."
+    },
+    {
+      "id": "feed-g9oarz",
+      "title": "UK government to make Jackdaw gas field announcement",
+      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T17:33:42.000Z",
+      "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
+    },
     {
       "id": "feed-54yyog",
       "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-19T15:44:53.000Z",
       "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust."
-    },
-    {
-      "id": "feed-2uyrgf",
-      "title": "Home sellers cut asking prices on 3,000 properties a day",
-      "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T12:54:03.000Z",
-      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows."
-    },
-    {
-      "id": "feed-2uyrgf",
-      "title": "Home sellers cut asking prices on 3,000 properties a day",
-      "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T12:54:03.000Z",
-      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows."
     }
   ]
 }
