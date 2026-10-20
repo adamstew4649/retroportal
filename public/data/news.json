@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T10:55:16.063Z",
-  "generatedAt": "2026-10-20T10:55:16.063Z",
+  "updatedAt": "2026-10-20T11:17:55.774Z",
+  "generatedAt": "2026-10-20T11:17:55.774Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "id": "bbc-world",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "sky-technology",
@@ -104,13 +104,103 @@
   ],
   "articles": [
     {
+      "id": "feed-n2hwp0",
+      "title": "Google Cloud outage: Revolut suffers service disruption as bank customers report problems – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
+      "publishedAt": "2026-10-20T11:11:40.000Z",
+      "category": "business",
+      "summary": "Rolling coverage of the latest economic and financial news, as Google suffers a a major Cloud outage in its London region The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against th"
+    },
+    {
+      "id": "feed-16r3q8d",
+      "title": "South Africa v Australia: second men’s cricket Test, day three – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates",
+      "publishedAt": "2026-10-20T11:10:33.000Z",
+      "category": "uk",
+      "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 47th over: South Africa 106-5 (Bavuma 42, Mulder 10) Bavuma looks intent on settling in. Cummins gives him a couple of bouncers, but he’s very happy to get out o"
+    },
+    {
+      "id": "feed-qpmwav",
+      "title": "Pakistan v England: men’s tri-series cricket ODI – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live",
+      "publishedAt": "2026-10-20T11:08:37.000Z",
+      "category": "uk",
+      "summary": "Over-by-over updates from Rawalpindi (9am BST) Brook relishing responsibility | Get in touch! Mail Tim 12th over: Pakistan 51-2 (Babar Azam 29, Saad Baig 11) Atkinson gets a breather after a solid opening spell (5-0-22-1). On comes Jamie Overton, the Liam Plun"
+    },
+    {
+      "id": "feed-10j9z2t",
+      "title": "‘Unguarded moments’: a lost archive of street photography – in pictures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/20/archive-john-baer-street-photography-1940s",
+      "publishedAt": "2026-10-20T11:00:36.000Z",
+      "category": "uk",
+      "summary": "Little-known photographer John Baer captured everyday life before putting down his camera in 1954. His son discovered the images decades later after his death, and John Baer: The Extraordinary Ordinary / A Memoir in Photographs, 1945–1954 marks their first pub"
+    },
+    {
+      "id": "feed-vhdwir",
+      "title": "UK government failures led to Covid spreading ‘like wildfire’ in care homes, inquiry finds",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-government-failures-led-to-covid-spreading-like-wildfire-in-care-homes-inquiry-finds",
+      "publishedAt": "2026-10-20T11:00:35.000Z",
+      "category": "uk",
+      "summary": "Inquiry chair says failure to isolate people discharged from hospital into care was ‘significant oversight’ The care sector was “an afterthought” during the Covid-19 pandemic, and government failures caused the virus to spread “like wildfire” among vulnerable "
+    },
+    {
+      "id": "feed-1ahf6yo",
+      "title": "‘Big business’: little-known court system in Louisiana churns out thousands of evictions – and millions in fees for judges",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-peace-courts-evictions-fees",
+      "publishedAt": "2026-10-20T11:00:34.000Z",
+      "category": "uk",
+      "summary": "Guardian investigation: Louisiana’s justice of the peace court system may violate tenants’ constitutional rights as eviction fees boost judges’ incomes Continue reading..."
+    },
+    {
+      "id": "feed-1reorqv",
+      "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+      "publishedAt": "2026-10-20T11:00:05.000Z",
+      "category": "uk",
+      "summary": "Government planning tougher security measures after protests over high cost of living descend into violence Why are people protesting across Europe? Italy’s government is sending 500 soldiers to Milan as it vowed a “firm response from the state” after protests"
+    },
+    {
+      "id": "feed-1uq2250",
+      "title": "Three children injured after school bus roof ripped off in crash",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o",
+      "publishedAt": "2026-10-20T10:55:49.000Z",
+      "category": "uk",
+      "summary": "Three children receive hospital treatment after a bus on its way to Ysgol Gyfun Gwent Is Coed crashes."
+    },
+    {
+      "id": "feed-1pa7cra",
+      "title": "Badenoch says Tories would prioritise cutting taxes for businesses over individuals – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+      "publishedAt": "2026-10-20T10:53:29.000Z",
+      "category": "world",
+      "summary": "Conservative leader also called for benefit spending to be cut to fund rise in defence budget Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, en"
+    },
+    {
       "id": "feed-mycgaj",
       "title": "Thames Water creditors secure former Labour minister to drive rescue deal",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal",
       "publishedAt": "2026-10-20T10:49:23.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Stricken UK water supplier lines up John Hutton as independent chair designate if takeover goes ahead The group of Thames Water creditors pursuing a £10bn rescue deal for Britain’s largest water supplier has lined up a former senior Labour minister to chair th"
     },
     {
@@ -124,14 +214,24 @@
       "summary": "Fraser Kilpatrick is accused of killing Shona Stevens close to her home in North Ayrshire 32 years ago."
     },
     {
-      "id": "feed-qpmwav",
-      "title": "Pakistan v England: men’s tri-series cricket ODI – live",
+      "id": "feed-1wr191b",
+      "title": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live",
-      "publishedAt": "2026-10-20T10:40:22.000Z",
+      "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
+      "publishedAt": "2026-10-20T10:43:00.000Z",
       "category": "uk",
-      "summary": "Over-by-over updates from Rawalpindi (9am BST) Brook relishing responsibility | Get in touch! Mail Tim 12th over: Pakistan 51-2 (Babar Azam 29, Saad Baig 11) Atkinson gets a breather after a solid opening spell (5-0-22-1). On comes Jamie Overton, the Liam Plun"
+      "summary": "Ten Hag says Ronaldo did not complete post-match run Former manager claims club broke promises made to him Erik ten Hag has claimed Cristiano Ronaldo “let the team down” during their time together at Manchester United. Ten Hag has also alleged that promises ma"
+    },
+    {
+      "id": "feed-1c9wcpf",
+      "title": "The Alonetimes review – frenetic, funny and exhilarating music theatre",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/oct/20/the-alonetimes-review-jennifer-walshe-philip-venables",
+      "publishedAt": "2026-10-20T10:40:31.000Z",
+      "category": "uk",
+      "summary": "Sohmen Concert Hall, Schwarzman Centre, Oxford Six performers navigate a disjointed world of online slang, loneliness and absurdity in the UK premiere of Jennifer Walshe and Philip Venables’ thrillingly original collaboration As we found our seats, a druidic f"
     },
     {
       "id": "feed-13ve58d",
@@ -154,16 +254,6 @@
       "summary": "Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years ‘I don’t want to be known as a hero’: barber who rushed to "
     },
     {
-      "id": "feed-1uq2250",
-      "title": "Three children injured after school bus roof ripped off in crash",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o",
-      "publishedAt": "2026-10-20T10:37:21.000Z",
-      "category": "uk",
-      "summary": "Three children receive hospital treatment after a bus on its way to Ysgol Gyfun Gwent Is Coed crashes."
-    },
-    {
       "id": "feed-29328b",
       "title": "Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years",
       "source": "The Guardian",
@@ -174,33 +264,13 @@
       "summary": "Father of 43-year-old Tarrawingee man who allegedly attacked the independent MP says incident is ‘devastating and unfathomable’ Who is Helen Haines, the MP allegedly attacked in Victoria? Get our new political email , free app or daily news podcast The father "
     },
     {
-      "id": "feed-n2hwp0",
-      "title": "Google Cloud outage: Revolut suffers service disruption as bank customers report problems – business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-      "publishedAt": "2026-10-20T10:32:15.000Z",
-      "category": "technology",
-      "summary": "Rolling coverage of the latest economic and financial news, as Google suffers a a major Cloud outage in its London region this morning The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a ce"
-    },
-    {
-      "id": "feed-1pa7cra",
-      "title": "Badenoch says Tories would prioritise cutting taxes for businesses over individuals – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-      "publishedAt": "2026-10-20T10:30:37.000Z",
-      "category": "world",
-      "summary": "Conservative leader also called for benefit spending to be cut to fund rise in defence budget Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, en"
-    },
-    {
-      "id": "feed-13nmiql",
-      "title": "The singles choosing in-person dating events over apps",
+      "id": "feed-16yv2sh",
+      "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo",
       "publishedAt": "2026-10-20T10:28:36.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The BBC hears from people who think dating events are better value for money than dating apps."
     },
     {
@@ -222,16 +292,6 @@
       "publishedAt": "2026-10-20T10:23:23.000Z",
       "category": "uk",
       "summary": "Brazil’s famously outspoken fandoms have near-unanimously rallied behind the leftwing presidential candidate. On the streets of São Paulo, they explain their mission Earlier this month, Brazil’s president Luiz Inácio Lula da Silva led a rally in São Paulo, as "
-    },
-    {
-      "id": "feed-16r3q8d",
-      "title": "South Africa v Australia: second men’s cricket Test, day three – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates",
-      "publishedAt": "2026-10-20T10:09:18.000Z",
-      "category": "uk",
-      "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 47th over: South Africa 106-5 (Bavuma 42, Mulder 10) Bavuma looks intent on settling in. Cummins gives him a couple of bouncers, but he’s very happy to get out o"
     },
     {
       "id": "feed-1cd5b9f",
@@ -272,6 +332,16 @@
       "publishedAt": "2026-10-20T10:04:52.000Z",
       "category": "uk",
       "summary": "Young people in France, India and Albania and other parts of the world are protesting and we want to hear from them about the reasons why they’re taking to the streets Young people in different parts of the world are protesting and we want to hear from them ab"
+    },
+    {
+      "id": "feed-1cw0h0z",
+      "title": "The Breakdown | ‘Freer’ Red Roses resolve to come back stronger after Canada end epic run",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/20/england-women-red-roses-canada-end-epic-winning-run-rugby-union",
+      "publishedAt": "2026-10-20T10:00:57.000Z",
+      "category": "uk",
+      "summary": "A first defeat in four years could be liberating for England after so long fighting to preserve their historic unbeaten run England’s glittering unbeaten era is over. Canada defeated the Red Roses to deal them a first defeat in four years after 40 wins and one"
     },
     {
       "id": "feed-6cpoum",
@@ -334,16 +404,6 @@
       "summary": "Failed rains and a dire El Niño threaten the waterway that sustains the country, with farmers selling cattle to survive The cattle should be ambling, grazing contentedly, through Robert Delgado’s fields. Instead, the animals slump in the shade, tongues lolling"
     },
     {
-      "id": "feed-1p4u99f",
-      "title": "After the violence and chaos in France, there’s only one beneficiary: Marine Le Pen | Paul Taylor",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/france-riots-aftermath-one-beneficiary-marine-le-pen",
-      "publishedAt": "2026-10-20T09:59:59.000Z",
-      "category": "uk",
-      "summary": "The far-right leader’s promise to restore order will appeal to many ahead of next year’s presidential elections – the stakes are suddenly much higher There is only one clear winner so far from France’s chaos: Marine Le Pen. The violence and rioting that engulf"
-    },
-    {
       "id": "feed-xf070a",
       "title": "Watch: Pigs on the loose bring A-road to a standstill",
       "source": "BBC News",
@@ -360,7 +420,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
       "publishedAt": "2026-10-20T09:53:27.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Low-cost broadband provider Jio Platforms aims for £81bn valuation when it floats on the stock market on Wednesday Business live – latest updates India’s second-richest man, Mukesh Ambani, is launching what could be the country’s biggest-ever initial public of"
     },
     {
@@ -370,7 +430,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
       "publishedAt": "2026-10-20T09:45:39.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "UK banking company insists customers’ funds and data are safe despite problems with sign-in, card payments, transfers and withdrawals Business live – latest updates Revolut customers have been unable to access their money after the banking app went down, affec"
     },
     {
@@ -390,7 +450,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/money/2026/oct/20/are-you-a-first-time-buyer-in-england-would-the-governments-your-first-home-scheme-help-you",
       "publishedAt": "2026-10-20T09:42:47.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "We would like to speak to people in England who are planning to buy a new-build flat or house as their first home Last month, the government announced plans for Your First Home (YFH) , a scheme which aims to give a helping hand to first-time buyers who do not "
     },
     {
@@ -410,7 +470,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
       "publishedAt": "2026-10-20T09:18:58.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Victoria police arrested the 43-year-old Tarrawingee man on Monday afternoon after the incident in Wangaratta Who is Helen Haines, the MP allegedly attacked in Victoria? Brendan Nugent’s family say Haines has been their friend for more than 20 years Get our ne"
     },
     {
@@ -430,28 +490,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
       "publishedAt": "2026-10-20T09:02:43.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and suppor"
-    },
-    {
-      "id": "feed-14ouepc",
-      "title": "I thought my phone couldn’t be any worse for my brain – then I started watching microdramas on it | Imogen West-Knights",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/phone-brain-started-watching-microdramas",
-      "publishedAt": "2026-10-20T09:01:57.000Z",
-      "category": "uk",
-      "summary": "I have long known that internet detritus is bad for me. But with these dramas told in episodes under two minutes, I swear I can actually feel the damage being done Seven or eight years ago, a new kind of televisual entertainment was born in China. Microdramas:"
-    },
-    {
-      "id": "feed-h9ehg7",
-      "title": "Excessive wealth, extreme emissions – and ecocide: what I learned at Europe’s big superyacht show",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/2026/oct/20/excessive-wealth-extreme-emissions-and-ecocide-what-i-learned-at-europes-big-superyacht-show",
-      "publishedAt": "2026-10-20T09:00:22.000Z",
-      "category": "uk",
-      "summary": "These yachts are highly popular with the ‘super-bourgeoisie’ – and getting bigger. Can anything be done to stop them destroying our seas? Who knew? Apparently everyone did, apart from me: you don’t wear shoes on a superyacht. Now, about to step on to my first "
     },
     {
       "id": "feed-6mauxg",
@@ -611,7 +651,7 @@
       "url": "https://www.theguardian.com/artanddesign/2026/oct/20/ghent-design-museum-co2-absorbing-recycling",
       "publishedAt": "2026-10-20T07:00:19.000Z",
       "category": "business",
-      "summary": "Inspired by a gothic cathedral partly built using human bones, this gleaming monument to recycling boasts 82,000 bricks derived from construction waste – each made by the public during a two-day brick-making festival Museums often try to reflect the world arou"
+      "summary": "Inspired by a gothic cathedral partly built using human bones, this gleaming monument to recycling boasts 82,000 bricks derived from construction waste – following a two-day brick-making festival Museums often try to reflect the world around them, but rarely a"
     },
     {
       "id": "feed-1js6pev",
@@ -662,16 +702,6 @@
       "publishedAt": "2026-10-20T06:30:03.000Z",
       "category": "world",
       "summary": "This blog is now closed ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s very clear that this was a deliberate act’, PM says The prime minister, Anthon"
-    },
-    {
-      "id": "feed-3089ia",
-      "title": "A young life ‘dominated by gambling’: Victorian coroner delivers stinging findings on death of 22-year-old",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/kyle-hudson-inquest-victorian-coroner-gambling-online-betting-ntwnfb",
-      "publishedAt": "2026-10-20T06:29:05.000Z",
-      "category": "world",
-      "summary": "Online betting was the ‘direct and paramount’ cause behind Kyle Hudson’s decision to take his own life, inquest finds Get our breaking news email , free app or daily news podcast Kyle Hudson was “a young man brimming with promise”, with a loving and supportive"
     },
     {
       "id": "feed-1jgegaj",
@@ -762,6 +792,16 @@
       "publishedAt": "2026-10-20T05:13:05.000Z",
       "category": "uk",
       "summary": "For the last two years Megan has been in agony and unable to stand straight because of her ketamine use."
+    },
+    {
+      "id": "feed-1lrvzls",
+      "title": "My son has disappeared off the face of the earth fighting for Russia",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c60e325g7p87o",
+      "publishedAt": "2026-10-20T05:10:37.000Z",
+      "category": "uk",
+      "summary": "Nathan Stobbart’s family say he faced deportation from Russia if he did not join the country's army."
     },
     {
       "id": "feed-n8hxjv",
@@ -1044,16 +1084,6 @@
       "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
     },
     {
-      "id": "feed-11sotec",
-      "title": "Burnham urges officials to come up with more radical options for Thames Water",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
-      "publishedAt": "2026-10-19T18:37:14.000Z",
-      "category": "business",
-      "summary": "Exclusive: Utility seen as ‘litmus test’ of PM’s promise to bring ‘essentials of life’ under public control Andy Burnham has told officials to rip up their plans for how to fix Thames Water and present him with more radical options for what to do with the stri"
-    },
-    {
       "id": "feed-1tjqo2f",
       "title": "Ex-OpenAI worker accused of bugging offices planned to 'flee' to Saudi Arabia, prosecutors say",
       "source": "Sky News",
@@ -1114,6 +1144,16 @@
       "summary": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\"."
     },
     {
+      "id": "feed-6n2h5y",
+      "title": "Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
+      "publishedAt": "2026-10-19T16:21:06.000Z",
+      "category": "business",
+      "summary": "American warship sank in 1944 with approximately 1,400 tonnes of munitions onboard A sunken US wartime ship in the Thames estuary holding enough unexploded bombs to devastate a Kent coastal town and send a tidal wave through London has been made slightly safer"
+    },
+    {
       "id": "feed-1suy1jn",
       "title": "‘Concerning issues’ found at GB power grid by inquiry into cover-up claims",
       "source": "The Guardian",
@@ -1142,16 +1182,6 @@
       "publishedAt": "2026-10-19T15:44:53.000Z",
       "category": "business",
       "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust."
-    },
-    {
-      "id": "feed-1s65eow",
-      "title": "France hit by debt sell-off as violent protests unnerve investors",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
-      "publishedAt": "2026-10-19T15:23:54.000Z",
-      "category": "business",
-      "summary": "Difference between French and German borrowing costs widens after public buildings burned and shops looted France has been hit by a fresh wave of selling in its bond and stock markets after violent protests over the weekend led to thousands of arrests and left"
     },
     {
       "id": "feed-1s4ixxi",
@@ -1192,16 +1222,6 @@
       "publishedAt": "2026-10-19T14:00:03.000Z",
       "category": "technology",
       "summary": "Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informed Get our breaking news email , free app or daily news podcast Employers are increasingly using technology, f"
-    },
-    {
-      "id": "feed-3e1s6v",
-      "title": "UN cuts food aid to half a million Gazans over funding shortages",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/un-cuts-food-aid-to-half-a-million-gazans-over-funding-shortages-13600991",
-      "publishedAt": "2026-10-19T13:34:00.000Z",
-      "category": "world",
-      "summary": "The UN World Food Programme (WFP) has said it is being forced to \"drastically reduce\" aid to Gaza because of funding shortages."
     },
     {
       "id": "feed-si4ud8",
@@ -1252,16 +1272,6 @@
       "publishedAt": "2026-10-19T12:51:04.000Z",
       "category": "technology",
       "summary": "The $48bn giveaway comes amid concerns about the tech and as the company prepares for a stock market listing Anthropic has said it will commit 5% of its shares to a fund for the “public good”, as the AI developer behind the Claude chatbot seeks to bolster its "
-    },
-    {
-      "id": "feed-hjg640",
-      "title": "Actor and boxer among mourners of ex-gangster whose life was made into film",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/funeral-of-former-gangster-and-author-whose-story-was-made-into-movie-13600965",
-      "publishedAt": "2026-10-19T12:22:00.000Z",
-      "category": "uk",
-      "summary": "Family and friends paid their respects at the funeral of former Glasgow gangster Paul Ferris."
     },
     {
       "id": "feed-kjtb1e",
