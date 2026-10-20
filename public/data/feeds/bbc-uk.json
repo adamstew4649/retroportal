@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T21:55:10.171Z",
+  "updatedAt": "2026-10-20T22:16:32.923Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-u4tlzy",
+      "title": "Royals to visit Aberfan to mark 60 years since disaster",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw1gk5r68o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T21:53:23.000Z",
+      "summary": "King Charles III, Queen Camilla and Prince William will join survivors and bereaved parents."
+    },
     {
       "id": "feed-b32oy6",
       "title": "Man, 26, charged with woman's murder",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T14:35:14.000Z",
       "summary": "Jamie Collins is described as a \"sensitive and caring young man\" after his killer admits murder."
-    },
-    {
-      "id": "feed-y2t5r9",
-      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T13:54:35.000Z",
-      "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
     }
   ]
 }
