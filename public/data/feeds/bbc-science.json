@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T21:18:18.185Z",
+  "updatedAt": "2026-10-20T21:55:10.175Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1js8rs9",
+      "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T21:50:41.000Z",
+      "summary": "Musk says a mega merger would have many benefits to his companies."
+    },
     {
       "id": "feed-1xewfud",
       "title": "Huge fin whale filmed off Welsh coast",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-19T01:57:02.000Z",
       "summary": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents."
-    },
-    {
-      "id": "feed-1beqib7",
-      "title": "Fears for protected bats if glamping pod plans are approved",
-      "link": "https://www.bbc.co.uk/news/articles/c6dxwg50pq8lo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-18T19:22:31.000Z",
-      "summary": "Without a mitigation strategy the effect on the creatures would be \"major\", a survey says."
     }
   ]
 }

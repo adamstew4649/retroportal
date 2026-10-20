@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T21:18:18.185Z",
+  "updatedAt": "2026-10-20T21:55:10.174Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1js8rs9",
+      "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T21:50:41.000Z",
+      "summary": "Musk says a mega merger would have many benefits to his companies."
+    },
     {
       "id": "feed-1tr7i2p",
       "title": "Audit regulator looking into Manchester City accounting",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T05:00:45.000Z",
       "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
-    },
-    {
-      "id": "feed-13or9m1",
-      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T21:12:30.000Z",
-      "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail."
     }
   ]
 }
