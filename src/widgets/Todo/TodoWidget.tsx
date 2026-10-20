@@ -17,7 +17,7 @@ import {
 } from '@dnd-kit/sortable';
 import { CSS } from '@dnd-kit/utilities';
 import { CheckCircle2, Circle, GripVertical, ListChecks, Plus, Trash2 } from 'lucide-react';
-import { usePortal, useWidgetSettings } from '../../state/PortalContext';
+import { usePortal, useWidgetInstance, useWidgetSettings } from '../../state/PortalContext';
 import { createId } from '../../utils/id';
 import type { Task } from '../../types';
 import { toDateKey } from '../../utils/date';
@@ -95,6 +95,7 @@ function TaskRow({ task, onToggle, onDelete, onDueChange }: TaskRowProps) {
 
 export function TodoWidget() {
   const { data, setData } = usePortal();
+  const { id: widgetId } = useWidgetInstance();
   const [settings] = useWidgetSettings('todo');
   const [title, setTitle] = useState('');
   const [due, setDue] = useState('');
@@ -105,7 +106,10 @@ export function TodoWidget() {
     useSensor(KeyboardSensor, { coordinateGetter: sortableKeyboardCoordinates }),
   );
 
-  const tasks = data.tasks;
+  const tasks = useMemo(
+    () => data.tasks.filter((task) => task.widgetId === widgetId),
+    [data.tasks, widgetId],
+  );
   const visible = useMemo(() => {
     if (filter === 'active') return tasks.filter((task) => !task.completed);
     if (filter === 'done') return tasks.filter((task) => task.completed);
@@ -122,6 +126,7 @@ export function TodoWidget() {
       tasks: [
         {
           id: createId('task'),
+          widgetId,
           title: trimmed.slice(0, 200),
           completed: false,
           dueDate: due || undefined,
@@ -240,7 +245,9 @@ export function TodoWidget() {
           onClick={() =>
             setData((current) => ({
               ...current,
-              tasks: current.tasks.filter((task) => !task.completed),
+              tasks: current.tasks.filter(
+                (task) => task.widgetId !== widgetId || !task.completed,
+              ),
             }))
           }
         >

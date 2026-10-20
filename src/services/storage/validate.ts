@@ -6,43 +6,36 @@ import {
   createDefaultSettings,
   defaultWidgetId,
 } from '../../config/defaults';
-import type {
-  AppearanceSettings,
-  BookmarkCategory,
-  CalendarEvent,
-  ColumnCount,
-  NewsArticle,
-  NewsCategory,
-  NewsDataset,
-  Note,
-  PortalData,
-  RssFeed,
-  SearchEngine,
-  Settings,
-  Shortcut,
-  ShortcutCategory,
-  ShortcutIcon,
-  Task,
-  ThemeColours,
-  WidgetInstance,
-  WidgetType,
+import {
+  WIDGET_TYPES,
+  type AppearanceSettings,
+  type BookmarkCategory,
+  type CalendarEvent,
+  type ColumnCount,
+  type NewsArticle,
+  type NewsCategory,
+  type NewsDataset,
+  type Note,
+  type PortalData,
+  type RssFeed,
+  type SearchEngine,
+  type Settings,
+  type Shortcut,
+  type ShortcutCategory,
+  type ShortcutIcon,
+  type Task,
+  type ThemeColours,
+  type WidgetInstance,
+  type WidgetSettingsMap,
+  type WidgetType,
 } from '../../types';
 import { THEME_PRESETS, themeById, BACKGROUND_GRADIENTS } from '../../themes/presets';
 import { createId, clamp, isRecord } from '../../utils/id';
 import { safeHttpUrl, safeHttpUrlWithHttpsFallback, stripControlCharacters } from '../../utils/url';
 import { validateEngineTemplate } from '../../services/search/engines';
+import { createDefaultWidgetSettings } from '../../widgets/defaults';
 
-const WIDGET_TYPES: WidgetType[] = [
-  'clock',
-  'weather',
-  'calendar',
-  'notes',
-  'todo',
-  'rss',
-  'news',
-  'bookmarks',
-  'welcome',
-];
+type AnyWidgetSettings = WidgetSettingsMap[WidgetType];
 
 const SHORTCUT_COLOURS = ['yellow', 'blue', 'green', 'pink', 'plain'] as const;
 const TICKER_SPEEDS = ['slow', 'normal', 'fast'] as const;
@@ -150,88 +143,94 @@ function sanitiseSearchEngine(raw: unknown): SearchEngine | null {
   };
 }
 
-function sanitiseWidgetSettings(raw: unknown, defaults: PortalData['widgetSettings']): PortalData['widgetSettings'] {
+function sanitiseRssFeeds(raw: unknown, defaults: RssFeed[]): RssFeed[] {
+  if (!Array.isArray(raw)) return defaults.map((feed) => ({ ...feed }));
+  return raw
+    .map((feed): RssFeed | null => {
+      if (!isRecord(feed)) return null;
+      const url = safeDataUrlLocal(feed.url);
+      if (!url) return null;
+      return {
+        id: safeId(feed.id, 'feed'),
+        name: str(feed.name, 'Untitled feed', 80),
+        url,
+        bundled: typeof feed.bundled === 'boolean' ? feed.bundled : undefined,
+        sourceUrl: safeHttpUrl(str(feed.sourceUrl ?? '', '', 500)) ?? undefined,
+      } satisfies RssFeed;
+    })
+    .filter((feed): feed is RssFeed => feed !== null)
+    .slice(0, 12);
+}
+
+function sanitiseWidgetSettingsFor(type: WidgetType, raw: unknown): AnyWidgetSettings {
   const value = isRecord(raw) ? raw : {};
-  const base = defaults;
-
-  const clockRaw = isRecord(value.clock) ? value.clock : {};
-  const weatherRaw = isRecord(value.weather) ? value.weather : {};
-  const locationRaw = isRecord(weatherRaw.location) ? weatherRaw.location : {};
-  const calendarRaw = isRecord(value.calendar) ? value.calendar : {};
-  const notesRaw = isRecord(value.notes) ? value.notes : {};
-  const todoRaw = isRecord(value.todo) ? value.todo : {};
-  const rssRaw = isRecord(value.rss) ? value.rss : {};
-  const newsRaw = isRecord(value.news) ? value.news : {};
-  const bookmarksRaw = isRecord(value.bookmarks) ? value.bookmarks : {};
-  const welcomeRaw = isRecord(value.welcome) ? value.welcome : {};
-
-  const defaultClock = base.clock!;
-  const defaultWeather = base.weather!;
-  const defaultCalendar = base.calendar!;
-  const defaultNotes = base.notes!;
-  const defaultTodo = base.todo!;
-  const defaultRss = base.rss!;
-  const defaultNews = base.news!;
-  const defaultBookmarks = base.bookmarks!;
-  const defaultWelcome = base.welcome!;
-
-  const feeds: RssFeed[] = Array.isArray(rssRaw.feeds)
-    ? rssRaw.feeds
-        .map((feed): RssFeed | null => {
-          if (!isRecord(feed)) return null;
-          const url = safeDataUrlLocal(feed.url);
-          if (!url) return null;
-          return {
-            id: safeId(feed.id, 'feed'),
-            name: str(feed.name, 'Untitled feed', 80),
-            url,
-            bundled: typeof feed.bundled === 'boolean' ? feed.bundled : undefined,
-            sourceUrl: safeHttpUrl(str(feed.sourceUrl ?? '', '', 500)) ?? undefined,
-          } satisfies RssFeed;
-        })
-        .filter((feed): feed is RssFeed => feed !== null)
-        .slice(0, 12)
-    : defaultRss.feeds;
-
-  return {
-    clock: {
-      analogue: bool(clockRaw.analogue, defaultClock.analogue),
-      hour12: bool(clockRaw.hour12, defaultClock.hour12),
-      showSeconds: bool(clockRaw.showSeconds, defaultClock.showSeconds),
-      timeZone: str(clockRaw.timeZone, defaultClock.timeZone, 60),
-    },
-    weather: {
-      location: {
-        name: str(locationRaw.name, defaultWeather.location.name, 80),
-        country: str(locationRaw.country, defaultWeather.location.country ?? '', 80) || undefined,
-        latitude: num(locationRaw.latitude, defaultWeather.location.latitude, -90, 90),
-        longitude: num(locationRaw.longitude, defaultWeather.location.longitude, -180, 180),
-      },
-      unit: weatherRaw.unit === 'fahrenheit' ? 'fahrenheit' : 'celsius',
-      forecast: bool(weatherRaw.forecast, defaultWeather.forecast),
-    },
-    calendar: {
-      weekStartsOn: calendarRaw.weekStartsOn === 0 ? 0 : 1,
-    },
-    notes: { tall: bool(notesRaw.tall, defaultNotes.tall) },
-    todo: { showCompleted: bool(todoRaw.showCompleted, defaultTodo.showCompleted) },
-    rss: {
-      feeds,
-      limit: num(rssRaw.limit, defaultRss.limit, 1, 30),
-      tall: bool(rssRaw.tall, defaultRss.tall),
-    },
-    news: {
-      categories: sanitiseCategoryList(newsRaw.categories, defaultNews.categories),
-      sources: sanitiseStringList(newsRaw.sources, 30, 80),
-      limit: num(newsRaw.limit, defaultNews.limit, 1, 30),
-      tall: bool(newsRaw.tall, defaultNews.tall),
-    },
-    bookmarks: { tall: bool(bookmarksRaw.tall, defaultBookmarks.tall) },
-    welcome: {
-      name: str(welcomeRaw.name, defaultWelcome.name, 50),
-      message: str(welcomeRaw.message, defaultWelcome.message, 240),
-    },
-  };
+  switch (type) {
+    case 'clock': {
+      const defaults = createDefaultWidgetSettings('clock');
+      return {
+        analogue: bool(value.analogue, defaults.analogue),
+        hour12: bool(value.hour12, defaults.hour12),
+        showSeconds: bool(value.showSeconds, defaults.showSeconds),
+        timeZone: str(value.timeZone, defaults.timeZone, 60),
+      };
+    }
+    case 'weather': {
+      const defaults = createDefaultWidgetSettings('weather');
+      const location = isRecord(value.location) ? value.location : {};
+      return {
+        location: {
+          name: str(location.name, defaults.location.name, 80),
+          country: str(location.country, defaults.location.country ?? '', 80) || undefined,
+          latitude: num(location.latitude, defaults.location.latitude, -90, 90),
+          longitude: num(location.longitude, defaults.location.longitude, -180, 180),
+        },
+        unit: value.unit === 'fahrenheit' ? 'fahrenheit' : 'celsius',
+        forecast: bool(value.forecast, defaults.forecast),
+      };
+    }
+    case 'calendar': {
+      const defaults = createDefaultWidgetSettings('calendar');
+      return {
+        weekStartsOn: value.weekStartsOn === 0 ? 0 : defaults.weekStartsOn,
+      };
+    }
+    case 'notes': {
+      const defaults = createDefaultWidgetSettings('notes');
+      return { tall: bool(value.tall, defaults.tall) };
+    }
+    case 'todo': {
+      const defaults = createDefaultWidgetSettings('todo');
+      return { showCompleted: bool(value.showCompleted, defaults.showCompleted) };
+    }
+    case 'rss': {
+      const defaults = createDefaultWidgetSettings('rss');
+      return {
+        feeds: sanitiseRssFeeds(value.feeds, defaults.feeds),
+        limit: num(value.limit, defaults.limit, 1, 30),
+        tall: bool(value.tall, defaults.tall),
+      };
+    }
+    case 'news': {
+      const defaults = createDefaultWidgetSettings('news');
+      return {
+        categories: sanitiseCategoryList(value.categories, defaults.categories),
+        sources: sanitiseStringList(value.sources, 30, 80),
+        limit: num(value.limit, defaults.limit, 1, 30),
+        tall: bool(value.tall, defaults.tall),
+      };
+    }
+    case 'bookmarks': {
+      const defaults = createDefaultWidgetSettings('bookmarks');
+      return { tall: bool(value.tall, defaults.tall) };
+    }
+    case 'welcome': {
+      const defaults = createDefaultWidgetSettings('welcome');
+      return {
+        name: str(value.name, defaults.name, 50),
+        message: str(value.message, defaults.message, 240),
+      };
+    }
+  }
 }
 
 /** Relative paths are permitted for bundled feed snapshots. */
@@ -380,71 +379,112 @@ function sanitiseWidgets(raw: unknown): WidgetInstance[] {
   if (!Array.isArray(raw)) return createDefaultPortalData().widgets;
   return uniqueBy(
     raw
-      .map((item) => {
+      .map((item): WidgetInstance | null => {
         if (!isRecord(item)) return null;
         const type = item.type as WidgetType;
         if (!WIDGET_TYPES.includes(type)) return null;
-        return {
+        const title = str(item.title, '', 60).trim();
+        const widget: WidgetInstance = {
           id: safeId(item.id, defaultWidgetId(type)),
           type,
           collapsed: bool(item.collapsed, false),
-        } satisfies WidgetInstance;
+        };
+        if (title) widget.title = title;
+        return widget;
       })
       .filter((item): item is WidgetInstance => item !== null),
     (item) => item.id,
-  ).slice(0, 24);
+  ).slice(0, 64);
 }
 
-function sanitiseNotes(raw: unknown): Note[] {
-  if (!Array.isArray(raw)) return createDefaultPortalData().notes;
+interface WidgetOwnership {
+  byType: Map<WidgetType, string>;
+  byId: Map<string, WidgetType>;
+}
+
+function buildOwnership(widgets: WidgetInstance[]): WidgetOwnership {
+  const byType = new Map<WidgetType, string>();
+  const byId = new Map<string, WidgetType>();
+  for (const widget of widgets) {
+    if (!byType.has(widget.type)) byType.set(widget.type, widget.id);
+    byId.set(widget.id, widget.type);
+  }
+  return { byType, byId };
+}
+
+function ownedWidgetId(
+  raw: unknown,
+  type: WidgetType,
+  ownership: WidgetOwnership,
+): string | undefined {
+  if (typeof raw === 'string' && ownership.byId.get(raw) === type) return raw;
+  return ownership.byType.get(type);
+}
+
+function sanitiseNotes(raw: unknown, ownership: WidgetOwnership): Note[] {
+  if (!Array.isArray(raw)) {
+    const widgetId = ownership.byType.get('notes');
+    return widgetId
+      ? createDefaultPortalData().notes.map((note) => ({ ...note, widgetId }))
+      : [];
+  }
   return uniqueBy(
     raw
-      .map((item) => {
+      .map((item): Note | null => {
         if (!isRecord(item)) return null;
         const title = str(item.title, 'Untitled note', 80);
         const body = str(item.body, '', 50000);
         const colour = (SHORTCUT_COLOURS as readonly string[]).includes(String(item.colour))
           ? (item.colour as Note['colour'])
           : 'yellow';
-        return {
+        const note: Note = {
           id: safeId(item.id, 'note'),
           title,
           body,
           colour,
           updatedAt: num(item.updatedAt, Date.now(), 0, Number.MAX_SAFE_INTEGER),
-        } satisfies Note;
+        };
+        const widgetId = ownedWidgetId(item.widgetId, 'notes', ownership);
+        if (widgetId) note.widgetId = widgetId;
+        return note;
       })
       .filter((item): item is Note => item !== null),
     (item) => item.id,
-  ).slice(0, 100);
+  ).slice(0, 400);
 }
 
-function sanitiseTasks(raw: unknown): Task[] {
-  if (!Array.isArray(raw)) return createDefaultPortalData().tasks;
+function sanitiseTasks(raw: unknown, ownership: WidgetOwnership): Task[] {
+  if (!Array.isArray(raw)) {
+    const widgetId = ownership.byType.get('todo');
+    return widgetId
+      ? createDefaultPortalData().tasks.map((task) => ({ ...task, widgetId }))
+      : [];
+  }
   return uniqueBy(
     raw
       .map((item): Task | null => {
         if (!isRecord(item)) return null;
         const title = str(item.title, '', 200).trim();
         if (!title) return null;
-        const due =
-          typeof item.dueDate === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(item.dueDate)
-            ? item.dueDate
-            : undefined;
-        return {
+        const task: Task = {
           id: safeId(item.id, 'task'),
           title,
           completed: bool(item.completed, false),
-          dueDate: due,
           createdAt: num(item.createdAt, Date.now(), 0, Number.MAX_SAFE_INTEGER),
-        } satisfies Task;
+        };
+        const widgetId = ownedWidgetId(item.widgetId, 'todo', ownership);
+        if (widgetId) task.widgetId = widgetId;
+        if (typeof item.dueDate === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(item.dueDate)) {
+          task.dueDate = item.dueDate;
+        }
+        return task;
       })
       .filter((item): item is Task => item !== null),
     (item) => item.id,
-  ).slice(0, 500);
+  ).slice(0, 1000);
 }
 
-function sanitiseEvents(raw: unknown): CalendarEvent[] {
+function sanitiseEvents(raw: unknown, ownership: WidgetOwnership): CalendarEvent[] {
   if (!Array.isArray(raw)) return [];
   return uniqueBy(
     raw
@@ -455,31 +495,37 @@ function sanitiseEvents(raw: unknown): CalendarEvent[] {
           ? item.date
           : '';
         if (!title || !date) return null;
-        const time =
-          typeof item.time === 'string' && /^([01]\d|2[0-3]):[0-5]\d$/.test(item.time)
-            ? item.time
-            : undefined;
-        return {
+        const event: CalendarEvent = {
           id: safeId(item.id, 'event'),
           title,
           date,
-          time,
           colour:
             item.colour === 'green' || item.colour === 'pink' || item.colour === 'yellow'
               ? item.colour
               : 'blue',
-        } satisfies CalendarEvent;
+        };
+        const widgetId = ownedWidgetId(item.widgetId, 'calendar', ownership);
+        if (widgetId) event.widgetId = widgetId;
+        if (typeof item.time === 'string' && /^([01]\d|2[0-3]):[0-5]\d$/.test(item.time)) {
+          event.time = item.time;
+        }
+        return event;
       })
       .filter((item): item is CalendarEvent => item !== null),
     (item) => item.id,
-  ).slice(0, 1000);
+  ).slice(0, 2000);
 }
 
-function sanitiseBookmarks(raw: unknown): BookmarkCategory[] {
-  if (!Array.isArray(raw)) return createDefaultPortalData().bookmarks;
+function sanitiseBookmarks(raw: unknown, ownership: WidgetOwnership): BookmarkCategory[] {
+  if (!Array.isArray(raw)) {
+    const widgetId = ownership.byType.get('bookmarks');
+    return widgetId
+      ? createDefaultPortalData().bookmarks.map((category) => ({ ...category, widgetId }))
+      : [];
+  }
   return uniqueBy(
     raw
-      .map((item) => {
+      .map((item): BookmarkCategory | null => {
         if (!isRecord(item)) return null;
         const name = str(item.name, '', 40).trim();
         if (!name) return null;
@@ -495,11 +541,18 @@ function sanitiseBookmarks(raw: unknown): BookmarkCategory[] {
               .filter((link): link is { id: string; label: string; url: string } => link !== null)
               .slice(0, 40)
           : [];
-        return { id: safeId(item.id, 'bookmark-cat'), name, links } satisfies BookmarkCategory;
+        const category: BookmarkCategory = {
+          id: safeId(item.id, 'bookmark-cat'),
+          name,
+          links,
+        };
+        const widgetId = ownedWidgetId(item.widgetId, 'bookmarks', ownership);
+        if (widgetId) category.widgetId = widgetId;
+        return category;
       })
       .filter((item): item is BookmarkCategory => item !== null),
     (item) => item.id,
-  ).slice(0, 20);
+  ).slice(0, 40);
 }
 
 function sanitiseHistory(raw: unknown): PortalData['searchHistory'] {
@@ -554,13 +607,29 @@ function reconcileLayout(data: PortalData): PortalData {
 }
 
 export function normalisePortalData(raw: unknown): PortalData {
-  const defaults = createDefaultPortalData();
-  if (!isRecord(raw)) return defaults;
+  if (!isRecord(raw)) return createDefaultPortalData();
   const source = isRecord(raw.data) ? raw.data : raw;
 
   const categories = sanitiseCategories(source.shortcutCategories);
   const widgets = sanitiseWidgets(source.widgets);
+  const ownership = buildOwnership(widgets);
   const settings = sanitiseSettings(source.settings);
+  const rawWidgetSettings = isRecord(source.widgetSettings) ? source.widgetSettings : {};
+  // v1 stored settings under widget type names. v2 stores them under instance
+  // ids. Accept both so upgrades and old backups keep every preference.
+  const hasLegacySettings = Object.keys(rawWidgetSettings).some((key) =>
+    (WIDGET_TYPES as readonly string[]).includes(key),
+  );
+
+  const widgetSettings: Record<string, AnyWidgetSettings> = {};
+  for (const widget of widgets) {
+    const instanceSettings = rawWidgetSettings[widget.id];
+    const legacySettings = hasLegacySettings ? rawWidgetSettings[widget.type] : undefined;
+    widgetSettings[widget.id] = sanitiseWidgetSettingsFor(
+      widget.type,
+      instanceSettings ?? legacySettings,
+    );
+  }
 
   const data: PortalData = {
     version: CURRENT_DATA_VERSION,
@@ -568,11 +637,11 @@ export function normalisePortalData(raw: unknown): PortalData {
     shortcuts: sanitiseShortcuts(source.shortcuts, categories),
     shortcutCategories: categories,
     widgets,
-    widgetSettings: sanitiseWidgetSettings(source.widgetSettings, defaults.widgetSettings),
-    notes: sanitiseNotes(source.notes),
-    tasks: sanitiseTasks(source.tasks),
-    calendarEvents: sanitiseEvents(source.calendarEvents),
-    bookmarks: sanitiseBookmarks(source.bookmarks),
+    widgetSettings,
+    notes: sanitiseNotes(source.notes, ownership),
+    tasks: sanitiseTasks(source.tasks, ownership),
+    calendarEvents: sanitiseEvents(source.calendarEvents, ownership),
+    bookmarks: sanitiseBookmarks(source.bookmarks, ownership),
     searchHistory: sanitiseHistory(source.searchHistory),
   };
 
@@ -582,8 +651,9 @@ export function normalisePortalData(raw: unknown): PortalData {
 export function migratePortalData(raw: unknown): PortalData {
   if (!isRecord(raw)) return createDefaultPortalData();
   const version = typeof raw.version === 'number' ? raw.version : 0;
-  // Version 0 was the pre-release storage shape. Its fields overlap with v1,
-  // so normalisation doubles as the migration step.
+  // Version 0 was the pre-release storage shape. v1 used type-keyed widget
+  // settings and global content; v2 uses instance ids and per-widget content.
+  // Normalisation doubles as the migration step for every older shape.
   if (version > CURRENT_DATA_VERSION) {
     // Never discard a newer backup. Normalisation will keep every field it
     // understands while ignoring future additions.

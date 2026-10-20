@@ -1,6 +1,5 @@
 import type {
   CalendarEvent,
-  NewsCategory,
   Note,
   PortalData,
   Settings,
@@ -11,21 +10,16 @@ import type {
 } from '../types';
 import { createId } from '../utils/id';
 import { DEFAULT_THEME } from '../themes/presets';
+import { ALL_NEWS_CATEGORIES } from './news';
+import { createDefaultWidgetSettingsMap } from '../widgets/defaults';
 
-export const CURRENT_DATA_VERSION = 1;
-export const STORAGE_KEY = 'retroportal:data:v1';
+export const CURRENT_DATA_VERSION = 2;
+export const STORAGE_KEY = 'retroportal:data:v2';
+export const LEGACY_STORAGE_KEY = 'retroportal:data:v1';
 export const NEWS_CACHE_KEY = 'retroportal:news-cache:v1';
 export const WEATHER_CACHE_KEY = 'retroportal:weather-cache:v1';
 
-export const NEWS_CATEGORY_LABELS: Record<NewsCategory, string> = {
-  uk: 'UK Headlines',
-  world: 'World',
-  technology: 'Technology',
-  business: 'Business',
-  science: 'Science',
-};
-
-export const ALL_NEWS_CATEGORIES = Object.keys(NEWS_CATEGORY_LABELS) as NewsCategory[];
+export { ALL_NEWS_CATEGORIES, NEWS_CATEGORY_LABELS } from './news';
 
 const defaultShortcutCategories: ShortcutCategory[] = [
   { id: 'everyday', name: 'Everyday' },
@@ -92,6 +86,7 @@ const defaultWidgets: WidgetInstance[] = [
 const defaultNotes: Note[] = [
   {
     id: 'note-welcome',
+    widgetId: 'widget-notes',
     title: 'Welcome to RetroPortal',
     body: 'This little corner of the internet is yours.\n\nTry dragging a widget by its title bar, switching search engines, or opening Settings to change the theme.\n\nEverything is stored in your browser.',
     colour: 'yellow',
@@ -102,12 +97,14 @@ const defaultNotes: Note[] = [
 const defaultTasks: Task[] = [
   {
     id: 'task-tour',
+    widgetId: 'widget-todo',
     title: 'Customise RetroPortal',
     completed: false,
     createdAt: Date.now(),
   },
   {
     id: 'task-shortcuts',
+    widgetId: 'widget-todo',
     title: 'Add a favourite website shortcut',
     completed: false,
     createdAt: Date.now() - 1000,
@@ -179,71 +176,14 @@ export function createDefaultPortalData(): PortalData {
     })),
     shortcutCategories: defaultShortcutCategories.map((category) => ({ ...category })),
     widgets: defaultWidgets.map((widget) => ({ ...widget })),
-    widgetSettings: {
-      clock: {
-        analogue: false,
-        hour12: false,
-        showSeconds: false,
-        timeZone: 'Europe/London',
-      },
-      weather: {
-        location: {
-          name: 'London',
-          country: 'United Kingdom',
-          latitude: 51.5074,
-          longitude: -0.1278,
-        },
-        unit: 'celsius',
-        forecast: true,
-      },
-      calendar: { weekStartsOn: 1 },
-      notes: { tall: false },
-      todo: { showCompleted: true },
-      rss: {
-        feeds: [
-          {
-            id: 'feed-bbc-uk',
-            name: 'BBC UK News',
-            url: './data/feeds/bbc-uk.json',
-            bundled: true,
-            sourceUrl: 'https://feeds.bbci.co.uk/news/uk/rss.xml',
-          },
-          {
-            id: 'feed-guardian-uk',
-            name: 'The Guardian UK',
-            url: './data/feeds/guardian-uk.json',
-            bundled: true,
-            sourceUrl: 'https://www.theguardian.com/uk/rss',
-          },
-          {
-            id: 'feed-sky-uk',
-            name: 'Sky News UK',
-            url: './data/feeds/sky-uk.json',
-            bundled: true,
-            sourceUrl: 'https://feeds.skynews.com/feeds/rss/uk.xml',
-          },
-        ],
-        limit: 8,
-        tall: false,
-      },
-      news: {
-        categories: [...ALL_NEWS_CATEGORIES],
-        sources: [],
-        limit: 12,
-        tall: false,
-      },
-      bookmarks: { tall: false },
-      welcome: {
-        name: '',
-        message: 'Your personal corner of the old web, rebuilt for the dark mode era.',
-      },
-    },
+    widgetSettings: createDefaultWidgetSettingsMap(defaultWidgets),
     notes: defaultNotes.map((note) => ({ ...note, updatedAt: now })),
     tasks: defaultTasks.map((task) => ({ ...task, createdAt: now })),
     calendarEvents: defaultEvents.map((event) => ({ ...event })),
     bookmarks: [
       {
         id: 'bookmark-cat-news',
+        widgetId: 'widget-bookmarks',
         name: 'News',
         links: [
           { id: 'bookmark-bbc', label: 'BBC News', url: 'https://www.bbc.co.uk/news' },
@@ -257,6 +197,7 @@ export function createDefaultPortalData(): PortalData {
       },
       {
         id: 'bookmark-cat-tools',
+        widgetId: 'widget-bookmarks',
         name: 'Tools',
         links: [
           {
@@ -276,18 +217,6 @@ export function createDefaultPortalData(): PortalData {
   };
 }
 
-export function defaultWidgetId(type: string): string {
+export function defaultWidgetId(type: WidgetInstance['type']): string {
   return `widget-${type}-${createId('w')}`;
 }
-
-export const WIDGET_TYPES_ORDER: WidgetInstance['type'][] = [
-  'welcome',
-  'clock',
-  'weather',
-  'news',
-  'calendar',
-  'notes',
-  'todo',
-  'rss',
-  'bookmarks',
-];

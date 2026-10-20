@@ -14,6 +14,7 @@ import type {
   LayoutSettings,
   PortalData,
   Settings,
+  WidgetInstance,
   WidgetSettingsMap,
   WidgetType,
 } from '../types';
@@ -28,6 +29,7 @@ import {
   saveBackgroundImage,
 } from '../services/storage/imageStore';
 import { useToast } from './ToastContext';
+import { createDefaultWidgetSettings } from '../widgets/defaults';
 
 type SaveState = 'idle' | 'saving' | 'saved' | 'error';
 
@@ -40,6 +42,7 @@ interface PortalContextValue {
   updateAppearance: (patch: Partial<AppearanceSettings>) => void;
   updateLayout: (patch: Partial<LayoutSettings>) => void;
   updateWidgetSettings: <K extends WidgetType>(
+    widgetId: string,
     type: K,
     patch: Partial<WidgetSettingsMap[K]>,
   ) => void;
@@ -51,7 +54,32 @@ interface PortalContextValue {
 
 const PortalContext = createContext<PortalContextValue | null>(null);
 
-const DEFAULT_WIDGET_SETTINGS = createDefaultPortalData().widgetSettings;
+interface WidgetRuntime {
+  id: string;
+  type: WidgetType;
+}
+
+const WidgetInstanceContext = createContext<WidgetRuntime | null>(null);
+
+export function WidgetInstanceProvider({
+  widget,
+  children,
+}: {
+  widget: Pick<WidgetInstance, 'id' | 'type'>;
+  children: ReactNode;
+}) {
+  const value = useMemo<WidgetRuntime>(
+    () => ({ id: widget.id, type: widget.type }),
+    [widget.id, widget.type],
+  );
+  return <WidgetInstanceContext.Provider value={value}>{children}</WidgetInstanceContext.Provider>;
+}
+
+export function useWidgetInstance(): WidgetRuntime {
+  const context = useContext(WidgetInstanceContext);
+  if (!context) throw new Error('useWidgetInstance must be used inside WidgetInstanceProvider');
+  return context;
+}
 
 export function PortalProvider({ children }: { children: ReactNode }) {
   const [data, setDataState] = useState<PortalData>(() => loadPortalData());
@@ -98,17 +126,22 @@ export function PortalProvider({ children }: { children: ReactNode }) {
   );
 
   const updateWidgetSettings = useCallback(
-    <K extends WidgetType>(type: K, patch: Partial<WidgetSettingsMap[K]>) => {
-      setData((current) => ({
-        ...current,
-        widgetSettings: {
-          ...current.widgetSettings,
-          [type]: {
-            ...(current.widgetSettings[type] ?? DEFAULT_WIDGET_SETTINGS[type]),
-            ...patch,
+    <K extends WidgetType>(
+      widgetId: string,
+      type: K,
+      patch: Partial<WidgetSettingsMap[K]>,
+    ) => {
+      setData((current) => {
+        const base = (current.widgetSettings[widgetId] ??
+          createDefaultWidgetSettings(type)) as WidgetSettingsMap[K];
+        return {
+          ...current,
+          widgetSettings: {
+            ...current.widgetSettings,
+            [widgetId]: { ...base, ...patch },
           },
-        },
-      }));
+        };
+      });
     },
     [setData],
   );
@@ -299,15 +332,23 @@ export function useWidgetSettings<K extends WidgetType>(
   type: K,
 ): [WidgetSettingsMap[K], (patch: Partial<WidgetSettingsMap[K]>) => void] {
   const { data, updateWidgetSettings } = usePortal();
-  const merged = {
-    ...DEFAULT_WIDGET_SETTINGS[type],
-    ...(data.widgetSettings[type] as Partial<WidgetSettingsMap[K]> | undefined),
-  } as WidgetSettingsMap[K];
+  const widget = useWidgetInstance();
+  if (widget.type !== type) {
+    throw new Error(
+      `Widget ${widget.id} is a ${widget.type} widget but requested ${type} settings.`,
+    );
+  }
+  const stored = data.widgetSettings[widget.id] as unknown as
+    | Partial<WidgetSettingsMap[K]>
+    | undefined;
+  const merged = useMemo(
+    () => ({ ...createDefaultWidgetSettings(type), ...stored }) as WidgetSettingsMap[K],
+    [stored, type],
+  );
   const update = useCallback(
-    (patch: Partial<WidgetSettingsMap[K]>) => updateWidgetSettings(type, patch),
-    [type, updateWidgetSettings],
+    (patch: Partial<WidgetSettingsMap[K]>) =>
+      updateWidgetSettings(widget.id, type, patch),
+    [type, updateWidgetSettings, widget.id],
   );
   return [merged, update];
 }
-
-export { DEFAULT_WIDGET_SETTINGS };

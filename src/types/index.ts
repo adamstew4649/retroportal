@@ -34,21 +34,26 @@ export interface ShortcutCategory {
   name: string;
 }
 
-export type WidgetType =
-  | 'clock'
-  | 'weather'
-  | 'calendar'
-  | 'notes'
-  | 'todo'
-  | 'rss'
-  | 'news'
-  | 'bookmarks'
-  | 'welcome';
+export const WIDGET_TYPES = [
+  'welcome',
+  'clock',
+  'weather',
+  'news',
+  'calendar',
+  'notes',
+  'todo',
+  'rss',
+  'bookmarks',
+] as const;
+
+export type WidgetType = (typeof WIDGET_TYPES)[number];
 
 export interface WidgetInstance {
   id: string;
   type: WidgetType;
   collapsed: boolean;
+  /** Optional user-defined name, useful when several widgets share a type. */
+  title?: string;
 }
 
 export type ColumnCount = 1 | 2 | 3 | 4;
@@ -134,6 +139,8 @@ export interface Settings {
 
 export interface Note {
   id: string;
+  /** Widget instance that owns this note. Missing on imported legacy data. */
+  widgetId?: string;
   title: string;
   body: string;
   colour: 'yellow' | 'blue' | 'green' | 'pink' | 'plain';
@@ -142,6 +149,8 @@ export interface Note {
 
 export interface Task {
   id: string;
+  /** Widget instance that owns this task. Missing on imported legacy data. */
+  widgetId?: string;
   title: string;
   completed: boolean;
   dueDate?: string;
@@ -150,6 +159,8 @@ export interface Task {
 
 export interface CalendarEvent {
   id: string;
+  /** Widget instance that owns this event. Missing on imported legacy data. */
+  widgetId?: string;
   date: string; // YYYY-MM-DD
   title: string;
   time?: string; // HH:mm
@@ -164,6 +175,8 @@ export interface BookmarkLink {
 
 export interface BookmarkCategory {
   id: string;
+  /** Widget instance that owns this category. Missing on imported legacy data. */
+  widgetId?: string;
   name: string;
   links: BookmarkLink[];
 }
@@ -231,9 +244,8 @@ export interface PortalData {
   shortcuts: Shortcut[];
   shortcutCategories: ShortcutCategory[];
   widgets: WidgetInstance[];
-  widgetSettings: {
-    [K in WidgetType]?: WidgetSettingsMap[K];
-  };
+  /** Per-instance settings, keyed by widget instance id. */
+  widgetSettings: Record<string, WidgetSettingsMap[WidgetType]>;
   notes: Note[];
   tasks: Task[];
   calendarEvents: CalendarEvent[];

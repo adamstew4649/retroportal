@@ -19,10 +19,10 @@ import {
   verticalListSortingStrategy,
 } from '@dnd-kit/sortable';
 import { LayoutGrid } from 'lucide-react';
-import { usePortal } from '../../state/PortalContext';
+import { usePortal, WidgetInstanceProvider } from '../../state/PortalContext';
 import { WIDGET_REGISTRY } from '../../widgets/registry';
 import { WidgetFrame } from '../WidgetFrame/WidgetFrame';
-import type { WidgetType } from '../../types';
+import type { WidgetInstance } from '../../types';
 import './dashboard.css';
 
 function columnIndexOf(positions: string[][], id: string): number | null {
@@ -34,11 +34,8 @@ function columnIndexOf(positions: string[][], id: string): number | null {
   return index >= 0 ? index : null;
 }
 
-function tallFor(type: WidgetType, data: ReturnType<typeof usePortal>['data']): boolean {
-  if (type === 'notes' || type === 'rss' || type === 'news' || type === 'bookmarks') {
-    return Boolean((data.widgetSettings[type] as { tall?: boolean } | undefined)?.tall);
-  }
-  return false;
+function tallFor(widget: WidgetInstance, data: ReturnType<typeof usePortal>['data']): boolean {
+  return Boolean((data.widgetSettings[widget.id] as { tall?: boolean } | undefined)?.tall);
 }
 
 function DashboardColumn({
@@ -186,22 +183,25 @@ export function Dashboard({ onOpenSettings }: { onOpenSettings: () => void }) {
                   const Icon = definition.icon;
                   const firstOfType =
                     data.widgets.find((item) => item.type === widget.type)?.id === widget.id;
+                  const title = widget.title?.trim() || definition.title;
                   return (
-                    <WidgetFrame
-                      key={widget.id}
-                      widget={widget}
-                      title={definition.title}
-                      icon={<Icon size={12} />}
-                      settingsContent={<definition.Settings />}
-                      anchorId={
-                        firstOfType && (widget.type === 'news' || widget.type === 'rss')
-                          ? `${widget.type}-widget`
-                          : undefined
-                      }
-                      tall={tallFor(widget.type, data)}
-                    >
-                      <definition.Component />
-                    </WidgetFrame>
+                    <WidgetInstanceProvider key={widget.id} widget={widget}>
+                      <WidgetFrame
+                        widget={widget}
+                        title={title}
+                        defaultTitle={definition.title}
+                        icon={<Icon size={12} />}
+                        settingsContent={<definition.Settings />}
+                        anchorId={
+                          firstOfType && (widget.type === 'news' || widget.type === 'rss')
+                            ? `${widget.type}-widget`
+                            : undefined
+                        }
+                        tall={tallFor(widget, data)}
+                      >
+                        <definition.Component />
+                      </WidgetFrame>
+                    </WidgetInstanceProvider>
                   );
                 })}
               </SortableContext>
@@ -213,7 +213,7 @@ export function Dashboard({ onOpenSettings }: { onOpenSettings: () => void }) {
           {activeWidget && activeDefinition ? (
             <div className="widget-drag-preview">
               <activeDefinition.icon size={14} aria-hidden="true" />
-              <span>{activeDefinition.title}</span>
+              <span>{activeWidget.title?.trim() || activeDefinition.title}</span>
             </div>
           ) : null}
         </DragOverlay>

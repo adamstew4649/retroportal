@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { FileText, Plus, Trash2 } from 'lucide-react';
-import { usePortal, useWidgetSettings } from '../../state/PortalContext';
+import { usePortal, useWidgetInstance, useWidgetSettings } from '../../state/PortalContext';
 import { createId } from '../../utils/id';
 import type { Note } from '../../types';
 import { formatRelativeTime } from '../../utils/date';
@@ -10,11 +10,17 @@ const COLOURS: Array<Note['colour']> = ['yellow', 'blue', 'green', 'pink', 'plai
 
 export function NotesWidget() {
   const { data, setData } = usePortal();
-  const [selectedId, setSelectedId] = useState<string | null>(data.notes[0]?.id ?? null);
+  const { id: widgetId } = useWidgetInstance();
+  const [selectedId, setSelectedId] = useState<string | null>(null);
+
+  const notes = useMemo(
+    () => data.notes.filter((note) => note.widgetId === widgetId),
+    [data.notes, widgetId],
+  );
 
   const selected = useMemo(
-    () => data.notes.find((note) => note.id === selectedId) ?? data.notes[0],
-    [data.notes, selectedId],
+    () => notes.find((note) => note.id === selectedId) ?? notes[0],
+    [notes, selectedId],
   );
 
   const updateNote = (patch: Partial<Note>) => {
@@ -22,7 +28,9 @@ export function NotesWidget() {
     setData((current) => ({
       ...current,
       notes: current.notes.map((note) =>
-        note.id === selected.id ? { ...note, ...patch, updatedAt: Date.now() } : note,
+        note.id === selected.id
+          ? { ...note, widgetId: note.widgetId ?? widgetId, ...patch, updatedAt: Date.now() }
+          : note,
       ),
     }));
   };
@@ -30,6 +38,7 @@ export function NotesWidget() {
   const addNote = () => {
     const note: Note = {
       id: createId('note'),
+      widgetId,
       title: 'New note',
       body: '',
       colour: 'yellow',
@@ -48,7 +57,7 @@ export function NotesWidget() {
   return (
     <div className="notes-widget">
       <div className="notes-tabs" role="tablist" aria-label="Notes">
-        {data.notes.map((note) => (
+        {notes.map((note) => (
           <button
             key={note.id}
             type="button"

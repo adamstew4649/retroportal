@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { CalendarDays, ChevronLeft, ChevronRight, Plus, Trash2 } from 'lucide-react';
-import { usePortal, useWidgetSettings } from '../../state/PortalContext';
+import { usePortal, useWidgetInstance, useWidgetSettings } from '../../state/PortalContext';
 import { createId } from '../../utils/id';
 import { fromDateKey, toDateKey } from '../../utils/date';
 import '../widgets.css';
@@ -10,6 +10,7 @@ const WEEKDAY_LABELS_SUNDAY = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
 export function CalendarWidget() {
   const { data, setData } = usePortal();
+  const { id: widgetId } = useWidgetInstance();
   const [settings] = useWidgetSettings('calendar');
   const today = new Date();
   const [month, setMonth] = useState(() => new Date(today.getFullYear(), today.getMonth(), 1));
@@ -34,12 +35,13 @@ export function CalendarWidget() {
   const eventsByDate = useMemo(() => {
     const map = new Map<string, typeof data.calendarEvents>();
     for (const event of data.calendarEvents) {
+      if (event.widgetId !== widgetId) continue;
       const list = map.get(event.date) ?? [];
       list.push(event);
       map.set(event.date, list);
     }
     return map;
-  }, [data.calendarEvents]);
+  }, [data.calendarEvents, widgetId]);
 
   const selectedEvents = (eventsByDate.get(selected) ?? []).slice().sort((a, b) =>
     (a.time ?? '').localeCompare(b.time ?? ''),
@@ -57,6 +59,7 @@ export function CalendarWidget() {
         ...current.calendarEvents,
         {
           id: createId('event'),
+          widgetId,
           date: selected,
           title: trimmed.slice(0, 120),
           time: /^\d{2}:\d{2}$/.test(time) ? time : undefined,

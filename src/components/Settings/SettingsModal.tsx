@@ -27,12 +27,13 @@ import {
 import {
   ALL_NEWS_CATEGORIES,
   NEWS_CATEGORY_LABELS,
-  WIDGET_TYPES_ORDER,
   createDefaultPortalData,
-  createDefaultSettings,
-  defaultWidgetId,
 } from '../../config/defaults';
-import { WIDGET_REGISTRY } from '../../widgets/registry';
+import { WIDGET_REGISTRY, WIDGET_TYPES_ORDER } from '../../widgets/registry';
+import {
+  addWidgetToData,
+  restoreDefaultWidgets as restoreDefaultWidgetsInData,
+} from '../../widgets/lifecycle';
 import { fileToDataUrl, loadBackgroundImage } from '../../services/storage/imageStore';
 import { parseBackup, createBackupEnvelope } from '../../services/storage/validate';
 import { safeDataUrl, safeHttpUrl } from '../../utils/url';
@@ -168,45 +169,8 @@ export function SettingsModal({ open, initialTab = 'appearance', onClose }: Sett
   };
 
   const addWidget = (type: WidgetType) => {
-    setData((current) => {
-      if (current.widgets.some((widget) => widget.type === type)) return current;
-      const widget = { id: defaultWidgetId(type), type, collapsed: false };
-      const positions = current.settings.layout.positions.map((column) => [...column]);
-      if (positions.length === 0) positions.push([]);
-      let shortest = 0;
-      positions.forEach((column, index) => {
-        if (column.length < positions[shortest].length) shortest = index;
-      });
-      positions[shortest].push(widget.id);
-      return {
-        ...current,
-        widgets: [...current.widgets, widget],
-        settings: {
-          ...current.settings,
-          layout: { ...current.settings.layout, positions },
-        },
-      };
-    });
+    setData((current) => addWidgetToData(current, type));
     notify(`${WIDGET_REGISTRY[type].title} widget added.`, 'success');
-  };
-
-  const removeWidgetType = (type: WidgetType) => {
-    const widget = data.widgets.find((item) => item.type === type);
-    if (!widget) return;
-    if (!window.confirm(`Remove the ${WIDGET_REGISTRY[type].title} widget?`)) return;
-    setData((current) => ({
-      ...current,
-      widgets: current.widgets.filter((item) => item.id !== widget.id),
-      settings: {
-        ...current.settings,
-        layout: {
-          ...current.settings.layout,
-          positions: current.settings.layout.positions.map((column) =>
-            column.filter((id) => id !== widget.id),
-          ),
-        },
-      },
-    }));
   };
 
   const resetWidgetPositions = () => {
@@ -236,16 +200,14 @@ export function SettingsModal({ open, initialTab = 'appearance', onClose }: Sett
   };
 
   const restoreDefaultWidgets = () => {
-    if (!window.confirm('Restore all nine default widgets? Your current widget layout will be replaced.')) return;
-    const defaults = createDefaultPortalData();
-    setData((current) => ({
-      ...current,
-      widgets: defaults.widgets,
-      settings: {
-        ...current.settings,
-        layout: { ...current.settings.layout, columns: 3, positions: defaults.settings.layout.positions },
-      },
-    }));
+    if (
+      !window.confirm(
+        'Restore all nine default widgets? Your layout will be replaced, but your notes, tasks, events and bookmarks will be preserved.',
+      )
+    ) {
+      return;
+    }
+    setData(restoreDefaultWidgetsInData);
     notify('Default widgets restored.', 'success');
   };
 
@@ -392,14 +354,7 @@ export function SettingsModal({ open, initialTab = 'appearance', onClose }: Sett
             settings: { ...current.settings, appearance: defaults.settings.appearance },
           };
         case 'layout':
-          return {
-            ...current,
-            widgets: defaults.widgets,
-            settings: {
-              ...current.settings,
-              layout: { ...current.settings.layout, columns: 3, positions: defaults.settings.layout.positions },
-            },
-          };
+          return restoreDefaultWidgetsInData(current);
         case 'search':
           return {
             ...current,
@@ -413,8 +368,15 @@ export function SettingsModal({ open, initialTab = 'appearance', onClose }: Sett
           };
         case 'personal':
           return { ...current, notes: [], tasks: [], calendarEvents: [] };
-        case 'bookmarks':
-          return { ...current, bookmarks: defaults.bookmarks };
+        case 'bookmarks': {
+          const target = current.widgets.find((widget) => widget.type === 'bookmarks')?.id;
+          return {
+            ...current,
+            bookmarks: target
+              ? defaults.bookmarks.map((category) => ({ ...category, widgetId: target }))
+              : [],
+          };
+        }
       }
     });
     notify('Section reset.', 'success');
@@ -921,23 +883,18 @@ export function SettingsModal({ open, initialTab = 'appearance', onClose }: Sett
                         <span className="widget-list-row__name">{definition.title}</span>
                         <span className="widget-list-row__description">{definition.description}</span>
                       </span>
-                      {count > 0 ? (
-                        <button
-                          type="button"
-                          className="mini-button"
-                          onClick={() => removeWidgetType(type)}
-                        >
-                          Remove
-                        </button>
-                      ) : (
-                        <button
-                          type="button"
-                          className="mini-button mini-button--active"
-                          onClick={() => addWidget(type)}
-                        >
-                          <Plus size={11} aria-hidden="true" /> Add
-                        </button>
+                      {count > 0 && (
+                        <span className="chip">
+                          {count} added
+                        </span>
                       )}
+                      <button
+                        type="button"
+                        className="mini-button mini-button--active"
+                        onClick={() => addWidget(type)}
+                      >
+                        <Plus size={11} aria-hidden="true" /> {count > 0 ? 'Add another' : 'Add'}
+                      </button>
                     </div>
                   );
                 })}
@@ -1168,31 +1125,9 @@ export function SettingsModal({ open, initialTab = 'appearance', onClose }: Sett
                     ))}
                   </select>
                 </label>
-                <label>
-                  <span className="field-label">Headlines in the news widget</span>
-                  <select
-                    className="retro-select"
-                    value={data.widgetSettings.news?.limit ?? 12}
-                    onChange={(event) =>
-                      setData((current) => ({
-                        ...current,
-                        widgetSettings: {
-                          ...current.widgetSettings,
-                          news: {
-                            ...current.widgetSettings.news!,
-                            limit: Number(event.target.value),
-                          },
-                        },
-                      }))
-                    }
-                  >
-                    {[5, 8, 12, 20, 30].map((count) => (
-                      <option key={count} value={count}>
-                        {count} headlines
-                      </option>
-                    ))}
-                  </select>
-                </label>
+                <p className="settings-help">
+                  Headline count and categories are configured on each News widget individually.
+                </p>
               </div>
             </section>
 

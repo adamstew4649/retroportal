@@ -1,4 +1,9 @@
-import { CURRENT_DATA_VERSION, STORAGE_KEY, createDefaultPortalData } from '../../config/defaults';
+import {
+  CURRENT_DATA_VERSION,
+  LEGACY_STORAGE_KEY,
+  STORAGE_KEY,
+  createDefaultPortalData,
+} from '../../config/defaults';
 import type { PortalData } from '../../types';
 import { migratePortalData, normalisePortalData } from './validate';
 
@@ -38,13 +43,15 @@ export const browserStorage: StorageAdapter = {
 };
 
 export function loadPortalData(storage: StorageAdapter = browserStorage): PortalData {
-  const raw = storage.read(STORAGE_KEY);
+  const currentRaw = storage.read(STORAGE_KEY);
+  const raw = currentRaw ?? storage.read(LEGACY_STORAGE_KEY);
   if (!raw) return createDefaultPortalData();
   try {
     const parsed: unknown = JSON.parse(raw);
     const migrated = migratePortalData(parsed);
-    if (migrated.version !== CURRENT_DATA_VERSION) {
+    if (migrated.version !== CURRENT_DATA_VERSION || !currentRaw) {
       savePortalData(migrated, storage);
+      if (!currentRaw) storage.remove(LEGACY_STORAGE_KEY);
     }
     return migrated;
   } catch {
@@ -66,6 +73,7 @@ export function savePortalData(data: PortalData, storage: StorageAdapter = brows
 
 export function clearPortalData(storage: StorageAdapter = browserStorage): void {
   storage.remove(STORAGE_KEY);
+  storage.remove(LEGACY_STORAGE_KEY);
 }
 
 export function replacePortalData(raw: unknown): PortalData {

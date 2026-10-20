@@ -1,6 +1,6 @@
-import { useEffect, useState, type FormEvent } from 'react';
+import { useEffect, useMemo, useState, type FormEvent } from 'react';
 import { Bookmark, ExternalLink, FolderPlus, Pencil, Plus, Trash2 } from 'lucide-react';
-import { usePortal, useWidgetSettings } from '../../state/PortalContext';
+import { usePortal, useWidgetInstance, useWidgetSettings } from '../../state/PortalContext';
 import { createId } from '../../utils/id';
 import { safeHttpUrlWithHttpsFallback } from '../../utils/url';
 import type { BookmarkLink } from '../../types';
@@ -110,6 +110,7 @@ function LinkEditor({ open, link, defaultCategoryId, categories, onClose, onSave
 
 export function BookmarksWidget() {
   const { data, setData } = usePortal();
+  const { id: widgetId } = useWidgetInstance();
   const [settings] = useWidgetSettings('bookmarks');
   const [editMode, setEditMode] = useState(false);
   const [editorOpen, setEditorOpen] = useState(false);
@@ -117,16 +118,23 @@ export function BookmarksWidget() {
   const [addCategoryId, setAddCategoryId] = useState<string>('');
   const [newCategory, setNewCategory] = useState('');
 
-  const defaultCategoryId = data.bookmarks[0]?.id ?? '';
+  const categories = useMemo(
+    () => data.bookmarks.filter((category) => category.widgetId === widgetId),
+    [data.bookmarks, widgetId],
+  );
+  const defaultCategoryId = categories[0]?.id ?? '';
 
   const saveLink = (link: BookmarkLink, categoryId: string) => {
     setData((current) => {
-      const exists = current.bookmarks.some((category) =>
-        category.links.some((item) => item.id === link.id),
+      const exists = current.bookmarks.some(
+        (category) =>
+          category.widgetId === widgetId &&
+          category.links.some((item) => item.id === link.id),
       );
       return {
         ...current,
         bookmarks: current.bookmarks.map((category) => {
+          if (category.widgetId !== widgetId) return category;
           const without = category.links.filter((item) => item.id !== link.id);
           if (category.id === categoryId) {
             return { ...category, links: exists ? [...without, link] : [...category.links, link] };
@@ -141,10 +149,11 @@ export function BookmarksWidget() {
     if (!window.confirm(`Remove ${link.label}?`)) return;
     setData((current) => ({
       ...current,
-      bookmarks: current.bookmarks.map((category) => ({
-        ...category,
-        links: category.links.filter((item) => item.id !== link.id),
-      })),
+      bookmarks: current.bookmarks.map((category) =>
+        category.widgetId === widgetId
+          ? { ...category, links: category.links.filter((item) => item.id !== link.id) }
+          : category,
+      ),
     }));
   };
 
@@ -153,7 +162,10 @@ export function BookmarksWidget() {
     if (!name) return;
     setData((current) => ({
       ...current,
-      bookmarks: [...current.bookmarks, { id: createId('bookmark-cat'), name, links: [] }],
+      bookmarks: [
+        ...current.bookmarks,
+        { id: createId('bookmark-cat'), widgetId, name, links: [] },
+      ],
     }));
     setNewCategory('');
   };
@@ -162,14 +174,16 @@ export function BookmarksWidget() {
     if (!window.confirm(`Delete the ${name} category and its bookmarks?`)) return;
     setData((current) => ({
       ...current,
-      bookmarks: current.bookmarks.filter((category) => category.id !== id),
+      bookmarks: current.bookmarks.filter(
+        (category) => !(category.id === id && category.widgetId === widgetId),
+      ),
     }));
   };
 
   return (
     <div className={`bookmarks-widget${settings.tall ? ' bookmarks-widget--tall' : ''}`}>
       <div className="bookmarks-toolbar">
-        <span className="text-small text-muted">{data.bookmarks.length} categories</span>
+        <span className="text-small text-muted">{categories.length} categories</span>
         <button
           type="button"
           className={`mini-button${editMode ? ' mini-button--active' : ''}`}
@@ -179,7 +193,7 @@ export function BookmarksWidget() {
         </button>
       </div>
 
-      {data.bookmarks.map((category) => (
+      {categories.map((category) => (
         <div className="bookmark-group" key={category.id}>
           <div className="bookmark-group__heading">
             <h4>{category.name}</h4>
@@ -274,7 +288,7 @@ export function BookmarksWidget() {
         open={editorOpen}
         link={editing?.link ?? null}
         defaultCategoryId={editing?.categoryId ?? (addCategoryId || defaultCategoryId)}
-        categories={data.bookmarks.map((category) => ({ id: category.id, name: category.name }))}
+        categories={categories.map((category) => ({ id: category.id, name: category.name }))}
         onClose={() => setEditorOpen(false)}
         onSave={saveLink}
       />

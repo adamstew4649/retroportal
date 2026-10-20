@@ -13,12 +13,14 @@ import {
 import type { WidgetInstance } from '../../types';
 import { usePortal } from '../../state/PortalContext';
 import { useToast } from '../../state/ToastContext';
+import { removeWidgetFromData, widgetContentCount } from '../../widgets/lifecycle';
 import { WidgetErrorBoundary } from './WidgetErrorBoundary';
 import './widget-frame.css';
 
 interface WidgetFrameProps {
   widget: WidgetInstance;
   title: string;
+  defaultTitle: string;
   icon: ReactNode;
   settingsContent?: ReactNode;
   children: ReactNode;
@@ -29,6 +31,7 @@ interface WidgetFrameProps {
 export function WidgetFrame({
   widget,
   title,
+  defaultTitle,
   icon,
   settingsContent,
   children,
@@ -59,22 +62,18 @@ export function WidgetFrame({
   };
 
   const removeWidget = () => {
-    if (!window.confirm(`Remove the ${title} widget? You can add it again from Settings → Layout.`)) {
+    const contentCount = widgetContentCount(data, widget);
+    const contentNote = contentCount
+      ? ` Its ${contentCount} saved ${contentCount === 1 ? 'item' : 'items'} will also be deleted.`
+      : '';
+    if (
+      !window.confirm(
+        `Remove the ${title} widget?${contentNote} You can add a new one from Settings → Layout.`,
+      )
+    ) {
       return;
     }
-    setData((current) => ({
-      ...current,
-      widgets: current.widgets.filter((item) => item.id !== widget.id),
-      settings: {
-        ...current.settings,
-        layout: {
-          ...current.settings.layout,
-          positions: current.settings.layout.positions.map((column) =>
-            column.filter((id) => id !== widget.id),
-          ),
-        },
-      },
-    }));
+    setData((current) => removeWidgetFromData(current, widget.id));
     notify(`${title} widget removed. Re-add it from Settings → Layout.`, 'info');
   };
 
@@ -168,6 +167,26 @@ export function WidgetFrame({
 
       {!widget.collapsed && configOpen && (
         <div className="widget-config" aria-label={`${title} configuration`}>
+          <label>
+            <span className="field-label">Widget name</span>
+            <input
+              className="retro-field"
+              value={widget.title ?? ''}
+              maxLength={60}
+              placeholder={defaultTitle}
+              onChange={(event) => {
+                const nextTitle = event.target.value.slice(0, 60);
+                setData((current) => ({
+                  ...current,
+                  widgets: current.widgets.map((item) =>
+                    item.id === widget.id
+                      ? { ...item, title: nextTitle || undefined }
+                      : item,
+                  ),
+                }));
+              }}
+            />
+          </label>
           <div className="widget-config__move">
             <span className="field-label">Position</span>
             <div className="field-row">
