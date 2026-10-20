@@ -163,4 +163,4 @@ Every deployment is tied to a commit. To roll back:
 2. Push the revert. The deploy workflow publishes the reverted build.
 3. If only the news data is wrong, revert the news commit under `public/data` and let the normal deployment run.
 
-Local user data is stored in each visitor's browser and is unaffected by deployments.
+Local user data is stored in each visitor's browser and is unaffected by deployments. However, the v2 storage schema (`retroportal:data:v2`) is not read by builds from before widget instances were introduced. Before rolling back across that change, export a backup from **Settings → Backup & data**, or preserve the browser's v2 `localStorage` value so it can be imported again later.
