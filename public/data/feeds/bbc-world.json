@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T12:18:35.334Z",
+  "updatedAt": "2026-10-20T13:10:58.244Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-f06dfz",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T12:45:43.000Z",
+      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
+    },
     {
       "id": "feed-19smph8",
       "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
@@ -16,12 +24,20 @@
       "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence."
     },
     {
-      "id": "feed-f06dfz",
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
+      "id": "feed-1ehxetn",
+      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno",
       "source": "BBC News",
-      "publishedAt": "2026-10-20T11:47:39.000Z",
-      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
+      "publishedAt": "2026-10-20T12:08:06.000Z",
+      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday."
+    },
+    {
+      "id": "feed-1425p4e",
+      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T11:45:49.000Z",
+      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
     },
     {
       "id": "feed-1t4rk3m",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-19T21:02:33.000Z",
       "summary": "The two top tennis pros married in 2021 and have one child together."
-    },
-    {
-      "id": "feed-1urnq9",
-      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T20:00:43.000Z",
-      "summary": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says."
-    },
-    {
-      "id": "feed-rwjtv9",
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T19:45:46.000Z",
-      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
     }
   ]
 }
