@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T19:05:10.364Z",
+  "updatedAt": "2026-10-20T19:54:28.323Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1kksrlz",
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T19:30:05.000Z",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
+    },
     {
       "id": "feed-fsnwvf",
       "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-19T23:30:03.000Z",
       "summary": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?"
-    },
-    {
-      "id": "feed-mdm63r",
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T23:08:25.000Z",
-      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence."
     }
   ]
 }

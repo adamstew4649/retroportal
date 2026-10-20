@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T19:05:10.370Z",
-  "generatedAt": "2026-10-20T19:05:10.370Z",
+  "updatedAt": "2026-10-20T19:54:28.329Z",
+  "generatedAt": "2026-10-20T19:54:28.329Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,136 @@
   ],
   "articles": [
     {
+      "id": "feed-11wl5i2",
+      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o",
+      "publishedAt": "2026-10-20T19:52:58.000Z",
+      "category": "uk",
+      "summary": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit."
+    },
+    {
+      "id": "feed-1twdj5i",
+      "title": "PSG v Barcelona, Manchester City v AEK Athens, and more: Champions League – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live",
+      "publishedAt": "2026-10-20T19:51:01.000Z",
+      "category": "uk",
+      "summary": "⚽ Updates from Tuesday’s Champions League games ⚽ Liverpool v Villarreal | Live scores | Table | Mail Simon Peeeeeeeeep! The games have begun! Except for the one in Paris, which is running late. These are the final moments of pre-match precursive preambulation"
+    },
+    {
+      "id": "feed-7ssyzx",
+      "title": "Liverpool v Villarreal: Champions League – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live",
+      "publishedAt": "2026-10-20T19:49:43.000Z",
+      "category": "uk",
+      "summary": "⚽ Updates from the 8pm BST kick-off at Anfield ⚽ Football clockwatch | Live scores | Table | Mail Scott Villarreal kick off. They’re kicking towards the Kop in this first half. Both sets of fans give their all to this evening’s pre-match dip into the Rodgers a"
+    },
+    {
+      "id": "feed-jnd27u",
+      "title": "DoJ’s suspected non-citizens list includes ‘high percentage’ of those born in US, LA officials say",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/doj-non-citizens-la",
+      "publishedAt": "2026-10-20T19:46:38.000Z",
+      "category": "world",
+      "summary": "The statement revealed in court papers raises questions about the reliability of the list of 20,000 people in California The justice department’s list of suspected non-citizens in California includes a “high percentage” of people born in the United States, Los"
+    },
+    {
+      "id": "feed-1426gan",
+      "title": "Helen Haines live updates: Alleged attacker Brendan Nugent to face court in Wangaratta this morning",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
+      "publishedAt": "2026-10-20T19:46:22.000Z",
+      "category": "world",
+      "summary": "Follow the day’s news live. Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Helen Haines’ alleged attacker, Brendan Nugent, has been charged with dangerous d"
+    },
+    {
+      "id": "feed-17j2cdh",
+      "title": "Tech Life",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+      "publishedAt": "2026-10-20T19:45:00.000Z",
+      "category": "technology",
+      "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
+    },
+    {
+      "id": "feed-1tvy752",
+      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o",
+      "publishedAt": "2026-10-20T19:42:32.000Z",
+      "category": "technology",
+      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination."
+    },
+    {
+      "id": "feed-r7msvm",
+      "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+      "publishedAt": "2026-10-20T19:42:23.000Z",
+      "category": "world",
+      "summary": "President also announces incentive program for people to report fraud, as administration continues attack on Minnesota Sign up for the Breaking News US email Send us your questions about immigration and the midterms A new survey reveals a widening “empathy gap"
+    },
+    {
+      "id": "feed-1dplzci",
+      "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+      "publishedAt": "2026-10-20T19:32:28.000Z",
+      "category": "world",
+      "summary": "Advance warnings of missile attacks were seemingly suspended last week by the White House, but Ukraine’s president says: ‘Now it works’ The US has resumed sharing intelligence with Kyiv about Russian missile strikes, Volodymyr Zelenskyy said on Tuesday after a"
+    },
+    {
+      "id": "feed-1kksrlz",
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o",
+      "publishedAt": "2026-10-20T19:30:05.000Z",
+      "category": "world",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
+    },
+    {
+      "id": "feed-1ehhjz5",
+      "title": "Draft law to deal with Troubles legacy backed by MPs",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynq7z2qy7o",
+      "publishedAt": "2026-10-20T19:21:50.000Z",
+      "category": "uk",
+      "summary": "MPs voted 330 to 178 in favour of the Northern Ireland Troubles Bill on Tuesday."
+    },
+    {
+      "id": "feed-aymbo9",
+      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+      "publishedAt": "2026-10-20T19:18:03.000Z",
+      "category": "world",
+      "summary": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (HHS) secretary, had the"
+    },
+    {
+      "id": "feed-2s4pok",
+      "title": "‘I’m in a bad place’: Mark Allen says his snooker career may be over after defeat",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/20/mark-allen-snooker-northern-ireland-open-interview",
+      "publishedAt": "2026-10-20T18:54:07.000Z",
+      "category": "uk",
+      "summary": "Former world No 1 loses 4-2 to Jordan Brown in Belfast ‘I don’t see a future with snooker in it,’ says tearful Allen Mark Allen said he was in a “bad place” and his snooker career could be over after losing to Jordan Brown in the first round of the Northern Ir"
+    },
+    {
       "id": "feed-19dksod",
       "title": "Schools should recognise antisemitism as distinct form of harm, review says",
       "source": "BBC News",
@@ -112,36 +242,6 @@
       "publishedAt": "2026-10-20T18:52:32.000Z",
       "category": "uk",
       "summary": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell."
-    },
-    {
-      "id": "feed-1twdj5i",
-      "title": "PSG v Barcelona, Manchester City v AEK Athens, and more: Champions League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live",
-      "publishedAt": "2026-10-20T18:44:49.000Z",
-      "category": "uk",
-      "summary": "⚽ Updates from Tuesday’s Champions League games ⚽ Liverpool v Villarreal | Live scores | Table | Mail Simon Enzo Maresca says Haaland was left out “just to manage his minutes … and also from the last game he had some small problem. It’s just a mix of different"
-    },
-    {
-      "id": "feed-7ssyzx",
-      "title": "Liverpool v Villarreal: Champions League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live",
-      "publishedAt": "2026-10-20T18:44:18.000Z",
-      "category": "uk",
-      "summary": "⚽ Updates from the 8pm BST kick-off at Anfield ⚽ Football clockwatch | Live scores | Table | Mail Scott Guardian Goal Guarantee™!!! Tonight’s MBM comes with a Guardian Goal Guarantee™!!! That’s because … None of Liverpool’s last 55 matches in Europe have finis"
-    },
-    {
-      "id": "feed-r7msvm",
-      "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-      "publishedAt": "2026-10-20T18:41:03.000Z",
-      "category": "world",
-      "summary": "President also announces incentive program for people to report fraud, as administration continues attack on Minnesota Sign up for the Breaking News US email Send us your questions about immigration and the midterms A new survey reveals a widening “empathy gap"
     },
     {
       "id": "feed-u1k1re",
@@ -161,7 +261,7 @@
       "url": "https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr",
       "publishedAt": "2026-10-20T18:40:15.000Z",
       "category": "uk",
-      "summary": "Exclusive: Admission from James Orr to undercover reporter came three months before party was given £72m UK politics live – latest updates A senior Reform UK official raised questions about whether major donations from billionaire backers Christopher Harborne "
+      "summary": "Exclusive: Admission from James Orr to undercover reporter came three months before party was given £72m A senior Reform UK official raised questions about whether major donations from billionaire backers Christopher Harborne and Ben Delo would be legal under "
     },
     {
       "id": "feed-dgn5hk",
@@ -194,6 +294,16 @@
       "summary": "RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for Riyadh RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen’s Houthis, flying protective missions over the count"
     },
     {
+      "id": "feed-shtyxg",
+      "title": "Woman killed in shark attack in South Africa",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/woman-65-killed-in-shark-attack-in-south-africa-13601492",
+      "publishedAt": "2026-10-20T18:30:00.000Z",
+      "category": "world",
+      "summary": "A 65-year-old woman was killed in a shark attack at a popular beach on South Africa's southeastern coast, local authorities said."
+    },
+    {
       "id": "feed-enxste",
       "title": "Jackdaw North Sea gasfield to get go-ahead in blow to climate campaigners",
       "source": "The Guardian",
@@ -201,7 +311,7 @@
       "url": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
       "publishedAt": "2026-10-20T18:24:46.000Z",
       "category": "uk",
-      "summary": "Move signals Andy Burnham’s commitment to the North Sea industry but threatens to undermine Labour’s green credentials The Jackdaw gasfield will be given the go-ahead on Wednesday, in a move that signals Andy Burnham’s commitment to the North Sea fossil fuel i"
+      "summary": "Move signals Andy Burnham’s commitment to North Sea industry but threatens to undermine Labour’s green credentials • What does the approval of the Jackdaw gasfield mean? The Jackdaw gasfield will be given the go-ahead on Wednesday, signalling Andy Burnham’s co"
     },
     {
       "id": "feed-hn7r2f",
@@ -211,7 +321,7 @@
       "url": "https://www.theguardian.com/uk-news/2026/oct/20/russell-brand-told-woman-to-clear-up-mess-after-alleged-rape-court-hears",
       "publishedAt": "2026-10-20T18:22:25.000Z",
       "category": "uk",
-      "summary": "Woman says alleged assault at comedian’s London home after gig was one of most painful experiences of her life A woman has said she “couldn’t speak or breathe” when Russell Brand raped her at his London townhouse after picking her out from a crowd after one of"
+      "summary": "Woman says alleged assault at comedian’s London home was one of most painful experiences of her life A woman has said she “couldn’t speak or breathe” when Russell Brand raped her at his London townhouse after picking her out from a crowd after one of his gigs,"
     },
     {
       "id": "feed-1yn7vyz",
@@ -394,16 +504,6 @@
       "summary": "Phil Hamlyn Williams responds to criticism of the Church of England’s plans for reparations Thank you for the excellent research into the rightwing backlash against the Church of England’s proposals for reparations ( Lobbying, lawyers and a media blitz: the fi"
     },
     {
-      "id": "feed-1xa4d5s",
-      "title": "A hankering for fresh herring and the proper British name for ‘sea bass’ | Letters",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/oct/20/a-hankering-for-fresh-herring-and-the-proper-british-name-for-sea-bass",
-      "publishedAt": "2026-10-20T17:05:43.000Z",
-      "category": "uk",
-      "summary": "Elaine Hoare recalls her mother buying five fish for a shilling, while Michael Heaton draws readers’ attention to an Americanism Your article ( Whale meat curry for dinner? Study of bygone seafood recipes shows how UK tastes have narrowed, 13 October ) reminde"
-    },
-    {
       "id": "feed-r1he0c",
       "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
       "source": "BBC News",
@@ -454,46 +554,6 @@
       "summary": "Union furious as bank scraps remote-first policy from February 2027, forcing all UK employees to come in at least twice a week NatWest has ordered 13,000 staff to increase their in-office days from two days a month to two days a week, angering its staff union."
     },
     {
-      "id": "feed-aje3w3",
-      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "publishedAt": "2026-10-20T16:24:05.000Z",
-      "category": "world",
-      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deep"
-    },
-    {
-      "id": "feed-1xrnm0g",
-      "title": "Pair sentenced for human trafficking crimes",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr20w38x814zo",
-      "publishedAt": "2026-10-20T16:14:58.000Z",
-      "category": "uk",
-      "summary": "The pair were arrested in November 2022 in what was described at the time as the PSNI's largest operation against human trafficking."
-    },
-    {
-      "id": "feed-1reorqv",
-      "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-      "publishedAt": "2026-10-20T16:13:25.000Z",
-      "category": "world",
-      "summary": "Government planning tougher security measures as France also says military forces will be deployed Why are people protesting across Europe? Italy’s government is sending 500 soldiers to Milan and vowed a “firm response from the state” after protests against th"
-    },
-    {
-      "id": "feed-zse6qm",
-      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
-      "publishedAt": "2026-10-20T16:11:21.000Z",
-      "category": "world",
-      "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure at an iconic Las Vegas "
-    },
-    {
       "id": "feed-f06dfz",
       "title": "Suspect arrested after historic town hall set alight - French media",
       "source": "BBC News",
@@ -512,16 +572,6 @@
       "publishedAt": "2026-10-20T16:02:03.000Z",
       "category": "uk",
       "summary": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault."
-    },
-    {
-      "id": "feed-1swg41p",
-      "title": "Trendy LA neighborhood’s war over wild coyote erupts after child attacked",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
-      "publishedAt": "2026-10-20T16:00:39.000Z",
-      "category": "world",
-      "summary": "Coyote euthanized after reportedly roaming Atwater Village comfortably for months and attacking one-year-old boy One Los Angeles neighborhood has been at war over a wild coyote, and over the weekend it all came to a head. For months, the animal had been roamin"
     },
     {
       "id": "feed-13ewkov",
@@ -722,16 +772,6 @@
       "publishedAt": "2026-10-20T13:39:11.000Z",
       "category": "world",
       "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult."
-    },
-    {
-      "id": "feed-9383e0",
-      "title": "Royals roll out red carpet for visiting Sultan",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o",
-      "publishedAt": "2026-10-20T13:34:11.000Z",
-      "category": "uk",
-      "summary": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit."
     },
     {
       "id": "feed-1xelw56",
@@ -1300,7 +1340,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo",
       "publishedAt": "2026-10-19T23:08:25.000Z",
-      "category": "world",
+      "category": "science",
       "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence."
     },
     {
@@ -1332,6 +1372,16 @@
       "publishedAt": "2026-10-19T21:12:30.000Z",
       "category": "technology",
       "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail."
+    },
+    {
+      "id": "feed-1c27bl8",
+      "title": "Report set to reveal vast scale of antisemitism in English schools",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/report-set-to-reveal-vast-scale-of-antisemitism-in-english-schools-13601145",
+      "publishedAt": "2026-10-19T20:29:00.000Z",
+      "category": "uk",
+      "summary": "A landmark report is set to detail the vast scale of antisemitism in English schools and colleges, Sky News can reveal."
     },
     {
       "id": "feed-smkkty",
@@ -1384,26 +1434,6 @@
       "summary": "A pack of buyout firms will this week submit initial offers for Flora Food Group, the spreads giant behind brands including I Can't Believe It's Not Butter."
     },
     {
-      "id": "feed-zap38",
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro",
-      "publishedAt": "2026-10-19T16:46:35.000Z",
-      "category": "business",
-      "summary": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\"."
-    },
-    {
-      "id": "feed-6n2h5y",
-      "title": "Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
-      "publishedAt": "2026-10-19T16:21:06.000Z",
-      "category": "business",
-      "summary": "American warship sank in 1944 with approximately 1,400 tonnes of munitions onboard A sunken US wartime ship in the Thames estuary holding enough unexploded bombs to devastate a Kent coastal town and send a tidal wave through London has been made slightly safer"
-    },
-    {
       "id": "feed-u70feu",
       "title": "Capybara pups at Manx zoo draw record crowds",
       "source": "BBC News",
@@ -1412,26 +1442,6 @@
       "publishedAt": "2026-10-19T16:12:09.000Z",
       "category": "science",
       "summary": "Curraghs Wildlife Park has its busiest October weekend ever after the birth of eight capybara pups."
-    },
-    {
-      "id": "feed-aewf85",
-      "title": "Bikes 'not for jousting,' says Lime after duel video",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo",
-      "publishedAt": "2026-10-19T15:44:53.000Z",
-      "category": "business",
-      "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust."
-    },
-    {
-      "id": "feed-1s4ixxi",
-      "title": "King Charles 'sends books about soil' to Aung San Suu Kyi",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026",
-      "publishedAt": "2026-10-19T14:53:00.000Z",
-      "category": "world",
-      "summary": "Myanmar's detained former leader Aung San Suu Kyi has been photographed receiving books and letters from the King Charles, officials said."
     },
     {
       "id": "feed-odycot",
@@ -1744,16 +1754,6 @@
       "summary": "Online grooming is rising, with children as young as five targeted, prompting calls for reform."
     },
     {
-      "id": "feed-dtro2i",
-      "title": "Porn showing choking or incest to be banned from early November, government says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro",
-      "publishedAt": "2026-10-15T23:27:57.000Z",
-      "category": "technology",
-      "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin"
-    },
-    {
       "id": "feed-8p1chz",
       "title": "Norman McCubbin obituary",
       "source": "The Guardian",
@@ -1854,16 +1854,6 @@
       "summary": "A new species of dinosaur has been discovered because of a fossil found on the Isle of Wight that has been \"sitting in a drawer\" for more than a century."
     },
     {
-      "id": "feed-igc08c",
-      "title": "Tech Life",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyk",
-      "publishedAt": "2026-10-13T19:45:00.000Z",
-      "category": "technology",
-      "summary": "The plan for an orbiting data centre involves linking satellites around Earth."
-    },
-    {
       "id": "feed-1qdfiv9",
       "title": "Tech firms promise to take down AI platforms if British secret services show they are unsafe",
       "source": "Sky News",
@@ -1902,6 +1892,16 @@
       "publishedAt": "2026-10-12T16:56:00.000Z",
       "category": "technology",
       "summary": "A Saudi national has been charged with allegedly installing a hidden recording device at OpenAI."
+    },
+    {
+      "id": "feed-aihyai",
+      "title": "Tech Now",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "category": "technology",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }

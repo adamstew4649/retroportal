@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T19:05:10.364Z",
+  "updatedAt": "2026-10-20T19:54:28.324Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-17j2cdh",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T19:45:00.000Z",
+      "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
+    },
+    {
+      "id": "feed-1tvy752",
+      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+      "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T19:42:32.000Z",
+      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination."
+    },
     {
       "id": "feed-1yn7vyz",
       "title": "Google resolves cloud outage affecting UK banks and websites",
@@ -104,14 +120,6 @@
       "summary": "Online grooming is rising, with children as young as five targeted, prompting calls for reform."
     },
     {
-      "id": "feed-dtro2i",
-      "title": "Porn showing choking or incest to be banned from early November, government says",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro",
-      "source": "BBC News",
-      "publishedAt": "2026-10-15T23:27:57.000Z",
-      "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin"
-    },
-    {
       "id": "feed-igc08c",
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyk",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-03T01:00:00.000Z",
       "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco."
-    },
-    {
-      "id": "feed-dd66h5",
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh",
-      "source": "BBC News",
-      "publishedAt": "2026-09-29T19:30:00.000Z",
-      "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice."
     }
   ]
 }
