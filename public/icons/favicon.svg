@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RetroPortal">
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#415670"/>
+      <stop offset="1" stop-color="#182432"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="38%" cy="30%" r="72%">
+      <stop offset="0" stop-color="#a9cbea"/>
+      <stop offset="0.45" stop-color="#76a9e0"/>
+      <stop offset="1" stop-color="#1b334b"/>
+    </radialGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#frame)" stroke="#0d151e" stroke-width="1.5"/>
+  <circle cx="32" cy="29" r="20" fill="url(#orb)" stroke="#b6d3ed" stroke-width="1.6"/>
+  <ellipse cx="25" cy="20" rx="7.5" ry="5" fill="url(#gloss)"/>
+  <path d="M32 13 L38 29 L32 44 L26 29 Z" fill="#eef6ff"/>
+  <path d="M32 13 L38 29 L32 29 Z" fill="#76a9e0"/>
+  <path d="M38 29 L32 44 L32 29 Z" fill="#4b789f"/>
+  <circle cx="32" cy="29" r="2.4" fill="#12202e"/>
+</svg>

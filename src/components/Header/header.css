@@ -1,0 +1,226 @@
+.portal-header {
+  position: relative;
+  z-index: 20;
+  border-bottom: 1px solid color-mix(in srgb, var(--border) 70%, black);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0) 46%),
+    linear-gradient(180deg, var(--header-top), var(--header-bottom));
+  box-shadow:
+    0 2px 8px rgba(0, 0, 0, 0.42),
+    inset 0 1px rgba(255, 255, 255, 0.16),
+    inset 0 -1px rgba(0, 0, 0, 0.4);
+}
+
+.portal-header__inner {
+  width: min(1520px, 100%);
+  margin: 0 auto;
+  min-height: 62px;
+  padding: 8px clamp(14px, 2.4vw, 34px);
+  display: flex;
+  align-items: center;
+  gap: 22px;
+}
+
+.portal-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 0 0 auto;
+}
+
+.portal-brand__orb {
+  display: grid;
+  place-items: center;
+  width: 37px;
+  height: 37px;
+  color: #dceeff;
+  background:
+    radial-gradient(circle at 36% 24%, rgba(255, 255, 255, 0.75), transparent 32%),
+    radial-gradient(circle at 50% 55%, #5b8ec2, #20364c 74%);
+  border: 1px solid rgba(190, 220, 255, 0.55);
+  border-radius: 50%;
+  box-shadow:
+    inset 0 1px rgba(255, 255, 255, 0.45),
+    inset 0 -4px 8px rgba(0, 0, 0, 0.45),
+    0 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+.portal-brand__orb svg {
+  filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.5));
+}
+
+.portal-brand h1 {
+  margin: 0;
+  font-size: 1.42rem;
+  line-height: 1.06;
+  letter-spacing: 0.01em;
+  color: #f3f8ff;
+  text-shadow:
+    0 1px 0 rgba(0, 0, 0, 0.7),
+    0 0 12px rgba(150, 200, 255, 0.18);
+}
+
+.portal-brand p {
+  margin: 2px 0 0;
+  color: color-mix(in srgb, var(--text) 54%, transparent);
+  font-size: 0.66rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.portal-tabs {
+  display: flex;
+  align-items: flex-end;
+  align-self: stretch;
+  gap: 2px;
+  margin-top: 8px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.portal-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.portal-tab {
+  padding: 7px 12px 8px;
+  color: color-mix(in srgb, var(--text) 66%, transparent);
+  font-size: 0.78rem;
+  font-weight: bold;
+  white-space: nowrap;
+  background: transparent;
+  border: 1px solid transparent;
+  border-bottom: 0;
+  border-radius: 6px 6px 0 0;
+  cursor: pointer;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.45);
+}
+
+.portal-tab:hover {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.portal-tab--active,
+.portal-tab--active:hover {
+  color: var(--text);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.17), rgba(255, 255, 255, 0.04));
+  border-color: rgba(255, 255, 255, 0.14);
+  box-shadow: inset 0 1px rgba(255, 255, 255, 0.16);
+}
+
+.portal-header__meta {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex: 0 0 auto;
+}
+
+.portal-datetime {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  line-height: 1.2;
+}
+
+.portal-datetime__time {
+  font-size: 1.12rem;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  color: #f5f9ff;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.65);
+  font-variant-numeric: tabular-nums;
+}
+
+.portal-datetime__date {
+  color: color-mix(in srgb, var(--text) 58%, transparent);
+  font-size: 0.65rem;
+  white-space: nowrap;
+}
+
+.save-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: color-mix(in srgb, var(--text) 55%, transparent);
+  font-size: 0.66rem;
+  white-space: nowrap;
+}
+
+.save-indicator svg {
+  color: #9fd4a8;
+}
+
+.save-indicator--saving svg {
+  color: var(--accent);
+}
+
+.save-indicator--error svg {
+  color: #e3a0a0;
+}
+
+.spin {
+  animation: spin 0.9s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.header-settings-button {
+  min-height: 30px;
+  padding: 5px 11px;
+  font-size: 0.78rem;
+}
+
+@media (max-width: 1180px) {
+  .portal-tabs {
+    display: none;
+  }
+}
+
+@media (max-width: 760px) {
+  .portal-header__inner {
+    gap: 10px;
+    min-height: 56px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+
+  .portal-brand p,
+  .save-indicator,
+  .portal-datetime__date {
+    display: none;
+  }
+
+  .portal-brand h1 {
+    font-size: 1.16rem;
+  }
+
+  .portal-brand__orb {
+    width: 31px;
+    height: 31px;
+  }
+
+  .portal-brand__orb svg {
+    width: 21px;
+    height: 21px;
+  }
+
+  .portal-header__meta {
+    gap: 9px;
+  }
+
+  .header-settings-button span {
+    display: none;
+  }
+
+  .header-settings-button {
+    width: 32px;
+    padding: 0;
+    min-height: 30px;
+  }
+}

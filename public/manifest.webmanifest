@@ -1,0 +1,24 @@
+{
+  "name": "RetroPortal — Dark iGoogle Homepage",
+  "short_name": "RetroPortal",
+  "description": "A dark-mode, iGoogle-inspired personal start page with UK news, weather, feeds, notes and a classic news ticker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#15191f",
+  "theme_color": "#26374c",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

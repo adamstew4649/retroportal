@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RetroPortal Extension Options</title>
+    <link rel="stylesheet" href="options.css" />
+  </head>
+  <body>
+    <main class="options-window">
+      <header class="options-titlebar">
+        <img src="icons/icon-32.png" alt="" width="20" height="20" />
+        <h1>RetroPortal Extension Options</h1>
+      </header>
+
+      <div class="options-body">
+        <p class="intro">
+          Choose how a new tab opens. The settings below are stored with
+          <code>chrome.storage.local</code> and never leave your browser.
+        </p>
+
+        <form id="options-form">
+          <fieldset>
+            <legend>New tab mode</legend>
+
+            <label class="mode-card">
+              <input type="radio" name="mode" value="bundled" checked />
+              <span class="mode-card__content">
+                <span class="mode-card__title">Bundled local homepage</span>
+                <span class="mode-card__description">
+                  Opens the RetroPortal installed inside this extension. Works offline for local
+                  widgets; weather and news still need a connection. No GitHub Pages request is needed
+                  to load the interface. Updates arrive when you install a new extension build.
+                </span>
+              </span>
+            </label>
+
+            <label class="mode-card">
+              <input type="radio" name="mode" value="hosted" />
+              <span class="mode-card__content">
+                <span class="mode-card__title">Hosted GitHub Pages homepage</span>
+                <span class="mode-card__description">
+                  The new-tab page redirects to the published RetroPortal URL. Interface and news
+                  updates appear as soon as GitHub Pages deploys, but the page needs a connection and
+                  is not available offline.
+                </span>
+              </span>
+            </label>
+          </fieldset>
+
+          <label class="field" for="hosted-url">
+            <span>Hosted homepage URL</span>
+            <input
+              id="hosted-url"
+              name="hostedUrl"
+              type="url"
+              placeholder="https://USERNAME.github.io/retroportal/"
+              autocomplete="url"
+            />
+          </label>
+
+          <div class="actions">
+            <button type="submit" class="primary">Save settings</button>
+            <button type="button" id="test-url">Test hosted URL</button>
+          </div>
+          <p id="status" class="status" role="status" aria-live="polite"></p>
+        </form>
+
+        <section class="notes">
+          <h2>Good to know</h2>
+          <ul>
+            <li>Bundled mode does not inject scripts into the hosted site. It runs the same local React build.</li>
+            <li>Hosted mode is a redirect. Your browser's normal new-tab page is still overridden by this extension.</li>
+            <li>Preferences and notes are stored per extension install and per website; they are not synced between the two modes.</li>
+            <li>The extension requests only the <code>storage</code> permission. It never reads browsing history.</li>
+          </ul>
+        </section>
+      </div>
+    </main>
+    <script src="options.js"></script>
+  </body>
+</html>

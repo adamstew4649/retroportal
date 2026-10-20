@@ -1,0 +1,376 @@
+.shortcuts-section {
+  margin: 0 auto 26px;
+}
+
+.section-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 30px;
+  margin-bottom: 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid color-mix(in srgb, var(--border) 48%, transparent);
+}
+
+.section-bar__title {
+  display: flex;
+  align-items: baseline;
+  gap: 9px;
+}
+
+.section-bar h2 {
+  margin: 0;
+  color: var(--text);
+  font-size: 0.86rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.55);
+}
+
+.section-bar__count {
+  color: color-mix(in srgb, var(--muted) 80%, transparent);
+  font-size: 0.7rem;
+}
+
+.section-bar__actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: auto;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.shortcuts-done {
+  min-height: 24px;
+  padding: 2px 10px;
+  font-size: 0.74rem;
+}
+
+.shortcut-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 10px;
+}
+
+.shortcut-filter__button {
+  padding: 2px 9px;
+  color: color-mix(in srgb, var(--muted) 92%, transparent);
+  font-size: 0.7rem;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 3px 3px 0 0;
+  cursor: pointer;
+}
+
+.shortcut-filter__button:hover {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.shortcut-filter__button--active {
+  color: var(--text);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.13), rgba(255, 255, 255, 0.02));
+  border-color: color-mix(in srgb, var(--border) 65%, transparent);
+  box-shadow: inset 0 1px rgba(255, 255, 255, 0.1);
+}
+
+.shortcuts-edit-hint {
+  margin: -4px 0 9px;
+  color: var(--muted);
+  font-size: 0.7rem;
+}
+
+.shortcut-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  min-height: 40px;
+}
+
+.shortcut-tile {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  width: 112px;
+  min-height: 88px;
+  padding: 10px 6px 9px;
+  overflow: hidden;
+  color: var(--text);
+  text-align: center;
+  text-decoration: none;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.14), rgba(255, 255, 255, 0.01) 48%),
+    linear-gradient(180deg, color-mix(in srgb, var(--widget-bg) 92%, white), color-mix(in srgb, var(--widget-bg) 76%, black));
+  border: 1px solid color-mix(in srgb, var(--border) 78%, black);
+  border-radius: 8px;
+  box-shadow:
+    inset 0 1px rgba(255, 255, 255, 0.16),
+    inset 0 -1px rgba(0, 0, 0, 0.3),
+    0 2px 5px rgba(0, 0, 0, 0.28);
+  transition:
+    transform 110ms ease,
+    border-color 110ms ease,
+    box-shadow 110ms ease,
+    background 110ms ease;
+}
+
+a.shortcut-tile:hover {
+  color: var(--text);
+  border-color: color-mix(in srgb, var(--accent) 55%, var(--border));
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.03) 50%),
+    linear-gradient(180deg, color-mix(in srgb, var(--widget-bg) 86%, white), color-mix(in srgb, var(--widget-bg) 74%, black));
+  box-shadow:
+    inset 0 1px rgba(255, 255, 255, 0.22),
+    0 3px 9px rgba(0, 0, 0, 0.36),
+    0 0 0 1px color-mix(in srgb, var(--accent) 18%, transparent);
+  transform: translateY(-1px);
+}
+
+a.shortcut-tile:active {
+  transform: translateY(1px);
+  box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.shortcut-tile__gloss {
+  position: absolute;
+  inset: 0 0 52%;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.09), transparent);
+  border-radius: 7px 7px 40% 40%;
+  pointer-events: none;
+}
+
+.shortcut-tile__label {
+  position: relative;
+  z-index: 1;
+  max-width: 100%;
+  overflow: hidden;
+  color: color-mix(in srgb, var(--text) 92%, transparent);
+  font-size: 0.72rem;
+  font-weight: bold;
+  line-height: 1.15;
+  text-overflow: ellipsis;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.65);
+  white-space: nowrap;
+}
+
+.shortcut-icon {
+  position: relative;
+  z-index: 1;
+  display: block;
+  flex: 0 0 auto;
+  object-fit: contain;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.5));
+}
+
+.shortcut-icon--large {
+  width: 32px;
+  height: 32px;
+}
+
+.shortcut-icon--small {
+  width: 22px;
+  height: 22px;
+}
+
+.shortcut-icon--text {
+  display: grid;
+  place-items: center;
+  color: #e9f3ff;
+  font-size: 0.92rem;
+  font-weight: bold;
+  background:
+    radial-gradient(circle at 35% 25%, rgba(255, 255, 255, 0.4), transparent 45%),
+    linear-gradient(180deg, var(--header-top), var(--header-bottom));
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.6);
+}
+
+.shortcut-icon--text.shortcut-icon--small {
+  width: 22px;
+  height: 22px;
+  font-size: 0.68rem;
+}
+
+.shortcut-grid--compact {
+  gap: 6px;
+}
+
+.shortcut-tile--compact {
+  width: 82px;
+  min-height: 62px;
+  gap: 4px;
+  padding: 7px 4px 6px;
+  border-radius: 7px;
+}
+
+.shortcut-tile--compact .shortcut-tile__label {
+  font-size: 0.65rem;
+}
+
+.shortcut-tile--editing {
+  border-style: dashed;
+  border-color: color-mix(in srgb, var(--accent) 42%, var(--border));
+  cursor: default;
+}
+
+.shortcut-tile--dragging {
+  border-color: var(--accent);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+.shortcut-tile__drag {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  z-index: 3;
+  display: grid;
+  place-items: center;
+  width: 18px;
+  height: 18px;
+  padding: 0;
+  color: var(--muted);
+  background: rgba(0, 0, 0, 0.28);
+  border: 0;
+  border-radius: 3px;
+  cursor: grab;
+  touch-action: none;
+}
+
+.shortcut-tile__drag:hover {
+  color: var(--text);
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.shortcut-tile__drag:active {
+  cursor: grabbing;
+}
+
+.shortcut-tile__actions {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  z-index: 3;
+  display: flex;
+  gap: 2px;
+}
+
+.shortcut-tile__action {
+  display: grid;
+  place-items: center;
+  width: 18px;
+  height: 18px;
+  padding: 0;
+  color: var(--muted);
+  background: rgba(0, 0, 0, 0.3);
+  border: 0;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.shortcut-tile__action:hover {
+  color: var(--text);
+  background: color-mix(in srgb, var(--accent) 55%, #202528);
+}
+
+.shortcut-tile__action--danger:hover {
+  background: #7b3434;
+}
+
+.shortcut-add-tile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  width: 112px;
+  min-height: 88px;
+  color: var(--muted);
+  font-size: 0.7rem;
+  background: rgba(0, 0, 0, 0.1);
+  border: 1px dashed color-mix(in srgb, var(--border) 80%, transparent);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.shortcut-add-tile:hover {
+  color: var(--text);
+  border-color: color-mix(in srgb, var(--accent) 55%, transparent);
+  background: rgba(118, 169, 224, 0.08);
+}
+
+.shortcut-editor-preview {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 10px;
+  background: rgba(0, 0, 0, 0.15);
+  border: 1px solid color-mix(in srgb, var(--border) 60%, transparent);
+  border-radius: 6px;
+}
+
+.shortcut-editor-preview__tile {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  background: linear-gradient(180deg, var(--widget-bg), color-mix(in srgb, var(--widget-bg) 78%, black));
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  font-size: 0.78rem;
+}
+
+.category-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.category-row .retro-field {
+  flex: 1;
+}
+
+.category-row__count {
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-size: 0.7rem;
+  white-space: nowrap;
+}
+
+@media (max-width: 700px) {
+  .shortcut-tile,
+  .shortcut-add-tile {
+    width: calc(25% - 7px);
+    min-width: 72px;
+    min-height: 76px;
+  }
+
+  .shortcut-tile__label {
+    font-size: 0.66rem;
+  }
+
+  .section-bar {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .section-bar__actions {
+    width: 100%;
+    justify-content: flex-start;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 430px) {
+  .shortcut-tile,
+  .shortcut-add-tile {
+    width: calc(33.33% - 6px);
+  }
+}
