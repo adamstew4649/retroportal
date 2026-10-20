@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T13:10:58.245Z",
+  "updatedAt": "2026-10-20T14:02:08.336Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1xewfud",
+      "title": "Huge fin whale filmed off Welsh coast",
+      "link": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T13:42:22.000Z",
+      "summary": "Rhys Morgan captured footage of the world's second-largest whale species lunge feeding on his drone."
+    },
     {
       "id": "feed-14qjjx5",
       "title": "Moment giant fin whale's huge mouth engulfs thousands of gallons of water",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-18T19:22:31.000Z",
       "summary": "Without a mitigation strategy the effect on the creatures would be \"major\", a survey says."
-    },
-    {
-      "id": "feed-b1uzep",
-      "title": "Fuel leak spreads more than two miles along River Taff",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-18T19:20:57.000Z",
-      "summary": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell."
     }
   ]
 }
