@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T09:03:40.799Z",
-  "generatedAt": "2026-10-20T09:03:40.799Z",
+  "updatedAt": "2026-10-20T09:56:39.861Z",
+  "generatedAt": "2026-10-20T09:56:39.861Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 7
     },
     {
       "id": "bbc-world",
@@ -104,24 +104,214 @@
   ],
   "articles": [
     {
-      "id": "feed-xod51x",
-      "title": "Pound jumps after surprise fall in UK unemployment rate, but vacancies dry up amid ‘jobs drought’ – business live",
+      "id": "feed-1pdg781",
+      "title": "Badenoch calls for benefit cuts to fund defence spending in pre-budget speech – UK politics live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-      "publishedAt": "2026-10-20T08:59:52.000Z",
-      "category": "business",
-      "summary": "Rolling coverage of the latest economic and financial news The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that empl"
+      "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+      "publishedAt": "2026-10-20T09:49:25.000Z",
+      "category": "world",
+      "summary": "Conservative leader gives speech as Treasury sources say Healey has ruled out a rise in capital gains tax Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth "
     },
     {
-      "id": "feed-12nd2ye",
-      "title": "Three children injured after school bus crashes into railway bridge",
+      "id": "feed-13ve58d",
+      "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "publishedAt": "2026-10-20T09:45:40.000Z",
+      "category": "world",
+      "summary": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests Meanwhile, the EU’s trade commissioner Maroš Šefčovič said the bloc’s relationship with the UK is of “vital importance in the current geopolitical, security and "
+    },
+    {
+      "id": "feed-34t1ip",
+      "title": "Millions unable to use Revolut app or cards as company suffers ‘service disruption’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
+      "publishedAt": "2026-10-20T09:45:39.000Z",
+      "category": "world",
+      "summary": "UK banking company insists customers’ funds and data are safe despite problems with sign-in, card payments, transfers and withdrawals Business live – latest updates Revolut customers have been unable to access their money after the banking app went down, affec"
+    },
+    {
+      "id": "feed-16r3q8d",
+      "title": "South Africa v Australia: second men’s cricket Test, day three – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates",
+      "publishedAt": "2026-10-20T09:44:30.000Z",
+      "category": "uk",
+      "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 47th over: South Africa 106-5 (Bavuma 42, Mulder 10) Bavuma looks intent on settling in. Cummins gives him a couple of bouncers, but he’s very happy to get out o"
+    },
+    {
+      "id": "feed-1uq2250",
+      "title": "Three children injured after school bus roof ripped off in crash",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o",
-      "publishedAt": "2026-10-20T08:59:12.000Z",
+      "publishedAt": "2026-10-20T09:44:27.000Z",
       "category": "uk",
       "summary": "Gwent Police received a report of a school bus crash on Tregare Street, Newport, on Tuesday morning."
+    },
+    {
+      "id": "feed-ua14jd",
+      "title": "Storm Austen to bring severe gales to UK as weather warning issued",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo",
+      "publishedAt": "2026-10-20T09:42:56.000Z",
+      "category": "science",
+      "summary": "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday."
+    },
+    {
+      "id": "feed-1joq2ef",
+      "title": "Are you a first-time buyer in England? Would the government’s Your First Home scheme help you?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/money/2026/oct/20/are-you-a-first-time-buyer-in-england-would-the-governments-your-first-home-scheme-help-you",
+      "publishedAt": "2026-10-20T09:42:47.000Z",
+      "category": "uk",
+      "summary": "We would like to speak to people in England who are planning to buy a new-build flat or house as their first home Last month, the government announced plans for Your First Home (YFH) , a scheme which aims to give a helping hand to first-time buyers who do not "
+    },
+    {
+      "id": "feed-qpmwav",
+      "title": "Pakistan v England: men’s tri-series cricket ODI – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live",
+      "publishedAt": "2026-10-20T09:42:42.000Z",
+      "category": "uk",
+      "summary": "Over-by-over updates from Rawalpindi (9am BST) Brook relishing responsibility | Get in touch! Mail Tim 12th over: Pakistan 51-2 (Babar Azam 29, Saad Baig 11) Atkinson gets a breather after a solid opening spell (5-0-22-1). On comes Jamie Overton, the Liam Plun"
+    },
+    {
+      "id": "feed-17xvqyx",
+      "title": "Revolut hit by service disruption as Google Cloud services suffer technical problems in London – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
+      "publishedAt": "2026-10-20T09:41:58.000Z",
+      "category": "uk",
+      "summary": "Rolling coverage of the latest economic and financial news The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that empl"
+    },
+    {
+      "id": "feed-4a49a4",
+      "title": "Jobless rate falls but small firms cut back hiring",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o",
+      "publishedAt": "2026-10-20T09:31:29.000Z",
+      "category": "uk",
+      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
+    },
+    {
+      "id": "feed-1mnejax",
+      "title": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
+      "publishedAt": "2026-10-20T09:18:58.000Z",
+      "category": "uk",
+      "summary": "Victoria police arrested the 43-year-old Tarrawingee man on Monday afternoon after the incident in Wangaratta Who is Helen Haines, the MP allegedly attacked in Victoria? Brendan Nugent’s family say Haines has been their friend for more than 20 years Get our ne"
+    },
+    {
+      "id": "feed-dgcq8z",
+      "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+      "publishedAt": "2026-10-20T09:13:34.000Z",
+      "category": "world",
+      "summary": "Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years ‘I don’t want to be known as a hero’: barber who rushed to "
+    },
+    {
+      "id": "feed-6o95kb",
+      "title": "Man charged after Australian MP struck by vehicle",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/man-charged-after-australian-mp-struck-by-vehicle-13601264",
+      "publishedAt": "2026-10-20T09:11:00.000Z",
+      "category": "world",
+      "summary": "Police have charged a man after an Australian MP was hit by a vehicle, causing her to undergo a leg amputation."
+    },
+    {
+      "id": "feed-53l56h",
+      "title": "Alberta voters reject plan for referendum to leave Canada",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "publishedAt": "2026-10-20T09:02:43.000Z",
+      "category": "uk",
+      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and suppor"
+    },
+    {
+      "id": "feed-14ouepc",
+      "title": "I thought my phone couldn’t be any worse for my brain – then I started watching microdramas on it | Imogen West-Knights",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/phone-brain-started-watching-microdramas",
+      "publishedAt": "2026-10-20T09:01:57.000Z",
+      "category": "uk",
+      "summary": "I have long known that internet detritus is bad for me. But with these dramas told in episodes under two minutes, I swear I can actually feel the damage being done Seven or eight years ago, a new kind of televisual entertainment was born in China. Microdramas:"
+    },
+    {
+      "id": "feed-h9ehg7",
+      "title": "Excessive wealth, extreme emissions – and ecocide: what I learned at Europe’s big superyacht show",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/news/2026/oct/20/excessive-wealth-extreme-emissions-and-ecocide-what-i-learned-at-europes-big-superyacht-show",
+      "publishedAt": "2026-10-20T09:00:22.000Z",
+      "category": "uk",
+      "summary": "These yachts are highly popular with the ‘super-bourgeoisie’ – and getting bigger. Can anything be done to stop them destroying our seas? Who knew? Apparently everyone did, apart from me: you don’t wear shoes on a superyacht. Now, about to step on to my first "
+    },
+    {
+      "id": "feed-gqtk7f",
+      "title": "‘It speaks very poorly of us as a society’: Lawrence Wright on his book on death row and redemption",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/books/2026/oct/20/lawrence-wright-book-death-row",
+      "publishedAt": "2026-10-20T09:00:22.000Z",
+      "category": "uk",
+      "summary": "The Pulitzer prize-winning writer’s new book looks at the women on death row in Texas and the nuns who have been trying to help them It is “stunning”, the Pulitzer-winning reporter Lawrence Wright said, that Redemption, his new book about women on death row in"
+    },
+    {
+      "id": "feed-1sc3mhu",
+      "title": "NBA 2026-27 season predictions: A Knicks repeat and LeBron’s villain arc",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/20/nba-2026-27-season-predictions-a-knicks-repeat-and-lebrons-villain-arc",
+      "publishedAt": "2026-10-20T09:00:22.000Z",
+      "category": "uk",
+      "summary": "Our writers give their verdicts on the new season, which tips off Tuesday. Who will claim the title? And which youngster will make the superstar leap? Seeing all the fruits borne of an incredible summer of player movement. It feels like three years ago that Gi"
+    },
+    {
+      "id": "feed-j4rd0u",
+      "title": "‘I survived for a reason’: Aberfan fights to preserve memory of disaster 60 years on",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/telling-our-story-means-it-matters-60-years-after-aberfan-disaster-survivors-fight-to-keep-memory-alive",
+      "publishedAt": "2026-10-20T09:00:21.000Z",
+      "category": "uk",
+      "summary": "With living memory fading and thousands of Welsh coal tips still posing a threat, a community robbed of justice reflects on how to keep legacy alive David Davies was eight years old when he survived the coal tip slide that killed a generation of children in th"
+    },
+    {
+      "id": "feed-6mauxg",
+      "title": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
+      "publishedAt": "2026-10-20T09:00:21.000Z",
+      "category": "uk",
+      "summary": "Apparent attempt to hack Rade Bajić’s iPhone comes amid efforts to undermine landmark criminal case A Serbian prosecutor who investigated the authorities’ allegedly illegal scheme to help the Trumps build a tower in Belgrade has been targeted with advanced spy"
+    },
+    {
+      "id": "feed-jfvsl5",
+      "title": "Houseplant hacks: will trimming brown leaf tips do any harm?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/20/houseplant-hacks-will-trimming-brown-leaf-tips-do-any-harm",
+      "publishedAt": "2026-10-20T09:00:21.000Z",
+      "category": "uk",
+      "summary": "Cutting out dead material will make the plant look better without damaging it. But be careful not to slice into the living leaf The problem You can really love your plants and still be rewarded with crispy, brown leaf tips. While they won’t kill your plant, th"
     },
     {
       "id": "feed-haws4i",
@@ -134,6 +324,16 @@
       "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
     },
     {
+      "id": "feed-2g8ggu",
+      "title": "Ex-Greens co-leader urges council groups to reject Zionism policy",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/oct/20/greens-adrian-ramsay-council-groups-reject-zionism-racism-policy",
+      "publishedAt": "2026-10-20T08:55:36.000Z",
+      "category": "uk",
+      "summary": "Exclusive: Adrian Ramsay calls conference motion a distraction and says councillors should maintain coalitions where possible UK politics live – latest updates Adrian Ramsay, the former co-leader of the Greens, has urged his party’s councillors to reject the n"
+    },
+    {
       "id": "feed-61gu96",
       "title": "Burnham vows end to 'rip-off parking charges' under new rules",
       "source": "BBC News",
@@ -142,26 +342,6 @@
       "publishedAt": "2026-10-20T08:55:02.000Z",
       "category": "uk",
       "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished."
-    },
-    {
-      "id": "feed-16r3q8d",
-      "title": "South Africa v Australia: second men’s cricket Test, day three – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates",
-      "publishedAt": "2026-10-20T08:54:59.000Z",
-      "category": "uk",
-      "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 47th over: South Africa 106-5 (Bavuma 42, Mulder 10) Bavuma looks intent on settling in. Cummins gives him a couple of bouncers, but he’s very happy to get out o"
-    },
-    {
-      "id": "feed-qpmwav",
-      "title": "Pakistan v England: men’s tri-series cricket ODI – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live",
-      "publishedAt": "2026-10-20T08:52:24.000Z",
-      "category": "uk",
-      "summary": "Over-by-over updates from Rawalpindi (9am BST) Brook relishing responsibility | Get in touch! Mail Tim 11th over: Pakistan 50-2 (Babar Azam 28, Saad Baig 11) As Jacks continues, the batters finally begin to milk him. They take four singles, but one is off the "
     },
     {
       "id": "feed-16f9mzr",
@@ -174,16 +354,6 @@
       "summary": "A report finds women who were forced into prostitution as teenagers, advertised online, drugged and moved through cities."
     },
     {
-      "id": "feed-y8ymuc",
-      "title": "Job vacancies fall as small firms cut back on recruitment",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o",
-      "publishedAt": "2026-10-20T08:49:49.000Z",
-      "category": "uk",
-      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
-    },
-    {
       "id": "feed-11il6yj",
       "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
       "source": "BBC News",
@@ -192,16 +362,6 @@
       "publishedAt": "2026-10-20T08:46:00.000Z",
       "category": "uk",
       "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday."
-    },
-    {
-      "id": "feed-128k1cb",
-      "title": "Badenoch says Healey’s budget will be worse than Reeves’s if he doesn’t slash spending – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-      "publishedAt": "2026-10-20T08:45:40.000Z",
-      "category": "world",
-      "summary": "Conservative leader to give a speech later, while Treasury sources say Healey has ruled out a rise in capital gains tax Angela Rayner , the housing secretary, was the government voice in the broadcasting studios this morning. Asked on the Today programme if sh"
     },
     {
       "id": "feed-1cd5b9f",
@@ -224,6 +384,16 @@
       "summary": "Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’ Business live – news updates Healey to reject calls to raise CGT in budget Unemployment in the UK has fallen unexpectedly in the final sn"
     },
     {
+      "id": "feed-6xuiz1",
+      "title": "Britain's first storm of the season named",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/britains-first-storm-of-the-season-named-13601253",
+      "publishedAt": "2026-10-20T08:39:00.000Z",
+      "category": "uk",
+      "summary": "Britain's first named storm of the season is due to hit this week."
+    },
+    {
       "id": "feed-wtuzs7",
       "title": "What is the Budget and what could be in it?",
       "source": "BBC News",
@@ -232,26 +402,6 @@
       "publishedAt": "2026-10-20T08:31:36.000Z",
       "category": "business",
       "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
-    },
-    {
-      "id": "feed-13ve58d",
-      "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-      "publishedAt": "2026-10-20T08:29:13.000Z",
-      "category": "world",
-      "summary": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests Meanwhile, president Emmanuel Macron has secured the delivery of an additional 200,000 tonnes of diesel per month from the United Arab Emirates and Bahrain durin"
-    },
-    {
-      "id": "feed-dgcq8z",
-      "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
-      "publishedAt": "2026-10-20T08:22:45.000Z",
-      "category": "uk",
-      "summary": "Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years ‘I don’t want to be known as a hero’: barber who rushed to "
     },
     {
       "id": "feed-1z0yse3",
@@ -294,6 +444,16 @@
       "summary": "A scrappy girl discovers her tribe – which includes a vegan vampire – at a school for top scarers in this entertaining pre-teen animation In films, twins are usually written as either identical personalities or complete and total opposites, and it’s the latter"
     },
     {
+      "id": "feed-16tk9ga",
+      "title": "Predatory teacher who sexually abused 12 schoolboys while 'hiding in plain sight' jailed",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/predatory-paisley-teacher-who-sexually-abused-12-pupils-jailed-for-four-years-13600903",
+      "publishedAt": "2026-10-20T08:00:00.000Z",
+      "category": "uk",
+      "summary": "A predatory Renfrewshire teacher who sexually abused schoolboys while \"hiding in plain sight\" has been jailed for four years."
+    },
+    {
       "id": "feed-wf44tu",
       "title": "Criminals detained in hospital set to lose benefits",
       "source": "BBC News",
@@ -320,7 +480,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/oct/20/john-healey-no-capital-gains-tax-rise-budget",
       "publishedAt": "2026-10-20T07:27:40.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Cabinet colleagues have previously called for an increase but chancellor feels it might ultimately cost the Treasury UK politics live – latest updates John Healey will not raise capital gains tax in next week’s budget, despite previous calls to do so from cabi"
     },
     {
@@ -331,17 +491,7 @@
       "url": "https://news.sky.com/story/thames-water-creditors-secure-labours-hutton-to-drive-rescue-deal-13601230",
       "publishedAt": "2026-10-20T07:12:00.000Z",
       "category": "business",
-      "summary": "The consortium of Thames Water creditors looking to rescue Britain's largest supplier has appointed a former senior Labour minister in a bid to help get a deal past government opposition."
-    },
-    {
-      "id": "feed-2mkvx2",
-      "title": "Do not be distracted by global crises. Nature cannot wait for a better year – we must act now | Steven Guilbeault",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/oct/20/do-not-be-distracted-by-other-global-crises-nature-cannot-wait-for-a-better-year-we-must-act-now",
-      "publishedAt": "2026-10-20T07:00:20.000Z",
-      "category": "uk",
-      "summary": "In 2022, I helped push through the international agreement to protect biodiversity. Wars and economic pressures can make nature seem like a ‘nice-to-have’. But it is a critical asset, and Cop17 must deliver real action When I was five, property developers came"
+      "summary": "The consortium of Thames Water creditors looking to rescue Britain's largest supplier of its kind has appointed a former senior Labour minister in a bid to help get a deal past government opposition."
     },
     {
       "id": "feed-d812vc",
@@ -350,38 +500,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/artanddesign/2026/oct/20/ghent-design-museum-co2-absorbing-recycling",
       "publishedAt": "2026-10-20T07:00:19.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Inspired by a gothic cathedral partly built using human bones, this gleaming monument to recycling boasts 62,000 bricks derived from construction waste – each made by the public during a two-day brick-making festival Museums often try to reflect the world arou"
-    },
-    {
-      "id": "feed-dbrpmj",
-      "title": "Dwight Yorke: ‘I’m not a kid trying to get into management – I’m a manager’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/20/dwight-yorke-interview-manager-ghana-trinidad-and-tobago",
-      "publishedAt": "2026-10-20T07:00:19.000Z",
-      "category": "uk",
-      "summary": "Ghana may soon come calling for Trinidad and Tobago’s former captain and manager, who is proud of his CV since his days as a Premier League striker Dwight Yorke wants you to stop calling him a former player. “I’m not a kid trying to get into management for the"
-    },
-    {
-      "id": "feed-aq7ehx",
-      "title": "Villarreal’s Iñigo Pérez ready to meet Iraola again in test of old bond",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-inigo-perez-iraola-test-of-old-bond",
-      "publishedAt": "2026-10-20T07:00:19.000Z",
-      "category": "uk",
-      "summary": "Refused a work permit at Bournemouth, Pérez comes face to face with Liverpool’s head coach in Champions League On Iñigo Pérez’s first day as a head coach he took a call from Andoni Iraola, just as he had every day for months. They had known each other for 22 y"
-    },
-    {
-      "id": "feed-8vw3jb",
-      "title": "What’s the future for the Green Party? Should it be socialism? | Joe Todd",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/future-green-party-socialism-labour-radical-reform",
-      "publishedAt": "2026-10-20T07:00:18.000Z",
-      "category": "uk",
-      "summary": "The party must aspire to be more than a Labour pressure group. It should offer a vision for radical reform – and ways to implement it It’s a strange time to be a Green. We have just held our largest conference ever, but it was overshadowed by a controversial m"
     },
     {
       "id": "feed-1js6pev",
@@ -420,12 +540,12 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests",
       "publishedAt": "2026-10-20T06:30:18.000Z",
-      "category": "uk",
-      "summary": "​After a protest clip went viral, a teenager’s life was torn apart by threats that sent her and her family into hiding. Plus, a book on citizen journalism Before 24 July, a person I will call R was preoccupied with the ordinary routines of teenage life: experi"
+      "category": "world",
+      "summary": "​After a protest clip went viral, a teenager’s life was torn apart by threats that sent her and her family into hiding. Plus, a book on citizen journalism • Don’t get This is India delivered to your inbox? Sign up here Before 24 July, a person I will call R wa"
     },
     {
-      "id": "feed-4wnyu4",
-      "title": "Helen Haines loses a leg and surgeons fight to save the other after alleged attack outside electorate office – as it happened",
+      "id": "feed-1mgmmto",
+      "title": "Human rights commission says ‘violence has no place in our society’ after alleged attack – as it happened",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
@@ -444,53 +564,13 @@
       "summary": "Online betting was the ‘direct and paramount’ cause behind Kyle Hudson’s decision to take his own life, inquest finds Get our breaking news email , free app or daily news podcast Kyle Hudson was “a young man brimming with promise”, with a loving and supportive"
     },
     {
-      "id": "feed-bdij07",
-      "title": "‘Lack of curiosity’ about family’s religious beliefs was ‘missed opportunity’ to save eight-year-old, inquest hears",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/elizabeth-struhs-death-inquest-saints-religious-sect-coroner-evidence-ntwnfb",
-      "publishedAt": "2026-10-20T06:28:57.000Z",
-      "category": "world",
-      "summary": "Coroner says she’s considering adopting recommendations from Victoria’s cults inquiry as investigation into Elizabeth Struh’s death continues Get our breaking news email , free app or daily news podcast The coroner investigating the death of Elizabeth Struhs i"
-    },
-    {
-      "id": "feed-1abep49",
-      "title": "Why have countries been pushing for a vital global climate report to be delayed?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/oct/20/countries-pushing-vital-global-climate-report-delayed",
-      "publishedAt": "2026-10-20T06:00:20.000Z",
-      "category": "uk",
-      "summary": "Saudi Arabia, Russia and China among those claiming developed countries have skewed findings of IPCC review The Intergovernmental Panel on Climate Change suspended an important meeting on Friday in Addis Ababa without setting out a firm timetable for its next "
-    },
-    {
-      "id": "feed-180nwi0",
-      "title": "‘How green are our valleys?’: in the footsteps of miners on south Wales’s new forest trail",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/travel/2026/oct/20/south-wales-new-forest-trail-old-mining-villages",
-      "publishedAt": "2026-10-20T06:00:20.000Z",
-      "category": "uk",
-      "summary": "The first stage of an ambitious new hiking route that will link woodlands across Wales takes walkers into the wild hills above the valleys’ old mining villages Bracken and heather ripple across the plateau. I exhale into the chill autumn air and my breath mist"
-    },
-    {
-      "id": "feed-zvl2v3",
-      "title": "The ‘Finger cutter’ and the ‘Brazilian Escobar’: the men accused of bringing cocaine cartels to Europe",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/global-development/2026/oct/20/the-finger-cutter-and-the-brazilian-escobar-the-men-accused-of-bringing-cocaine-cartels-to-europe",
-      "publishedAt": "2026-10-20T06:00:19.000Z",
-      "category": "uk",
-      "summary": "A Belgian criminal organisation’s links with a Brazilian cocaine gang have been the focus of a major trial in Brussels, where smuggling links have been alleged between European players and the drug cartels of Latin America In the early hours of 7 September, a "
-    },
-    {
       "id": "feed-1jgegaj",
       "title": "‘No real sense of appeal’: Vinted sellers complain of unfair account ‘bans’",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/money/2026/oct/20/vinted-sellers-banned-sales",
       "publishedAt": "2026-10-20T06:00:19.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Some users claim online marketplace’s automated systems stack odds against them when sales go wrong After Catherine Warrilow sold a Zara necklace for £6 on Vinted, she packed it up and posted it off, just as she had done with many things before. Only this time"
     },
     {
@@ -510,7 +590,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
       "publishedAt": "2026-10-20T06:00:18.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line – or just around the corner ‘Don’t fear the dead – and don’t fe"
     },
     {
@@ -524,26 +604,6 @@
       "summary": "Around one in eight 16- to 24-year-olds are ‘Neet’ – and Alan Milburn is hinting that the overhaul of their support may be controversial With nearly 1 million young people not in education, employment or training (a cohort known as “Neets”), the government and"
     },
     {
-      "id": "feed-1fkpdd5",
-      "title": "Alberta voters reject plan for referendum to leave Canada, CBC projects",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "publishedAt": "2026-10-20T05:50:03.000Z",
-      "category": "world",
-      "summary": "Projection delivers a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process toward independence, the national broadcaster CBC has projected, delivering a vi"
-    },
-    {
-      "id": "feed-ks1vst",
-      "title": "Tuesday briefing: Can Andy Burnham beat Britain’s headphone dodgers?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/20/tuesday-briefing-can-andy-burnham-beat-britains-headphone-dodgers",
-      "publishedAt": "2026-10-20T05:44:25.000Z",
-      "category": "world",
-      "summary": "In today’s newsletter: The prime minister’s campaign against noisy passengers has struck a chord with commuters. Whether anyone hears him remains to be seen. Good morning. Me again, back from the October school holiday (a week in glorious Wales, thanks for ask"
-    },
-    {
       "id": "feed-fsudj9",
       "title": "The British island where red squirrels are thriving",
       "source": "BBC News",
@@ -552,16 +612,6 @@
       "publishedAt": "2026-10-20T05:38:30.000Z",
       "category": "science",
       "summary": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\"."
-    },
-    {
-      "id": "feed-1wz76j6",
-      "title": "Australian MP loses leg after car 'reversed to hit her a second time'",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/australian-mp-loses-leg-after-car-reversed-to-hit-her-a-second-time-13601198",
-      "publishedAt": "2026-10-20T05:36:00.000Z",
-      "category": "world",
-      "summary": "An Australian MP has had a leg amputated after a man allegedly drove into her and reversed to hit her a second time."
     },
     {
       "id": "feed-1w0nnw5",
@@ -634,16 +684,6 @@
       "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
     },
     {
-      "id": "feed-bylbfz",
-      "title": "Royal Exchange boss unveils new plays two years after damaging censorship row",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/stage/2026/oct/20/royal-exchange-theatre-boss-selina-cartmell-new-plays-censorship-row",
-      "publishedAt": "2026-10-20T05:00:17.000Z",
-      "category": "world",
-      "summary": "Selina Cartmell announces season including Stockport-set version of Phaedra myth by Simon Stephens A theatre boss has promised to channel the “pioneering spirit of Manchester” and be “brave and fearless” as she unveiled a new season of work, two years after a "
-    },
-    {
       "id": "feed-zv8w0x",
       "title": "Don’t be fooled. The AI that was supposed to save us time is doing just the opposite | Gaby Hinsliff",
       "source": "The Guardian",
@@ -684,16 +724,6 @@
       "summary": "Hundreds of holiday-let properties are operating in Edinburgh despite being refused planning permission, new figures show."
     },
     {
-      "id": "feed-19nst27",
-      "title": "The Papers: 'The French correction' and 'Labour cuts £2bn from Army'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7y0vkz2yno",
-      "publishedAt": "2026-10-20T04:47:29.000Z",
-      "category": "uk",
-      "summary": "Violent unrest in France continues and Defence drops funding for frontline military vehicles lead Tuesday's papers."
-    },
-    {
       "id": "feed-tloj5y",
       "title": "UK unemployment rate falls to lowest level since July last year",
       "source": "Sky News",
@@ -722,6 +752,16 @@
       "publishedAt": "2026-10-20T04:01:00.000Z",
       "category": "world",
       "summary": "Donald Trump's approval rating has fallen to a record low - indicating that next month's midterm elections could be punishing for the Republicans."
+    },
+    {
+      "id": "feed-13vxi5v",
+      "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
+      "publishedAt": "2026-10-20T04:00:15.000Z",
+      "category": "technology",
+      "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom"
     },
     {
       "id": "feed-1qn2y1h",
@@ -772,16 +812,6 @@
       "publishedAt": "2026-10-20T02:29:19.000Z",
       "category": "technology",
       "summary": "After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under way Get our breaking news email , free app or daily news podcast The world is holding its breath as it waits to fin"
-    },
-    {
-      "id": "feed-1v0ow0u",
-      "title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
-      "publishedAt": "2026-10-20T02:01:22.000Z",
-      "category": "world",
-      "summary": "President at Kansas rally tries to turn protests into cautionary tale for US as Republicans face midterm losses Explainer: why are people protesting across Europe? As Republicans confront mounting political headwinds ahead of November’s midterm elections, Dona"
     },
     {
       "id": "feed-85imed",
@@ -854,14 +884,24 @@
       "summary": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India."
     },
     {
-      "id": "feed-oh84ph",
-      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+      "id": "feed-13nmiql",
+      "title": "The singles choosing in-person dating events over apps",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo",
       "publishedAt": "2026-10-19T23:00:21.000Z",
       "category": "uk",
       "summary": "The BBC hears from people who think dating events are better value for money than dating apps."
+    },
+    {
+      "id": "feed-asg7ze",
+      "title": "The first Aberfan man to call for help",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/ckx2q5l72glvo",
+      "publishedAt": "2026-10-19T22:35:26.000Z",
+      "category": "uk",
+      "summary": "Dave Evans was the one of the only ones in Aberfan with a telephone."
     },
     {
       "id": "feed-kyi63v",
@@ -912,16 +952,6 @@
       "publishedAt": "2026-10-19T21:02:33.000Z",
       "category": "world",
       "summary": "The two top tennis pros married in 2021 and have one child together."
-    },
-    {
-      "id": "feed-1d5nl2v",
-      "title": "Man held after three Jewish women report assaults",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr78p46q9648o",
-      "publishedAt": "2026-10-19T20:51:48.000Z",
-      "category": "uk",
-      "summary": "Three women, one pushing a baby in a pram, reported being assaulted in Clapton Common, Hackney."
     },
     {
       "id": "feed-i0s5e8",
@@ -1010,7 +1040,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/apollo-among-suitors-for-7bn-spreads-giant-flora-13601073",
       "publishedAt": "2026-10-19T17:31:00.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "A pack of buyout firms will this week submit initial offers for Flora Food Group, the spreads giant behind brands including I Can't Believe It's Not Butter."
     },
     {
@@ -1032,16 +1062,6 @@
       "publishedAt": "2026-10-19T16:46:35.000Z",
       "category": "world",
       "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\"."
-    },
-    {
-      "id": "feed-d63y5l",
-      "title": "Ofcom investigates Huw Edwards complaint over Channel 5 drama",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/media/2026/oct/19/ofcom-investigates-huw-edwards-complaint-over-channel-5-drama",
-      "publishedAt": "2026-10-19T16:31:00.000Z",
-      "category": "business",
-      "summary": "Former BBC presenter says programme starring Martin Clunes gave a misleading and unfair account of his downfall Britain’s media regulator is investigating a complaint from the former BBC news presenter Huw Edwards about a Channel 5 drama depicting his downfall"
     },
     {
       "id": "feed-6n2h5y",
@@ -1092,16 +1112,6 @@
       "publishedAt": "2026-10-19T15:23:54.000Z",
       "category": "business",
       "summary": "Difference between French and German borrowing costs widens after public buildings burned and shops looted France has been hit by a fresh wave of selling in its bond and stock markets after violent protests over the weekend led to thousands of arrests and left"
-    },
-    {
-      "id": "feed-18c352u",
-      "title": "Bank of England said to be reviewing Barclays’ handling of private credit loans",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/19/bank-of-england-said-to-be-reviewing-barclays-handling-of-private-credit-loans",
-      "publishedAt": "2026-10-19T15:16:37.000Z",
-      "category": "business",
-      "summary": "Concerns financial contracts known as derivatives were incorrectly logged, potentially boosting Barclays’ profits The Bank of England is reportedly looking into Barclays’ handling of loans linked to the embattled private credit sector. The Bank’s regulatory ar"
     },
     {
       "id": "feed-1s4ixxi",
@@ -1224,46 +1234,6 @@
       "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own."
     },
     {
-      "id": "feed-1gyaj1l",
-      "title": "Man admits Huntingdon train stabbings - but still faces trial on attempted murder charges",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/man-admits-huntingdon-train-stabbings-but-still-faces-trial-on-attempted-murder-charges-13600913",
-      "publishedAt": "2026-10-19T10:22:00.000Z",
-      "category": "uk",
-      "summary": "A man has admitted stabbing 10 people on a London-bound LNER train - but still faces trial on more serious attempted murder charges."
-    },
-    {
-      "id": "feed-o49sf8",
-      "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
-      "publishedAt": "2026-10-19T10:00:05.000Z",
-      "category": "technology",
-      "summary": "Exclusive: Using test accounts acting as 13-year-olds, Tech Transparency Project downloaded 135 apps with features to generate nonconsensual nude imagery In December 2025, Morgan Dorfman received distressing news: a student at her daughter’s Pennsylvania high "
-    },
-    {
-      "id": "feed-1p27dhq",
-      "title": "Two men and two women arrested after police officer shot",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/two-men-and-two-women-arrested-after-police-officer-shot-in-nottingham-13600905",
-      "publishedAt": "2026-10-19T09:59:00.000Z",
-      "category": "uk",
-      "summary": "Two men and two women have been arrested after a police officer was shot and injured in Nottingham city centre at the weekend."
-    },
-    {
-      "id": "feed-5i896r",
-      "title": "Police investigating threatening 'hoax' emails sent to schools",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/police-investigate-non-viable-bomb-threats-sent-to-schools-in-northern-ireland-13600902",
-      "publishedAt": "2026-10-19T09:52:00.000Z",
-      "category": "uk",
-      "summary": "Police in Northern Ireland and Scotland are investigating after threatening emails, deemed to be a hoax, were sent to hundreds of schools."
-    },
-    {
       "id": "feed-1cah3rl",
       "title": "People playing loud music on buses could face £100 fine",
       "source": "BBC News",
@@ -1312,6 +1282,16 @@
       "publishedAt": "2026-10-19T09:21:00.000Z",
       "category": "world",
       "summary": "Doomsday cult leader Paul Mackenzie, his wife Rhoda Maweu, and 29 other co-accused have been found guilty of the murder of 190 children and one adult."
+    },
+    {
+      "id": "feed-i3mua4",
+      "title": "Revealed: Face of man who lived in Roman Scotland almost 2,000 years ago",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/revealed-face-of-man-who-lived-in-roman-scotland-almost-2000-years-ago-13600885",
+      "publishedAt": "2026-10-19T09:04:00.000Z",
+      "category": "uk",
+      "summary": "The face of a man who died on the Roman frontier in Scotland almost 2,000 years ago has been reconstructed from skeletal remains ahead of a major exhibition."
     },
     {
       "id": "feed-1t9f5zn",
@@ -1424,16 +1404,6 @@
       "summary": "Antibody patterns in the blood may help doctors identify people at risk so they can be treated earlier, research shows Patterns of antibodies in people’s blood could predict the onset of inflammatory bowel disease (IBD) a decade before diagnosis, according to "
     },
     {
-      "id": "feed-i8ugjb",
-      "title": "Two teenagers dead after car crash in Suffolk village",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/two-teenagers-dead-after-car-crash-in-suffolk-village-13600781",
-      "publishedAt": "2026-10-18T19:40:00.000Z",
-      "category": "uk",
-      "summary": "Two teenagers have died after a car crash in a Suffolk village, police have said."
-    },
-    {
       "id": "feed-1beqib7",
       "title": "Fears for protected bats if glamping pod plans are approved",
       "source": "BBC News",
@@ -1514,16 +1484,6 @@
       "summary": "One of the best-known meteor showers peaks this week and will remain active until 7 November."
     },
     {
-      "id": "feed-1x4sdra",
-      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o",
-      "publishedAt": "2026-10-18T08:12:24.000Z",
-      "category": "science",
-      "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities."
-    },
-    {
       "id": "feed-1keydv3",
       "title": "Japan to launch world-first mission to collect samples from Martian moon",
       "source": "The Guardian",
@@ -1554,16 +1514,6 @@
       "summary": "As the planet warms, airlines are grappling with what this means for air travel – and for the passengers who simply refuse to keep their seatbelts fastened It was a swelteringly hot afternoon in south-west Myanmar on 21 May 2024. Tropical thunderstorms, shower"
     },
     {
-      "id": "feed-u18zkw",
-      "title": "Inside the long, bitter fight over one man’s quest to build the biggest AI datacenter in California",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
-      "publishedAt": "2026-10-17T13:00:31.000Z",
-      "category": "technology",
-      "summary": "A modern-day prospector promised rural Imperial thousands of jobs and millions in tax revenue – but his plan has set off a firestorm of resistance Sebastian Rucci zoomed in on a map in late 2024, looking closely at a large block of brown earth. The barren plot"
-    },
-    {
       "id": "feed-1sszseo",
       "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
       "source": "The Guardian",
@@ -1572,16 +1522,6 @@
       "publishedAt": "2026-10-17T11:33:20.000Z",
       "category": "technology",
       "summary": "Westminster appears to be waking up to warnings over AI safety, with concerns over its use by extremist groups and bad actors “I have this sense that, within a few months, AI is going to be all anyone is talking about,” said one cabinet minister, with an omino"
-    },
-    {
-      "id": "feed-1o3azrn",
-      "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
-      "publishedAt": "2026-10-17T11:00:30.000Z",
-      "category": "technology",
-      "summary": "How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonators It started with an entirely ordinary interaction on LinkedIn. Someone had tagged me in a post, saying how much they’d enjoyed contribu"
     },
     {
       "id": "feed-1aydei4",
