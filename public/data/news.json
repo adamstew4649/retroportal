@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T11:17:55.774Z",
-  "generatedAt": "2026-10-20T11:17:55.774Z",
+  "updatedAt": "2026-10-20T11:55:39.020Z",
+  "generatedAt": "2026-10-20T11:55:39.020Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,24 @@
   ],
   "articles": [
     {
-      "id": "feed-n2hwp0",
-      "title": "Google Cloud outage: Revolut suffers service disruption as bank customers report problems – business live",
+      "id": "feed-y2t5r9",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo",
+      "publishedAt": "2026-10-20T11:50:43.000Z",
+      "category": "uk",
+      "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
+    },
+    {
+      "id": "feed-1x4maij",
+      "title": "Covid revealed ‘underlying fragility of adult social care workforce’, inquiry finds – UK politics live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-      "publishedAt": "2026-10-20T11:11:40.000Z",
-      "category": "business",
-      "summary": "Rolling coverage of the latest economic and financial news, as Google suffers a a major Cloud outage in its London region The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against th"
+      "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+      "publishedAt": "2026-10-20T11:49:10.000Z",
+      "category": "world",
+      "summary": "Heather Hallett, chair of the Covid inquiry, has just published the report from the inquiry’s module 6, looking at what happened in care homes Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We n"
     },
     {
       "id": "feed-16r3q8d",
@@ -119,19 +129,159 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates",
-      "publishedAt": "2026-10-20T11:10:33.000Z",
+      "publishedAt": "2026-10-20T11:49:05.000Z",
       "category": "uk",
       "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 47th over: South Africa 106-5 (Bavuma 42, Mulder 10) Bavuma looks intent on settling in. Cummins gives him a couple of bouncers, but he’s very happy to get out o"
     },
     {
-      "id": "feed-qpmwav",
-      "title": "Pakistan v England: men’s tri-series cricket ODI – live",
+      "id": "feed-13ve58d",
+      "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "publishedAt": "2026-10-20T11:48:35.000Z",
+      "category": "uk",
+      "summary": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre and the Finn"
+    },
+    {
+      "id": "feed-172yrl8",
+      "title": "England chasing 303 to beat Pakistan in men’s tri-series cricket ODI – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live",
-      "publishedAt": "2026-10-20T11:08:37.000Z",
+      "publishedAt": "2026-10-20T11:48:34.000Z",
       "category": "uk",
       "summary": "Over-by-over updates from Rawalpindi (9am BST) Brook relishing responsibility | Get in touch! Mail Tim 12th over: Pakistan 51-2 (Babar Azam 29, Saad Baig 11) Atkinson gets a breather after a solid opening spell (5-0-22-1). On comes Jamie Overton, the Liam Plun"
+    },
+    {
+      "id": "feed-f06dfz",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
+      "publishedAt": "2026-10-20T11:47:39.000Z",
+      "category": "world",
+      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
+    },
+    {
+      "id": "feed-mqx1oq",
+      "title": "Paddy Power-owner cuts 1,400 jobs and blames betting tax rises",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o",
+      "publishedAt": "2026-10-20T11:47:08.000Z",
+      "category": "business",
+      "summary": "The government increased taxes on online casino and sports betting in last year's Budget."
+    },
+    {
+      "id": "feed-dqjqfl",
+      "title": "We asked teens what schools should teach them about work. This is what they said",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo",
+      "publishedAt": "2026-10-20T11:47:04.000Z",
+      "category": "uk",
+      "summary": "Teenagers say they want more work experience at school and opportunities to improve their communication skills."
+    },
+    {
+      "id": "feed-1ep9pnj",
+      "title": "Storm Austen forecast to hit southern UK",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/storm-austen-named-uk-severe-weather-warning",
+      "publishedAt": "2026-10-20T11:38:01.000Z",
+      "category": "uk",
+      "summary": "Yellow severe weather warning issued for first named storm of season with gusts of up to 60mph expected The first named storm of the season, Austen, is expected to bring gusts of up to 60mph to southern areas of the UK at the end of the week, forecasters said."
+    },
+    {
+      "id": "feed-3rit2f",
+      "title": "Google Cloud outage caused by ‘power event’ as problems reported at banks, Revolut, and court video cameras – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
+      "publishedAt": "2026-10-20T11:37:36.000Z",
+      "category": "technology",
+      "summary": "Google apologises after suffering a major Cloud outage in its London region The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes t"
+    },
+    {
+      "id": "feed-19smph8",
+      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
+      "publishedAt": "2026-10-20T11:30:59.000Z",
+      "category": "world",
+      "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence."
+    },
+    {
+      "id": "feed-1208sd3",
+      "title": "‘Oh God, I can’t bear it’: Judi Dench says Cats film was ‘a waste of goodwill and talent’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/oct/20/judi-dench-cats-film-was-a-waste-of-goodwill-and-talent",
+      "publishedAt": "2026-10-20T11:28:47.000Z",
+      "category": "uk",
+      "summary": "The actor’s forthcoming memoir Is It Too Late to Make a Run for It? says the makers had honourable intentions but the elements ‘didn’t coalesce’ Dame Judi Dench has long made her feelings clear about Cats, the doomed 2019 adaptation of the Andrew Lloyd Webber "
+    },
+    {
+      "id": "feed-4a49a4",
+      "title": "Jobless rate falls but small firms cut back hiring",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o",
+      "publishedAt": "2026-10-20T11:26:48.000Z",
+      "category": "business",
+      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
+    },
+    {
+      "id": "feed-1t4rk3m",
+      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno",
+      "publishedAt": "2026-10-20T11:25:35.000Z",
+      "category": "world",
+      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
+    },
+    {
+      "id": "feed-z2q89s",
+      "title": "£30 rise in payments for crisis-hit households",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c59vz71kxxgzo",
+      "publishedAt": "2026-10-20T11:19:22.000Z",
+      "category": "business",
+      "summary": "More money is made available through a resilience fund for hard-pressed households in Sheffield."
+    },
+    {
+      "id": "feed-4j8ezg",
+      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cvrly550780po",
+      "publishedAt": "2026-10-20T11:09:09.000Z",
+      "category": "world",
+      "summary": "More than 400 people, mostly children, become ill after drinking contaminated water, east of Pretoria."
+    },
+    {
+      "id": "feed-1icbh1q",
+      "title": "‘They said: there’s this part … he’s an idiot!’ SNL UK’s Freddie Meredith on his unlikely route to comedy’s big leagues",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/freddie-meredith-snl-uk-comedy-big-leagues",
+      "publishedAt": "2026-10-20T11:08:58.000Z",
+      "category": "uk",
+      "summary": "A few months ago, he was pulling pints. How did he end up writing for Sharon Horgan, acting with Jeff Goldblum and storming the West End? Until a few weeks ago, Freddie Meredith’s IMDb page was full of names like “Seb” and “George” and “Philip Noonan”. Lately,"
+    },
+    {
+      "id": "feed-ehewqz",
+      "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+      "publishedAt": "2026-10-20T11:08:00.000Z",
+      "category": "uk",
+      "summary": "RAF Typhoon fighters will fly defensive missions over cities and infrastructure, in extension of UK support for Riyadh RAF Typhoon fighters are to protect Saudi Arabia from attack by Yemen’s Houthis, flying defensive missions over the country’s cities and crit"
     },
     {
       "id": "feed-10j9z2t",
@@ -151,7 +301,7 @@
       "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-government-failures-led-to-covid-spreading-like-wildfire-in-care-homes-inquiry-finds",
       "publishedAt": "2026-10-20T11:00:35.000Z",
       "category": "uk",
-      "summary": "Inquiry chair says failure to isolate people discharged from hospital into care was ‘significant oversight’ The care sector was “an afterthought” during the Covid-19 pandemic, and government failures caused the virus to spread “like wildfire” among vulnerable "
+      "summary": "Inquiry chair says failure to advise care homes to isolate people discharged from hospital was ‘significant oversight’ • UK politics live – latest updates The care sector was “an afterthought” during the Covid-19 pandemic, and government failures caused the vi"
     },
     {
       "id": "feed-1ahf6yo",
@@ -170,7 +320,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
       "publishedAt": "2026-10-20T11:00:05.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Government planning tougher security measures after protests over high cost of living descend into violence Why are people protesting across Europe? Italy’s government is sending 500 soldiers to Milan as it vowed a “firm response from the state” after protests"
     },
     {
@@ -184,14 +334,14 @@
       "summary": "Three children receive hospital treatment after a bus on its way to Ysgol Gyfun Gwent Is Coed crashes."
     },
     {
-      "id": "feed-1pa7cra",
-      "title": "Badenoch says Tories would prioritise cutting taxes for businesses over individuals – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-      "publishedAt": "2026-10-20T10:53:29.000Z",
-      "category": "world",
-      "summary": "Conservative leader also called for benefit spending to be cut to fund rise in defence budget Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, en"
+      "id": "feed-1k1mgh6",
+      "title": "Woman describes alleged assault by Russell Brand as 'frenzied' and 'violent'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo",
+      "publishedAt": "2026-10-20T10:55:40.000Z",
+      "category": "uk",
+      "summary": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault."
     },
     {
       "id": "feed-mycgaj",
@@ -234,14 +384,14 @@
       "summary": "Sohmen Concert Hall, Schwarzman Centre, Oxford Six performers navigate a disjointed world of online slang, loneliness and absurdity in the UK premiere of Jennifer Walshe and Philip Venables’ thrillingly original collaboration As we found our seats, a druidic f"
     },
     {
-      "id": "feed-13ve58d",
-      "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-      "publishedAt": "2026-10-20T10:39:54.000Z",
-      "category": "world",
-      "summary": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests The French parliament will look into formally opening an inquiry into the protests and violence seen in recent days, including the law enforcement measures used "
+      "id": "feed-c332z7",
+      "title": "Armed police swoop as man, 61, arrested for murder and woman in car crash dies",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7lpygezdro",
+      "publishedAt": "2026-10-20T10:39:55.000Z",
+      "category": "uk",
+      "summary": "South Wales Police said a 47-year-old woman had suffered injuries \"unrelated\" to the crash."
     },
     {
       "id": "feed-dgcq8z",
@@ -270,7 +420,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo",
       "publishedAt": "2026-10-20T10:28:36.000Z",
-      "category": "business",
+      "category": "uk",
       "summary": "The BBC hears from people who think dating events are better value for money than dating apps."
     },
     {
@@ -281,7 +431,7 @@
       "url": "https://www.theguardian.com/us-news/2026/oct/20/first-thing-federal-efforts-over-alleged-noncitizen-voting-escalate-with-california-arrests",
       "publishedAt": "2026-10-20T10:23:46.000Z",
       "category": "world",
-      "summary": "The DoJ has charged 28 green card holders in California, accusing them of fraudulently registering to vote. Plus, is the world really ready for AI actors? Good morning. The US Department of Justice has charged 28 green card holders in California, accusing them"
+      "summary": "The DoJ has charged 28 green card holders in California, accusing them of fraudulently registering to vote. Plus, is the world really ready for AI actors? Don’t already get First Thing in your inbox? Sign up here Good morning. The US Department of Justice has "
     },
     {
       "id": "feed-11revf",
@@ -364,46 +514,6 @@
       "summary": "Here’s what we need to do to stand up for international law Many applauded when Navi Pillay was awarded the Nobel peace prize. The South African human rights lawyer had chaired the UN commission of inquiry that found Israel to have committed genocide in Gaza a"
     },
     {
-      "id": "feed-9pk169",
-      "title": "That piping hot new TV show I just watched? I can’t recall a thing about it | Zoe Williams",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/that-piping-hot-new-tv-show-i-just-watched-i-cant-recall-a-thing-about-it",
-      "publishedAt": "2026-10-20T10:00:33.000Z",
-      "category": "uk",
-      "summary": "I’m never fully concentrating, always simultaneously thinking a huge thought about the future or scrolling through Vinted Some friends and I were talking, at the weekend, about the TV shows War (about a couple getting divorced) and The Diplomat (about an entir"
-    },
-    {
-      "id": "feed-1hv034t",
-      "title": "All Rivers Spill Their Stories to the Sea review – stirring portrait of fishers driven to eco-activism",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/oct/20/all-rivers-spill-their-stories-to-the-sea-review-stirring-portrait-of-fishers-driven-to-eco-activism",
-      "publishedAt": "2026-10-20T10:00:33.000Z",
-      "category": "uk",
-      "summary": "With catches down 80%, dead crabs and lobsters washed up on beaches and officials denying any responsibility, Hartlepool seafarers have taken a stand Hartlepool fisherman Stan Rennie has been called the next Mr Bates . For nearly 50 years Rennie has fished the"
-    },
-    {
-      "id": "feed-wfure4",
-      "title": "Fleeing the frontline: Yemeni families cross Red Sea to Djibouti as Houthi conflict rages",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/20/families-cross-red-sea-to-djibouti-houthi-conflict-yemen",
-      "publishedAt": "2026-10-20T10:00:32.000Z",
-      "category": "uk",
-      "summary": "Their overland routes to safety blocked off, several thousand people have boarded boats to escape gunfire, bombing and a dire humanitarian situation Abubaker Saeed was fishing in the Red Sea off Yemen’s coast last month when he noticed explosions in the distan"
-    },
-    {
-      "id": "feed-1tua88s",
-      "title": "‘For Panama, it is life or death’: how drought is choking the canal that feeds a nation",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/global-development/2026/oct/20/panama-canal-environment-water-drought-el-nino-farming",
-      "publishedAt": "2026-10-20T10:00:32.000Z",
-      "category": "uk",
-      "summary": "Failed rains and a dire El Niño threaten the waterway that sustains the country, with farmers selling cattle to survive The cattle should be ambling, grazing contentedly, through Robert Delgado’s fields. Instead, the animals slump in the shade, tongues lolling"
-    },
-    {
       "id": "feed-xf070a",
       "title": "Watch: Pigs on the loose bring A-road to a standstill",
       "source": "BBC News",
@@ -431,7 +541,7 @@
       "url": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
       "publishedAt": "2026-10-20T09:45:39.000Z",
       "category": "world",
-      "summary": "UK banking company insists customers’ funds and data are safe despite problems with sign-in, card payments, transfers and withdrawals Business live – latest updates Revolut customers have been unable to access their money after the banking app went down, affec"
+      "summary": "Lloyds Bank and other companies also affected by outages thought to be linked to issues with Google’s cloud services Business live – latest updates Revolut customers have been unable to access their money after the banking app went down, affecting a number of "
     },
     {
       "id": "feed-ua14jd",
@@ -452,16 +562,6 @@
       "publishedAt": "2026-10-20T09:42:47.000Z",
       "category": "business",
       "summary": "We would like to speak to people in England who are planning to buy a new-build flat or house as their first home Last month, the government announced plans for Your First Home (YFH) , a scheme which aims to give a helping hand to first-time buyers who do not "
-    },
-    {
-      "id": "feed-4a49a4",
-      "title": "Jobless rate falls but small firms cut back hiring",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o",
-      "publishedAt": "2026-10-20T09:31:29.000Z",
-      "category": "uk",
-      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
     },
     {
       "id": "feed-1mnejax",
@@ -502,26 +602,6 @@
       "publishedAt": "2026-10-20T09:00:21.000Z",
       "category": "world",
       "summary": "Apparent attempt to hack Rade Bajić’s iPhone comes amid efforts to undermine landmark criminal case A Serbian prosecutor who investigated the authorities’ allegedly illegal scheme to help the Trumps build a tower in Belgrade has been targeted with advanced spy"
-    },
-    {
-      "id": "feed-haws4i",
-      "title": "Suspect arrested after historic town hall set alight during disorder - French media",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
-      "publishedAt": "2026-10-20T08:58:26.000Z",
-      "category": "world",
-      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
-    },
-    {
-      "id": "feed-2g8ggu",
-      "title": "Ex-Greens co-leader urges council groups to reject Zionism policy",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/20/greens-adrian-ramsay-council-groups-reject-zionism-racism-policy",
-      "publishedAt": "2026-10-20T08:55:36.000Z",
-      "category": "world",
-      "summary": "Exclusive: Adrian Ramsay calls conference motion a distraction and says councillors should maintain coalitions where possible UK politics live – latest updates Adrian Ramsay, the former co-leader of the Greens, has urged his party’s councillors to reject the n"
     },
     {
       "id": "feed-61gu96",
@@ -570,7 +650,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
       "publishedAt": "2026-10-20T08:39:27.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’ Business live – news updates Healey to reject calls to raise CGT in budget Unemployment in the UK has fallen unexpectedly in the final sn"
     },
     {
@@ -581,7 +661,7 @@
       "url": "https://news.sky.com/story/britains-first-storm-of-the-season-named-13601253",
       "publishedAt": "2026-10-20T08:39:00.000Z",
       "category": "uk",
-      "summary": "Britain's first named storm of the season is due to hit this week."
+      "summary": "Britain's first named storm of the season is due to hit large parts of the country later this week."
     },
     {
       "id": "feed-wtuzs7",
@@ -694,14 +774,14 @@
       "summary": "​After a protest clip went viral, a teenager’s life was torn apart by threats that sent her and her family into hiding. Plus, a book on citizen journalism • Don’t get This is India delivered to your inbox? Sign up here Before 24 July, a person I will call R wa"
     },
     {
-      "id": "feed-1mgmmto",
-      "title": "Human rights commission says ‘violence has no place in our society’ after alleged attack – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "publishedAt": "2026-10-20T06:30:03.000Z",
-      "category": "world",
-      "summary": "This blog is now closed ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s very clear that this was a deliberate act’, PM says The prime minister, Anthon"
+      "id": "feed-pu5wfj",
+      "title": "Man arrested after alleged assaults against three Jewish women, including mum pushing a pram",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/man-arrested-after-alleged-assaults-against-three-jewish-women-including-mum-pushing-a-pram-13601213",
+      "publishedAt": "2026-10-20T06:08:00.000Z",
+      "category": "uk",
+      "summary": "A man has been arrested on suspicion of racially aggravated common assault after three Jewish women were reportedly attacked, including one who was pushing a baby in a pram."
     },
     {
       "id": "feed-1jgegaj",
@@ -784,36 +864,6 @@
       "summary": "FareShare South West says fuel costs are putting immense pressure on work helping thousands in need."
     },
     {
-      "id": "feed-1nrmizu",
-      "title": "'I started ketamine at 14 and needed nappies at 22' - the rise of young people going to rehab",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev30xwy8v2o",
-      "publishedAt": "2026-10-20T05:13:05.000Z",
-      "category": "uk",
-      "summary": "For the last two years Megan has been in agony and unable to stand straight because of her ketamine use."
-    },
-    {
-      "id": "feed-1lrvzls",
-      "title": "My son has disappeared off the face of the earth fighting for Russia",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c60e325g7p87o",
-      "publishedAt": "2026-10-20T05:10:37.000Z",
-      "category": "uk",
-      "summary": "Nathan Stobbart’s family say he faced deportation from Russia if he did not join the country's army."
-    },
-    {
-      "id": "feed-n8hxjv",
-      "title": "Rantzen felt 'deprived of choice' over her own death",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cky93njxlwjjo",
-      "publishedAt": "2026-10-20T05:01:51.000Z",
-      "category": "uk",
-      "summary": "A note written by Dame Esther Rantzen is released by her family following a private funeral."
-    },
-    {
       "id": "feed-cfzf22",
       "title": "How is the US economy really doing under President Trump?",
       "source": "BBC News",
@@ -832,26 +882,6 @@
       "publishedAt": "2026-10-20T05:00:17.000Z",
       "category": "technology",
       "summary": "The government says it can transform the state with AI, but it is no match for the resulting stream of machine-generated slop. And we all pay the cost Another morning, another avalanche of emails. Even after a guilty cull, my inbox is sitting at well over 7,00"
-    },
-    {
-      "id": "feed-17sweyt",
-      "title": "New Bradford railway station will ‘transform travel across the north’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/20/bradford-railway-station-transform-travel-north",
-      "publishedAt": "2026-10-20T05:00:16.000Z",
-      "category": "business",
-      "summary": "Transport hub will offer through trains between Leeds and Manchester with ‘turn-up-and-go’ service A new railway station will be built in Bradford to “transform how people travel across the north”, the government has announced. The station will be at the heart"
-    },
-    {
-      "id": "feed-dqjqfl",
-      "title": "We asked teens what schools should teach them about work. This is what they said",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo",
-      "publishedAt": "2026-10-20T05:00:14.000Z",
-      "category": "uk",
-      "summary": "Teenagers say they want more work experience at school and opportunities to improve their communication skills."
     },
     {
       "id": "feed-tloj5y",
@@ -884,8 +914,8 @@
       "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom"
     },
     {
-      "id": "feed-1qn2y1h",
-      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "id": "feed-6s8mfh",
+      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo",
@@ -1044,16 +1074,6 @@
       "summary": "The two top tennis pros married in 2021 and have one child together."
     },
     {
-      "id": "feed-i0s5e8",
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
-      "publishedAt": "2026-10-19T20:49:00.000Z",
-      "category": "world",
-      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing."
-    },
-    {
       "id": "feed-smkkty",
       "title": "Japan launches mission to Mars to bring back samples from its moon",
       "source": "Sky News",
@@ -1080,7 +1100,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o",
       "publishedAt": "2026-10-19T19:45:46.000Z",
-      "category": "world",
+      "category": "science",
       "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
     },
     {
@@ -1124,16 +1144,6 @@
       "summary": "A pack of buyout firms will this week submit initial offers for Flora Food Group, the spreads giant behind brands including I Can't Believe It's Not Butter."
     },
     {
-      "id": "feed-1swo4r3",
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
-      "publishedAt": "2026-10-19T17:18:04.000Z",
-      "category": "world",
-      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children."
-    },
-    {
       "id": "feed-zap38",
       "title": "Vinted blocks French looters listing stolen goods for sale",
       "source": "BBC News",
@@ -1142,6 +1152,16 @@
       "publishedAt": "2026-10-19T16:46:35.000Z",
       "category": "business",
       "summary": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\"."
+    },
+    {
+      "id": "feed-d63y5l",
+      "title": "Ofcom investigates Huw Edwards complaint over Channel 5 drama",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/media/2026/oct/19/ofcom-investigates-huw-edwards-complaint-over-channel-5-drama",
+      "publishedAt": "2026-10-19T16:31:00.000Z",
+      "category": "business",
+      "summary": "Former BBC presenter says programme starring Martin Clunes gave a misleading and unfair account of his downfall Britain’s media regulator is investigating a complaint from the former BBC news presenter Huw Edwards about a Channel 5 drama depicting his downfall"
     },
     {
       "id": "feed-6n2h5y",
@@ -1302,16 +1322,6 @@
       "publishedAt": "2026-10-19T09:49:58.000Z",
       "category": "business",
       "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched."
-    },
-    {
-      "id": "feed-3k1wl9",
-      "title": "What are the new faces coming to UK bank notes?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o",
-      "publishedAt": "2026-10-19T09:48:35.000Z",
-      "category": "business",
-      "summary": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money."
     },
     {
       "id": "feed-1ai6jdg",
