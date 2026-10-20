@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T11:55:39.020Z",
-  "generatedAt": "2026-10-20T11:55:39.020Z",
+  "updatedAt": "2026-10-20T12:18:35.343Z",
+  "generatedAt": "2026-10-20T12:18:35.343Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "sky-technology",
@@ -104,24 +104,24 @@
   ],
   "articles": [
     {
-      "id": "feed-y2t5r9",
-      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo",
-      "publishedAt": "2026-10-20T11:50:43.000Z",
-      "category": "uk",
-      "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
-    },
-    {
-      "id": "feed-1x4maij",
-      "title": "Covid revealed ‘underlying fragility of adult social care workforce’, inquiry finds – UK politics live",
+      "id": "feed-13ve58d",
+      "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-      "publishedAt": "2026-10-20T11:49:10.000Z",
-      "category": "world",
-      "summary": "Heather Hallett, chair of the Covid inquiry, has just published the report from the inquiry’s module 6, looking at what happened in care homes Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We n"
+      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "publishedAt": "2026-10-20T12:10:05.000Z",
+      "category": "uk",
+      "summary": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre and the Finn"
+    },
+    {
+      "id": "feed-975ev3",
+      "title": "Google Cloud says 'power event' behind outage hitting UK banks and websites",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
+      "publishedAt": "2026-10-20T12:09:25.000Z",
+      "category": "technology",
+      "summary": "It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday morning."
     },
     {
       "id": "feed-16r3q8d",
@@ -129,19 +129,119 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates",
-      "publishedAt": "2026-10-20T11:49:05.000Z",
+      "publishedAt": "2026-10-20T12:09:10.000Z",
       "category": "uk",
       "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 47th over: South Africa 106-5 (Bavuma 42, Mulder 10) Bavuma looks intent on settling in. Cummins gives him a couple of bouncers, but he’s very happy to get out o"
     },
     {
-      "id": "feed-13ve58d",
-      "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+      "id": "feed-19smph8",
+      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
+      "publishedAt": "2026-10-20T12:08:41.000Z",
+      "category": "world",
+      "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence."
+    },
+    {
+      "id": "feed-1so9gnm",
+      "title": "Moment giant fin whale's huge mouth engulfs thousands of tonnes of water",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo",
+      "publishedAt": "2026-10-20T12:03:28.000Z",
+      "category": "uk",
+      "summary": "Videographer Rhys Morgan captured footage of the worlds second largest whale lunge feeding on his drone."
+    },
+    {
+      "id": "feed-gpdk3v",
+      "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-      "publishedAt": "2026-10-20T11:48:35.000Z",
+      "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+      "publishedAt": "2026-10-20T12:00:36.000Z",
       "category": "uk",
-      "summary": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre and the Finn"
+      "summary": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practices A pioneering project to provide Indigenous people in the Peruvian Amazon with an unconditional basic income has contributed to "
+    },
+    {
+      "id": "feed-q8pt9j",
+      "title": "Fridge or not? What’s the best way to store bread?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/food/2026/oct/20/fridge-or-not-whats-the-best-way-to-store-bread",
+      "publishedAt": "2026-10-20T12:00:36.000Z",
+      "category": "uk",
+      "summary": "Our experts have some airtight advice on stopping your loaf from going stale – and even freshening it up again – but whatever you do, keep it out of the fridge What’s the best way to store bread? Beeswax wraps, plastic bags, fridge – I’ve tried everything exce"
+    },
+    {
+      "id": "feed-1oschdr",
+      "title": "‘If the lion does not tell its story, the hunter will’: a century of thrilling Cameroonian art",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/20/cameroon-cameroonian-art-lion-hunter-roxane-mbanga",
+      "publishedAt": "2026-10-20T12:00:36.000Z",
+      "category": "uk",
+      "summary": "Key players in the country’s art history feature in a hefty new tome that covers everything from royal-carvers to bronze-smiths to work inspired by a horrific video smuggled out of a torture chamber One Sunday last year, the Cameroonian-Guadeloupean-French art"
+    },
+    {
+      "id": "feed-19wz5da",
+      "title": "Animal rights group urges Crystal Palace to retire bald eagle mascot",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/20/amimal-rights-group-peta-urges-crystal-palace-retire-bald-eagle-mascot-phoenix-selhurst-park",
+      "publishedAt": "2026-10-20T12:00:35.000Z",
+      "category": "uk",
+      "summary": "Peta calls on club to never again use a live animal mascot ‘There’s no reason to drag a wild animal into a stadium’ A leading animal rights group has urged Crystal Palace to retire their American bald eagle mascot because, it says, the matchday experience can "
+    },
+    {
+      "id": "feed-14ubgea",
+      "title": "Downtown datacenter? AI plan floated for boarded-up San Francisco mall",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/san-francisco-mall-ai-datacenter",
+      "publishedAt": "2026-10-20T12:00:35.000Z",
+      "category": "world",
+      "summary": "Developers propose turning San Francisco Centre into not a server-based facility but a ‘community-based AI exhibit’ Downtown San Francisco has shown signs of revival since being battered by the Covid pandemic, which led to what many called a “doom loop” of vac"
+    },
+    {
+      "id": "feed-2k96c4",
+      "title": "Tom Cruise’s Digger is a commercial flop – but also the perfect climate film for our time",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/oct/20/tom-cruise-digger-climate-film",
+      "publishedAt": "2026-10-20T12:00:34.000Z",
+      "category": "uk",
+      "summary": "The movie follows Digger Rockwell, whose drilling triggers a vast iceberg that’s five times the size of Washington DC Digger, the new Alejandro González Iñárritu film, is bombastic, misanthropic and an epic, critically savaged flop. It is also the near-perfect"
+    },
+    {
+      "id": "feed-5m54ju",
+      "title": "Children of the Wicker Man review – how the folk-horror classic haunted the family that made it",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/oct/20/children-of-the-wicker-man-review-folk-horror-robin-hardy",
+      "publishedAt": "2026-10-20T12:00:34.000Z",
+      "category": "uk",
+      "summary": "Director Robin Hardy’s children lay bare the sometimes agonised family background to a movie that went from ruinous flop to cult favourite This documentary is a collaboration between Justin Hardy and Dominic Hardy, two of film director Robin Hardy’s children ("
+    },
+    {
+      "id": "feed-54yyog",
+      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o",
+      "publishedAt": "2026-10-20T11:59:50.000Z",
+      "category": "business",
+      "summary": "The government increased taxes on online casino and sports betting in last year's Budget."
+    },
+    {
+      "id": "feed-y2t5r9",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo",
+      "publishedAt": "2026-10-20T11:59:45.000Z",
+      "category": "uk",
+      "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
     },
     {
       "id": "feed-172yrl8",
@@ -149,9 +249,49 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live",
-      "publishedAt": "2026-10-20T11:48:34.000Z",
+      "publishedAt": "2026-10-20T11:58:27.000Z",
       "category": "uk",
-      "summary": "Over-by-over updates from Rawalpindi (9am BST) Brook relishing responsibility | Get in touch! Mail Tim 12th over: Pakistan 51-2 (Babar Azam 29, Saad Baig 11) Atkinson gets a breather after a solid opening spell (5-0-22-1). On comes Jamie Overton, the Liam Plun"
+      "summary": "Over-by-over updates from Rawalpindi (9am BST) Brook relishing responsibility | Get in touch! Mail Rob 12th over: Pakistan 51-2 (Babar Azam 29, Saad Baig 11) Atkinson gets a breather after a solid opening spell (5-0-22-1). On comes Jamie Overton, the Liam Plun"
+    },
+    {
+      "id": "feed-3rit2f",
+      "title": "Google Cloud outage caused by ‘power event’ as problems reported at banks, Revolut, and court video cameras – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
+      "publishedAt": "2026-10-20T11:56:37.000Z",
+      "category": "technology",
+      "summary": "Google apologises after suffering a major Cloud outage in its London region The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes t"
+    },
+    {
+      "id": "feed-1pqyxbd",
+      "title": "Ban on family visits to care homes at start of pandemic had ‘devastating consequences’, inquiry finds – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+      "publishedAt": "2026-10-20T11:56:34.000Z",
+      "category": "world",
+      "summary": "Heather Hallett, chair of the Covid inquiry, has just published the report from the inquiry’s module 6, looking at what happened in care homes Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We n"
+    },
+    {
+      "id": "feed-ehewqz",
+      "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+      "publishedAt": "2026-10-20T11:54:52.000Z",
+      "category": "uk",
+      "summary": "RAF Typhoon fighters will fly defensive missions over cities and infrastructure, in extension of UK support for Riyadh RAF Typhoon fighters are to protect Saudi Arabia from attack by Yemen’s Houthis, flying defensive missions over the country’s cities and crit"
+    },
+    {
+      "id": "feed-i4gyy5",
+      "title": "TS Eliot’s Murder in the Cathedral review – gather in wonder at David Suchet’s excellent archbishop",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/oct/20/ts-eliot-murder-in-the-cathedral-review-david-suchet",
+      "publishedAt": "2026-10-20T11:50:30.000Z",
+      "category": "uk",
+      "summary": "St John the Divine church, London The poet’s 1935 verse drama has its eccentricities but the meticulous star plays Thomas Becket with a Shakespearean relish A striking example of site-specific theatre, TS Eliot’s Murder in the Cathedral was first performed in "
     },
     {
       "id": "feed-f06dfz",
@@ -164,16 +304,6 @@
       "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
     },
     {
-      "id": "feed-mqx1oq",
-      "title": "Paddy Power-owner cuts 1,400 jobs and blames betting tax rises",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o",
-      "publishedAt": "2026-10-20T11:47:08.000Z",
-      "category": "business",
-      "summary": "The government increased taxes on online casino and sports betting in last year's Budget."
-    },
-    {
       "id": "feed-dqjqfl",
       "title": "We asked teens what schools should teach them about work. This is what they said",
       "source": "BBC News",
@@ -184,6 +314,16 @@
       "summary": "Teenagers say they want more work experience at school and opportunities to improve their communication skills."
     },
     {
+      "id": "feed-1q3rvsr",
+      "title": "RJ Mitte obituary",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/culture/2026/oct/20/rj-mitte-obituary",
+      "publishedAt": "2026-10-20T11:39:49.000Z",
+      "category": "uk",
+      "summary": "Film and TV actor with cerebral palsy who played Walter White Jr in Breaking Bad and was a staunch disability rights campaigner The actor RJ Mitte was a natural choice to play Walter White Jr, the son of Walter White (Bryan Cranston), the high school chemistry"
+    },
+    {
       "id": "feed-1ep9pnj",
       "title": "Storm Austen forecast to hit southern UK",
       "source": "The Guardian",
@@ -192,26 +332,6 @@
       "publishedAt": "2026-10-20T11:38:01.000Z",
       "category": "uk",
       "summary": "Yellow severe weather warning issued for first named storm of season with gusts of up to 60mph expected The first named storm of the season, Austen, is expected to bring gusts of up to 60mph to southern areas of the UK at the end of the week, forecasters said."
-    },
-    {
-      "id": "feed-3rit2f",
-      "title": "Google Cloud outage caused by ‘power event’ as problems reported at banks, Revolut, and court video cameras – business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-      "publishedAt": "2026-10-20T11:37:36.000Z",
-      "category": "technology",
-      "summary": "Google apologises after suffering a major Cloud outage in its London region The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes t"
-    },
-    {
-      "id": "feed-19smph8",
-      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
-      "publishedAt": "2026-10-20T11:30:59.000Z",
-      "category": "world",
-      "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence."
     },
     {
       "id": "feed-1208sd3",
@@ -272,16 +392,6 @@
       "publishedAt": "2026-10-20T11:08:58.000Z",
       "category": "uk",
       "summary": "A few months ago, he was pulling pints. How did he end up writing for Sharon Horgan, acting with Jeff Goldblum and storming the West End? Until a few weeks ago, Freddie Meredith’s IMDb page was full of names like “Seb” and “George” and “Philip Noonan”. Lately,"
-    },
-    {
-      "id": "feed-ehewqz",
-      "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-      "publishedAt": "2026-10-20T11:08:00.000Z",
-      "category": "uk",
-      "summary": "RAF Typhoon fighters will fly defensive missions over cities and infrastructure, in extension of UK support for Riyadh RAF Typhoon fighters are to protect Saudi Arabia from attack by Yemen’s Houthis, flying defensive missions over the country’s cities and crit"
     },
     {
       "id": "feed-10j9z2t",
@@ -350,7 +460,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal",
       "publishedAt": "2026-10-20T10:49:23.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Stricken UK water supplier lines up John Hutton as independent chair designate if takeover goes ahead The group of Thames Water creditors pursuing a £10bn rescue deal for Britain’s largest water supplier has lined up a former senior Labour minister to chair th"
     },
     {
@@ -362,26 +472,6 @@
       "publishedAt": "2026-10-20T10:45:38.000Z",
       "category": "uk",
       "summary": "Fraser Kilpatrick is accused of killing Shona Stevens close to her home in North Ayrshire 32 years ago."
-    },
-    {
-      "id": "feed-1wr191b",
-      "title": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
-      "publishedAt": "2026-10-20T10:43:00.000Z",
-      "category": "uk",
-      "summary": "Ten Hag says Ronaldo did not complete post-match run Former manager claims club broke promises made to him Erik ten Hag has claimed Cristiano Ronaldo “let the team down” during their time together at Manchester United. Ten Hag has also alleged that promises ma"
-    },
-    {
-      "id": "feed-1c9wcpf",
-      "title": "The Alonetimes review – frenetic, funny and exhilarating music theatre",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/music/2026/oct/20/the-alonetimes-review-jennifer-walshe-philip-venables",
-      "publishedAt": "2026-10-20T10:40:31.000Z",
-      "category": "uk",
-      "summary": "Sohmen Concert Hall, Schwarzman Centre, Oxford Six performers navigate a disjointed world of online slang, loneliness and absurdity in the UK premiere of Jennifer Walshe and Philip Venables’ thrillingly original collaboration As we found our seats, a druidic f"
     },
     {
       "id": "feed-c332z7",
@@ -434,16 +524,6 @@
       "summary": "The DoJ has charged 28 green card holders in California, accusing them of fraudulently registering to vote. Plus, is the world really ready for AI actors? Don’t already get First Thing in your inbox? Sign up here Good morning. The US Department of Justice has "
     },
     {
-      "id": "feed-11revf",
-      "title": "‘Taylor Swift tells us to take the lead!’ Could highly organised pop fans clinch victory for Brazil’s Lula?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/music/2026/oct/20/taylor-swift-tells-us-to-take-the-lead-could-highly-organised-pop-fans-clinch-victory-for-brazils-lula",
-      "publishedAt": "2026-10-20T10:23:23.000Z",
-      "category": "uk",
-      "summary": "Brazil’s famously outspoken fandoms have near-unanimously rallied behind the leftwing presidential candidate. On the streets of São Paulo, they explain their mission Earlier this month, Brazil’s president Luiz Inácio Lula da Silva led a rally in São Paulo, as "
-    },
-    {
       "id": "feed-1cd5b9f",
       "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "source": "BBC News",
@@ -452,6 +532,16 @@
       "publishedAt": "2026-10-20T10:06:34.000Z",
       "category": "uk",
       "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
+    },
+    {
+      "id": "feed-mee2rg",
+      "title": "Man to stand trial over murder of woman in Scotland in 1994",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/shona-stevens-man-to-stand-trial-over-murder-in-scotland-in-1994-13601283",
+      "publishedAt": "2026-10-20T10:06:00.000Z",
+      "category": "uk",
+      "summary": "A man is to stand trial over the murder of a woman in North Ayrshire more than 30 years ago."
     },
     {
       "id": "feed-i29dqi",
@@ -464,36 +554,6 @@
       "summary": "The founder of Starling Bank offloaded her final shares in the digital lender at a valuation less than half the price it was reportedly seeking in its last major secondary share sale."
     },
     {
-      "id": "feed-ghdbjd",
-      "title": "David Squires on … Manchester City sailing into unknown Premier League waters",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters",
-      "publishedAt": "2026-10-20T10:04:53.000Z",
-      "category": "uk",
-      "summary": "Our cartoonist on a perfect start for Enzo Maresca’s league leaders. What could possibly go wrong? Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading..."
-    },
-    {
-      "id": "feed-b6dyxy",
-      "title": "Young people: share your views on youth protests around the world",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/2026/oct/20/young-people-youth-protests-france-india-albania",
-      "publishedAt": "2026-10-20T10:04:52.000Z",
-      "category": "uk",
-      "summary": "Young people in France, India and Albania and other parts of the world are protesting and we want to hear from them about the reasons why they’re taking to the streets Young people in different parts of the world are protesting and we want to hear from them ab"
-    },
-    {
-      "id": "feed-1cw0h0z",
-      "title": "The Breakdown | ‘Freer’ Red Roses resolve to come back stronger after Canada end epic run",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/20/england-women-red-roses-canada-end-epic-winning-run-rugby-union",
-      "publishedAt": "2026-10-20T10:00:57.000Z",
-      "category": "uk",
-      "summary": "A first defeat in four years could be liberating for England after so long fighting to preserve their historic unbeaten run England’s glittering unbeaten era is over. Canada defeated the Red Roses to deal them a first defeat in four years after 40 wins and one"
-    },
-    {
       "id": "feed-6cpoum",
       "title": "Isle of Man Assisted Dying Bill given Royal Assent",
       "source": "BBC News",
@@ -502,16 +562,6 @@
       "publishedAt": "2026-10-20T10:00:35.000Z",
       "category": "uk",
       "summary": "Assisted dying will become legal on the Isle of Man after being granted approval by Westminster."
-    },
-    {
-      "id": "feed-x6s66j",
-      "title": "We can stop Trump’s assault on the international criminal court | Kenneth Roth",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/trump-icc-sanctions-opinion",
-      "publishedAt": "2026-10-20T10:00:34.000Z",
-      "category": "uk",
-      "summary": "Here’s what we need to do to stand up for international law Many applauded when Navi Pillay was awarded the Nobel peace prize. The South African human rights lawyer had chaired the UN commission of inquiry that found Israel to have committed genocide in Gaza a"
     },
     {
       "id": "feed-xf070a",
@@ -532,6 +582,16 @@
       "publishedAt": "2026-10-20T09:53:27.000Z",
       "category": "world",
       "summary": "Low-cost broadband provider Jio Platforms aims for £81bn valuation when it floats on the stock market on Wednesday Business live – latest updates India’s second-richest man, Mukesh Ambani, is launching what could be the country’s biggest-ever initial public of"
+    },
+    {
+      "id": "feed-10wu3ar",
+      "title": "Albanians set fire to government buildings and clash with riot police in latest protests",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/albanians-set-fire-to-government-buildings-and-clash-with-riot-police-in-latest-protests-13601275",
+      "publishedAt": "2026-10-20T09:47:00.000Z",
+      "category": "world",
+      "summary": "Demonstrators in Albania have set fire to government buildings and banks, smashed shop windows during the latest clashes with police as they demand the prime minister's resignation."
     },
     {
       "id": "feed-34t1ip",
@@ -634,16 +694,6 @@
       "summary": "A report finds women who were forced into prostitution as teenagers, advertised online, drugged and moved through cities."
     },
     {
-      "id": "feed-11il6yj",
-      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
-      "publishedAt": "2026-10-20T08:46:00.000Z",
-      "category": "technology",
-      "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday."
-    },
-    {
       "id": "feed-18uzezx",
       "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
       "source": "The Guardian",
@@ -734,16 +784,6 @@
       "summary": "Inspired by a gothic cathedral partly built using human bones, this gleaming monument to recycling boasts 82,000 bricks derived from construction waste – following a two-day brick-making festival Museums often try to reflect the world around them, but rarely a"
     },
     {
-      "id": "feed-1js6pev",
-      "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
-      "publishedAt": "2026-10-20T06:47:18.000Z",
-      "category": "world",
-      "summary": "Ukrainian president accuses Washington of ‘denial of reality’ in continuing row with Trump over apparent support for Moscow Ukraine did not receive a warning from the US about an impending Russian missile attack on Sunday evening, Volodymyr Zelenskyy has said,"
-    },
-    {
       "id": "feed-1lhfl0j",
       "title": "Oil-rich Alberta votes to remain part of Canada in historic referendum",
       "source": "Sky News",
@@ -762,16 +802,6 @@
       "publishedAt": "2026-10-20T06:31:04.000Z",
       "category": "science",
       "summary": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
-    },
-    {
-      "id": "feed-1w64eut",
-      "title": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests",
-      "publishedAt": "2026-10-20T06:30:18.000Z",
-      "category": "world",
-      "summary": "​After a protest clip went viral, a teenager’s life was torn apart by threats that sent her and her family into hiding. Plus, a book on citizen journalism • Don’t get This is India delivered to your inbox? Sign up here Before 24 July, a person I will call R wa"
     },
     {
       "id": "feed-pu5wfj",
@@ -922,16 +952,6 @@
       "publishedAt": "2026-10-20T03:10:39.000Z",
       "category": "world",
       "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm."
-    },
-    {
-      "id": "feed-jnhe6z",
-      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo",
-      "publishedAt": "2026-10-20T02:54:05.000Z",
-      "category": "world",
-      "summary": "In the wake of the apparent attack on Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats."
     },
     {
       "id": "feed-sfykdx",
@@ -1100,7 +1120,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o",
       "publishedAt": "2026-10-19T19:45:46.000Z",
-      "category": "science",
+      "category": "world",
       "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
     },
     {
@@ -1542,16 +1562,6 @@
       "publishedAt": "2026-10-18T10:00:56.000Z",
       "category": "technology",
       "summary": "Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decades The World Bank is urging developing countries to kickstart the creation of “small AI” models, which can run on a mobile phone with low connectivity, to r"
-    },
-    {
-      "id": "feed-7orjbs",
-      "title": "How to see the Orionid meteor shower",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o",
-      "publishedAt": "2026-10-18T08:54:07.000Z",
-      "category": "science",
-      "summary": "One of the best-known meteor showers peaks this week and will remain active until 7 November."
     },
     {
       "id": "feed-1keydv3",

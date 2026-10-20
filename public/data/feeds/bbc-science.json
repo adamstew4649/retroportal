@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T11:55:39.014Z",
+  "updatedAt": "2026-10-20T12:18:35.336Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1so9gnm",
+      "title": "Moment giant fin whale's huge mouth engulfs thousands of tonnes of water",
+      "link": "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T12:03:28.000Z",
+      "summary": "Videographer Rhys Morgan captured footage of the worlds second largest whale lunge feeding on his drone."
+    },
     {
       "id": "feed-ua14jd",
       "title": "Storm Austen to bring severe gales to UK as weather warning issued",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-18T19:20:57.000Z",
       "summary": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell."
-    },
-    {
-      "id": "feed-7orjbs",
-      "title": "How to see the Orionid meteor shower",
-      "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-18T08:54:07.000Z",
-      "summary": "One of the best-known meteor showers peaks this week and will remain active until 7 November."
     }
   ]
 }
