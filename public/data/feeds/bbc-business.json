@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T17:54:34.498Z",
+  "updatedAt": "2026-10-21T18:17:19.975Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-r3gba2",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T18:01:11.000Z",
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
+    },
     {
       "id": "feed-10jaqku",
       "title": "A warning to anyone with credit card debt...",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T18:03:19.000Z",
       "summary": "Revolut was one of the hardest hit, with banking services going down for many customers."
-    },
-    {
-      "id": "feed-54yyog",
-      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-      "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T15:53:13.000Z",
-      "summary": "The government increased taxes on online casino and sports betting in last year's Budget."
     }
   ]
 }
