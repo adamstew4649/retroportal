@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T10:24:27.632Z",
-  "generatedAt": "2026-10-21T10:24:27.632Z",
+  "updatedAt": "2026-10-21T10:57:36.337Z",
+  "generatedAt": "2026-10-21T10:57:36.337Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 7
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,84 @@
   ],
   "articles": [
     {
-      "id": "feed-1s55z8k",
-      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+      "id": "feed-jf0nsz",
+      "title": "Masked boy guilty of trying to murder schoolgirl",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o",
-      "publishedAt": "2026-10-21T10:20:15.000Z",
-      "category": "business",
-      "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
+      "url": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo",
+      "publishedAt": "2026-10-21T10:55:52.000Z",
+      "category": "uk",
+      "summary": "The school went into lockdown and parents gathered at the gates as they waited for news about their children."
+    },
+    {
+      "id": "feed-1k4zbac",
+      "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go",
+      "publishedAt": "2026-10-21T10:55:32.000Z",
+      "category": "uk",
+      "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt."
+    },
+    {
+      "id": "feed-1ofcx23",
+      "title": "Stratford International finally to have international trains in budget boost",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+      "publishedAt": "2026-10-21T10:53:42.000Z",
+      "category": "uk",
+      "summary": "Sadiq Khan says upgrade will unlock station’s true potential and allow it to live up to its name Business live – latest updates Stratford International train station in east London will receive funding in next week’s budget, according to reports, putting it on"
+    },
+    {
+      "id": "feed-wtuyk8",
+      "title": "Macron blasts ‘unacceptable’ and ‘stupid’ commentary on protests from other leaders – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+      "publishedAt": "2026-10-21T10:52:28.000Z",
+      "category": "uk",
+      "summary": "Macron says he is frustrated by the ‘visible manipulation of information’ about the events in France Meanwhile, French president Emmanuel Macron blasted “unacceptable” and “stupid” comments on the protests and riots in France from foreign leaders, accusing the"
+    },
+    {
+      "id": "feed-15vvt45",
+      "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o",
+      "publishedAt": "2026-10-21T10:52:00.000Z",
+      "category": "world",
+      "summary": "The former teacher has been released without any \"swap\" required, according to the president."
+    },
+    {
+      "id": "feed-1fek3is",
+      "title": "South Africa v Australia: second men’s cricket Test, day four – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/21/south-africa-v-australia-second-test-day-four-cricket-st-georges-park-gqeberha-live-updates",
+      "publishedAt": "2026-10-21T10:51:15.000Z",
+      "category": "uk",
+      "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 9th over: Australia 22-2 (Head 14, Labuschagne 6) This is some spell from Rabada. Operating at serious pace, even if there’s a little sauce on those readings. Ma"
+    },
+    {
+      "id": "feed-fvy1ie",
+      "title": "Trump calls for data center ‘dividends’ in bid to win over midterm voters – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+      "publishedAt": "2026-10-21T10:49:20.000Z",
+      "category": "world",
+      "summary": "President’s social media post says sites should pay the communities where they will be located and comes amid growing unpopularity of facilities Sign up for Breaking News US email The US president has just posted on Hubbard’s release, saying: “Welcome home Ste"
+    },
+    {
+      "id": "feed-4pb51a",
+      "title": "High School Musical review – Disney fave is sweet, slick and as squeaky clean as ever",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/oct/21/high-school-musical-review-harry-judd-troubadour-wembley-park-theatre-london",
+      "publishedAt": "2026-10-21T10:44:45.000Z",
+      "category": "uk",
+      "summary": "Troubadour Wembley Park theatre, London Harry Judd is the coach while KayCee Stroh from the original movies is back to play a teacher in the hoop-shooting, pompom-waving romance Since soaring on screen 20 years ago, this Disney Channel favourite has cemented i"
     },
     {
       "id": "feed-tog2a0",
@@ -119,9 +189,89 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates",
-      "publishedAt": "2026-10-21T10:19:54.000Z",
-      "category": "business",
+      "publishedAt": "2026-10-21T10:43:09.000Z",
+      "category": "uk",
       "summary": "French government bond yields highest since 2002 as country rocked by protests; UK approves controversial North Sea gasfield Jackdaw The approval of Jackdaw is an “important step” for the North Sea, according to Shell . The UK energy giant jointly owns Jackdaw"
+    },
+    {
+      "id": "feed-15k59f2",
+      "title": "Burnham to face Badenoch at PMQs as Labour accused of ‘climate vandalism’ after Jackdaw gasfield approved – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+      "publishedAt": "2026-10-21T10:42:49.000Z",
+      "category": "uk",
+      "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government said Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of polit"
+    },
+    {
+      "id": "feed-1sestj3",
+      "title": "Race for crucial midterms attracting vast sums of money on both sides | First Thing",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/first-thing-midterms-spending-money-donations-michael-bloomberg",
+      "publishedAt": "2026-10-21T10:40:59.000Z",
+      "category": "world",
+      "summary": "Billionaire Michael Bloomberg is spending $80m to help Democratic candidates, while Trump has promised Republicans $400m. Plus a vital investigation into justice in Louisiana Good morning. Vast sums of money are being ploughed into November’s midterms , with t"
+    },
+    {
+      "id": "feed-1brj5sq",
+      "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+      "publishedAt": "2026-10-21T10:32:48.000Z",
+      "category": "world",
+      "summary": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or jo"
+    },
+    {
+      "id": "feed-votofc",
+      "title": "Giant tunnel proposed to tackle Windermere sewage discharges",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/oct/21/giant-tunnel-proposed-to-tackle-widermere-sewage-discharges",
+      "publishedAt": "2026-10-21T10:32:12.000Z",
+      "category": "uk",
+      "summary": "United Utilities, Environment Agency and local campaigners say 12-mile tunnel could take sewage away from England’s largest lake Plans are under way for a new giant tunnel to transport sewage away from Windermere, England’s largest lake. Windermere, in the Lak"
+    },
+    {
+      "id": "feed-1kmm918",
+      "title": "MNEK cancels tour over lack of ticket sales and high production costs",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lz018pe1o",
+      "publishedAt": "2026-10-21T10:31:01.000Z",
+      "category": "uk",
+      "summary": "The Grammy-nominated artist was due to start a run of shows for his latest album Bulldozer!! next month."
+    },
+    {
+      "id": "feed-16b5lmc",
+      "title": "Wonderhaul: has Liam Gallagher really got into metal detecting?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/oct/21/wonderhaul-has-liam-gallagher-really-got-into-metal-detecting",
+      "publishedAt": "2026-10-21T10:28:42.000Z",
+      "category": "uk",
+      "summary": "The Oasis frontman and famous fibber has claimed on social media that he is a budding detectorist. Some might say it’s a perfect fit, but either way, the gentle pastime is booming in the UK Liam Gallagher is one of the country’s foremost trendsetters. When Oas"
+    },
+    {
+      "id": "feed-mp6h92",
+      "title": "Cabinet split widens as minister refuses to back Shabana Mahmood’s immigration plans",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
+      "publishedAt": "2026-10-21T10:21:18.000Z",
+      "category": "uk",
+      "summary": "Miatta Fahnbulleh avoids explicitly expressing support for 15-year path to permanent residency for foreign workers UK politics live – latest updates A cabinet split over Shabana Mahmood’s immigration policy has deepened after the energy secretary refused to sa"
+    },
+    {
+      "id": "feed-1s55z8k",
+      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o",
+      "publishedAt": "2026-10-21T10:20:15.000Z",
+      "category": "uk",
+      "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
     },
     {
       "id": "feed-1mxodiv",
@@ -130,18 +280,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/oct/21/aberdeen-workers-relief-jackdaw-gasfield-approval",
       "publishedAt": "2026-10-21T10:19:18.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Few believe decision will bring back city’s boom years, but workers hope it will keep as many North Sea jobs for now UK approves Jackdaw gasfield in North Sea What does the UK’s approval of the Jackdaw gasfield mean? As recently as 2012, Aberdeen boasted the h"
-    },
-    {
-      "id": "feed-fe2wk1",
-      "title": "Labour accused of ‘climate vandalism’ by Green leader Polanski after Jackdaw gasfield approved – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
-      "publishedAt": "2026-10-21T10:17:54.000Z",
-      "category": "world",
-      "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government said Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of polit"
     },
     {
       "id": "feed-lt7uer",
@@ -162,16 +302,6 @@
       "publishedAt": "2026-10-21T10:10:40.000Z",
       "category": "science",
       "summary": "Gusts of wind about 50 to 60mph are likely to hit large parts of south Wales on Friday."
-    },
-    {
-      "id": "feed-1fek3is",
-      "title": "South Africa v Australia: second men’s cricket Test, day four – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/21/south-africa-v-australia-second-test-day-four-cricket-st-georges-park-gqeberha-live-updates",
-      "publishedAt": "2026-10-21T10:08:36.000Z",
-      "category": "uk",
-      "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 9th over: Australia 22-2 (Head 14, Labuschagne 6) This is some spell from Rabada. Operating at serious pace, even if there’s a little sauce on those readings. Ma"
     },
     {
       "id": "feed-1iwj5jh",
@@ -234,16 +364,6 @@
       "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people."
     },
     {
-      "id": "feed-1ww101b",
-      "title": "UK inflation rises by more than expected to 3.5% as war drives up fuel prices",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
-      "publishedAt": "2026-10-21T09:54:08.000Z",
-      "category": "world",
-      "summary": "Increase in annual price growth in September comes amid fears rate will breach 4% next year Business live – latest updates UK inflation climbed by more than expected in September to 3.5% after a surge in prices from the conflict in the Middle East that has pus"
-    },
-    {
       "id": "feed-499qwv",
       "title": "Parents and teachers in England: share your views on two-week half terms",
       "source": "The Guardian",
@@ -294,26 +414,6 @@
       "summary": "Kvaratskhelia to undergo surgery on right knee Dembélé and Marquinhos out for weeks Paris St Germain’s Khvicha Kvaratskhelia ⁠will undergo surgery after rupturing the anterior cruciate ⁠ligament in ⁠his ​right knee in the Champions League win over ⁠Barcelona ."
     },
     {
-      "id": "feed-19lnzy7",
-      "title": "US envoy Witkoff in talks with Vladimir Putin about Ukraine – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-      "publishedAt": "2026-10-21T09:32:13.000Z",
-      "category": "uk",
-      "summary": "The meeting comes after the US official held ‘constructive’ talks with Zelenskyy in Norway During their initial exchange, relayed via the Russian state news agency Tass, Putin reportedly said that he was interested in restoring ties and economic cooperation wi"
-    },
-    {
-      "id": "feed-y86535",
-      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o",
-      "publishedAt": "2026-10-21T09:22:23.000Z",
-      "category": "world",
-      "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff."
-    },
-    {
       "id": "feed-duixjp",
       "title": "Coach banned until 2048 for training DR Congo kids while suspended for sexual abuse",
       "source": "The Guardian",
@@ -334,34 +434,14 @@
       "summary": "All-rounder and ‘the best teammate you could wish for’ has seen profound change since his first-class debut in 2006 The Spin this week comes from York, where Chris Woakes and I sat down on Monday evening to discuss his new autobiography, The Wizard. There were"
     },
     {
-      "id": "feed-1k4zbac",
-      "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go",
-      "publishedAt": "2026-10-21T09:04:26.000Z",
+      "id": "feed-gc117g",
+      "title": "Actor Noel Clarke pleads not guilty to six sexual offences",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/actor-noel-clarke-pleads-not-guilty-to-six-sexual-offences-13601830",
+      "publishedAt": "2026-10-21T09:11:00.000Z",
       "category": "uk",
-      "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt."
-    },
-    {
-      "id": "feed-1uk3jxf",
-      "title": "Gabby Thomas, Melissa Jefferson-Wooden and the doping tensions dividing sprinting",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/21/gabby-thomas-melissa-jefferson-wooden-dennis-mitchell-doping-sprinting",
-      "publishedAt": "2026-10-21T09:00:04.000Z",
-      "category": "uk",
-      "summary": "As women’s sprinting enters a golden era in the run-up to LA 2028, controversy surrounding a top coach threaten to overshadow the sport’s biggest stars When Olympic 200m champion Gabby Thomas came second at the recent track and field World Athletics Ultimate C"
-    },
-    {
-      "id": "feed-1hl8bdi",
-      "title": "What an eyesore! My day at Norfolk’s frightful fridge mountain",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/oct/21/norfolk-frightful-fridge-mountain-recycling",
-      "publishedAt": "2026-10-21T09:00:03.000Z",
-      "category": "uk",
-      "summary": "This summer alone, 26 local authorities in the UK had to stop accepting fridges and freezers for recycling. Now the appliances are piling up around the country – with no proper disposal date in sight Not much is happening in the tiny Norfolk hamlet of Little H"
+      "summary": "Actor Noel Clarke has pleaded not guilty to six sexual offences."
     },
     {
       "id": "feed-1ia3gzl",
@@ -370,8 +450,18 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change",
       "publishedAt": "2026-10-21T09:00:03.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Hamstrung governments seem to have no answer to the public’s furious demands, making further discontent likely Europe live – latest updates In France, it was the piles of wheelie bins stacked up against school entrances that first hinted at the scale of studen"
+    },
+    {
+      "id": "feed-1hl8bdi",
+      "title": "What an eyesore! My day at Norfolk’s frightful fridge mountain",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/oct/21/norfolk-frightful-fridge-mountain-recycling",
+      "publishedAt": "2026-10-21T09:00:03.000Z",
+      "category": "business",
+      "summary": "This summer alone, 26 local authorities in the UK had to stop accepting fridges and freezers for recycling. Now the appliances are piling up around the country – with no proper disposal date in sight Not much is happening in the tiny Norfolk hamlet of Little H"
     },
     {
       "id": "feed-11hylex",
@@ -380,38 +470,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/thefilter/2026/oct/21/best-gifts-toys-nine-year-olds",
       "publishedAt": "2026-10-21T09:00:02.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Popcorn makers, Lego Fortnite and the coolest water bottle around … surprise the mini tween in your life with our pick of the top gifts and toys • The best gifts for eight-year-olds The start of the tween years, nine years old, is a sweet spot between curiosit"
-    },
-    {
-      "id": "feed-1y74dke",
-      "title": "Sali Hughes on beauty: cream blush sticks for every skin type",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/fashion/2026/oct/21/sali-hughes-on-beauty-cream-blush-sticks-for-every-skin-type",
-      "publishedAt": "2026-10-21T09:00:01.000Z",
-      "category": "uk",
-      "summary": "With new shades and formulations, the latest cream blush sticks are eminently wearable There’s something so irresistible about cream blush sticks. The fact that one can scribble on and smoosh in the instant appearance of good health makes sticks a practical ha"
-    },
-    {
-      "id": "feed-7jscia",
-      "title": "Cyndi Lauper on fun, fashion and freedom of expression: ‘We have braces on our brains’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/music/2026/oct/21/cyndi-lauper-auction-fashion",
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "category": "uk",
-      "summary": "As she auctions off her treasures, the synth-pop savant opens up about her eccentric style and why she doesn’t believe in cancel culture Before Cyndi Lauper rose to fame as one of the most singular pop breakouts of the 1980s, she was queen of the cash register"
-    },
-    {
-      "id": "feed-1btxn89",
-      "title": "After three disastrous years, Israel needs to rethink itself. A new government would be a start | Dahlia Scheindlin",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/commentisfree/2026/oct/21/israel-new-government-election-opposition-victory-palestine",
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "category": "uk",
-      "summary": "Only a clear opposition victory would let us begin to heal, strengthen democracy and establish Palestinian rights Dahlia Scheindlin is a Tel Aviv-based political analyst Israel’s 27 October election is fast approaching, with little clarity about who will win. "
     },
     {
       "id": "feed-p0s5ha",
@@ -421,7 +481,7 @@
       "url": "https://news.sky.com/story/at-least-153-people-killed-in-drone-strike-on-disputed-sudan-south-sudan-region-13601817",
       "publishedAt": "2026-10-21T08:48:00.000Z",
       "category": "world",
-      "summary": "A drone strike on a market in a disputed region on the Sudan-South Sudan border hit a fuel depot, killing at least 153 people."
+      "summary": "A drone strike on a fuel depot in a disputed region on the Sudan-South Sudan border has killed at least 153 people."
     },
     {
       "id": "feed-1u4e4q0",
@@ -480,7 +540,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
       "publishedAt": "2026-10-21T08:26:09.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners What does the UK’s approval of the Jackdaw gasfield mean? UK politics live – latest updates Business live – latest updates The UK government has approved the controv"
     },
     {
@@ -524,16 +584,6 @@
       "summary": "The UK government has moved a step closer to making a decision on whether to approve further drilling."
     },
     {
-      "id": "feed-10r1fui",
-      "title": "Teenager arrested aged 16 jailed after terror conviction",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxwqxdv547o",
-      "publishedAt": "2026-10-21T07:44:41.000Z",
-      "category": "uk",
-      "summary": "Yusuf Shah offered advice on cyber-security to terror groups and downloaded terror-related material."
-    },
-    {
       "id": "feed-1gxqyi1",
       "title": "Inflation rises more than expected - can upcoming budget help?",
       "source": "Sky News",
@@ -572,6 +622,16 @@
       "publishedAt": "2026-10-21T06:36:39.000Z",
       "category": "world",
       "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
+    },
+    {
+      "id": "feed-1sabt7d",
+      "title": "Boy, 16, found guilty of attempted murder after stabbing girl at school",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/boy-16-found-guilty-of-attempted-murder-after-stabbing-girl-at-school-13601783",
+      "publishedAt": "2026-10-21T06:34:00.000Z",
+      "category": "uk",
+      "summary": "A 16-year-old boy has been found guilty of attempted murder after stabbing a 15-year-old girl in the back at school."
     },
     {
       "id": "feed-bwknfu",
@@ -681,7 +741,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cr9dzpx2xl0lo",
       "publishedAt": "2026-10-21T05:22:15.000Z",
       "category": "uk",
-      "summary": "It is 60 years since one of Wales' darkest days, when a mining community changed forever."
+      "summary": "It was one of Wales' darkest days that changed a mining community forever."
     },
     {
       "id": "feed-1bhoocn",
@@ -744,16 +804,6 @@
       "summary": "Chlamydomonas and its light-sensing protein help show how memories, feelings and behaviour form in our brains A tiny alga has helped show how memories, feelings and behaviour form in our brains, in research by three scientists awarded the Nobel prize for physi"
     },
     {
-      "id": "feed-1e3814v",
-      "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
-      "publishedAt": "2026-10-21T05:00:02.000Z",
-      "category": "world",
-      "summary": "Despite US-Israeli airstrikes and Tehran’s attacks on shipping, the waterway still has to provide a lifeline for those that live and work there Capt Farouq turns the wheel as he watches the ferry terminal of Bandar Abbas grow smaller, its bright lights flicker"
-    },
-    {
       "id": "feed-1gixfkv",
       "title": "UK watchdogs urged to tackle suicide social media content after death of girl, 14",
       "source": "The Guardian",
@@ -782,16 +832,6 @@
       "publishedAt": "2026-10-21T04:44:56.000Z",
       "category": "uk",
       "summary": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green."
-    },
-    {
-      "id": "feed-1tp0rhk",
-      "title": "Fifth foreign firm pulls out of controversial Israeli cable car project to East Jerusalem",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
-      "publishedAt": "2026-10-21T04:00:05.000Z",
-      "category": "world",
-      "summary": "Rights groups say the planned 1.4km route, which ends at compound run by far-right settler group Elad, will displace Palestinians and reshape the cultural landscape A fifth foreign company has pulled out of a plan to build a cable car from West to East Jerusal"
     },
     {
       "id": "feed-1gksjcy",
@@ -842,16 +882,6 @@
       "publishedAt": "2026-10-21T02:33:00.000Z",
       "category": "uk",
       "summary": "Brazilian butt lifts and other cosmetic procedures that inject filler into parts of the body will only be performed by doctors under new government rules to crackdown on \"cosmetic cowboys\"."
-    },
-    {
-      "id": "feed-16xlk4d",
-      "title": "University of Arizona sorority member alleges sexual assault at fraternity house",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/university-of-arizona-sexual-assault-fraternity",
-      "publishedAt": "2026-10-21T02:04:27.000Z",
-      "category": "world",
-      "summary": "Student told the university’s police department that assault by two men occurred in August during a night of drinking A sorority member at the University of Arizona has alleged she was sexually assaulted by two men at a fraternity house during a night of drink"
     },
     {
       "id": "feed-25z5vp",
@@ -924,16 +954,6 @@
       "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy."
     },
     {
-      "id": "feed-1h5vwpm",
-      "title": "Tighter rules planned to protect people from cosmetic surgery that goes badly wrong",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o",
-      "publishedAt": "2026-10-20T23:06:07.000Z",
-      "category": "uk",
-      "summary": "There will be restrictions on who can carry out procedures and fines for those who flout the law, in England in 2027."
-    },
-    {
       "id": "feed-1272pn8",
       "title": "Bad apple effect: study shows how people are influenced by rule-breaking of others",
       "source": "The Guardian",
@@ -990,7 +1010,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo",
       "publishedAt": "2026-10-20T20:56:53.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "No formal investigation has started, but the regulator is making inquiries into the case."
     },
     {
@@ -1062,16 +1082,6 @@
       "publishedAt": "2026-10-20T18:58:20.000Z",
       "category": "business",
       "summary": "Decision has implications for household energy bills, the UK economy and the climate crisis UK approves Jackdaw gasfield in North Sea About four years and six energy secretaries after it was given the green light, the Jackdaw gasfield has been given consent to"
-    },
-    {
-      "id": "feed-u1k1re",
-      "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o",
-      "publishedAt": "2026-10-20T18:40:30.000Z",
-      "category": "uk",
-      "summary": "Dodds said it was time to hand over the leadership to a \"new generation\" after nearly nine years in the role."
     },
     {
       "id": "feed-1xjfulq",
@@ -1212,16 +1222,6 @@
       "publishedAt": "2026-10-20T14:28:56.000Z",
       "category": "business",
       "summary": "Conflict in Middle East is pushing jet fuel costs higher and many carriers are not hedged against such increases, Michael O’Leary says Ryanair’s chief executive has predicted a record increase in European air fares next year, as airlines grapple with fuel bill"
-    },
-    {
-      "id": "feed-xcp7l1",
-      "title": "Paddy Power owner blames tax rises for plan to shed up to 1,400 jobs",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/2026/oct/20/paddy-power-owner-flutter-tax-rises-jobs-cuts-gambling",
-      "publishedAt": "2026-10-20T14:24:36.000Z",
-      "category": "business",
-      "summary": "Flutter says one in 10 UK and Ireland workers at risk of redundancy because of a ‘material increase in betting and gaming duties’ The gambling company behind Paddy Power and Sky Bet has announced up to 1,400 job cuts, blaming tax rises imposed by Rachel Reeves"
     },
     {
       "id": "feed-y8h7al",
