@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T19:06:32.723Z",
-  "generatedAt": "2026-10-21T19:06:32.723Z",
+  "updatedAt": "2026-10-21T19:54:56.251Z",
+  "generatedAt": "2026-10-21T19:54:56.251Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,34 +104,14 @@
   ],
   "articles": [
     {
-      "id": "feed-1jrjpiw",
-      "title": "Como 4-1 Manchester United: Champions League – live reaction",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
-      "publishedAt": "2026-10-21T18:52:59.000Z",
-      "category": "uk",
-      "summary": "⚽️ Champions League updates from 5.45pm BST ⚽️ Live scoreboard | Champions League table | Mail Simon The players are on the pitch and very nearly ready to go. Poor mascot coming out to pick up the match ball looks like someone just dragged him out of a ditch. "
-    },
-    {
-      "id": "feed-1372mau",
-      "title": "Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live",
-      "publishedAt": "2026-10-21T18:49:51.000Z",
-      "category": "uk",
-      "summary": "⚽️ Champions League updates from 8pm BST ⚽️ Bayern v Arsenal | Live scores | Table | Mail Sarah Real Madrid : Courtois; Valverde, Huijsen, Rudiger, Carreras; Silva, Camavinga, Bellingham; Guler, Mbappe, Vini Jr. Bench: Lunin, Éder Militão, Endrick, Alexander-A"
-    },
-    {
-      "id": "feed-19mf0pl",
-      "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-      "publishedAt": "2026-10-21T18:49:27.000Z",
+      "id": "feed-r3gba2",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo",
+      "publishedAt": "2026-10-21T19:54:16.000Z",
       "category": "world",
-      "summary": "New poll finds likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points; Trump campaigns in South Carolina Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from"
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
     },
     {
       "id": "feed-1vqetcd",
@@ -139,9 +119,139 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
-      "publishedAt": "2026-10-21T18:47:08.000Z",
+      "publishedAt": "2026-10-21T19:52:14.000Z",
       "category": "uk",
-      "summary": "⚽️ Champions League updates from 8pm BST ⚽️ Clockwatch | Live scores | Table | Mail Scott Mikel Arteta speaks to TNT Sports. “We’re gonna have to play, I expect, three or four different games at different stages … we need everybody ready because we need to cha"
+      "summary": "⚽️ Champions League updates | Como 4-1 Man Utd ⚽️ Clockwatch | Live scores | Table | Email Scott The teams are out! Bayern are in one of their all-red phases, while Arsenal are harking back to the early 90s with a blue version of the famous bruised banana. Vin"
+    },
+    {
+      "id": "feed-1372mau",
+      "title": "Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live",
+      "publishedAt": "2026-10-21T19:51:45.000Z",
+      "category": "uk",
+      "summary": "⚽️ Champions League updates | Como 4-1 Man Utd ⚽️ Bayern v Arsenal | Live scores | Table | Mail Sarah Real Madrid : Courtois; Valverde, Huijsen, Rudiger, Carreras; Silva, Camavinga, Bellingham; Guler, Mbappe, Vini Jr. Bench: Lunin, Éder Militão, Endrick, Alexa"
+    },
+    {
+      "id": "feed-1w927y1",
+      "title": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+      "publishedAt": "2026-10-21T19:41:50.000Z",
+      "category": "science",
+      "summary": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of Tesla shareholders Investors will be paying close attention to Tesla’s third-quarter earnings call on Wednesday, after chief executive Elon Musk floated the idea of me"
+    },
+    {
+      "id": "feed-1o1ei59",
+      "title": "Pupils who designed a badge sent to space meet NASA astronaut headed to the Moon",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pzl85nglo",
+      "publishedAt": "2026-10-21T19:39:38.000Z",
+      "category": "science",
+      "summary": "Frank Rubio is set to be in the crew for the Artemis III mission and previously spent a year in space."
+    },
+    {
+      "id": "feed-1owlijd",
+      "title": "NSW passes ‘human compost’ laws with several MPs saying they will utilise practice after they die",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/nsw-passes-human-compost-laws-with-several-mps-saying-they-will-utilise-practice-after-they-die",
+      "publishedAt": "2026-10-21T19:37:00.000Z",
+      "category": "world",
+      "summary": "Australia-first laws provide a third legal option other than burial and cremation for the treatment of bodies Get our breaking news email , free app or daily news podcast Several New South Wales MPs say they want their own bodies turned into “human compost” af"
+    },
+    {
+      "id": "feed-1ngelmf",
+      "title": "Pope Leo's doctors say tests show he needs no further treatment for lung cancer",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/pope-leos-doctors-say-tests-show-he-needs-no-further-treatment-for-lung-cancer-13602031",
+      "publishedAt": "2026-10-21T19:34:00.000Z",
+      "category": "world",
+      "summary": "Pope Leo's doctors say final tissue and molecular tests have confirmed his lung cancer was localised, and no further treatment is needed, the Vatican said in a statement."
+    },
+    {
+      "id": "feed-fqj27",
+      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo",
+      "publishedAt": "2026-10-21T19:29:40.000Z",
+      "category": "world",
+      "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation."
+    },
+    {
+      "id": "feed-19mf0pl",
+      "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+      "publishedAt": "2026-10-21T19:23:47.000Z",
+      "category": "world",
+      "summary": "New poll finds likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points; Trump campaigns in South Carolina Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from"
+    },
+    {
+      "id": "feed-1g2psp1",
+      "title": "Football regulator to address EFL clubs as quest for deal goes on",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/football-regulator-to-address-efl-clubs-as-quest-for-deal-goes-on-13602023",
+      "publishedAt": "2026-10-21T19:01:00.000Z",
+      "category": "business",
+      "summary": "The head of English football's watchdog will address the 72 clubs below the top flight on Thursday as the quest for a financial redistribution deal with the Premier League continues."
+    },
+    {
+      "id": "feed-y57vjy",
+      "title": "Ilford Boy review – Barbra Streisand teaches teen to smile about the way we are",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/oct/21/ilford-boy-review-donmar-warehouse-london",
+      "publishedAt": "2026-10-21T19:00:54.000Z",
+      "category": "uk",
+      "summary": "Donmar Warehouse, London In Danny Lee Wynter’s drama, a quiet boy struggles amid the swirl of his family until a mercurial friend offers him another future Broad Essex accents fill the stage in Danny Lee Wynter’s sprawling family drama. The busy script from th"
+    },
+    {
+      "id": "feed-1u8nak2",
+      "title": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror",
+      "publishedAt": "2026-10-21T19:00:54.000Z",
+      "category": "uk",
+      "summary": "Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain A sense of desperation is understandably in the air over at DC, the company, like Marvel, slowly realising"
+    },
+    {
+      "id": "feed-xfjtvl",
+      "title": "Como demolish dismal Manchester United to pile more pressure on Carrick",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/21/como-manchester-united-champions-league-match-report",
+      "publishedAt": "2026-10-21T18:55:28.000Z",
+      "category": "uk",
+      "summary": "In sight of the Alps, a boat ride from George Clooney’s villa, Manchester United will hope, in what has been a terrible start to the season, that things do not get any worse. They can’t – for the team’s prospects, and Michael Carrick’s job security, because wi"
+    },
+    {
+      "id": "feed-1mjbajo",
+      "title": "Elon Musk’s Super Pac spends $500,000 to back New York Republican in midterms",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/elon-musk-super-pac-new-york-midterms",
+      "publishedAt": "2026-10-21T18:55:24.000Z",
+      "category": "world",
+      "summary": "Incumbent Mike Lawler is fending off a challenge from Democrat Cait Conley in state’s 17th congressional district US politics live – latest updates Elon Musk’s Super Pac has spent more than $500,000 in New York’s highly competitive 17th congressional district "
+    },
+    {
+      "id": "feed-1pcfu8j",
+      "title": "How bad is Jackdaw gasfield approval for the climate? – The Latest",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/news/video/2026/oct/21/how-bad-is-jackdaw-gasfield-approval-for-the-climate-the-latest",
+      "publishedAt": "2026-10-21T18:51:39.000Z",
+      "category": "uk",
+      "summary": "Climate campaigners have condemned the UK government’s decision to allow the drilling of the Jackdaw gasfield. Critics argue the move will put climate targets at risk, while failing to reduce energy bills and the cost of living crisis. But there could be a sig"
     },
     {
       "id": "feed-1eu2qya",
@@ -152,16 +262,6 @@
       "publishedAt": "2026-10-21T18:46:37.000Z",
       "category": "uk",
       "summary": "Michael Glover left a note on MP Henry Tufnell's office door and claimed he knew where he lived."
-    },
-    {
-      "id": "feed-r3gba2",
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo",
-      "publishedAt": "2026-10-21T18:40:39.000Z",
-      "category": "world",
-      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
     },
     {
       "id": "feed-1snhmwh",
@@ -181,7 +281,7 @@
       "url": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
       "publishedAt": "2026-10-21T18:37:24.000Z",
       "category": "world",
-      "summary": "SEIU Local 1000, representing nurses and teachers, pushing for higher wages, telework and affordable healthcare Thousands of California state workers began a sweeping, one-day strike on Wednesday, with workers set to rally outside government buildings in sever"
+      "summary": "SEIU Local 1000, representing nurses and teachers, pushing for higher wages, telework and affordable healthcare Thousands of California state workers began a sweeping one-day strike on Wednesday, with workers set to rally outside government buildings in severa"
     },
     {
       "id": "feed-qqj8n6",
@@ -251,7 +351,7 @@
       "url": "https://www.theguardian.com/uk-news/2026/oct/21/families-care-home-residents-covid-inquiry-report-findings",
       "publishedAt": "2026-10-21T18:11:16.000Z",
       "category": "uk",
-      "summary": "Relatives recount distress and loneliness their loved ones went through in pandemic as result of isolation policy “At the time it felt like a devil’s bargain – it was horrible, but it was what [we thought] we had to do to keep people safe,” says Amy of the “de"
+      "summary": "Relatives recount distress and loneliness their loved ones went through in pandemic as a result of isolation policy “At the time it felt like a devil’s bargain – it was horrible, but it was what [we thought] we had to do to keep people safe,” says Amy of the “"
     },
     {
       "id": "feed-waiose",
@@ -281,7 +381,7 @@
       "url": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
       "publishedAt": "2026-10-21T17:59:14.000Z",
       "category": "uk",
-      "summary": "US photojournalist describes ‘protective shield’, vows to return to work in West Bank and criticises Netanyahu comments on incident The Washington Post photojournalist who was attacked and seriously injured by Israeli settlers on the West Bank on Friday has de"
+      "summary": "US photojournalist describes ‘protective shield’, vows to return to work in West Bank and criticises Netanyahu comments on incident The Washington Post photojournalist who was attacked and seriously injured by Israeli settlers in the West Bank on Friday has de"
     },
     {
       "id": "feed-1ttoqcw",
@@ -344,16 +444,6 @@
       "summary": "No 10 declines to rule out watering down plans to extend waiting period for indefinite leave to remain as cabinet split widens Shabana Mahmood has been urged to “read the room” on Labour opposition to her immigration policy, as No 10 declined to rule out water"
     },
     {
-      "id": "feed-145vxdj",
-      "title": "Jimmy Anderson set to retire from cricket as Lancashire opt against renewing contract",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/21/jimmy-anderson-set-to-retire-from-cricket-lancashire-contract",
-      "publishedAt": "2026-10-21T17:27:54.000Z",
-      "category": "uk",
-      "summary": "England bowler may have played last game at age 44 Lancashire tell Anderson he does not fit their plans Jimmy Anderson is expected to call time on his remarkable career at the age of 44 after being told his contract at Lancashire will not be renewed for next s"
-    },
-    {
       "id": "feed-1nphhgu",
       "title": "Police given more time to question two men re-arrested in RAF Fairford investigation",
       "source": "Sky News",
@@ -370,7 +460,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
       "publishedAt": "2026-10-21T17:18:56.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It wa"
     },
     {
@@ -380,7 +470,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
       "publishedAt": "2026-10-21T17:15:23.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Exclusive: Officials say Miatta Fahnbulleh minded not to give approval in victory for climate campaigners Miatta Fahnbulleh is minded to reject the giant Rosebank oilfield, sources have told the Guardian, in what would be a blow for the North Sea energy indust"
     },
     {
@@ -392,16 +482,6 @@
       "publishedAt": "2026-10-21T17:14:42.000Z",
       "category": "business",
       "summary": "This foolish decision undermines hopes that this government will take the necessary steps the climate crisis demands When the news broke that the UK government had approved the Jackdaw gasfield , I was at a Guardian climate event at the Royal Geographical Soci"
-    },
-    {
-      "id": "feed-14zphl1",
-      "title": "Pollster admits to fabricating data for ‘social experiment’ to expose flaws of industry",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/polling-fabricated-data-social-experiment",
-      "publishedAt": "2026-10-21T17:12:45.000Z",
-      "category": "world",
-      "summary": "Wedgewood Polls said project was designed to highlight lack of scrutiny over polling sector by mainstream media A polling firm has admitted to using fabricated data in surveys that were picked up by national media outlets in the US, claiming the project was a "
     },
     {
       "id": "feed-127i7o5",
@@ -462,16 +542,6 @@
       "publishedAt": "2026-10-21T16:58:16.000Z",
       "category": "world",
       "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later."
-    },
-    {
-      "id": "feed-1o4jkas",
-      "title": "UK politics: Reform UK claims racism exposé has left some members ‘psychologically damaged’ as it reports ITV to police – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
-      "publishedAt": "2026-10-21T16:45:48.000Z",
-      "category": "world",
-      "summary": "Zia Yusuf claims undercover investigation broke the law as broadcaster stands by its journalism Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace"
     },
     {
       "id": "feed-2zm37l",
@@ -614,16 +684,6 @@
       "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other cities Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen "
     },
     {
-      "id": "feed-1fg4zzq",
-      "title": "Poland’s parliament votes to ease abortion ban but faces likely veto from president",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/21/poland-parliament-votes-ease-abortion-ban-likely-veto-president",
-      "publishedAt": "2026-10-21T15:01:30.000Z",
-      "category": "world",
-      "summary": "Measures would remove some penalties for those helping women access abortion but are ‘small-scale step’, say campaigners Poland’s lower house of parliament has approved two bills aimed at loosening a near-total ban on abortions, in what campaigners have descri"
-    },
-    {
       "id": "feed-77xux7",
       "title": "Booking.com under investigation by EU regulators over fake listings and scams",
       "source": "The Guardian",
@@ -664,14 +724,14 @@
       "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
     },
     {
-      "id": "feed-1nsrcx3",
-      "title": "More than a million mice used in Australian research annually, ‘overdue’ study finds",
+      "id": "feed-1sz8wnr",
+      "title": "More than 1 million mice used in Australian research annually, ‘overdue’ study finds",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/environment/2026/oct/22/more-than-a-million-mice-used-in-australian-research-annually-overdue-study-finds",
       "publishedAt": "2026-10-21T14:01:20.000Z",
       "category": "science",
-      "summary": "Advocates say having national data about numbers of rats and mice used in research can help boost public trust in science Get our breaking news email , free app or daily news podcast More than a million mice and nearly 47,000 rats are used in scientific resear"
+      "summary": "Advocates say having national data about numbers of rats and mice used in research can help boost public trust in science Get our breaking news email , free app or daily news podcast More than 1 million mice and nearly 47,000 rats are used in scientific resear"
     },
     {
       "id": "feed-1g8hdo1",
@@ -762,16 +822,6 @@
       "publishedAt": "2026-10-21T13:06:46.000Z",
       "category": "business",
       "summary": "Tickets for film about Theranos founder Elizabeth Holmes said to be selling out after $15m opening weekend in the US It is the film everyone seems to be talking about, spawning memes and fuelling feverish online debate about its subject, the disgraced Theranos"
-    },
-    {
-      "id": "feed-vm8y79",
-      "title": "Nigeria confirms Ebola case linked to East Africa",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo",
-      "publishedAt": "2026-10-21T12:39:34.000Z",
-      "category": "world",
-      "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital."
     },
     {
       "id": "feed-x49os2",
@@ -1394,16 +1444,6 @@
       "summary": "A computer program has finally outdone humans at solving cryptic crosswords. Plus, more from around the puzzleverse • Don’t get Cluesletter, our weekly puzzles newsletter, delivered to your inbox? Sign up here When the IBM supercomputer Deep Blue beat Garry Ka"
     },
     {
-      "id": "feed-4uazvw",
-      "title": "Two men re-arrested on suspicion of assisting Iran after RAF Fairford incident",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/two-men-re-arrested-in-raf-fairford-investigation-13596084",
-      "publishedAt": "2026-10-20T15:17:00.000Z",
-      "category": "uk",
-      "summary": "Two men have been re-arrested on suspicion of assisting Iran’s intelligence service over a suspected terror plot near RAF Fairford."
-    },
-    {
       "id": "feed-16mn7a8",
       "title": "The dangers of letting tech billionaires shape our world",
       "source": "The Guardian",
@@ -1504,16 +1544,6 @@
       "summary": "The founder of Starling Bank offloaded her final shares in the digital lender at a valuation less than half the price it was reportedly seeking in its last major secondary share sale."
     },
     {
-      "id": "feed-10wu3ar",
-      "title": "Albanians set fire to government buildings and clash with riot police in latest protests",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/albanians-set-fire-to-government-buildings-and-clash-with-riot-police-in-latest-protests-13601275",
-      "publishedAt": "2026-10-20T09:47:00.000Z",
-      "category": "world",
-      "summary": "Demonstrators in Albania have set fire to government buildings and banks, smashed shop windows during the latest clashes with police as they demand the prime minister's resignation."
-    },
-    {
       "id": "feed-1ahi3jm",
       "title": "Google cloud failure hits millions as UK courts and banks knocked offline",
       "source": "The Guardian",
@@ -1522,16 +1552,6 @@
       "publishedAt": "2026-10-20T09:45:39.000Z",
       "category": "technology",
       "summary": "Services restored for most users, but power fault stalled hearings and left Revolut, Lloyds and HSBC customers unable to pay or move money An outage at Google’s cloud services in the UK has caused widespread disruption, hitting courts and leaving millions of c"
-    },
-    {
-      "id": "feed-ua14jd",
-      "title": "Storm Austen to bring severe gales to UK as weather warning issued",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo",
-      "publishedAt": "2026-10-20T09:42:56.000Z",
-      "category": "science",
-      "summary": "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday."
     },
     {
       "id": "feed-qolofn",
@@ -1552,16 +1572,6 @@
       "publishedAt": "2026-10-20T06:00:18.000Z",
       "category": "technology",
       "summary": "Great hardware let down by software flaws on these pricey machines that combine ChromeOS with Android Google’s attempt to create a new type of laptop to compete with Windows and macOS machines is finally here, combining the best of ChromeOS and Android into th"
-    },
-    {
-      "id": "feed-k9zmd4",
-      "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo",
-      "publishedAt": "2026-10-20T05:27:15.000Z",
-      "category": "science",
-      "summary": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission."
     },
     {
       "id": "feed-tloj5y",
@@ -1714,16 +1724,6 @@
       "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing."
     },
     {
-      "id": "feed-1t9f5zn",
-      "title": "Discount retailer B&M plots offer to cherry-pick shops from rival Poundland",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/discount-retailer-bm-plots-offer-to-cherry-pick-shops-from-rival-poundland-13600868",
-      "publishedAt": "2026-10-19T08:14:00.000Z",
-      "category": "business",
-      "summary": "B&M European Value Retail, the London-listed discounter, is looking to cherry-pick sites from troubled rival Poundland as it teeters on the brink of administration."
-    },
-    {
       "id": "feed-t57ie4",
       "title": "China's growth accelerates as AI boom helps boost exports",
       "source": "BBC News",
@@ -1830,16 +1830,6 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video",
       "publishedAt": "2026-10-13T15:18:47.000Z",
-      "category": "science",
-      "summary": "US defence secretary Pete Hegseth’s plan to livestream the execution of Nidal Malik Hasan has incurred condemnation from human rights groups and politicians on all sides. But according to Coltan Scrivner, an author and psychologist at Arizona State University "
-    },
-    {
-      "id": "feed-16u3zpp",
-      "title": "The surprising psychology of morbid curiosity – podcast",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast",
-      "publishedAt": "2026-10-13T04:00:13.000Z",
       "category": "science",
       "summary": "US defence secretary Pete Hegseth’s plan to livestream the execution of Nidal Malik Hasan has incurred condemnation from human rights groups and politicians on all sides. But according to Coltan Scrivner, an author and psychologist at Arizona State University "
     },
