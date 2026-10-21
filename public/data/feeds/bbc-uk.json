@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T20:56:04.452Z",
+  "updatedAt": "2026-10-21T21:18:34.713Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-hxbcub",
+      "title": "Attempted murder arrests after boy, 16, attacked",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y095260go",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T20:54:38.000Z",
+      "summary": "Two boys aged 15 and 16 were being questioned after the teenager was found injured in Everton, Liverpool."
+    },
     {
       "id": "feed-1eu2qya",
       "title": "MP harassed for 'being English' by man who took axe to pub",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T11:57:49.000Z",
       "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment."
-    },
-    {
-      "id": "feed-t5fa1o",
-      "title": "'My friend was lying next to me... I was only 8 but I realised he was dead'",
-      "link": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T11:21:58.000Z",
-      "summary": "Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago."
     }
   ]
 }
