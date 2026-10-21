@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T02:56:27.911Z",
+  "updatedAt": "2026-10-21T03:20:17.681Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-9p8jvy",
+      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T02:37:13.000Z",
+      "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
+    },
     {
       "id": "feed-71kjnh",
       "title": "France is divided over who to blame for and what to learn from weekend riots",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T11:45:49.000Z",
       "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
-    },
-    {
-      "id": "feed-10s1js0",
-      "title": "Man charged with attack on Australia MP to face court",
-      "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T11:25:35.000Z",
-      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
     }
   ]
 }
