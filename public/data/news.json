@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T05:22:00.296Z",
-  "generatedAt": "2026-10-21T05:22:00.296Z",
+  "updatedAt": "2026-10-21T05:55:18.390Z",
+  "generatedAt": "2026-10-21T05:55:18.390Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,86 @@
   ],
   "articles": [
     {
+      "id": "feed-1xut725",
+      "title": "Elon Musk considering Tesla-SpaceX merger",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+      "publishedAt": "2026-10-21T05:48:46.000Z",
+      "category": "world",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
+    },
+    {
+      "id": "feed-hp81z8",
+      "title": "Pakistan arrests man hunted by US over $126m postage fraud case",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo",
+      "publishedAt": "2026-10-21T05:46:33.000Z",
+      "category": "world",
+      "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece."
+    },
+    {
+      "id": "feed-9qonfd",
+      "title": "Massive wasps' nest in wildlife office dismantled",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28pkn8p8yo",
+      "publishedAt": "2026-10-21T05:35:38.000Z",
+      "category": "science",
+      "summary": "The insects lived in a nature reserve office for four months."
+    },
+    {
+      "id": "feed-1mawut7",
+      "title": "A moment that changed me: I was devastated by a breakup – and saved by a sweaty moshpit",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/21/a-moment-that-changed-me-i-was-devastated-by-a-breakup-and-saved-by-a-sweaty-moshpit",
+      "publishedAt": "2026-10-21T05:30:01.000Z",
+      "category": "uk",
+      "summary": "When my relationship broke down, my usual playlist of pop girl anthems and love songs left me in tears. Then I discovered hardcore punk Nobody warned me that heartbreak would ruin my relationship with Beyoncé. I had always associated music with the happiest ti"
+    },
+    {
+      "id": "feed-e2eor5",
+      "title": "Estate records 'abundance' of wildlife despite drought",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/crgqw4lg3y83o",
+      "publishedAt": "2026-10-21T05:25:33.000Z",
+      "category": "science",
+      "summary": "Wimpole's \"long-term approach to nature recovery\" has seen more than 5,000 species recorded."
+    },
+    {
+      "id": "feed-1fuw8vc",
+      "title": "Beau Lamarre-Condon allegedly played Taylor Swift’s No Body, No Crime during body disposal, court told",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/beau-lamarre-condon-murder-trial-taylor-swift-song-ntwnfb",
+      "publishedAt": "2026-10-21T05:23:56.000Z",
+      "category": "world",
+      "summary": "Friend of accused double murderer tells supreme court that van had lemony smell and blue tarp in back before Bunnings stop Beau Lamarre-Condon played Taylor Swift’s song No Body, No Crime while attempting to dispose of two corpses, a court has heard. The NSW s"
+    },
+    {
+      "id": "feed-1azi469",
+      "title": "Farmer lost out by minutes in race for wildlife funding",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qznp3gdvdo",
+      "publishedAt": "2026-10-21T05:23:26.000Z",
+      "category": "science",
+      "summary": "Richard Peace is among thousands of farmers who missed out as funding was snapped up in hours."
+    },
+    {
+      "id": "feed-1bhoocn",
+      "title": "Sex, lies and police spies: The disputed story of the 'creepy' undercover officer",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c4gm2dlrxlgo",
+      "publishedAt": "2026-10-21T05:21:31.000Z",
+      "category": "uk",
+      "summary": "Andrew Coles denies claims he deceived a young woman into sex while infiltrating an activist group."
+    },
+    {
       "id": "feed-90qine",
       "title": "AFP warns Australia of ‘tsunami of youth crime’ and radicalisation accelerated by AI",
       "source": "The Guardian",
@@ -111,7 +191,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/21/afp-warns-australia-of-tsunami-of-youth-and-radicalisation-accelerated-by-ai",
       "publishedAt": "2026-10-21T05:18:20.000Z",
       "category": "world",
-      "summary": "Children as young as 12 among dozens subject to federal police operations since 2020, parliamentary inquiry hears Australia is facing a “tsunami” of youth crime as artificial intelligence accelerates the pace and scale of radicalisation, a parliamentary inquir"
+      "summary": "Children as young as 12 among dozens subject to federal police operations since 2020, parliamentary inquiry hears Get our new political email , free app or daily news podcast Australia is facing a “tsunami” of youth crime as artificial intelligence accelerates"
     },
     {
       "id": "feed-uk91d9",
@@ -120,8 +200,18 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
       "publishedAt": "2026-10-21T05:17:12.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "AFP commissioner says MPs are generally concerned about growing volume of abuse and intimidation Follow our live blog for latest updates Get our breaking news email , free app or daily news podcast The head of the Australian federal police has condemned a “feb"
+    },
+    {
+      "id": "feed-irnsqx",
+      "title": "TV tonight: Ellie White and Natasia Demetriou’s side-splitting comedy",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/21/tv-tonight-ellie-white-and-natasia-demetrious-side-splitting-comedy",
+      "publishedAt": "2026-10-21T05:15:01.000Z",
+      "category": "uk",
+      "summary": "With guest stars including Steve Coogan, their sketch show will have you crying with laughter. Plus: a mindblowing science lesson. Here’s what to watch this evening 10pm, BBC Two There is not one weak sketch in the opener of Ellie White and Natasia Demetriou’s"
     },
     {
       "id": "feed-ncrv31",
@@ -140,8 +230,18 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo",
       "publishedAt": "2026-10-21T05:00:54.000Z",
-      "category": "business",
+      "category": "uk",
       "summary": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner."
+    },
+    {
+      "id": "feed-s7p2n3",
+      "title": "Lawyer caught offering to make illegal-worker fine go away",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo",
+      "publishedAt": "2026-10-21T05:00:35.000Z",
+      "category": "uk",
+      "summary": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected."
     },
     {
       "id": "feed-wsa2tc",
@@ -251,11 +351,11 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/21/australias-largest-datacentre-operator-nextdcs-shares-dive-as-melbourne-expansion-delayed",
       "publishedAt": "2026-10-21T04:58:25.000Z",
       "category": "world",
-      "summary": "NextDC has told investors that its plans to double the size of its west Melbourne datacentre has hit an obstacle in community objections to 22m high power poles Australia’s largest datacentre operator has been forced to delay the controversial expansion of its"
+      "summary": "NextDC tells investors plans to double the size of its west Melbourne datacentre have hit obstacle after community objects to 22 metres-high power poles Get our breaking news email , free app or daily news podcast Australia’s largest datacentre operator has be"
     },
     {
-      "id": "feed-1qo7rpt",
-      "title": "Firefighting planes and BBQ bans needed to combat Britain's wildfire risk, MPs warn",
+      "id": "feed-15kz0mp",
+      "title": "Firefighting planes and barbecue bans needed to combat Britain's wildfire risk, MPs warn",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/britain-woefully-unprepared-to-tackle-wildfires-and-needs-new-fire-fighting-planes-and-bbq-bans-needed-mps-warn-13601469",
@@ -274,16 +374,6 @@
       "summary": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green."
     },
     {
-      "id": "feed-1uvah8t",
-      "title": "UK government expected to approve Jackdaw gas field",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o",
-      "publishedAt": "2026-10-21T04:41:04.000Z",
-      "category": "uk",
-      "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
-    },
-    {
       "id": "feed-n2f1sn",
       "title": "The Papers: 'Burnham faces climate revolt' and 'Harry wants to fix feud'",
       "source": "BBC News",
@@ -294,23 +384,13 @@
       "summary": "Several papers lead on remarks from the Duke of Sussex yesterday, where he said he hoped to reconcile with his family."
     },
     {
-      "id": "feed-1fuw8vc",
-      "title": "Beau Lamarre-Condon allegedly played Taylor Swift’s No Body, No Crime during body disposal, court told",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/beau-lamarre-condon-murder-trial-taylor-swift-song-ntwnfb",
-      "publishedAt": "2026-10-21T04:15:31.000Z",
-      "category": "world",
-      "summary": "Friend of accused double murderer tells supreme court that van had lemony smell and blue tarp in back before Bunnings stop Beau Lamarre-Condon played Taylor Swift’s song No Body, No Crime while attempting to dispose of two corpses, a court has heard. The NSW s"
-    },
-    {
       "id": "feed-rwk8hu",
       "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
       "publishedAt": "2026-10-21T04:13:14.000Z",
-      "category": "technology",
+      "category": "world",
       "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history."
     },
     {
@@ -370,7 +450,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
       "publishedAt": "2026-10-21T04:00:05.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Rights groups say the planned 1.4km route, which ends at compound run by far-right settler group Elad, will displace Palestinians and reshape the cultural landscape A fifth foreign company has pulled out of a plan to build a cable car from West to East Jerusal"
     },
     {
@@ -384,14 +464,34 @@
       "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
     },
     {
-      "id": "feed-1gln6i3",
-      "title": "Police charge accused Brendan Nugent with additional offences – as it happened",
+      "id": "feed-foo6go",
+      "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o",
+      "publishedAt": "2026-10-21T03:58:16.000Z",
+      "category": "world",
+      "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines."
+    },
+    {
+      "id": "feed-1py1yew",
+      "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o",
+      "publishedAt": "2026-10-21T03:45:52.000Z",
+      "category": "world",
+      "summary": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy."
+    },
+    {
+      "id": "feed-1x1jc9a",
+      "title": "Helen Haines live coverage: police charge accused Brendan Nugent with additional offences",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
       "publishedAt": "2026-10-21T03:38:26.000Z",
       "category": "world",
-      "summary": "Independent MP’s condition remains critical on Wednesday after surgery to save her remaining leg ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Anthony Alb"
+      "summary": "Independent MP was attacked on Monday and her alleged attacker appeared in court on Wednesday ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Anthony Albane"
     },
     {
       "id": "feed-9p8jvy",
@@ -412,16 +512,6 @@
       "publishedAt": "2026-10-21T02:33:00.000Z",
       "category": "uk",
       "summary": "Brazilian butt lifts and other cosmetic procedures that inject filler into parts of the body will only be performed by doctors under new government rules to crackdown on \"cosmetic cowboys\"."
-    },
-    {
-      "id": "feed-1k7ox5c",
-      "title": "Drone strike kills more than 150 at market in Sudanese war",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/21/abyei-drone-strike-market-south-sudan-war-death-toll",
-      "publishedAt": "2026-10-21T02:20:24.000Z",
-      "category": "uk",
-      "summary": "Strike pushes the toll from attacks in recent days to more than 250, underscoring lethality of Sudan’s war that ⁠erupted in April 2023 A drone strike on a market in a border region disputed by Sudan and South Sudan killed at least 153 people on Monday, accordi"
     },
     {
       "id": "feed-16xlk4d",
@@ -544,16 +634,6 @@
       "summary": "IFR chair David Kogan insists regulator has power to act City have appealed against Premier League’s charges The Independent Football Regulator (IFR) will have “absolute power” to force Manchester City’s owners to sell if they are ultimately found to have run "
     },
     {
-      "id": "feed-1cwj7nj",
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-      "publishedAt": "2026-10-20T23:24:47.000Z",
-      "category": "world",
-      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
-    },
-    {
       "id": "feed-1wdc004",
       "title": "Florida kills 77-year-old man in state’s 18th execution of year",
       "source": "The Guardian",
@@ -562,16 +642,6 @@
       "publishedAt": "2026-10-20T23:22:21.000Z",
       "category": "world",
       "summary": "Vietnam veteran William Reaves executed by lethal injection despite letter from fellow veterans urging halt Florida carried out its 18th execution of the year on Tuesday under Republican governor Ron DeSantis’s aggressive use of the death penalty in his final "
-    },
-    {
-      "id": "feed-g2p082",
-      "title": "Is Donald Trump ready to do business with Myanmar?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno",
-      "publishedAt": "2026-10-20T23:21:39.000Z",
-      "category": "world",
-      "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah."
     },
     {
       "id": "feed-phrv2r",
@@ -794,16 +864,6 @@
       "summary": "Revolut was one of the hardest hit, with banking services going down for many customers."
     },
     {
-      "id": "feed-17xwziq",
-      "title": "UK gas field set to be approved after years of uncertainty",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/controversial-jackdaw-gas-field-expected-to-be-approved-13601501",
-      "publishedAt": "2026-10-20T17:56:00.000Z",
-      "category": "uk",
-      "summary": "The controversial Jackdaw gas field is expected to receive approval from energy secretary Miatta Fahnbulleh today."
-    },
-    {
       "id": "feed-fsnwvf",
       "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
       "source": "BBC News",
@@ -832,16 +892,6 @@
       "publishedAt": "2026-10-20T16:45:24.000Z",
       "category": "business",
       "summary": "Union furious as bank scraps remote-first policy from February 2027, forcing all UK employees to come in at least twice a week NatWest has ordered 13,000 staff to increase their in-office days from two days a month to two days a week, angering its staff union."
-    },
-    {
-      "id": "feed-1bhysib",
-      "title": "Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo",
-      "publishedAt": "2026-10-20T16:02:03.000Z",
-      "category": "uk",
-      "summary": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault."
     },
     {
       "id": "feed-13ewkov",
@@ -882,6 +932,16 @@
       "publishedAt": "2026-10-20T15:17:00.000Z",
       "category": "uk",
       "summary": "Two men have been re-arrested on suspicion of assisting Iran’s intelligence service over a suspected terror plot near RAF Fairford."
+    },
+    {
+      "id": "feed-1j0psp7",
+      "title": "BBC Three and BBC Scotland TV channels to be shut down next year",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/media/2026/oct/20/bbc-three-and-bbc-scotland-tv-channels-to-be-shut-down",
+      "publishedAt": "2026-10-20T14:54:59.000Z",
+      "category": "business",
+      "summary": "Corporation announces broadcast closures and job losses in effort to find savings of £500m UK politics live – latest updates Television channels BBC Three and BBC Scotland are to close and the Radio 4 Extra radio station will be scrapped, as part of the corpor"
     },
     {
       "id": "feed-36a10x",
@@ -974,16 +1034,6 @@
       "summary": "Rhys Morgan captured footage of the world's second-largest whale species lunge feeding on his drone."
     },
     {
-      "id": "feed-dx3j00",
-      "title": "Huge setback for Alberta's separatist movement after decisive defeat",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cjly016320q1o",
-      "publishedAt": "2026-10-20T13:39:11.000Z",
-      "category": "world",
-      "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult."
-    },
-    {
       "id": "feed-1xelw56",
       "title": "Suspect arrested in France after fire at historic city hall",
       "source": "Sky News",
@@ -992,16 +1042,6 @@
       "publishedAt": "2026-10-20T13:31:00.000Z",
       "category": "world",
       "summary": "A man has been arrested after a fire at the town hall of Limoges, according to French media."
-    },
-    {
-      "id": "feed-1v5k3c7",
-      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo",
-      "publishedAt": "2026-10-20T13:23:32.000Z",
-      "category": "world",
-      "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother."
     },
     {
       "id": "feed-iatm2j",
@@ -1082,16 +1122,6 @@
       "publishedAt": "2026-10-20T12:03:28.000Z",
       "category": "science",
       "summary": "Videographer Rhys Morgan captured footage of the worlds second largest whale lunge feeding on his drone."
-    },
-    {
-      "id": "feed-1425p4e",
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo",
-      "publishedAt": "2026-10-20T11:45:49.000Z",
-      "category": "world",
-      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
     },
     {
       "id": "feed-4a49a4",
@@ -1234,16 +1264,6 @@
       "summary": "We would like to speak to people in England who are planning to buy a new-build flat or house as their first home Last month, the government announced plans for Your First Home (YFH) , a scheme which aims to give a helping hand to first-time buyers who do not "
     },
     {
-      "id": "feed-h9ehg7",
-      "title": "Excessive wealth, extreme emissions – and ecocide: what I learned at Europe’s big superyacht show",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/2026/oct/20/excessive-wealth-extreme-emissions-and-ecocide-what-i-learned-at-europes-big-superyacht-show",
-      "publishedAt": "2026-10-20T09:00:22.000Z",
-      "category": "business",
-      "summary": "These yachts are highly popular with the ‘super-bourgeoisie’ – and getting bigger. Can anything be done to stop them destroying our seas? Who knew? Apparently everyone did, apart from me: you don’t wear shoes on a superyacht. Now, about to step on to my first "
-    },
-    {
       "id": "feed-61gu96",
       "title": "Burnham vows end to 'rip-off parking charges' under new rules",
       "source": "BBC News",
@@ -1254,14 +1274,14 @@
       "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished."
     },
     {
-      "id": "feed-ddf9sn",
-      "title": "A modest increase in bank taxes is not the end of the world for lenders | Nils Pratley",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/20/modest-increase-bank-taxes-not-end-of-world-for-lenders",
-      "publishedAt": "2026-10-20T08:00:20.000Z",
+      "id": "feed-wtuzs7",
+      "title": "What is the Budget and what could be in it?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+      "publishedAt": "2026-10-20T08:31:36.000Z",
       "category": "business",
-      "summary": "As long as Healey doesn’t go overboard, a small turn on surcharge dial will not seriously undermine flow of capital Everyone is familiar with the banks’ plea: raising taxes on them amounts to taxing the nation’s growth. If you increase how much banks pay, goes"
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
     },
     {
       "id": "feed-qolofn",
@@ -1272,26 +1292,6 @@
       "publishedAt": "2026-10-20T07:12:00.000Z",
       "category": "business",
       "summary": "The consortium of Thames Water creditors looking to rescue Britain's largest supplier of its kind has appointed a former senior Labour minister in a bid to help get a deal past government opposition."
-    },
-    {
-      "id": "feed-2mkvx2",
-      "title": "Do not be distracted by global crises. Nature cannot wait for a better year – we must act now | Steven Guilbeault",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/oct/20/do-not-be-distracted-by-other-global-crises-nature-cannot-wait-for-a-better-year-we-must-act-now",
-      "publishedAt": "2026-10-20T07:00:20.000Z",
-      "category": "business",
-      "summary": "In 2022, I helped push through the international agreement to protect biodiversity. Wars and economic pressures can make nature seem like a ‘nice-to-have’. But it is a critical asset, and Cop17 must deliver real action When I was five, property developers came"
-    },
-    {
-      "id": "feed-d812vc",
-      "title": "The CO2-absorbing building made of old sinks, windscreens and toilets: Ghent’s £17m design museum is a green marvel",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/20/ghent-design-museum-co2-absorbing-recycling",
-      "publishedAt": "2026-10-20T07:00:19.000Z",
-      "category": "business",
-      "summary": "Inspired by a gothic cathedral partly built using human bones, this gleaming monument to recycling boasts 82,000 bricks derived from construction waste – following a two-day brick-making festival Museums often try to reflect the world around them, but rarely a"
     },
     {
       "id": "feed-1lhfl0j",
@@ -1524,16 +1524,6 @@
       "summary": "Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informed Get our breaking news email , free app or daily news podcast Employers are increasingly using technology, f"
     },
     {
-      "id": "feed-18v4kq2",
-      "title": "Volunteers help save one of London's rarest plants",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly070p37d4o",
-      "publishedAt": "2026-10-19T13:22:05.000Z",
-      "category": "science",
-      "summary": "Tower mustard has suffered steep decline in London but has been successfully grown and replanted."
-    },
-    {
       "id": "feed-1h4465e",
       "title": "Uber wins bid to throw out £200m black cab claims",
       "source": "BBC News",
@@ -1622,16 +1612,6 @@
       "publishedAt": "2026-10-19T06:08:02.000Z",
       "category": "technology",
       "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
-    },
-    {
-      "id": "feed-l7kon9",
-      "title": "Volunteers plant 109,000 trees in new woodlands",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cxp8gdzj606zo",
-      "publishedAt": "2026-10-19T05:38:04.000Z",
-      "category": "science",
-      "summary": "In the last two seasons, almost 500,000 trees and 27,233 metres of new hedges, have been planted."
     },
     {
       "id": "feed-15oh47e",
@@ -1732,6 +1712,16 @@
       "publishedAt": "2026-10-17T19:00:40.000Z",
       "category": "science",
       "summary": "As the planet warms, airlines are grappling with what this means for air travel – and for the passengers who simply refuse to keep their seatbelts fastened It was a swelteringly hot afternoon in south-west Myanmar on 21 May 2024. Tropical thunderstorms, shower"
+    },
+    {
+      "id": "feed-n110f2",
+      "title": "Troubled housebuilder Vistry lays foundations with former Crown Estate boss",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/troubled-housebuilder-vistry-lays-foundations-with-former-crown-estate-boss-13600107",
+      "publishedAt": "2026-10-17T07:13:00.000Z",
+      "category": "business",
+      "summary": "Vistry Group, the troubled London-listed housebuilder, is turning to a former executive at The Crown Estate to help repair its battered finances."
     },
     {
       "id": "feed-tqnlcz",

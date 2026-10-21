@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T05:22:00.290Z",
+  "updatedAt": "2026-10-21T05:55:18.387Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1xut725",
+      "title": "Elon Musk considering Tesla-SpaceX merger",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T05:48:46.000Z",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
+    },
     {
       "id": "feed-12h0gyl",
       "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
@@ -16,28 +24,12 @@
       "summary": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner."
     },
     {
-      "id": "feed-1uvah8t",
-      "title": "UK government expected to approve Jackdaw gas field",
-      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T04:41:04.000Z",
-      "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
-    },
-    {
       "id": "feed-rwk8hu",
       "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
       "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
       "source": "BBC News",
       "publishedAt": "2026-10-21T04:13:14.000Z",
       "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history."
-    },
-    {
-      "id": "feed-1cwj7nj",
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T23:24:47.000Z",
-      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
     },
     {
       "id": "feed-phrv2r",
@@ -150,6 +142,14 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T08:55:02.000Z",
       "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished."
+    },
+    {
+      "id": "feed-wtuzs7",
+      "title": "What is the Budget and what could be in it?",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T08:31:36.000Z",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
     }
   ]
 }
