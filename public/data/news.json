@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T10:57:36.337Z",
-  "generatedAt": "2026-10-21T10:57:36.337Z",
+  "updatedAt": "2026-10-21T11:22:09.243Z",
+  "generatedAt": "2026-10-21T11:22:09.243Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 7
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,124 @@
   ],
   "articles": [
     {
+      "id": "feed-klkdu3",
+      "title": "Family of prison officer killed by IRA to get state apology",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o",
+      "publishedAt": "2026-10-21T11:21:30.000Z",
+      "category": "uk",
+      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later."
+    },
+    {
+      "id": "feed-wtuyk8",
+      "title": "Macron blasts ‘unacceptable’ and ‘stupid’ commentary on protests from other leaders – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+      "publishedAt": "2026-10-21T11:20:00.000Z",
+      "category": "world",
+      "summary": "Macron says he is frustrated by the ‘visible manipulation of information’ about the events in France Europe correspondent Familiar images of teargas clouds drifting across Paris squares, police baton charges against masked protesters and terrified teenagers fl"
+    },
+    {
       "id": "feed-jf0nsz",
       "title": "Masked boy guilty of trying to murder schoolgirl",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo",
-      "publishedAt": "2026-10-21T10:55:52.000Z",
+      "publishedAt": "2026-10-21T11:19:44.000Z",
       "category": "uk",
       "summary": "The school went into lockdown and parents gathered at the gates as they waited for news about their children."
+    },
+    {
+      "id": "feed-1ko0rdl",
+      "title": "Burnham faces Badenoch at PMQs after Jackdaw gasfield approved – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+      "publishedAt": "2026-10-21T11:18:13.000Z",
+      "category": "world",
+      "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government said Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of polit"
+    },
+    {
+      "id": "feed-yak83v",
+      "title": "Man in court after three Jewish women assaulted",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl0vdr87eo",
+      "publishedAt": "2026-10-21T11:15:41.000Z",
+      "category": "uk",
+      "summary": "One of the women was pushing her baby in a pram when she was allegedly assaulted, a court hears."
+    },
+    {
+      "id": "feed-pnhsok",
+      "title": "Student who murdered university housemate jailed for life",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvglvpln91o",
+      "publishedAt": "2026-10-21T11:13:49.000Z",
+      "category": "uk",
+      "summary": "Jamie Collins, 21, was ambushed and killed in the garden of the home he shared with his killer."
+    },
+    {
+      "id": "feed-tog2a0",
+      "title": "Total UK government debt hits £3tn for first time while inflation jumps to highest in nearly a year – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates",
+      "publishedAt": "2026-10-21T11:12:54.000Z",
+      "category": "uk",
+      "summary": "French government bond yields highest since 2002 as country rocked by protests; UK approves controversial North Sea gasfield Jackdaw The approval of Jackdaw is an “important step” for the North Sea, according to Shell . The UK energy giant jointly owns Jackdaw"
+    },
+    {
+      "id": "feed-1fek3is",
+      "title": "South Africa v Australia: second men’s cricket Test, day four – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/21/south-africa-v-australia-second-test-day-four-cricket-st-georges-park-gqeberha-live-updates",
+      "publishedAt": "2026-10-21T11:09:07.000Z",
+      "category": "uk",
+      "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 9th over: Australia 22-2 (Head 14, Labuschagne 6) This is some spell from Rabada. Operating at serious pace, even if there’s a little sauce on those readings. Ma"
+    },
+    {
+      "id": "feed-1i3js5k",
+      "title": "Football must not be detached from its roots as was the case with Manchester City | Philipp Lahm",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/21/manchester-city-fifa-rules-grassroots-philipp-lahm",
+      "publishedAt": "2026-10-21T11:00:04.000Z",
+      "category": "uk",
+      "summary": "City behaved much like other top clubs but their rule-breaking deserves to be punished. The Bundesliga, where members have a controlling stake, can show the way forward Do we have to reassess Manchester City now? In my columns, I have repeatedly engaged with t"
+    },
+    {
+      "id": "feed-1o822pv",
+      "title": "Austin GP is about much more than potential for Antonelli’s first F1 world title",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/21/austin-gp-about-much-more-than-potential-kimi-antonelli-first-f1-world-title",
+      "publishedAt": "2026-10-21T11:00:03.000Z",
+      "category": "uk",
+      "summary": "Young driver’s maiden championship is all but secured but Mercedes upgrades will inform next year’s run to the line There is nothing quite like a potential title decider to bring the fiercest of spotlights to bear as doubtless Kimi Antonelli will discover when"
+    },
+    {
+      "id": "feed-154qs4a",
+      "title": "‘I never saw my son, until they handed him over in a bag’: inside El Salvador’s brutal crime crackdown",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/global-development/2026/oct/21/el-salvador-crackdown-president-bukele-mass-arrest-allegations-torture-killing-prison",
+      "publishedAt": "2026-10-21T11:00:02.000Z",
+      "category": "uk",
+      "summary": "President Nayib Bukele’s campaign of mass arrest has been marked by allegations of torture and killing. Four years on, 120,000 people are still in prison At midnight on a Monday in December 2021, dozens of soldiers and police officers stormed into the home of "
+    },
+    {
+      "id": "feed-1m9sfg2",
+      "title": "Stratford International on track to get cross-Channel trains in budget boost",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+      "publishedAt": "2026-10-21T10:59:12.000Z",
+      "category": "uk",
+      "summary": "Sadiq Khan says upgrade would unlock station’s true potential and allow it to live up to its name Business live – latest updates Stratford International train station in east London will receive funding in next week’s budget, according to reports, putting it o"
     },
     {
       "id": "feed-1k4zbac",
@@ -124,24 +234,14 @@
       "summary": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt."
     },
     {
-      "id": "feed-1ofcx23",
-      "title": "Stratford International finally to have international trains in budget boost",
+      "id": "feed-1brj5sq",
+      "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
-      "publishedAt": "2026-10-21T10:53:42.000Z",
-      "category": "uk",
-      "summary": "Sadiq Khan says upgrade will unlock station’s true potential and allow it to live up to its name Business live – latest updates Stratford International train station in east London will receive funding in next week’s budget, according to reports, putting it on"
-    },
-    {
-      "id": "feed-wtuyk8",
-      "title": "Macron blasts ‘unacceptable’ and ‘stupid’ commentary on protests from other leaders – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-      "publishedAt": "2026-10-21T10:52:28.000Z",
-      "category": "uk",
-      "summary": "Macron says he is frustrated by the ‘visible manipulation of information’ about the events in France Meanwhile, French president Emmanuel Macron blasted “unacceptable” and “stupid” comments on the protests and riots in France from foreign leaders, accusing the"
+      "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+      "publishedAt": "2026-10-21T10:55:28.000Z",
+      "category": "world",
+      "summary": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or jo"
     },
     {
       "id": "feed-15vvt45",
@@ -154,24 +254,14 @@
       "summary": "The former teacher has been released without any \"swap\" required, according to the president."
     },
     {
-      "id": "feed-1fek3is",
-      "title": "South Africa v Australia: second men’s cricket Test, day four – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/21/south-africa-v-australia-second-test-day-four-cricket-st-georges-park-gqeberha-live-updates",
-      "publishedAt": "2026-10-21T10:51:15.000Z",
-      "category": "uk",
-      "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 9th over: Australia 22-2 (Head 14, Labuschagne 6) This is some spell from Rabada. Operating at serious pace, even if there’s a little sauce on those readings. Ma"
-    },
-    {
-      "id": "feed-fvy1ie",
-      "title": "Trump calls for data center ‘dividends’ in bid to win over midterm voters – US politics live",
+      "id": "feed-eobaa8",
+      "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – politics live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
       "publishedAt": "2026-10-21T10:49:20.000Z",
       "category": "world",
-      "summary": "President’s social media post says sites should pay the communities where they will be located and comes amid growing unpopularity of facilities Sign up for Breaking News US email The US president has just posted on Hubbard’s release, saying: “Welcome home Ste"
+      "summary": "US was not required to give anything in return for Stephen Hubbard’s release ‘out of respect for President Trump’, he claims Sign up for Breaking News US email The US president has just posted on Hubbard’s release, saying: “Welcome home Stephen, it’s great to "
     },
     {
       "id": "feed-4pb51a",
@@ -184,26 +274,6 @@
       "summary": "Troubadour Wembley Park theatre, London Harry Judd is the coach while KayCee Stroh from the original movies is back to play a teacher in the hoop-shooting, pompom-waving romance Since soaring on screen 20 years ago, this Disney Channel favourite has cemented i"
     },
     {
-      "id": "feed-tog2a0",
-      "title": "Total UK government debt hits £3tn for first time while inflation jumps to highest in nearly a year – business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates",
-      "publishedAt": "2026-10-21T10:43:09.000Z",
-      "category": "uk",
-      "summary": "French government bond yields highest since 2002 as country rocked by protests; UK approves controversial North Sea gasfield Jackdaw The approval of Jackdaw is an “important step” for the North Sea, according to Shell . The UK energy giant jointly owns Jackdaw"
-    },
-    {
-      "id": "feed-15k59f2",
-      "title": "Burnham to face Badenoch at PMQs as Labour accused of ‘climate vandalism’ after Jackdaw gasfield approved – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
-      "publishedAt": "2026-10-21T10:42:49.000Z",
-      "category": "uk",
-      "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government said Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of polit"
-    },
-    {
       "id": "feed-1sestj3",
       "title": "Race for crucial midterms attracting vast sums of money on both sides | First Thing",
       "source": "The Guardian",
@@ -211,17 +281,7 @@
       "url": "https://www.theguardian.com/us-news/2026/oct/21/first-thing-midterms-spending-money-donations-michael-bloomberg",
       "publishedAt": "2026-10-21T10:40:59.000Z",
       "category": "world",
-      "summary": "Billionaire Michael Bloomberg is spending $80m to help Democratic candidates, while Trump has promised Republicans $400m. Plus a vital investigation into justice in Louisiana Good morning. Vast sums of money are being ploughed into November’s midterms , with t"
-    },
-    {
-      "id": "feed-1brj5sq",
-      "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-      "publishedAt": "2026-10-21T10:32:48.000Z",
-      "category": "world",
-      "summary": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or jo"
+      "summary": "Billionaire Michael Bloomberg is spending $80m to help Democratic candidates, while Trump has promised Republicans $400m. Plus a vital investigation into justice in Louisiana Don’t already get First Thing in your inbox? Sign up here Good morning. Vast sums of "
     },
     {
       "id": "feed-votofc",
@@ -374,16 +434,6 @@
       "summary": "We would like to hear from parents and teachers about their thoughts and experiences of two-week half terms While it used to be standard for state schools in England to have one-week half terms, some pupils and staff are being given a fortnight off. Councils s"
     },
     {
-      "id": "feed-b7gr31",
-      "title": "Man charged after three Jewish women assaulted",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl0vdr87eo",
-      "publishedAt": "2026-10-21T09:52:16.000Z",
-      "category": "uk",
-      "summary": "The women suffered minor injuries when they were assaulted at Clapton Common, police say."
-    },
-    {
       "id": "feed-k5jeja",
       "title": "Amber warning issued ahead of Storm Austen",
       "source": "Sky News",
@@ -402,36 +452,6 @@
       "publishedAt": "2026-10-21T09:49:32.000Z",
       "category": "science",
       "summary": "Richard Peace is among thousands of farmers who missed out as funding was snapped up in hours."
-    },
-    {
-      "id": "feed-1j1cpnl",
-      "title": "Khvicha Kvaratskhelia sustains ACL rupture in most serious of three PSG injuries",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos",
-      "publishedAt": "2026-10-21T09:42:09.000Z",
-      "category": "uk",
-      "summary": "Kvaratskhelia to undergo surgery on right knee Dembélé and Marquinhos out for weeks Paris St Germain’s Khvicha Kvaratskhelia ⁠will undergo surgery after rupturing the anterior cruciate ⁠ligament in ⁠his ​right knee in the Champions League win over ⁠Barcelona ."
-    },
-    {
-      "id": "feed-duixjp",
-      "title": "Coach banned until 2048 for training DR Congo kids while suspended for sexual abuse",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/21/coach-banned-dr-congo-training-kids-sexual-abuse-2048",
-      "publishedAt": "2026-10-21T09:20:42.000Z",
-      "category": "uk",
-      "summary": "Jonathan Bukabakwa gets extra five-year ban from Fifa DRC’s FA ordered to improve education and compliance A coach in the Democratic Republic of the Congo who was banned from football for 20 years by Fifa for sexual abuse of a minor has had his ban extended by"
-    },
-    {
-      "id": "feed-lkfjdj",
-      "title": "The Spin | Writing a book with Chris Woakes showed the inner steel of the nicest man in cricket",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/21/the-spin-cricket-book-chris-woakes-nicest-man-in-cricket",
-      "publishedAt": "2026-10-21T09:20:21.000Z",
-      "category": "uk",
-      "summary": "All-rounder and ‘the best teammate you could wish for’ has seen profound change since his first-class debut in 2006 The Spin this week comes from York, where Chris Woakes and I sat down on Monday evening to discuss his new autobiography, The Wizard. There were"
     },
     {
       "id": "feed-gc117g",
@@ -522,16 +542,6 @@
       "publishedAt": "2026-10-21T08:31:48.000Z",
       "category": "world",
       "summary": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland."
-    },
-    {
-      "id": "feed-xlpnjk",
-      "title": "Family of prison officer shot dead by IRA to get state apology",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o",
-      "publishedAt": "2026-10-21T08:28:02.000Z",
-      "category": "uk",
-      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later."
     },
     {
       "id": "feed-1kcfuw3",
@@ -1014,16 +1024,6 @@
       "summary": "No formal investigation has started, but the regulator is making inquiries into the case."
     },
     {
-      "id": "feed-7uyn3k",
-      "title": "Man charged after woman stabbed to death in Manchester",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/man-charged-with-murder-of-woman-stabbed-to-death-in-manchester-13601549",
-      "publishedAt": "2026-10-20T20:18:00.000Z",
-      "category": "uk",
-      "summary": "A 26-year-old man has been charged after a woman was stabbed to death in Manchester."
-    },
-    {
       "id": "feed-19q36ak",
       "title": "Trump and Zelensky appear at loggerheads despite new optimism",
       "source": "BBC News",
@@ -1214,16 +1214,6 @@
       "summary": "As SpaceX impacts Ukraine and AI-generated music divides artists and fans, critics are asking what happens when technology has too much control over our lives This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign "
     },
     {
-      "id": "feed-1q7vb2e",
-      "title": "European air fares could rise by as much as 20% in 2027, Ryanair boss predicts",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs",
-      "publishedAt": "2026-10-20T14:28:56.000Z",
-      "category": "business",
-      "summary": "Conflict in Middle East is pushing jet fuel costs higher and many carriers are not hedged against such increases, Michael O’Leary says Ryanair’s chief executive has predicted a record increase in European air fares next year, as airlines grapple with fuel bill"
-    },
-    {
       "id": "feed-y8h7al",
       "title": "Drivers set to get new rights to challenge 'rip-off' private parking fines",
       "source": "Sky News",
@@ -1262,16 +1252,6 @@
       "publishedAt": "2026-10-20T13:31:00.000Z",
       "category": "world",
       "summary": "A man has been arrested after a fire at the town hall of Limoges, according to French media."
-    },
-    {
-      "id": "feed-hgxqmx",
-      "title": "Neglect in hospital contributed to baby's meningitis death, jury rules",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/neglect-in-hospital-contributed-to-babys-meningitis-death-jury-rules-13601362",
-      "publishedAt": "2026-10-20T12:41:00.000Z",
-      "category": "uk",
-      "summary": "Neglect contributed to the death of a five-month-old girl who died from meningitis after opportunities were missed in hospital to save or prolong her life, an inquest jury has found."
     },
     {
       "id": "feed-kjtb1e",
