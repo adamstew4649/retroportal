@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T04:24:10.498Z",
+  "updatedAt": "2026-10-21T04:57:32.434Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-wark7m",
+      "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
+      "link": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T04:44:56.000Z",
+      "summary": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green."
+    },
     {
       "id": "feed-rwk8hu",
       "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-19T05:38:04.000Z",
       "summary": "In the last two seasons, almost 500,000 trees and 27,233 metres of new hedges, have been planted."
-    },
-    {
-      "id": "feed-xb1xn9",
-      "title": "BBC visits wildfire front in haze-choked Indonesia",
-      "link": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-19T01:57:02.000Z",
-      "summary": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents."
     }
   ]
 }
