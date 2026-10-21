@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T09:58:25.381Z",
+  "updatedAt": "2026-10-21T10:24:27.626Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,11 +8,19 @@
   },
   "articles": [
     {
+      "id": "feed-1s55z8k",
+      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T10:20:15.000Z",
+      "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
+    },
+    {
       "id": "feed-lt7uer",
       "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o",
       "source": "BBC News",
-      "publishedAt": "2026-10-21T09:45:31.000Z",
+      "publishedAt": "2026-10-21T10:16:17.000Z",
       "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
     },
     {
@@ -20,7 +28,7 @@
       "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o",
       "source": "BBC News",
-      "publishedAt": "2026-10-21T09:45:31.000Z",
+      "publishedAt": "2026-10-21T10:16:17.000Z",
       "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
     },
     {
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T11:19:22.000Z",
       "summary": "More money is made available through a resilience fund for hard-pressed households in Sheffield."
-    },
-    {
-      "id": "feed-16yv2sh",
-      "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
-      "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T10:28:36.000Z",
-      "summary": "The BBC hears from people who think dating events are better value for money than dating apps."
     }
   ]
 }
