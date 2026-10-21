@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T05:55:18.387Z",
+  "updatedAt": "2026-10-21T06:18:46.036Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-maa125",
+      "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T06:08:04.000Z",
+      "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
+    },
     {
       "id": "feed-1xut725",
       "title": "Elon Musk considering Tesla-SpaceX merger",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T08:55:02.000Z",
       "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished."
-    },
-    {
-      "id": "feed-wtuzs7",
-      "title": "What is the Budget and what could be in it?",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T08:31:36.000Z",
-      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
     }
   ]
 }
