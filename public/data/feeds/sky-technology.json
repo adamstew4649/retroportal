@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T14:01:31.326Z",
+  "updatedAt": "2026-10-21T14:58:00.477Z",
   "feed": {
     "title": "Tech News - Latest Technology and Gadget News | Sky News",
     "url": "https://feeds.skynews.com/feeds/rss/technology.xml",
     "link": "https://news.sky.com/technology"
   },
   "articles": [
+    {
+      "id": "feed-1ot4ah2",
+      "title": "Websites across Europe go offline after warning issued for critical software update",
+      "link": "https://news.sky.com/story/websites-warned-to-install-critical-php-software-update-or-go-offline-13601917",
+      "source": "Sky News",
+      "publishedAt": "2026-10-21T13:28:00.000Z",
+      "summary": "Organisations unable to apply key fixes to widely used software should consider taking their websites down, UK and international cybersecurity officials have warned."
+    },
     {
       "id": "feed-s17y6m",
       "title": "UK 'woefully unprepared' to face wildfires, MPs warn - as UN issues climate target warning",
@@ -70,14 +78,6 @@
       "source": "Sky News",
       "publishedAt": "2026-10-14T08:08:00.000Z",
       "summary": "A new species of dinosaur has been discovered because of a fossil found on the Isle of Wight that has been \"sitting in a drawer\" for more than a century."
-    },
-    {
-      "id": "feed-nxeb4b",
-      "title": "Saudi national charged with allegedly installing a hidden recording device at OpenAI",
-      "link": "https://news.sky.com/story/saudi-national-charged-with-allegedly-installing-a-hidden-recording-device-at-openai-13598276",
-      "source": "Sky News",
-      "publishedAt": "2026-10-12T16:56:00.000Z",
-      "summary": "A Saudi national has been charged with allegedly installing a hidden recording device at OpenAI."
     }
   ]
 }
