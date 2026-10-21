@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T04:57:32.433Z",
+  "updatedAt": "2026-10-21T05:22:00.290Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-12h0gyl",
+      "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+      "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T05:00:54.000Z",
+      "summary": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner."
+    },
     {
       "id": "feed-1uvah8t",
       "title": "UK government expected to approve Jackdaw gas field",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T08:55:02.000Z",
       "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished."
-    },
-    {
-      "id": "feed-wtuzs7",
-      "title": "What is the Budget and what could be in it?",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T08:31:36.000Z",
-      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
     }
   ]
 }
