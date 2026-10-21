@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T15:23:33.689Z",
+  "updatedAt": "2026-10-21T16:00:20.458Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
@@ -8,12 +8,20 @@
   },
   "articles": [
     {
-      "id": "feed-s5mwf",
-      "title": "Drilling approved at controversial Jackdaw gas field in North Sea",
+      "id": "feed-1aglml8",
+      "title": "Orionid meteor shower to peak in UK skies into Thursday",
+      "link": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T15:44:20.000Z",
+      "summary": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
+    },
+    {
+      "id": "feed-bio92i",
+      "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
       "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo",
       "source": "BBC News",
-      "publishedAt": "2026-10-21T14:18:23.000Z",
-      "summary": "The UK government said the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
+      "publishedAt": "2026-10-21T15:36:31.000Z",
+      "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
     },
     {
       "id": "feed-140t17c",
@@ -110,14 +118,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T09:42:56.000Z",
       "summary": "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday."
-    },
-    {
-      "id": "feed-ofef18",
-      "title": "Orionid meteor shower to peak in UK skies this week",
-      "link": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T06:31:04.000Z",
-      "summary": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
     },
     {
       "id": "feed-fsudj9",
