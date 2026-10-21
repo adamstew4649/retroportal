@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T11:57:15.456Z",
+  "updatedAt": "2026-10-21T12:23:28.952Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-5wa3rq",
+      "title": "Cyber chiefs tell websites to make critical safety update or go offline",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T12:14:10.000Z",
+      "summary": "Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet."
+    },
     {
       "id": "feed-1u4e4q0",
       "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
@@ -110,14 +118,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-18T23:24:59.000Z",
       "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites."
-    },
-    {
-      "id": "feed-xl1xr3",
-      "title": "No further action against government adviser's wife over Palestine Action post, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-17T20:24:32.000Z",
-      "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney."
     },
     {
       "id": "feed-igc08c",

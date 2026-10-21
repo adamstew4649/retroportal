@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T11:57:15.456Z",
+  "updatedAt": "2026-10-21T12:23:28.953Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1c5aefx",
+      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T12:17:12.000Z",
+      "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days."
+    },
     {
       "id": "feed-1s55z8k",
       "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T11:26:48.000Z",
       "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
-    },
-    {
-      "id": "feed-z2q89s",
-      "title": "£30 rise in payments for crisis-hit households",
-      "link": "https://www.bbc.co.uk/news/articles/c59vz71kxxgzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T11:19:22.000Z",
-      "summary": "More money is made available through a resilience fund for hard-pressed households in Sheffield."
     }
   ]
 }
