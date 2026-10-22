@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T21:55:03.646Z",
+  "updatedAt": "2026-10-22T22:17:00.593Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-w682am",
+      "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
+      "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T21:59:43.000Z",
+      "summary": "The Met Office has issued a yellow warning for rain across most of central and eastern Scotland on Friday."
+    },
     {
       "id": "feed-1gx4z1m",
       "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T23:04:03.000Z",
       "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
-    },
-    {
-      "id": "feed-1ubaxsn",
-      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-      "link": "https://www.bbc.co.uk/news/videos/cmx2302xe931o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T22:02:18.000Z",
-      "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade."
     }
   ]
 }
