@@ -1,20 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T05:56:44.195Z",
+  "updatedAt": "2026-10-22T06:23:24.160Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
-    {
-      "id": "feed-1pxp6ez",
-      "title": "Governments working to identify exposure after global cyber-security warning",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T05:37:53.000Z",
-      "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
-    },
     {
       "id": "feed-1jk3t0k",
       "title": "How Arab parties could hold critical balance of power in Israeli election",
@@ -150,6 +142,14 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T20:19:51.000Z",
       "summary": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April."
+    },
+    {
+      "id": "feed-1ojhrzm",
+      "title": "Pope does not need further treatment after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T20:09:10.000Z",
+      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T05:56:44.181Z",
+  "updatedAt": "2026-10-22T06:23:24.158Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-glntgh",
+      "title": "Is the UK set to green-light a huge untapped oil field?",
+      "link": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T06:09:44.000Z",
+      "summary": "Scotland editor James Cook visits Rosebank - the UK's largest known untapped oilfield - in the North Atlantic."
+    },
+    {
+      "id": "feed-5d1l2l",
+      "title": "UK working to identify exposure after global cyber-security warning",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T06:05:03.000Z",
+      "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
+    },
+    {
       "id": "feed-1wqhpl6",
       "title": "Women targeted by police who 'abused the badge'",
       "link": "https://www.bbc.co.uk/news/articles/ckr5y20n96jdo",
       "source": "BBC News",
       "publishedAt": "2026-10-22T05:13:37.000Z",
-      "summary": "Two women preyed upon by serving police officers describe their ordeals and why they are speaking out."
+      "summary": "More than 1,200 domestic abuse allegations were made against police officers and special constables in three years, a BBC investigation finds."
     },
     {
       "id": "feed-85g425",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T17:05:09.000Z",
       "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\"."
-    },
-    {
-      "id": "feed-1ahw44u",
-      "title": "Tributes paid to 'bravest' woman who died of 'stab wounds' after crash",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y0kw1eyxo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T17:04:41.000Z",
-      "summary": "It is understood Eleanor Barnfield, from Bridgend, had been stabbed before the crash."
-    },
-    {
-      "id": "feed-687re5",
-      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
-      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T17:04:13.000Z",
-      "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool."
     }
   ]
 }
