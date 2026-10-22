@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T05:00:08.318Z",
+  "updatedAt": "2026-10-22T05:26:18.637Z",
   "feed": {
     "title": "Technology | The Guardian",
     "url": "https://www.theguardian.com/uk/technology/rss",
     "link": "https://www.theguardian.com/uk/technology"
   },
   "articles": [
+    {
+      "id": "feed-1mshiug",
+      "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-22T05:00:08.000Z",
+      "summary": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style opposition AI companies have told ministers they have 12 months to head off public opposition to datacentres in the"
+    },
     {
       "id": "feed-p81kzb",
       "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
@@ -142,14 +150,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-10-20T04:00:15.000Z",
       "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom"
-    },
-    {
-      "id": "feed-kyi63v",
-      "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
-      "link": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-19T22:30:08.000Z",
-      "summary": "System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face."
     }
   ]
 }
