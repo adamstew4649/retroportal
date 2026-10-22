@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T12:24:33.871Z",
+  "updatedAt": "2026-10-22T13:13:03.493Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-13phjeb",
+      "title": "Weather warning in place ahead of Storm Boelo",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T12:43:39.000Z",
+      "summary": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday."
+    },
     {
       "id": "feed-zw2qlp",
       "title": "At least four dead after storm brings flooding to southern France",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T18:28:06.000Z",
       "summary": "GE Aerospace previously confirmed fuel got into the river while repair work took place nearby."
-    },
-    {
-      "id": "feed-gkrv5n",
-      "title": "How Jackdaw ignites row over climate and costs",
-      "link": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T16:51:10.000Z",
-      "summary": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact."
     }
   ]
 }
