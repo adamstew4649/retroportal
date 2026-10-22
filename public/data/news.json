@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T19:06:04.937Z",
-  "generatedAt": "2026-10-22T19:06:04.937Z",
+  "updatedAt": "2026-10-22T19:56:40.981Z",
+  "generatedAt": "2026-10-22T19:56:40.981Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "bbc-world",
@@ -109,19 +109,99 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
-      "publishedAt": "2026-10-22T18:57:33.000Z",
+      "publishedAt": "2026-10-22T19:55:26.000Z",
       "category": "uk",
       "summary": "⚽ Updates from 5.45pm BST kick-offs, then the 8pm games ⚽ Live scores | Table | Read Football Daily | And mail Daniel That took 78 seconds – and remember, Sunderland scored at 90+3 of 90+5 in their last game against Torreense. The Prem, problems, but in Europe"
     },
     {
-      "id": "feed-frk1bx",
-      "title": "Todd Blanche fails to rule out DoJ weighing in on states’ election results certifying process – US politics live",
+      "id": "feed-6izdfk",
+      "title": "The Celebrity Traitors: episode seven – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/live/2026/oct/22/the-celebrity-traitors-episode-seven-live",
+      "publishedAt": "2026-10-22T19:55:04.000Z",
+      "category": "uk",
+      "summary": "Who got bored to death in the castle – and who is left with extreme yawning paranoia? Follow all the action along with us Kemp’s death has rattled everyone. It makes no sense to anyone, least of all Jerry Hall (who survived by the skin of her teeth) who has to"
+    },
+    {
+      "id": "feed-14rns0k",
+      "title": "Woman, 27, charged after police officer shot in Nottingham city centre",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/woman-27-charged-after-police-officer-shot-in-nottingham-city-centre-13602485",
+      "publishedAt": "2026-10-22T19:39:00.000Z",
+      "category": "uk",
+      "summary": "A woman has been charged in connection with the shooting of a police officer in Nottingham city centre on Sunday, police have said."
+    },
+    {
+      "id": "feed-empifp",
+      "title": "Trump defends Ramaswamy campaign ad condemned by Republicans, saying ‘Vivek should keep it up’ – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-      "publishedAt": "2026-10-22T18:54:15.000Z",
+      "publishedAt": "2026-10-22T19:38:46.000Z",
       "category": "world",
-      "summary": "Attorney general says ‘there’s scenarios we could all come up with’ when asked if DoJ would intercede to stop states from certifying election Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our re"
+      "summary": "President claims criticism of ad featuring Democrat Amy Acton’s estranged mother is a ‘concerted’ attack on Republican Ohio governor candidate Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’"
+    },
+    {
+      "id": "feed-tmsi3q",
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo",
+      "publishedAt": "2026-10-22T19:27:57.000Z",
+      "category": "world",
+      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood."
+    },
+    {
+      "id": "feed-134wrkg",
+      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o",
+      "publishedAt": "2026-10-22T19:25:26.000Z",
+      "category": "world",
+      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday."
+    },
+    {
+      "id": "feed-1j429wx",
+      "title": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
+      "publishedAt": "2026-10-22T19:23:14.000Z",
+      "category": "world",
+      "summary": "Republican Mike DeWine says Ramaswamy ‘wrong’ to run controversial ad, drawing swift rebuke from president Ohio’s Republican governor Mike DeWine on Thursday said gubernatorial candidate Vivek Ramaswamy was “wrong” to release an ad critical of his Democratic r"
+    },
+    {
+      "id": "feed-z3keuz",
+      "title": "‘It’s all God’s creation’: farmers continue a ‘Jewishly inspired’ agrarian tradition",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/22/jewish-farmers-tradition-agriculture",
+      "publishedAt": "2026-10-22T19:18:11.000Z",
+      "category": "uk",
+      "summary": "In the US, a growing number of Jewish people are seeking purpose and community through farming Wendy Rhein is trying to round up the sheep hanging out among the hazelnut and walnut trees of her Chutzpah Hollow farm in Tryon, North Carolina. “Hi, Brea. Come on "
+    },
+    {
+      "id": "feed-qqv7wr",
+      "title": "Flo & Joan: With Feeling review – sisters turn an old rock setlist into hilariously neurotic songs",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/oct/22/flo-joan-with-feeling-review-comedy",
+      "publishedAt": "2026-10-22T19:00:47.000Z",
+      "category": "uk",
+      "summary": "Shepherd’s Bush Empire, London Richly wrought lyrical wit and sumptuous harmonies enhance the duo’s clever new show – along with plenty of backchat The last time Flo & Joan played Shepherd’s Bush Empire, they found a setlist on stage left by beloved indie-rock"
+    },
+    {
+      "id": "feed-12l7ljd",
+      "title": "Super Graphic Spectacular review – Chappell Roan dazzles at her gloriously gay mini-festival",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/oct/22/chappell-roan-super-graphic-spectacular-review",
+      "publishedAt": "2026-10-22T18:52:18.000Z",
+      "category": "uk",
+      "summary": "Shrine Auditorium, Los Angeles With performances by Christina Aguilera, Lola Young and Tinashe, the pop star brings a colorful vision to life in support of LGBTQ+ charities At Chappell Roan ’s Super Graphic Spectacular, the sincerely camp pop star imagines a w"
     },
     {
       "id": "feed-85g425",
@@ -134,14 +214,14 @@
       "summary": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured."
     },
     {
-      "id": "feed-6izdfk",
-      "title": "The Celebrity Traitors: episode seven – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/live/2026/oct/22/the-celebrity-traitors-episode-seven-live",
-      "publishedAt": "2026-10-22T18:48:30.000Z",
-      "category": "uk",
-      "summary": "Who got bored to death in the castle – and who is left with extreme yawning paranoia? Follow all the action along with us And of course, on Friday we said goodbye to dear old Joe Lycett. And in retrospect, he might have had the most interesting trajectory of a"
+      "id": "feed-1fzwuh0",
+      "title": "Clubs face £20m bill for football watchdog's new levy",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/clubs-face-20m-bill-for-football-watchdogs-new-levy-13602461",
+      "publishedAt": "2026-10-22T18:43:00.000Z",
+      "category": "business",
+      "summary": "English football clubs face a roughly £20m annual bill to fund the sport's new watchdog - double the estimate provided by Sir Keir Starmer's government."
     },
     {
       "id": "feed-54vy94",
@@ -171,7 +251,7 @@
       "url": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied",
       "publishedAt": "2026-10-22T18:30:39.000Z",
       "category": "world",
-      "summary": "California, Oregon, Washington and Hawaii health officials ask CDC, ‘prioritizing emerging technologies’, to reconsider California and Washington asked the US Centers for Disease Control and Prevention (CDC) in May to validate a new way to test for measles – b"
+      "summary": "California, Oregon, Washington and Hawaii health officials ask CDC ‘prioritizing emerging technologies’ to reconsider California and Washington asked the US Centers for Disease Control and Prevention (CDC) in May to validate a new way to test for measles – but"
     },
     {
       "id": "feed-1mn3d5l",
@@ -214,8 +294,8 @@
       "summary": "Be Ready campaign aims to prepare UK for impact of climate crisis, technological dependency and threats by hostile state Every Briton is being urged to stock up to nine litres of bottled water and three days’ worth of food in new government guidance designed t"
     },
     {
-      "id": "feed-mt47r9",
-      "title": "Energy secretary appears to U-turn on opposition to tougher migration rules",
+      "id": "feed-3aw6hf",
+      "title": "Minister insists she backs migration policy after joking she couldn’t lie about supporting it",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
@@ -274,16 +354,6 @@
       "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains."
     },
     {
-      "id": "feed-meagby",
-      "title": "Total ban on protests in Marseille and Lyon after riots",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o",
-      "publishedAt": "2026-10-22T17:45:44.000Z",
-      "category": "world",
-      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday."
-    },
-    {
       "id": "feed-tipzkg",
       "title": "Ben Jennings on Donald Trump’s flattery of Vladimir Putin – cartoon",
       "source": "The Guardian",
@@ -294,6 +364,16 @@
       "summary": "Continue reading..."
     },
     {
+      "id": "feed-t8wjp6",
+      "title": "Fifa increases preparation money for Women’s World Cup to match men’s teams",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/22/fifa-increase-funds-2027-womens-world-cup-teams",
+      "publishedAt": "2026-10-22T17:35:41.000Z",
+      "category": "uk",
+      "summary": "Funds for 2027 will match men’s World Cup in 2026 Players given better flights and individual hotel rooms Teams in the 2027’s Women’s World Cup in Brazil will receive the same preparation money from Fifa as those that played at the 2026 men’s tournament, the w"
+    },
+    {
       "id": "feed-bkcd2f",
       "title": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
       "source": "The Guardian",
@@ -302,16 +382,6 @@
       "publishedAt": "2026-10-22T17:30:45.000Z",
       "category": "uk",
       "summary": "The current US administration is an obstacle, but public demand for protection will ultimately prevail Organisations around the world scrambled on Thursday to fix critical flaws in PHP, the software that powers much of the web. The vulnerabilities could allow "
-    },
-    {
-      "id": "feed-1jqu6he",
-      "title": "Trump says he asked Google CEO to rename Atlantic Ocean on Maps",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-atlantic-ocean-rename-google",
-      "publishedAt": "2026-10-22T17:27:05.000Z",
-      "category": "world",
-      "summary": "Tech company previously complied with president’s demand to rename Gulf of Mexico as Gulf of America Donald Trump said Google rejected his request to rename the Atlantic Ocean after himself or America. Speaking at a rally in South Carolina on Wednesday, the pr"
     },
     {
       "id": "feed-mekotc",
@@ -430,7 +500,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
       "publishedAt": "2026-10-22T17:00:45.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Protecting jobs and strengthening energy security in the short term does not mean wavering on Labour’s deep commitment to a cleaner, greener future Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval On Wednesday, the energy secreta"
     },
     {
@@ -440,18 +510,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/22/telford-gun-hall-tank-barrel-production-back-uk-rheinmetall",
       "publishedAt": "2026-10-22T16:59:54.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Defence secretary says Britain must manufacture at scale as Germany’s Rheinmetall opens Midlands factory For the last 20 years, Britain was unable to put a barrel on its tanks without buying from abroad. Relying on foreign allies seemed like a reasonable choic"
-    },
-    {
-      "id": "feed-1cpbpkg",
-      "title": "Reform snowflake Zia Yusuf demands safe space from ITV’s racism hunters",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/22/itv-undercover-journalists-reform-uk-zia-yusuf",
-      "publishedAt": "2026-10-22T16:56:57.000Z",
-      "category": "uk",
-      "summary": "How can it be right that undercover reporters failed to ask permission to expose party’s racist and misogynist views? The world has gone mad. What has happened to the country when you can’t even have a bit of racist and sexist banter with your mates at work? T"
     },
     {
       "id": "feed-1brj5sq",
@@ -462,16 +522,6 @@
       "publishedAt": "2026-10-22T16:54:48.000Z",
       "category": "world",
       "summary": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or jo"
-    },
-    {
-      "id": "feed-38cgec",
-      "title": "Russell Brand raped woman even though she screamed in pain, court hears",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears",
-      "publishedAt": "2026-10-22T16:52:27.000Z",
-      "category": "uk",
-      "summary": "Parents, colleagues and others encouraged her to go to police but she feared she would not be believed A woman told her mother that Russell Brand had raped her and “didn’t stop even when she screamed out in pain”, a court has heard. The woman also told a colle"
     },
     {
       "id": "feed-svemad",
@@ -502,16 +552,6 @@
       "publishedAt": "2026-10-22T16:42:23.000Z",
       "category": "business",
       "summary": "An estimated 70% of websites use the open-source language. What is the identified vulnerability in it? Website owners faced millions of attempts to exploit a serious security vulnerability in their programming language, it has emerged, triggering a rush by gov"
-    },
-    {
-      "id": "feed-tmsi3q",
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo",
-      "publishedAt": "2026-10-22T16:40:07.000Z",
-      "category": "world",
-      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood."
     },
     {
       "id": "feed-lnuwnb",
@@ -554,11 +594,11 @@
       "summary": "Clifford Foster has been charged with the murder of Eleanor Barnfield, who died after police were called to a crash."
     },
     {
-      "id": "feed-15k3m3z",
+      "id": "feed-1pbwy4w",
       "title": "BBC Inside Science",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct978b",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
       "publishedAt": "2026-10-22T16:00:00.000Z",
       "category": "science",
       "summary": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth."
@@ -1862,46 +1902,6 @@
       "publishedAt": "2026-10-15T04:00:21.000Z",
       "category": "science",
       "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts"
-    },
-    {
-      "id": "feed-18eyfqf",
-      "title": "Severe drought declared in parts of England",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/severe-drought-declared-in-parts-of-southern-england-13598962",
-      "publishedAt": "2026-10-14T23:01:00.000Z",
-      "category": "technology",
-      "summary": "Severe drought has been declared in parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex, the government has said."
-    },
-    {
-      "id": "feed-lutqzy",
-      "title": "The surprising psychology of morbid curiosity - video",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video",
-      "publishedAt": "2026-10-13T15:18:47.000Z",
-      "category": "science",
-      "summary": "US defence secretary Pete Hegseth’s plan to livestream the execution of Nidal Malik Hasan has incurred condemnation from human rights groups and politicians on all sides. But according to Coltan Scrivner, an author and psychologist at Arizona State University "
-    },
-    {
-      "id": "feed-16u3zpp",
-      "title": "The surprising psychology of morbid curiosity – podcast",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast",
-      "publishedAt": "2026-10-13T04:00:13.000Z",
-      "category": "science",
-      "summary": "US defence secretary Pete Hegseth’s plan to livestream the execution of Nidal Malik Hasan has incurred condemnation from human rights groups and politicians on all sides. But according to Coltan Scrivner, an author and psychologist at Arizona State University "
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
