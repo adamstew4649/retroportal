@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T07:15:56.754Z",
-  "generatedAt": "2026-10-22T07:15:56.754Z",
+  "updatedAt": "2026-10-22T08:05:16.250Z",
+  "generatedAt": "2026-10-22T08:05:16.250Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 8
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,106 @@
   ],
   "articles": [
     {
+      "id": "feed-1tyfej8",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo",
+      "publishedAt": "2026-10-22T08:00:55.000Z",
+      "category": "business",
+      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce."
+    },
+    {
+      "id": "feed-1j8zhnj",
+      "title": "South Africa v Australia: second men’s cricket Test, day five – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/22/south-africa-v-australia-second-test-day-five-cricket-st-georges-park-gqeberha-live-updates",
+      "publishedAt": "2026-10-22T07:56:52.000Z",
+      "category": "uk",
+      "summary": "Updates as the Proteas host Australia in Gqeberha Start at 9.45am local/6.45pm AEDT/8.45am BST Any thoughts? Get in touch with an email Pondering that, there may indeed be some layoffs from this Australian team if they lose here and need to win in Cape Town to"
+    },
+    {
+      "id": "feed-1joz7vh",
+      "title": "Criminals who refuse to attend sentencing could lose prison privileges under new rules",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
+      "publishedAt": "2026-10-22T07:54:17.000Z",
+      "category": "uk",
+      "summary": "England and Wales judges will be able to keep inmates in their cells for longer or stop visits if they refuse to face their victims’ families in court Offenders who refuse to face their victims’ families in court for sentencing could be stripped of privileges "
+    },
+    {
+      "id": "feed-128j2sx",
+      "title": "Macron hosts security council meeting ahead of planned weekend of protests – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+      "publishedAt": "2026-10-22T07:52:35.000Z",
+      "category": "world",
+      "summary": "‘The government must hold its nerve,’ Macron told reporters earlier this week French president Emmanuel Macron is back from his tour of the Gulf and convening a meeting with relevant ministers and intelligence services to figure out what can be done to prevent"
+    },
+    {
+      "id": "feed-1e9mqmv",
+      "title": "England v Sri Lanka: men’s tri-series cricket one-day international – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live",
+      "publishedAt": "2026-10-22T07:51:36.000Z",
+      "category": "uk",
+      "summary": "Updates from Rawalpindi, play starts at 9am BST Does cricket need a Ballon d’Or ? | Mail Rob This week’s Spin is a lovely read Bradman b Hollies 0 Continue reading..."
+    },
+    {
+      "id": "feed-y1o7h8",
+      "title": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
+      "publishedAt": "2026-10-22T07:49:10.000Z",
+      "category": "business",
+      "summary": "UK bank says 1,000 job cuts already done with a further 4,000 to go before year end; French risk premium over German bonds widest since 2011 as oil prices climb Barclays also said it is cutting 5,000 jobs, amounting to about 5% of its workforce, our banking co"
+    },
+    {
+      "id": "feed-ug630n",
+      "title": "Barclays cutting 5,000 jobs in AI-led efficiency drive",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/barclays-cutting-5000-jobs-in-ai-led-efficiency-drive-13602151",
+      "publishedAt": "2026-10-22T07:32:00.000Z",
+      "category": "business",
+      "summary": "Barclays has revealed it is cutting 5,000 jobs - 5% of its workforce - as part of efforts to save costs and drive efficiency through investment in artificial intelligence (AI)."
+    },
+    {
+      "id": "feed-59d3pp",
+      "title": "Jackdaw decision 'taken outwith Scotland about Scotland's energy'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c39wzvxxjejxo",
+      "publishedAt": "2026-10-22T07:26:18.000Z",
+      "category": "science",
+      "summary": "Scottish Green Mark Ruskell, the SNP’s Keith Brown and Scottish Labour’s Jenny Young weigh up the Jackdaw decision."
+    },
+    {
+      "id": "feed-1a2c3iz",
+      "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo",
+      "publishedAt": "2026-10-22T07:17:39.000Z",
+      "category": "uk",
+      "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
+    },
+    {
+      "id": "feed-14bzfcv",
+      "title": "Three more arrests over Nottingham police officer shooting",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/three-more-arrests-over-nottingham-police-officer-shooting-13602142",
+      "publishedAt": "2026-10-22T07:09:00.000Z",
+      "category": "uk",
+      "summary": "Three more people have been arrested over the shooting of a police officer in Nottingham city centre."
+    },
+    {
       "id": "feed-zql18k",
       "title": "Beau Lamarre-Condon visits McDonald’s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury",
       "source": "The Guardian",
@@ -120,18 +220,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
       "publishedAt": "2026-10-22T07:06:54.000Z",
-      "category": "world",
-      "summary": "Lender gives further £500m to shareholders after reporting £2.3bn in pre-tax profits from July to September Business live – latest updates Barclays is giving a further £500m to shareholders after reporting a jump in quarterly profits, as the lender steels itse"
-    },
-    {
-      "id": "feed-6z81u4",
-      "title": "Barclays profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
-      "publishedAt": "2026-10-22T07:04:05.000Z",
       "category": "uk",
-      "summary": "French risk premium over German bonds widest since 2011 as oil prices climb above $111 a barrel Barclays third-quarter profits of £2.3bn – bring its profits so far this year to £8.4bn, up 15% on the year. The TUC called the government for higher bank taxes, to"
+      "summary": "Lender gives further £500m to shareholders after reporting £2.3bn in pre-tax profits from July to September Business live – latest updates Barclays is giving a further £500m to shareholders after reporting a jump in quarterly profits, as the lender steels itse"
     },
     {
       "id": "feed-ls422v",
@@ -152,16 +242,6 @@
       "publishedAt": "2026-10-22T07:00:10.000Z",
       "category": "uk",
       "summary": "James says Tony leaving the cat’s water bowl where they prepare food is unhygienic. Should they feed their feline on the floor? You decide • Find out how to get a disagreement settled or become a juror It’s unhygienic. The cat will jump out of her litter box a"
-    },
-    {
-      "id": "feed-1j8zhnj",
-      "title": "South Africa v Australia: second men’s cricket Test, day five – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/22/south-africa-v-australia-second-test-day-five-cricket-st-georges-park-gqeberha-live-updates",
-      "publishedAt": "2026-10-22T07:00:10.000Z",
-      "category": "uk",
-      "summary": "Updates as the Proteas host Australia n Gqeberha Start at 9.45am local/6.45pm AEDT/8.45am BST Any thoughts? Get in touch with an email What say you, traveller? Tarry by the fire a minute? We may trade tales of desperate glory. A bit of that ahead of us today, "
     },
     {
       "id": "feed-hypitk",
@@ -224,6 +304,16 @@
       "summary": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life."
     },
     {
+      "id": "feed-m4lcc7",
+      "title": "Devon and Cornwall battening down the hatches ahead of Storm Austen",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo",
+      "publishedAt": "2026-10-22T06:35:52.000Z",
+      "category": "uk",
+      "summary": "Wind gusts of up to 80mph (130km/h) are forecast to bring disruption across the South West."
+    },
+    {
       "id": "feed-2dgscm",
       "title": "What is PHP and why did it spark a global cyber-security scramble?",
       "source": "BBC News",
@@ -232,6 +322,16 @@
       "publishedAt": "2026-10-22T06:24:59.000Z",
       "category": "uk",
       "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+    },
+    {
+      "id": "feed-1tw8ek2",
+      "title": "More talks due in bid to break budget deadlock",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq98znln7l8po",
+      "publishedAt": "2026-10-22T06:24:00.000Z",
+      "category": "uk",
+      "summary": "The Stormont executive maintains it cannot balance the books without more support from London."
     },
     {
       "id": "feed-glntgh",
@@ -290,7 +390,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb",
       "publishedAt": "2026-10-22T05:42:35.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Perth man charged with ‘being armed in a way that may cause fear’ – days after Helen Haines was allegedly attacked with 4WD outside her Victorian office Get our breaking news email , free app or daily news podcast A man has been charged after allegedly threate"
     },
     {
@@ -361,7 +461,7 @@
       "url": "https://www.bbc.co.uk/news/articles/ckr5y20n96jdo",
       "publishedAt": "2026-10-22T05:13:37.000Z",
       "category": "uk",
-      "summary": "More than 1,200 domestic abuse allegations were made against police officers and special constables in three years, a BBC investigation finds."
+      "summary": "Two women preyed upon by serving police officers describe their ordeals and why they are speaking out."
     },
     {
       "id": "feed-o6u045",
@@ -382,16 +482,6 @@
       "publishedAt": "2026-10-22T05:09:52.000Z",
       "category": "science",
       "summary": "A committee hears that Northern Ireland could lose out on economic opportunities if action is not accelerated."
-    },
-    {
-      "id": "feed-85g425",
-      "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo",
-      "publishedAt": "2026-10-22T05:07:35.000Z",
-      "category": "uk",
-      "summary": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured."
     },
     {
       "id": "feed-1c8xtjz",
@@ -442,16 +532,6 @@
       "publishedAt": "2026-10-22T05:00:08.000Z",
       "category": "uk",
       "summary": "This dish of chicken in a lipsmacking citrus and oregano sauce has been handed down through many generations of Roman restaurateurs If you look through the window of Piatto Romano between 10am and midday, there will almost certainly be two, maybe three people "
-    },
-    {
-      "id": "feed-38j33n",
-      "title": "Strongmen like Trump would destroy the planet out of pure spite – and Brazil shows we’re all in peril | George Monbiot",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/strongmen-donald-trump-destroy-planet-brazil-flavio-bolsonaro",
-      "publishedAt": "2026-10-22T05:00:07.000Z",
-      "category": "uk",
-      "summary": "If Flávio Bolsonaro is elected, Brazil’s ecosystems will face collapse. The ruling class would rather burn the world than share it with the poor However grim the trajectory might seem, I’ve always believed that sense will ultimately prevail. As the great peril"
     },
     {
       "id": "feed-u68oi4",
@@ -520,7 +600,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
       "publishedAt": "2026-10-22T04:00:06.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Grocer launches Cricklewood store as part of £1bn investment plan, with Hale Barns, Greater Manchester, to follow next month As part of a £1bn investment plan , Waitrose has chosen Cricklewood in north London as the location for its first supermarket in eight "
     },
     {
@@ -624,16 +704,6 @@
       "summary": "President was reportedly heckled at least nine times during campaign event for Darline Graham Multiple protesters were removed from Donald Trump’s rally at South Carolina’s Clemson University on Wednesday, including one who was apparently punched by a rally at"
     },
     {
-      "id": "feed-1a2c3iz",
-      "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo",
-      "publishedAt": "2026-10-22T01:17:25.000Z",
-      "category": "uk",
-      "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
-    },
-    {
       "id": "feed-x0n4uw",
       "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
       "source": "The Guardian",
@@ -670,7 +740,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
       "publishedAt": "2026-10-22T00:39:15.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "Precautionary takedowns come as experts say bad actors could exploit vulnerability in language used by 70% of sites Websites around the globe have gone dark after a serious vulnerability was found in a computer language used to build much of the world wide web"
     },
     {
@@ -720,7 +790,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
       "publishedAt": "2026-10-21T23:33:34.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "Jury had found Meta misled consumers after Trump’s 2016 presidential campaign obtained user data without consent A judge in New Mexico ordered Meta Platforms to pay $25bn on ⁠Wednesday after a jury found the company had misled consumers in a case arising from "
     },
     {
@@ -754,16 +824,6 @@
       "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
     },
     {
-      "id": "feed-qs16g8",
-      "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-      "publishedAt": "2026-10-21T23:06:36.000Z",
-      "category": "world",
-      "summary": "Leaders criticised for spreading misleading information as France prepares for further protests this weekend Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the "
-    },
-    {
       "id": "feed-th227k",
       "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
       "source": "BBC News",
@@ -774,8 +834,8 @@
       "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
     },
     {
-      "id": "feed-xfxpd9",
-      "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
+      "id": "feed-2isf3",
+      "title": "Chronic UTIs affect millions in the UK - these women are out to end the stigma",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cwly3g0g371go",
@@ -790,7 +850,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
       "publishedAt": "2026-10-21T23:03:16.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but he declined to elaborate Investors were paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief e"
     },
     {
@@ -822,16 +882,6 @@
       "publishedAt": "2026-10-21T23:02:30.000Z",
       "category": "uk",
       "summary": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia."
-    },
-    {
-      "id": "feed-3mnjh4",
-      "title": "Daughter of woman killed by partner 'refuses to be another victim'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm0j0d8p4lj7o",
-      "publishedAt": "2026-10-21T23:00:21.000Z",
-      "category": "uk",
-      "summary": "Keeley McKee's mother Leanne was killed by her partner in 2003, weeks before the couple were due to marry."
     },
     {
       "id": "feed-10l3t15",
@@ -1284,16 +1334,6 @@
       "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment."
     },
     {
-      "id": "feed-cyv1xc",
-      "title": "Astronaut surprise video leaves pupils starstruck",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o",
-      "publishedAt": "2026-10-21T11:55:19.000Z",
-      "category": "science",
-      "summary": "The surprise came after a teacher's father met Peake while working on a cruise ship."
-    },
-    {
       "id": "feed-1e9hlne",
       "title": "Scrap 'unfair' prescription charges in England, say pharmacies",
       "source": "Sky News",
@@ -1524,16 +1564,6 @@
       "summary": "Pioneer of ideas about the climate crisis and road safety, and a champion of walking, cycling and children’s mobility In the late 1990s, the social scientist and author Mayer Hillman predicted that, in the future, our children and grandchildren would ask us wh"
     },
     {
-      "id": "feed-xl5zgk",
-      "title": "US judge dismisses sexual abuse lawsuit from Sam Altman’s sister",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit",
-      "publishedAt": "2026-10-20T15:34:04.000Z",
-      "category": "technology",
-      "summary": "Ann Altman, the Open AI CEO’s sister, accused her brother of repeatedly sexually abusing her over two decades ago A judge dismissed a lawsuit filed by Sam Altman’s sister against him on Tuesday. Ann Altman accused the OpenAI CEO of repeatedly sexually abusing "
-    },
-    {
       "id": "feed-16mn7a8",
       "title": "The dangers of letting tech billionaires shape our world",
       "source": "The Guardian",
@@ -1562,16 +1592,6 @@
       "publishedAt": "2026-10-20T13:31:00.000Z",
       "category": "world",
       "summary": "A man has been arrested after a fire at the town hall of Limoges, according to French media."
-    },
-    {
-      "id": "feed-1677wpv",
-      "title": "US bans use of China’s DeepSeek AI tools by government agencies",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
-      "publishedAt": "2026-10-20T12:33:27.000Z",
-      "category": "technology",
-      "summary": "Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek , as the countries race for domina"
     },
     {
       "id": "feed-2xipap",
@@ -1622,16 +1642,6 @@
       "publishedAt": "2026-10-20T10:05:00.000Z",
       "category": "business",
       "summary": "The founder of Starling Bank offloaded her final shares in the digital lender at a valuation less than half the price it was reportedly seeking in its last major secondary share sale."
-    },
-    {
-      "id": "feed-1ahi3jm",
-      "title": "Google cloud failure hits millions as UK courts and banks knocked offline",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
-      "publishedAt": "2026-10-20T09:45:39.000Z",
-      "category": "technology",
-      "summary": "Services restored for most users, but power fault stalled hearings and left Revolut, Lloyds and HSBC customers unable to pay or move money An outage at Google’s cloud services in the UK has caused widespread disruption, hitting courts and leaving millions of c"
     },
     {
       "id": "feed-qolofn",
@@ -1742,16 +1752,6 @@
       "publishedAt": "2026-10-19T18:21:54.000Z",
       "category": "technology",
       "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
-    },
-    {
-      "id": "feed-1vaj169",
-      "title": "Apollo among suitors for €7bn spreads giant Flora",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/apollo-among-suitors-for-7bn-spreads-giant-flora-13601073",
-      "publishedAt": "2026-10-19T17:31:00.000Z",
-      "category": "business",
-      "summary": "A pack of buyout firms will this week submit initial offers for Flora Food Group, the spreads giant behind brands including I Can't Believe It's Not Butter."
     },
     {
       "id": "feed-odycot",
