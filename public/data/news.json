@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T09:59:39.518Z",
-  "generatedAt": "2026-10-22T09:59:39.518Z",
+  "updatedAt": "2026-10-22T10:27:21.524Z",
+  "generatedAt": "2026-10-22T10:27:21.524Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 8
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,104 @@
   ],
   "articles": [
     {
+      "id": "feed-8fsh87",
+      "title": "Two European women held captive for more than a year in Niger freed in Libya",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo",
+      "publishedAt": "2026-10-22T10:26:06.000Z",
+      "category": "world",
+      "summary": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say."
+    },
+    {
+      "id": "feed-1c9g6tn",
+      "title": "El Salvador's president threatens Haitian gangs over military hostages",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o",
+      "publishedAt": "2026-10-22T10:17:48.000Z",
+      "category": "world",
+      "summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday."
+    },
+    {
+      "id": "feed-mbdjh0",
+      "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o",
+      "publishedAt": "2026-10-22T10:17:26.000Z",
+      "category": "technology",
+      "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet."
+    },
+    {
       "id": "feed-1a5mvp2",
       "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo",
-      "publishedAt": "2026-10-22T09:56:36.000Z",
+      "publishedAt": "2026-10-22T10:16:35.000Z",
       "category": "world",
       "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago."
+    },
+    {
+      "id": "feed-y1o7h8",
+      "title": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
+      "publishedAt": "2026-10-22T10:16:24.000Z",
+      "category": "business",
+      "summary": "UK bank says 1,000 job cuts already done with a further 4,000 to go before year end, driven by advances in AI, described as ‘icing on the cake’ by Barclays boss You be the chancellor: play our budget game to see if you can balance the books The French 10-year "
+    },
+    {
+      "id": "feed-eanf15",
+      "title": "NI secretary arrives at Stormont ahead of budget meetings",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq98znln7l8po",
+      "publishedAt": "2026-10-22T10:15:10.000Z",
+      "category": "uk",
+      "summary": "The Stormont executive maintains it cannot balance the books without more support from London."
+    },
+    {
+      "id": "feed-1iufidd",
+      "title": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+      "publishedAt": "2026-10-22T10:11:59.000Z",
+      "category": "uk",
+      "summary": "Zelenskyy said: ‘Three waves of ballistic missiles have been launched at Kyiv by Russian “humanitarians”’ As we are waiting for Macron , first details of the planned police response to this weekend’s protests are emerging. Junior interior minister, Jean-Didier"
+    },
+    {
+      "id": "feed-1j8zhnj",
+      "title": "South Africa v Australia: second men’s cricket Test, day five – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/22/south-africa-v-australia-second-test-day-five-cricket-st-georges-park-gqeberha-live-updates",
+      "publishedAt": "2026-10-22T10:10:19.000Z",
+      "category": "uk",
+      "summary": "Updates as the Proteas host Australia in Gqeberha Play starts after rain forces early lunch Any thoughts? Get in touch with an email “At risk of overcooking the Shield chat,” writes Eamonn Maloney, “you don’t have to select from a bunch of mediocrities averagi"
+    },
+    {
+      "id": "feed-fqj27",
+      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo",
+      "publishedAt": "2026-10-22T10:10:13.000Z",
+      "category": "world",
+      "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation."
+    },
+    {
+      "id": "feed-1uker26",
+      "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+      "publishedAt": "2026-10-22T10:10:03.000Z",
+      "category": "uk",
+      "summary": "Company says deal will keep its chief executive living in California even if state brings in one-off billionaire tax Business live – latest updates Meta has struck a deal with Mark Zuckerberg to protect him from the threat of a California wealth tax targeting "
     },
     {
       "id": "feed-1e9mqmv",
@@ -119,9 +209,89 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live",
-      "publishedAt": "2026-10-22T09:55:17.000Z",
+      "publishedAt": "2026-10-22T10:09:32.000Z",
       "category": "uk",
       "summary": "Updates from Rawalpindi, play starts at 9am BST Does cricket need a Ballon d’Or ? | Mail Rob 3rd over: England 5-0 (Banton 2, Duckett 3) Duckett survives a run-out chance after taking a quick single on the off side. He was just short of his ground when Arachch"
+    },
+    {
+      "id": "feed-1vjdvoz",
+      "title": "'500 new vulnerabilities' found in government, says AI minister",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po",
+      "publishedAt": "2026-10-22T10:08:44.000Z",
+      "category": "technology",
+      "summary": "'500 new vulnerabilities' found in government, says AI minister"
+    },
+    {
+      "id": "feed-sa61zw",
+      "title": "Two storms in two days as Austen and Boelo target UK",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro",
+      "publishedAt": "2026-10-22T10:05:41.000Z",
+      "category": "science",
+      "summary": "The Met Office have named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend."
+    },
+    {
+      "id": "feed-15cupp7",
+      "title": "Barclays boss indicates bank taxes in budget ‘bearable’ and backs Healey – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+      "publishedAt": "2026-10-22T10:03:35.000Z",
+      "category": "uk",
+      "summary": "CEO of Barclays tells reporters: ‘I deeply respect the responsibility that the chancellor has and he has our full support and backing’ Offenders who refuse to face their victims’ families in court for sentencing could be stripped of privileges or kept in cells"
+    },
+    {
+      "id": "feed-alemhg",
+      "title": "Trump’s war and tariffs have battered Alaska. A pro-oil Democrat could flip the key Senate seat",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms",
+      "publishedAt": "2026-10-22T10:00:39.000Z",
+      "category": "world",
+      "summary": "Democrats believe circumstances have aligned for them to win a slew of competitive elections in the state Mary Peltola’s campaign to represent Alaska in the US Senate has taken her to parts of the massive state’s interior that are inaccessible by road and on t"
+    },
+    {
+      "id": "feed-4bnxib",
+      "title": "Experts alarmed by ‘less transparent’ CDC as US measles deaths rise",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-pennsylvania-state-deaths",
+      "publishedAt": "2026-10-22T10:00:39.000Z",
+      "category": "world",
+      "summary": "Agency declines to reveal in which state latest measles death occurred as it delays reporting other measles deaths The US Centers for Disease Control and Prevention (CDC) added a third measles death to its dashboard on Wednesday, but the agency would not revea"
+    },
+    {
+      "id": "feed-16mwe5h",
+      "title": "Who needs sleep when you can scroll through home makeover videos instead | Bim Adewunmi",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/who-needs-sleep-when-you-can-scroll-through-home-makeover-videos-instead",
+      "publishedAt": "2026-10-22T10:00:38.000Z",
+      "category": "uk",
+      "summary": "I’m not talking about frenetic whole-house renovations and stripping wallpaper but the slow, thoughtful design tweaks that are perfect for bedtime viewing I have been doing more than my fair share of revenge bedtime procrastination. Night-time is when I get to"
+    },
+    {
+      "id": "feed-wdlmnu",
+      "title": "Christiane Amanpour’s parting advice to journalists is right on the mark | Margaret Sullivan",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/christiane-amanpour-cnn-journalism-neutrality",
+      "publishedAt": "2026-10-22T10:00:38.000Z",
+      "category": "uk",
+      "summary": "The CNN star’s wise advice to ‘be truthful, not neutral’ should be tattooed on our souls After decades as a renowned international journalist, the CNN star Christiane Amanpour is calling it a career, saying she’ll soon leave the cable network which she joined "
+    },
+    {
+      "id": "feed-7xc7r",
+      "title": "In reliably blue Minnesota, could Democrats do the unthinkable and lose a Senate seat?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/minnesota-senate-race-peggy-flanagan-michele-tafoya",
+      "publishedAt": "2026-10-22T10:00:38.000Z",
+      "category": "world",
+      "summary": "Frustration with a sprawling fraud scandal has cut Peggy Flanagan’s poll lead – could ex-NFL reporter Michele Tafoya win a first statewide election for Republicans in 20 years? As Democrats fight to regain control of the US Senate, hopes are rising in states –"
     },
     {
       "id": "feed-zbfz65",
@@ -154,16 +324,6 @@
       "summary": "England and Wales judges to be able to keep inmates in cells for longer or stop visits if they refuse to face victims’ families in court Offenders who refuse to face their victims’ families in court for sentencing could be stripped of privileges or kept in cel"
     },
     {
-      "id": "feed-1iufidd",
-      "title": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-      "publishedAt": "2026-10-22T09:47:34.000Z",
-      "category": "uk",
-      "summary": "Zelenskyy said: ‘Three waves of ballistic missiles have been launched at Kyiv by Russian “humanitarians”’ As we are waiting for Macron , first details of the planned police response to this weekend’s protests are emerging. Junior interior minister, Jean-Didier"
-    },
-    {
       "id": "feed-dhzr5m",
       "title": "John Anderson, five-time US country chart-topper, dies aged 71",
       "source": "The Guardian",
@@ -172,26 +332,6 @@
       "publishedAt": "2026-10-22T09:45:22.000Z",
       "category": "uk",
       "summary": "Florida-born singer-songwriter had major hits with Swingin’, Seminole Wind and Straight Tequila Night John Anderson, the traditionalist US country singer whose extensive body of work included five No 1 hits on the country charts, has died aged 71. The news was"
-    },
-    {
-      "id": "feed-y1o7h8",
-      "title": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
-      "publishedAt": "2026-10-22T09:45:00.000Z",
-      "category": "business",
-      "summary": "UK bank says 1,000 job cuts already done with a further 4,000 to go before year end, driven by advances in AI, described as ‘icing on the cake’ by Barclays boss You be the chancellor: play our budget game to see if you can balance the books The French 10-year "
-    },
-    {
-      "id": "feed-majkjn",
-      "title": "Chancellor accepts Labour has put a ‘lot of pressure’ on business and says helping entrepreneurs will be a budget priority – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-      "publishedAt": "2026-10-22T09:41:58.000Z",
-      "category": "uk",
-      "summary": "John Healey is expected to cut red tape requirements, particularly for smaller businesses Kalyeena Makortoff is the Guardian’s banking correspondent. CS Venkatakrishnan, CEO at Barclays , seems to have admitted defeat over bank tax hikes, which are expected to"
     },
     {
       "id": "feed-m4lcc7",
@@ -204,16 +344,6 @@
       "summary": "Wind gusts of up to 80mph (130km/h) are forecast to bring disruption across the South West."
     },
     {
-      "id": "feed-1j8zhnj",
-      "title": "South Africa v Australia: second men’s cricket Test, day five – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/22/south-africa-v-australia-second-test-day-five-cricket-st-georges-park-gqeberha-live-updates",
-      "publishedAt": "2026-10-22T09:40:04.000Z",
-      "category": "uk",
-      "summary": "Updates as the Proteas host Australia in Gqeberha Start at 9.45am local/6.45pm AEDT/8.45am BST Any thoughts? Get in touch with an email “At risk of overcooking the Shield chat,” writes Eamonn Maloney, “you don’t have to select from a bunch of mediocrities aver"
-    },
-    {
       "id": "feed-1tyfej8",
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
       "source": "BBC News",
@@ -224,14 +354,14 @@
       "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce."
     },
     {
-      "id": "feed-1feca",
-      "title": "New punishments for criminals who skip sentence will 'rebalance power', aunt of murder victim says",
+      "id": "feed-1frhegg",
+      "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo",
       "publishedAt": "2026-10-22T09:28:04.000Z",
       "category": "uk",
-      "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
+      "summary": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim."
     },
     {
       "id": "feed-7nouqc",
@@ -242,6 +372,16 @@
       "publishedAt": "2026-10-22T09:27:10.000Z",
       "category": "world",
       "summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications."
+    },
+    {
+      "id": "feed-5d95e5",
+      "title": "Met Office names second storm to hit UK in 24 hours",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/boelo-met-office-names-second-storm-to-hit-uk-in-24-hours-13602192",
+      "publishedAt": "2026-10-22T09:23:00.000Z",
+      "category": "uk",
+      "summary": "The second named storm of the season is set to hit the UK on Saturday, the Met Office has said."
     },
     {
       "id": "feed-1ko2uk5",
@@ -264,8 +404,8 @@
       "summary": "Bayern Munich and England striker is odds-on favourite ‘I try not to think about it. Obviously it is hard not to’ Harry Kane would love to know now whether he has won the Ballon d’Or because the uncertainty and constant questions are driving his family to dist"
     },
     {
-      "id": "feed-3rm0ry",
-      "title": "Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes",
+      "id": "feed-17yii2p",
+      "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
@@ -354,14 +494,14 @@
       "summary": "France’s bond market hit by another bout of selling as country recovers from weekend protests Business live – latest updates French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget"
     },
     {
-      "id": "feed-1o2pcbi",
-      "title": "Super Bowl contenders: are the NFL’s unbeaten teams as perfect as they seem?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/22/nfl-unbeaten-teams-49ers-chiefs-vikings-bills",
-      "publishedAt": "2026-10-22T08:30:10.000Z",
-      "category": "uk",
-      "summary": "The early standouts have emerged. But even the best teams have flaws that can be exposed by their opponents Who would have thought the 49ers would be here after a rough old offseason? Head coach Kyle Shanahan’s participation in training camp was limited due to"
+      "id": "feed-1qiqnw2",
+      "title": "France reports first Shamonda virus case in human who later died",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/france-reports-first-shamonda-virus-case-in-human-who-later-died-13602182",
+      "publishedAt": "2026-10-22T08:38:00.000Z",
+      "category": "world",
+      "summary": "The first human case of the Shamonda virus has been detected in France in a person who later died, according to authorities."
     },
     {
       "id": "feed-1rezmbo",
@@ -384,23 +524,13 @@
       "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
     },
     {
-      "id": "feed-8fsh87",
-      "title": "Two European women held captive for more than a year in Niger freed in Libya",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo",
-      "publishedAt": "2026-10-22T08:21:13.000Z",
-      "category": "world",
-      "summary": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say."
-    },
-    {
       "id": "feed-ile0x2",
       "title": "You be the chancellor: play our budget game to see if you can balance the books",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
       "publishedAt": "2026-10-22T08:04:59.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "See if you can do a better job than John Healey at creating a budget that keeps MPs and the bond markets onside On 28 October, John Healey will announce the autumn budget to parliament. As in all years, the chancellor has to strike a balance between the follow"
     },
     {
@@ -410,7 +540,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/stage/2026/oct/22/west-end-alan-bennett-the-history-boys-nicholas-hytner-theatre",
       "publishedAt": "2026-10-22T08:00:10.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Nation’s favourite play makes London comeback amid renewed debate about future of humanities teaching The History Boys is to return to the West End for the first time in two decades, with a warning from its director of an “almost terminal decline” in humanitie"
     },
     {
@@ -454,16 +584,6 @@
       "summary": "CCTV footage shows the police officer buying fast food, attending hospital, and visiting three separate Bunnings stores in the days after the alleged murder Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon ordered food from a Mc"
     },
     {
-      "id": "feed-ls422v",
-      "title": "Nobody Wants This review – prepare to fall in love again … with a different couple",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/nobody-wants-this-season-three-review-netflix",
-      "publishedAt": "2026-10-22T07:01:08.000Z",
-      "category": "uk",
-      "summary": "Adam Brody and Kristen Bell’s hit romcom is still gorgeous as Noah and Joanne move in together. But if you’re thirsty for the fizz of new romance … their siblings might set hearts aflutter Just as you and your true love can’t have a second first date or anothe"
-    },
-    {
       "id": "feed-14ch590",
       "title": "Children in care to get £10 a week savings",
       "source": "BBC News",
@@ -492,16 +612,6 @@
       "publishedAt": "2026-10-22T06:24:59.000Z",
       "category": "uk",
       "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
-    },
-    {
-      "id": "feed-1tw8ek2",
-      "title": "More talks due in bid to break budget deadlock",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq98znln7l8po",
-      "publishedAt": "2026-10-22T06:24:00.000Z",
-      "category": "uk",
-      "summary": "The Stormont executive maintains it cannot balance the books without more support from London."
     },
     {
       "id": "feed-glntgh",
@@ -724,16 +834,6 @@
       "summary": "A woman who died following a car crash in South Wales had sustained injuries that were not related to the incident, police have said."
     },
     {
-      "id": "feed-kqbx0o",
-      "title": "Man fined after 700 frozen and taxidermied animals found on Victorian property",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/man-fined-after-700-frozen-and-taxidermied-animals-found-on-victorian-property-ntwnfb",
-      "publishedAt": "2026-10-22T02:24:13.000Z",
-      "category": "world",
-      "summary": "Antiques store owner, 74, pleads guilty to 13 charges after regulator uncovers hundreds of animals at his home and shop Get our new political email , free app or daily news podcast The white-walled room packed with magpies, galahs and sulphur-crested cockatoos"
-    },
-    {
       "id": "feed-1g0fl0g",
       "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
       "source": "BBC News",
@@ -744,16 +844,6 @@
       "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region."
     },
     {
-      "id": "feed-1m7v092",
-      "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-      "publishedAt": "2026-10-22T02:01:24.000Z",
-      "category": "world",
-      "summary": "This live blog is now closed. Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olive"
-    },
-    {
       "id": "feed-jtits9",
       "title": "'Millions' of exploitation attempts since security flaw affecting websites emerged",
       "source": "Sky News",
@@ -762,26 +852,6 @@
       "publishedAt": "2026-10-22T02:00:00.000Z",
       "category": "uk",
       "summary": "There have been \"millions\" of exploitation attempts since a \"critical\" security flaw affecting websites around the world emerged, according to a major tech company."
-    },
-    {
-      "id": "feed-q3iibx",
-      "title": "‘Man, I loved that’: Trump cheers South Carolina rally attender who hit protester",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/trump-south-carolina-rally-darline-graham",
-      "publishedAt": "2026-10-22T01:23:04.000Z",
-      "category": "world",
-      "summary": "President was reportedly heckled at least nine times during campaign event for Darline Graham Multiple protesters were removed from Donald Trump’s rally at South Carolina’s Clemson University on Wednesday, including one who was apparently punched by a rally at"
-    },
-    {
-      "id": "feed-x0n4uw",
-      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-      "publishedAt": "2026-10-22T01:16:20.000Z",
-      "category": "world",
-      "summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Pet"
     },
     {
       "id": "feed-p81kzb",
@@ -960,18 +1030,8 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o",
       "publishedAt": "2026-10-21T22:02:18.000Z",
-      "category": "world",
+      "category": "science",
       "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade."
-    },
-    {
-      "id": "feed-1c1fo2r",
-      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cvze414811jlo",
-      "publishedAt": "2026-10-21T22:00:58.000Z",
-      "category": "world",
-      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games."
     },
     {
       "id": "feed-r3gba2",
@@ -1174,6 +1234,16 @@
       "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool."
     },
     {
+      "id": "feed-gkrv5n",
+      "title": "How Jackdaw ignites row over climate and costs",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo",
+      "publishedAt": "2026-10-21T16:51:10.000Z",
+      "category": "science",
+      "summary": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact."
+    },
+    {
       "id": "feed-1fhaxix",
       "title": "Can a giant tunnel save Windermere?",
       "source": "BBC News",
@@ -1254,16 +1324,6 @@
       "summary": "Whether you want a colour screen, somewhere to scribble notes or a child-friendly model, here’s what we recommend from Amazon’s e-reader range • The best e-readers From that fresh paperback smell to the wrinkles in the spine, nothing beats a real book. But if "
     },
     {
-      "id": "feed-140t17c",
-      "title": "How Jackdaw ignites row over climate and costs",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o",
-      "publishedAt": "2026-10-21T13:46:34.000Z",
-      "category": "science",
-      "summary": "How Jackdaw ignites arguments over climate and costs"
-    },
-    {
       "id": "feed-1og8bq4",
       "title": "Vital clues could help predict prostate cancer years in advance",
       "source": "Sky News",
@@ -1282,16 +1342,6 @@
       "publishedAt": "2026-10-21T12:36:00.000Z",
       "category": "business",
       "summary": "The father-and-son team who control BetGoodwin, an online sports betting and casino operator, have begun plotting a London stock market listing even as their peers intensify warnings over tax rises in next week's budget."
-    },
-    {
-      "id": "feed-1757sz4",
-      "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo",
-      "publishedAt": "2026-10-21T11:57:49.000Z",
-      "category": "science",
-      "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment."
     },
     {
       "id": "feed-1e9hlne",
@@ -1584,16 +1634,6 @@
       "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom"
     },
     {
-      "id": "feed-41js19",
-      "title": "Four soldiers from UN-backed force missing after gang attack in Haiti",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/four-soldiers-from-un-backed-force-missing-after-gang-attack-in-haiti-13601304",
-      "publishedAt": "2026-10-20T10:59:00.000Z",
-      "category": "world",
-      "summary": "Four soldiers from El Salvador are unaccounted for after being attacked by heavily-armed gangs in Haiti."
-    },
-    {
       "id": "feed-qolofn",
       "title": "Thames Water creditors secure Labour's Hutton to drive rescue deal",
       "source": "Sky News",
@@ -1634,16 +1674,6 @@
       "summary": "System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face."
     },
     {
-      "id": "feed-13or9m1",
-      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-      "publishedAt": "2026-10-19T21:12:30.000Z",
-      "category": "technology",
-      "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail."
-    },
-    {
       "id": "feed-smkkty",
       "title": "Japan launches mission to Mars to bring back samples from its moon",
       "source": "Sky News",
@@ -1662,16 +1692,6 @@
       "publishedAt": "2026-10-19T18:36:00.000Z",
       "category": "technology",
       "summary": "A former OpenAI engineer charged with secretly installing a recording device at its offices was \"mere days\" away from fleeing to Saudi Arabia before his arrest, prosecutors allege."
-    },
-    {
-      "id": "feed-d9lngo",
-      "title": "US bans China's DeepSeek from government in race for AI dominance",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
-      "publishedAt": "2026-10-19T18:21:54.000Z",
-      "category": "technology",
-      "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
     },
     {
       "id": "feed-odycot",
