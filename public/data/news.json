@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T01:56:48.754Z",
-  "generatedAt": "2026-10-22T01:56:48.754Z",
+  "updatedAt": "2026-10-22T02:24:33.055Z",
+  "generatedAt": "2026-10-22T02:24:33.055Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -104,24 +104,44 @@
   ],
   "articles": [
     {
+      "id": "feed-1g0fl0g",
+      "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o",
+      "publishedAt": "2026-10-22T02:09:21.000Z",
+      "category": "uk",
+      "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region."
+    },
+    {
+      "id": "feed-1m7v092",
+      "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – as it happened",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+      "publishedAt": "2026-10-22T02:01:24.000Z",
+      "category": "world",
+      "summary": "This live blog is now closed. Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olive"
+    },
+    {
+      "id": "feed-1mlgloe",
+      "title": "Disruption from 'critical' flaw in websites could spread in coming days, experts warn",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102",
+      "publishedAt": "2026-10-22T02:00:00.000Z",
+      "category": "uk",
+      "summary": "Disruption from a \"critical\" flaw that led to websites around the world being taken down could become \"more widespread\", an expert had told Sky News."
+    },
+    {
       "id": "feed-hrwmyh",
       "title": "‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass",
       "publishedAt": "2026-10-22T01:31:15.000Z",
-      "category": "world",
-      "summary": "Swimming banned at Maroubra and Coogee while council prioritises ‘culturally respectful’ removal of remains Coogee and Maroubra beaches have been closed as a precaution after a whale carcass washed up on the rocks between the two busy swimming and surfing spot"
-    },
-    {
-      "id": "feed-1wz2k6a",
-      "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-      "publishedAt": "2026-10-22T01:26:51.000Z",
-      "category": "world",
-      "summary": "‘That was great, man. Wow. Man, I loved that,’ the president says from podium as multiple protesters interrupt his remarks Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli militar"
+      "category": "uk",
+      "summary": "Swimming banned at Maroubra and Coogee while council prioritises ‘culturally respectful’ removal of remains Get our breaking news email , free app or daily news podcast Coogee and Maroubra beaches have been closed as a precaution after a whale carcass washed u"
     },
     {
       "id": "feed-q3iibx",
@@ -132,6 +152,16 @@
       "publishedAt": "2026-10-22T01:23:04.000Z",
       "category": "world",
       "summary": "President was reportedly heckled at least nine times during campaign event for Darline Graham Multiple protesters were removed from Donald Trump’s rally at South Carolina’s Clemson University on Wednesday, including one who was apparently punched by a rally at"
+    },
+    {
+      "id": "feed-1a2c3iz",
+      "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo",
+      "publishedAt": "2026-10-22T01:17:25.000Z",
+      "category": "uk",
+      "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
     },
     {
       "id": "feed-x0n4uw",
@@ -154,8 +184,8 @@
       "summary": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list"
     },
     {
-      "id": "feed-16j9c81",
-      "title": "Sam Wood makes bid for bail over domestic violence charges to supreme court",
+      "id": "feed-15cadbb",
+      "title": "Sam Wood makes bid for bail to supreme court over domestic violence charges",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/oct/22/sam-wood-bail-supreme-court-queensland-domestic-violence-arrest-ntwnfb",
@@ -182,6 +212,16 @@
       "publishedAt": "2026-10-22T00:26:50.000Z",
       "category": "uk",
       "summary": "Reports emerge of similar withdrawals in UAE, Jordan, Qatar and Bahrain amid concerns about a return to conflict with Iran after US midterm elections The US state department has ordered some diplomats and the families of US government employees to leave Saudi "
+    },
+    {
+      "id": "feed-nrnq27",
+      "title": "The Papers: 'Drill, Andy Drill!' and a Budget for 'bloody-minded entrepreneurs'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn4mmypko",
+      "publishedAt": "2026-10-22T00:18:52.000Z",
+      "category": "uk",
+      "summary": "Several of today's papers continue to follow the \"storm\" surrounding Andy Burnham's decision to approve a new gas field and what that will mean for future ones."
     },
     {
       "id": "feed-189oy09",
@@ -240,7 +280,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo",
       "publishedAt": "2026-10-21T23:12:06.000Z",
-      "category": "business",
+      "category": "uk",
       "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
     },
     {
@@ -284,6 +324,16 @@
       "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
     },
     {
+      "id": "feed-xfxpd9",
+      "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3g0g371go",
+      "publishedAt": "2026-10-21T23:03:59.000Z",
+      "category": "uk",
+      "summary": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs."
+    },
+    {
       "id": "feed-f98sr9",
       "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
       "source": "The Guardian",
@@ -292,6 +342,36 @@
       "publishedAt": "2026-10-21T23:03:16.000Z",
       "category": "uk",
       "summary": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but he declined to elaborate Investors were paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief e"
+    },
+    {
+      "id": "feed-s0uxwu",
+      "title": "Only one female scientist named in GCSEs, research finds",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o",
+      "publishedAt": "2026-10-21T23:02:45.000Z",
+      "category": "uk",
+      "summary": "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications."
+    },
+    {
+      "id": "feed-1j8go4n",
+      "title": "The four locations in the running to be UK City of Culture 2029",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6jrw03njgxzo",
+      "publishedAt": "2026-10-21T23:02:37.000Z",
+      "category": "uk",
+      "summary": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities."
+    },
+    {
+      "id": "feed-71q52i",
+      "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo",
+      "publishedAt": "2026-10-21T23:02:30.000Z",
+      "category": "uk",
+      "summary": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia."
     },
     {
       "id": "feed-1vcc1hp",
@@ -604,16 +684,6 @@
       "summary": "Frank Rubio is set to be in the crew for the Artemis III mission and previously spent a year in space."
     },
     {
-      "id": "feed-1owlijd",
-      "title": "NSW passes ‘human compost’ laws with several MPs saying they will utilise practice after they die",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/nsw-passes-human-compost-laws-with-several-mps-saying-they-will-utilise-practice-after-they-die",
-      "publishedAt": "2026-10-21T19:37:00.000Z",
-      "category": "uk",
-      "summary": "Australia-first laws provide a third legal option other than burial and cremation for the treatment of bodies Get our breaking news email , free app or daily news podcast Several New South Wales MPs say they want their own bodies turned into “human compost” af"
-    },
-    {
       "id": "feed-1ngelmf",
       "title": "Pope Leo's doctors say tests show he needs no further treatment for lung cancer",
       "source": "Sky News",
@@ -894,26 +964,6 @@
       "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days."
     },
     {
-      "id": "feed-1at5s8g",
-      "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo",
-      "publishedAt": "2026-10-21T15:56:03.000Z",
-      "category": "uk",
-      "summary": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966."
-    },
-    {
-      "id": "feed-179in7k",
-      "title": "Teenage boy guilty of trying to murder girl, 15, in school",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo",
-      "publishedAt": "2026-10-21T15:47:51.000Z",
-      "category": "uk",
-      "summary": "The school went into lockdown and parents gathered at the gates as they waited for news about their children."
-    },
-    {
       "id": "feed-1aglml8",
       "title": "Orionid meteor shower to peak in UK skies into Thursday",
       "source": "BBC News",
@@ -930,18 +980,8 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo",
       "publishedAt": "2026-10-21T15:36:31.000Z",
-      "category": "uk",
+      "category": "science",
       "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
-    },
-    {
-      "id": "feed-1u801rm",
-      "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o",
-      "publishedAt": "2026-10-21T15:24:23.000Z",
-      "category": "uk",
-      "summary": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust."
     },
     {
       "id": "feed-2wssf9",
@@ -972,16 +1012,6 @@
       "publishedAt": "2026-10-21T14:59:34.000Z",
       "category": "technology",
       "summary": "After months of controversy over the possible use of AI by winners of prestigious awards, the Prix Pascal de Littérature IA is rewarding fiction written with the help of LLMs A prize for AI-written books has launched this week. The Prix Pascal de Littérature I"
-    },
-    {
-      "id": "feed-fq21bd",
-      "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko",
-      "publishedAt": "2026-10-21T14:26:24.000Z",
-      "category": "uk",
-      "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated."
     },
     {
       "id": "feed-1ajnu2",
@@ -1024,16 +1054,6 @@
       "summary": "Whether you want a colour screen, somewhere to scribble notes or a child-friendly model, here’s what we recommend from Amazon’s e-reader range • The best e-readers From that fresh paperback smell to the wrinkles in the spine, nothing beats a real book. But if "
     },
     {
-      "id": "feed-47v360",
-      "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello",
-      "publishedAt": "2026-10-21T13:47:51.000Z",
-      "category": "uk",
-      "summary": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies."
-    },
-    {
       "id": "feed-140t17c",
       "title": "How Jackdaw ignites row over climate and costs",
       "source": "BBC News",
@@ -1042,16 +1062,6 @@
       "publishedAt": "2026-10-21T13:46:34.000Z",
       "category": "science",
       "summary": "How Jackdaw ignites arguments over climate and costs"
-    },
-    {
-      "id": "feed-rs2pkn",
-      "title": "Websites around the world taken down after AI detects 'critical' flaw",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/websites-warned-to-install-critical-php-software-update-or-go-offline-13601917",
-      "publishedAt": "2026-10-21T13:28:00.000Z",
-      "category": "uk",
-      "summary": "Government and business websites around the world were taken down in a bid to protect organisations after a critical software update was issued over vulnerabilities in programming language."
     },
     {
       "id": "feed-5t8oe6",
@@ -1130,7 +1140,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo",
       "publishedAt": "2026-10-21T11:57:49.000Z",
-      "category": "uk",
+      "category": "science",
       "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment."
     },
     {
@@ -1212,16 +1222,6 @@
       "publishedAt": "2026-10-21T10:16:17.000Z",
       "category": "business",
       "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
-    },
-    {
-      "id": "feed-gc117g",
-      "title": "Actor Noel Clarke pleads not guilty to six sexual offences",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/actor-noel-clarke-pleads-not-guilty-to-six-sexual-offences-13601830",
-      "publishedAt": "2026-10-21T09:11:00.000Z",
-      "category": "uk",
-      "summary": "Actor Noel Clarke has pleaded not guilty to six sexual offences."
     },
     {
       "id": "feed-11hylex",
