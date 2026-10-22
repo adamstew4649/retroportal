@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T15:26:50.004Z",
+  "updatedAt": "2026-10-22T15:59:02.025Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-m4lcc7",
+      "title": "Devon and Cornwall battening down the hatches ahead of Storm Austen",
+      "link": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T15:38:13.000Z",
+      "summary": "Wind gusts of up to 80mph (130km/h) are forecast to bring disruption across the South West."
+    },
+    {
       "id": "feed-1ia00g4",
       "title": "TV star's brother 'never recovered' from her death",
       "link": "https://www.bbc.co.uk/news/articles/c6jdm095d89yo",
       "source": "BBC News",
-      "publishedAt": "2026-10-22T15:22:19.000Z",
+      "publishedAt": "2026-10-22T15:32:27.000Z",
       "summary": "Paul Flack was \"everyone's favourite person\" but this \"took its toll\", an inquest hears."
+    },
+    {
+      "id": "feed-t1pg1",
+      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T15:05:47.000Z",
+      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs."
     },
     {
       "id": "feed-66ssgj",
@@ -48,28 +64,12 @@
       "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce."
     },
     {
-      "id": "feed-1d8n55g",
-      "title": "NI secretary meets Stormont parties to discuss budget deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/cq98znln7l8po",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T14:19:18.000Z",
-      "summary": "The Stormont executive maintains it cannot balance the books without more support from London."
-    },
-    {
       "id": "feed-k8c36v",
       "title": "Katie Price's ex not guilty of raping girl, 13",
       "link": "https://www.bbc.co.uk/news/articles/cw1m4pmvx1xdo",
       "source": "BBC News",
       "publishedAt": "2026-10-22T14:07:33.000Z",
       "summary": "Kieran Hayler had denied rape, sexual assault and sexual activity with a child at his trial."
-    },
-    {
-      "id": "feed-g1rbm1",
-      "title": "Retired decorator's Pokémon cards sell for £1.5m",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T13:31:04.000Z",
-      "summary": "He says he found treasure in his attic where the collection had been stored for 15 years."
     },
     {
       "id": "feed-1i4iw68",
@@ -94,22 +94,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T11:47:21.000Z",
       "summary": "It is alleged the officer used the technology \"inappropriately during criminal investigations\"."
-    },
-    {
-      "id": "feed-m4lcc7",
-      "title": "Devon and Cornwall battening down the hatches ahead of Storm Austen",
-      "link": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T10:40:52.000Z",
-      "summary": "Wind gusts of up to 80mph (130km/h) are forecast to bring disruption across the South West."
-    },
-    {
-      "id": "feed-1evrd91",
-      "title": "Claims 'stabbed' woman tried to drive to hospital because of ambulance wait time denied",
-      "link": "https://www.bbc.co.uk/news/articles/c8g473g2wp1ro",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T10:37:56.000Z",
-      "summary": "Eleanor Barnfield, 47, died in hospital after police were called to a crash in Bridgend on Monday."
     },
     {
       "id": "feed-1na3aki",
@@ -150,6 +134,22 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T05:01:35.000Z",
       "summary": "The actress sat down with her friend and fellow actor Brendan O'Hea to talk to the BBC's Emma Barnett ahead of the launch of her memoir."
+    },
+    {
+      "id": "feed-1g0fl0g",
+      "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+      "link": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T02:09:21.000Z",
+      "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region."
+    },
+    {
+      "id": "feed-rrypm1",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T23:27:05.000Z",
+      "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
     }
   ]
 }
