@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T10:59:24.717Z",
+  "updatedAt": "2026-10-22T11:25:26.686Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-2dgscm",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T11:15:58.000Z",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+    },
     {
       "id": "feed-mbdjh0",
       "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
@@ -30,14 +38,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T08:23:42.000Z",
       "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
-    },
-    {
-      "id": "feed-2dgscm",
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T06:24:59.000Z",
-      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
     },
     {
       "id": "feed-5uyzy2",
