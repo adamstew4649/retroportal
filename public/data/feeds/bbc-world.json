@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T13:13:03.492Z",
+  "updatedAt": "2026-10-22T14:01:35.503Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,52 @@
   },
   "articles": [
     {
-      "id": "feed-824f0b",
-      "title": "How did AI discover the internet's massive cyber-security risk?",
+      "id": "feed-dve4ah",
+      "title": "First human case of Shamonda virus detected in France, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T13:53:32.000Z",
+      "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October."
+    },
+    {
+      "id": "feed-1b6q05c",
+      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T13:46:33.000Z",
+      "summary": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom."
+    },
+    {
+      "id": "feed-11ccf8k",
+      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
+      "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T13:36:21.000Z",
+      "summary": "The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation."
+    },
+    {
+      "id": "feed-8fsh87",
+      "title": "Two European women held captive for more than a year in Niger freed in Libya",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T13:22:39.000Z",
+      "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland."
+    },
+    {
+      "id": "feed-1nbzyy8",
+      "title": "AI discovered a massive cyber-security flaw - here's what happened",
       "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo",
       "source": "BBC News",
       "publishedAt": "2026-10-22T12:17:44.000Z",
       "summary": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you."
+    },
+    {
+      "id": "feed-40x9l1",
+      "title": "Grandparent hugging consent ad pulled after criticism",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T11:58:34.000Z",
+      "summary": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\"."
     },
     {
       "id": "feed-zw2qlp",
@@ -32,28 +72,12 @@
       "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
     },
     {
-      "id": "feed-8fsh87",
-      "title": "Two European women held captive for more than a year in Niger freed in Libya",
-      "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T11:13:12.000Z",
-      "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland."
-    },
-    {
       "id": "feed-1ih8dlc",
       "title": "Moment man rescued from sinking car by Australian TV reporter",
       "link": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko",
       "source": "BBC News",
       "publishedAt": "2026-10-22T11:08:33.000Z",
       "summary": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle."
-    },
-    {
-      "id": "feed-dve4ah",
-      "title": "First human case of Shamonda virus detected in France, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T11:04:14.000Z",
-      "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October."
     },
     {
       "id": "feed-1c9g6tn",
@@ -96,14 +120,6 @@
       "summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications."
     },
     {
-      "id": "feed-1ko2uk5",
-      "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T09:14:48.000Z",
-      "summary": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom."
-    },
-    {
       "id": "feed-17yii2p",
       "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
       "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T03:05:28.000Z",
       "summary": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada."
-    },
-    {
-      "id": "feed-1s57sp1",
-      "title": "The real reasons there are so few young politicians in the US",
-      "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T23:52:12.000Z",
-      "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?"
-    },
-    {
-      "id": "feed-5uyzy2",
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T23:06:37.000Z",
-      "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
     }
   ]
 }

@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T13:13:03.491Z",
+  "updatedAt": "2026-10-22T14:01:35.500Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-g1rbm1",
+      "title": "Retired decorator's Pokémon cards sell for £1.5m",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T13:31:04.000Z",
+      "summary": "He says he found treasure in his attic where the collection had been stored for 15 years."
+    },
     {
       "id": "feed-1tyfej8",
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
@@ -32,20 +40,28 @@
       "summary": "Kieran Hayler had denied rape, sexual assault and sexual activity with a child at his trial."
     },
     {
-      "id": "feed-10m6n3d",
-      "title": "Trial hears Tommy Robinson hired private detectives",
+      "id": "feed-40x9l1",
+      "title": "Grandparent hugging consent ad pulled after criticism",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T11:58:34.000Z",
+      "summary": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\"."
+    },
+    {
+      "id": "feed-66ssgj",
+      "title": "Tommy Robinson hired detectives to find journalists, court told",
       "link": "https://www.bbc.co.uk/news/articles/c8x23dlqkl01o",
       "source": "BBC News",
       "publishedAt": "2026-10-22T11:49:50.000Z",
       "summary": "The political activist denies wanting to expose two Daily Mail journalists to threats of violence."
     },
     {
-      "id": "feed-g1rbm1",
-      "title": "Retired decorator's Pokémon cards sell for £1.5m",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
+      "id": "feed-1bmu6jr",
+      "title": "Senior detective accused of using AI for decisions",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2873gz6yeo",
       "source": "BBC News",
-      "publishedAt": "2026-10-22T10:58:13.000Z",
-      "summary": "He says he found treasure in his attic where the collection had been stored for 15 years."
+      "publishedAt": "2026-10-22T11:47:21.000Z",
+      "summary": "It is alleged the officer used the technology \"inappropriately during criminal investigations\"."
     },
     {
       "id": "feed-m4lcc7",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T23:12:06.000Z",
       "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
-    },
-    {
-      "id": "feed-2isf3",
-      "title": "Chronic UTIs affect millions in the UK - these women are out to end the stigma",
-      "link": "https://www.bbc.co.uk/news/articles/cwly3g0g371go",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T23:03:59.000Z",
-      "summary": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs."
-    },
-    {
-      "id": "feed-s0uxwu",
-      "title": "Only one female scientist named in GCSEs, research finds",
-      "link": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T23:02:45.000Z",
-      "summary": "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications."
     }
   ]
 }
