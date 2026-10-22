@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T20:56:40.418Z",
-  "generatedAt": "2026-10-22T20:56:40.418Z",
+  "updatedAt": "2026-10-22T21:20:44.060Z",
+  "generatedAt": "2026-10-22T21:20:44.060Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,26 @@
   ],
   "articles": [
     {
+      "id": "feed-empifp",
+      "title": "Trump defends Ramaswamy campaign ad condemned by Republicans, saying ‘Vivek should keep it up’ – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+      "publishedAt": "2026-10-22T21:07:19.000Z",
+      "category": "world",
+      "summary": "President claims criticism of ad featuring Democrat Amy Acton’s estranged mother is a ‘concerted’ attack on Republican Ohio governor candidate Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’"
+    },
+    {
+      "id": "feed-1rm8pva",
+      "title": "Bournemouth enjoy night to remember as 10-man Milan fail to weather storm",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/22/bournemouth-milan-europa-league-match-report",
+      "publishedAt": "2026-10-22T21:00:49.000Z",
+      "category": "uk",
+      "summary": "This was a momentous night in Bournemouth’s history, although the truth is they would have been given a far sterner examination by Coventry or Hull. You can only beat what lies in front of you and Marco Rose’s players never relinquished control against a rotte"
+    },
+    {
       "id": "feed-5q3pkf",
       "title": "New York City ends a classic: Horse-drawn carriages banned over safety and abuse concerns",
       "source": "BBC News",
@@ -112,16 +132,6 @@
       "publishedAt": "2026-10-22T20:49:12.000Z",
       "category": "world",
       "summary": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition."
-    },
-    {
-      "id": "feed-c3gjwn",
-      "title": "Bournemouth v Milan, Celtic v Celta Vigo, and more: Europa League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
-      "publishedAt": "2026-10-22T20:40:44.000Z",
-      "category": "uk",
-      "summary": "⚽ Updates from 5.45pm BST kick-offs, then the 8pm games ⚽ Live scores | Table | Read Football Daily | And mail Daniel That took 78 seconds – and remember, Sunderland scored at 90+3 of 90+5 in their last game against Torreense. The Prem, problems, but in Europe"
     },
     {
       "id": "feed-10s7lyx",
@@ -160,7 +170,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead",
       "publishedAt": "2026-10-22T20:12:24.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Becky Drury says she was hit by gunfire before she could intervene in attack that killed four, including three children A teacher wounded in last week’s shooting at a Bend, Oregon, elementary school shared her account of the incident, and how she was shot befo"
     },
     {
@@ -171,7 +181,7 @@
       "url": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
       "publishedAt": "2026-10-22T20:11:04.000Z",
       "category": "world",
-      "summary": "Republican Mike DeWine said ad featuring estranged mother of Democrat Amy Acton was ‘wrong’, drawing ire of president Donald Trump issued a swift rebuke against Mike DeWine, Ohio’s Republican governor, who on Thursday said gubernatorial candidate Vivek Ramaswa"
+      "summary": "Republican Mike DeWine said ad featuring estranged mother of Democrat Amy Acton was ‘wrong’ Donald Trump issued a swift rebuke against Mike DeWine, Ohio’s Republican governor, who on Thursday said gubernatorial candidate Vivek Ramaswamy was “wrong” to release "
     },
     {
       "id": "feed-90nq3m",
@@ -194,16 +204,6 @@
       "summary": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth."
     },
     {
-      "id": "feed-empifp",
-      "title": "Trump defends Ramaswamy campaign ad condemned by Republicans, saying ‘Vivek should keep it up’ – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-      "publishedAt": "2026-10-22T19:59:48.000Z",
-      "category": "world",
-      "summary": "President claims criticism of ad featuring Democrat Amy Acton’s estranged mother is a ‘concerted’ attack on Republican Ohio governor candidate Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’"
-    },
-    {
       "id": "feed-11b2krb",
       "title": "Aipac halts candidate endorsements amid US backlash against Israel",
       "source": "The Guardian",
@@ -211,7 +211,7 @@
       "url": "https://www.theguardian.com/world/2026/oct/22/aipac-politics-endorsements-israel",
       "publishedAt": "2026-10-22T19:54:40.000Z",
       "category": "world",
-      "summary": "‘Political candidates’ once reflexive support for Israel has increasingly become a liability When the American Israel Public Affairs Committee, the most prominent pro-Israel lobby group in the US, announced on Wednesday that it would stop endorsing candidates "
+      "summary": "Political candidates’ once reflexive support for Israel has increasingly become a liability When the American Israel Public Affairs Committee, the most prominent pro-Israel lobby group in the US, announced on Wednesday that it would stop endorsing candidates o"
     },
     {
       "id": "feed-peiwmz",
@@ -452,16 +452,6 @@
       "publishedAt": "2026-10-22T17:25:45.000Z",
       "category": "uk",
       "summary": "The prime minister promises to repair decades of regional damage. His government must redistribute wealth to close deadly inequalities Andy Burnham’s call to abandon “ 40 years of neoliberalism ” rests partly on the damage that he says it has done to northern "
-    },
-    {
-      "id": "feed-zixngn",
-      "title": "Tommy Robinson tells court he had photos taken of journalists’ homes to pressure them",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/22/tommy-robinson-tells-court-he-had-photos-taken-of-journalists-homes-to-pressure-them",
-      "publishedAt": "2026-10-22T17:23:55.000Z",
-      "category": "uk",
-      "summary": "Far-right activist says he used private investigators to track down journalists but denies trying to intimidate them The far-right activist Tommy Robinson has told his harassment trial that he used private investigators to track down journalists who had writte"
     },
     {
       "id": "feed-1d1u7gt",
@@ -1224,16 +1214,6 @@
       "summary": "Scottish Green Mark Ruskell, the SNP’s Keith Brown and Scottish Labour’s Jenny Young weigh up the Jackdaw decision."
     },
     {
-      "id": "feed-14bzfcv",
-      "title": "Three more arrests over Nottingham police officer shooting",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/three-more-arrests-over-nottingham-police-officer-shooting-13602142",
-      "publishedAt": "2026-10-22T07:09:00.000Z",
-      "category": "uk",
-      "summary": "Three more people have been arrested over the shooting of a police officer in Nottingham city centre."
-    },
-    {
       "id": "feed-14ch590",
       "title": "Children in care to get £10 a week savings",
       "source": "BBC News",
@@ -1342,16 +1322,6 @@
       "publishedAt": "2026-10-22T01:13:01.000Z",
       "category": "technology",
       "summary": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list"
-    },
-    {
-      "id": "feed-1l7oirk",
-      "title": "1800s law must be updated to protect 'backbone' of UK - MP",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/uk-seeks-tougher-punishments-to-deter-undersea-pipeline-attacks-13602075",
-      "publishedAt": "2026-10-21T23:38:00.000Z",
-      "category": "uk",
-      "summary": "An inadequate law from the 19th century must be strengthened to deter saboteurs from attacking the UK's critical undersea cables and pipelines, a minister has said."
     },
     {
       "id": "feed-qqj8n6",
@@ -1902,6 +1872,36 @@
       "publishedAt": "2026-10-14T23:01:00.000Z",
       "category": "technology",
       "summary": "Severe drought has been declared in parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex, the government has said."
+    },
+    {
+      "id": "feed-lutqzy",
+      "title": "The surprising psychology of morbid curiosity - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video",
+      "publishedAt": "2026-10-13T15:18:47.000Z",
+      "category": "science",
+      "summary": "US defence secretary Pete Hegseth’s plan to livestream the execution of Nidal Malik Hasan has incurred condemnation from human rights groups and politicians on all sides. But according to Coltan Scrivner, an author and psychologist at Arizona State University "
+    },
+    {
+      "id": "feed-16u3zpp",
+      "title": "The surprising psychology of morbid curiosity – podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast",
+      "publishedAt": "2026-10-13T04:00:13.000Z",
+      "category": "science",
+      "summary": "US defence secretary Pete Hegseth’s plan to livestream the execution of Nidal Malik Hasan has incurred condemnation from human rights groups and politicians on all sides. But according to Coltan Scrivner, an author and psychologist at Arizona State University "
+    },
+    {
+      "id": "feed-aihyai",
+      "title": "Tech Now",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "category": "technology",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
