@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T03:26:09.161Z",
-  "generatedAt": "2026-10-22T03:26:09.161Z",
+  "updatedAt": "2026-10-22T03:59:26.667Z",
+  "generatedAt": "2026-10-22T03:59:26.667Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -104,6 +104,36 @@
   ],
   "articles": [
     {
+      "id": "feed-1t50sil",
+      "title": "What is PHP and why did it spark a global cyber security scramble?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+      "publishedAt": "2026-10-22T03:48:50.000Z",
+      "category": "technology",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+    },
+    {
+      "id": "feed-hrwmyh",
+      "title": "‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass",
+      "publishedAt": "2026-10-22T03:15:41.000Z",
+      "category": "uk",
+      "summary": "Swimming banned at Maroubra and Coogee while council prioritises ‘culturally respectful’ approach to remains Get our breaking news email , free app or daily news podcast A whale carcass has forced the closure of two busy swimming and surfing spots after washin"
+    },
+    {
+      "id": "feed-1qu81dr",
+      "title": "Bukang-i is back: famous shark returns to canal in South Korea hours after being coaxed out to sea",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/22/bukangi-shark-returns-to-south-korea-canal-busan",
+      "publishedAt": "2026-10-22T03:12:54.000Z",
+      "category": "uk",
+      "summary": "Famous shark has attracted more than 1.6m visitors since first getting trapped in the canal in September. On Thursday a new attempt was underway to free it A shark that became a viral sensation after getting stuck in a South Korean canal for a month has return"
+    },
+    {
       "id": "feed-kqbx0o",
       "title": "Man fined after 700 frozen and taxidermied animals found on Victorian property",
       "source": "The Guardian",
@@ -152,16 +182,6 @@
       "publishedAt": "2026-10-22T02:00:00.000Z",
       "category": "uk",
       "summary": "Disruption from a \"critical\" flaw that led to websites around the world being taken down could become \"more widespread\", an expert had told Sky News."
-    },
-    {
-      "id": "feed-hrwmyh",
-      "title": "‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass",
-      "publishedAt": "2026-10-22T01:31:15.000Z",
-      "category": "uk",
-      "summary": "Swimming banned at Maroubra and Coogee while council prioritises ‘culturally respectful’ removal of remains Get our breaking news email , free app or daily news podcast Coogee and Maroubra beaches have been closed as a precaution after a whale carcass washed u"
     },
     {
       "id": "feed-q3iibx",
@@ -602,16 +622,6 @@
       "publishedAt": "2026-10-21T21:00:01.000Z",
       "category": "uk",
       "summary": "Apes in study more likely to choose treats linked to sound of peers having fun, suggesting emotions influence learning Orangutans base their food choices on whether others appear to be having a good time, research suggests. Scientists studying captive oranguta"
-    },
-    {
-      "id": "feed-fg6ept",
-      "title": "Paris Saint-Germain sparkle on the pitch while the city of light burns around them | Barney Ronay",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/21/paris-saint-germain-psg-barcelona-champions-league-violence-in-city",
-      "publishedAt": "2026-10-21T21:00:00.000Z",
-      "category": "uk",
-      "summary": "PSG, pet project of the state of Qatar, expresses the dualism of the city, a place of deprivation where the centre is perfect PASSION! GOOOOAL! Continue reading..."
     },
     {
       "id": "feed-hxbcub",
@@ -1294,16 +1304,6 @@
       "summary": "A man has been arrested in Pakistan and accused of running a counterfeit postage operation costing the US Postal Service $126m (£94m)."
     },
     {
-      "id": "feed-12h0gyl",
-      "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo",
-      "publishedAt": "2026-10-21T05:00:54.000Z",
-      "category": "business",
-      "summary": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner."
-    },
-    {
       "id": "feed-1qdav18",
       "title": "‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
       "source": "The Guardian",
@@ -1722,16 +1722,6 @@
       "publishedAt": "2026-10-19T11:13:00.000Z",
       "category": "business",
       "summary": "The executive who piloted Virgin Atlantic Airways through the COVID-19 pandemic is taking the helm at a major provider of traffic management services in his biggest role since he left Sir Richard Branson's flagship company."
-    },
-    {
-      "id": "feed-1ai6jdg",
-      "title": "Musk and Anthropic pledge public share giveaways",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko",
-      "publishedAt": "2026-10-19T09:38:25.000Z",
-      "category": "technology",
-      "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing."
     },
     {
       "id": "feed-9m1zr7",
