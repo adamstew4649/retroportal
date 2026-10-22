@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T21:20:44.055Z",
+  "updatedAt": "2026-10-22T21:55:03.645Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,8 +8,16 @@
   },
   "articles": [
     {
-      "id": "feed-5q3pkf",
-      "title": "New York City ends a classic: Horse-drawn carriages banned over safety and abuse concerns",
+      "id": "feed-pvrzx5",
+      "title": "Trump says Musk has restored Ukraine's internet access",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T21:42:39.000Z",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
+    },
+    {
+      "id": "feed-1gv2861",
+      "title": "New York bans horse-drawn carriages over safety and abuse concerns",
       "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
       "source": "BBC News",
       "publishedAt": "2026-10-22T20:49:12.000Z",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T14:08:10.000Z",
       "summary": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday."
-    },
-    {
-      "id": "feed-dve4ah",
-      "title": "First human case of Shamonda virus detected in France, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T13:53:32.000Z",
-      "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October."
     }
   ]
 }
