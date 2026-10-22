@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T05:26:18.634Z",
+  "updatedAt": "2026-10-22T05:56:44.181Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1wqhpl6",
+      "title": "Women targeted by police who 'abused the badge'",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5y20n96jdo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T05:13:37.000Z",
+      "summary": "Two women preyed upon by serving police officers describe their ordeals and why they are speaking out."
+    },
     {
       "id": "feed-85g425",
       "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T17:04:13.000Z",
       "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool."
-    },
-    {
-      "id": "feed-1c5aefx",
-      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T15:58:05.000Z",
-      "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days."
     }
   ]
 }

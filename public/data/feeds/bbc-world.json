@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T05:26:18.636Z",
+  "updatedAt": "2026-10-22T05:56:44.195Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1pxp6ez",
+      "title": "Governments working to identify exposure after global cyber-security warning",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T05:37:53.000Z",
+      "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
+    },
+    {
+      "id": "feed-1jk3t0k",
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T05:30:22.000Z",
+      "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition."
+    },
     {
       "id": "feed-72pqvp",
       "title": "No order, no seat: Starbucks China rolls out new store policy",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T20:19:51.000Z",
       "summary": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April."
-    },
-    {
-      "id": "feed-1ojhrzm",
-      "title": "Pope does not need further treatment after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T20:09:10.000Z",
-      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
-    },
-    {
-      "id": "feed-1hh9per",
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T19:58:06.000Z",
-      "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
     }
   ]
 }

@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T05:26:18.636Z",
+  "updatedAt": "2026-10-22T05:56:44.195Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-k07j0o",
+      "title": "Woman 'scared to turn heating on' due to oil cost",
+      "link": "https://www.bbc.co.uk/news/articles/cmgel220j7nvo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T05:29:22.000Z",
+      "summary": "Roslynn Garner-Gatley starts using a hot water bottle, bed socks and earlier bedtimes to stay warm."
+    },
     {
       "id": "feed-1thlvyb",
       "title": "'I can't afford to heat my home on my pension'",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T10:20:15.000Z",
       "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
-    },
-    {
-      "id": "feed-lt7uer",
-      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T10:16:17.000Z",
-      "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
     }
   ]
 }
