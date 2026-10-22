@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T16:59:39.938Z",
+  "updatedAt": "2026-10-22T17:24:45.032Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-1jda69a",
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T17:12:51.000Z",
+      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
+    },
     {
       "id": "feed-3sub3o",
       "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
@@ -110,14 +118,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T19:42:32.000Z",
       "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination."
-    },
-    {
-      "id": "feed-1yn7vyz",
-      "title": "Google resolves cloud outage affecting UK banks and websites",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T18:03:19.000Z",
-      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers."
     },
     {
       "id": "feed-igc08c",
