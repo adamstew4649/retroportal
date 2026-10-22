@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T08:05:16.241Z",
+  "updatedAt": "2026-10-22T09:02:52.626Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1tyfej8",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T08:58:08.000Z",
+      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce."
+    },
+    {
+      "id": "feed-m4lcc7",
+      "title": "Devon and Cornwall battening down the hatches ahead of Storm Austen",
+      "link": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T08:17:11.000Z",
+      "summary": "Wind gusts of up to 80mph (130km/h) are forecast to bring disruption across the South West."
+    },
     {
       "id": "feed-1a2c3iz",
       "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
@@ -22,14 +38,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T06:41:29.000Z",
       "summary": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life."
-    },
-    {
-      "id": "feed-m4lcc7",
-      "title": "Devon and Cornwall battening down the hatches ahead of Storm Austen",
-      "link": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T06:35:52.000Z",
-      "summary": "Wind gusts of up to 80mph (130km/h) are forecast to bring disruption across the South West."
     },
     {
       "id": "feed-2dgscm",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T23:02:37.000Z",
       "summary": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities."
-    },
-    {
-      "id": "feed-71q52i",
-      "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
-      "link": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T23:02:30.000Z",
-      "summary": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia."
     }
   ]
 }

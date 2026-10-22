@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T08:05:16.250Z",
-  "generatedAt": "2026-10-22T08:05:16.250Z",
+  "updatedAt": "2026-10-22T09:02:52.630Z",
+  "generatedAt": "2026-10-22T09:02:52.630Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -109,39 +109,19 @@
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo",
-      "publishedAt": "2026-10-22T08:00:55.000Z",
-      "category": "business",
+      "publishedAt": "2026-10-22T08:58:08.000Z",
+      "category": "uk",
       "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce."
     },
     {
-      "id": "feed-1j8zhnj",
-      "title": "South Africa v Australia: second men’s cricket Test, day five – live",
+      "id": "feed-majkjn",
+      "title": "Chancellor accepts Labour has put a ‘lot of pressure’ on business and says helping entrepreneurs will be a budget priority – UK politics live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/22/south-africa-v-australia-second-test-day-five-cricket-st-georges-park-gqeberha-live-updates",
-      "publishedAt": "2026-10-22T07:56:52.000Z",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+      "publishedAt": "2026-10-22T08:54:29.000Z",
       "category": "uk",
-      "summary": "Updates as the Proteas host Australia in Gqeberha Start at 9.45am local/6.45pm AEDT/8.45am BST Any thoughts? Get in touch with an email Pondering that, there may indeed be some layoffs from this Australian team if they lose here and need to win in Cape Town to"
-    },
-    {
-      "id": "feed-1joz7vh",
-      "title": "Criminals who refuse to attend sentencing could lose prison privileges under new rules",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
-      "publishedAt": "2026-10-22T07:54:17.000Z",
-      "category": "uk",
-      "summary": "England and Wales judges will be able to keep inmates in their cells for longer or stop visits if they refuse to face their victims’ families in court Offenders who refuse to face their victims’ families in court for sentencing could be stripped of privileges "
-    },
-    {
-      "id": "feed-128j2sx",
-      "title": "Macron hosts security council meeting ahead of planned weekend of protests – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-      "publishedAt": "2026-10-22T07:52:35.000Z",
-      "category": "world",
-      "summary": "‘The government must hold its nerve,’ Macron told reporters earlier this week French president Emmanuel Macron is back from his tour of the Gulf and convening a meeting with relevant ministers and intelligence services to figure out what can be done to prevent"
+      "summary": "John Healey is expected to cut red tape requirements, particularly for smaller businesses The Office for National Statistics ’ latest report on crime figures is out. It covers crime in England and Wales in the year ending June 2026 and it starts: Crime against"
     },
     {
       "id": "feed-1e9mqmv",
@@ -149,9 +129,9 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live",
-      "publishedAt": "2026-10-22T07:51:36.000Z",
+      "publishedAt": "2026-10-22T08:54:09.000Z",
       "category": "uk",
-      "summary": "Updates from Rawalpindi, play starts at 9am BST Does cricket need a Ballon d’Or ? | Mail Rob This week’s Spin is a lovely read Bradman b Hollies 0 Continue reading..."
+      "summary": "Updates from Rawalpindi, play starts at 9am BST Does cricket need a Ballon d’Or ? | Mail Rob 3rd over: England 5-0 (Banton 2, Duckett 3) Duckett survives a run-out chance after taking a quick single on the off side. He was just short of his ground when Arachch"
     },
     {
       "id": "feed-y1o7h8",
@@ -159,9 +139,139 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
-      "publishedAt": "2026-10-22T07:49:10.000Z",
+      "publishedAt": "2026-10-22T08:49:20.000Z",
       "category": "business",
-      "summary": "UK bank says 1,000 job cuts already done with a further 4,000 to go before year end; French risk premium over German bonds widest since 2011 as oil prices climb Barclays also said it is cutting 5,000 jobs, amounting to about 5% of its workforce, our banking co"
+      "summary": "UK bank says 1,000 job cuts already done with a further 4,000 to go before year end, driven by advances in AI, French risk premium over German bonds widest since 2011 You be the chancellor: play our budget game to see if you can balance the books The French 10"
+    },
+    {
+      "id": "feed-lh8ewz",
+      "title": "Martin Guerre review – return of Les Mis duo’s melodrama reveals a surprise new hero",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/oct/22/martin-guerre-review-les-mis-duo-melodrama-old-vic-theatre-london",
+      "publishedAt": "2026-10-22T08:47:31.000Z",
+      "category": "uk",
+      "summary": "Old Vic theatre, London Matthew Warchus directs a radical and intimate revival of Alain Boublil and Claude-Michel Schönberg’s musical about a Frenchman who flees home Some revivals overstate their revisionism but Alain Boublil and Claude-Michel Schönberg’s mus"
+    },
+    {
+      "id": "feed-1j8zhnj",
+      "title": "South Africa v Australia: second men’s cricket Test, day five – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/22/south-africa-v-australia-second-test-day-five-cricket-st-georges-park-gqeberha-live-updates",
+      "publishedAt": "2026-10-22T08:46:14.000Z",
+      "category": "uk",
+      "summary": "Updates as the Proteas host Australia in Gqeberha Start at 9.45am local/6.45pm AEDT/8.45am BST Any thoughts? Get in touch with an email “At risk of overcooking the Shield chat,” writes Eamonn Maloney, “you don’t have to select from a bunch of mediocrities aver"
+    },
+    {
+      "id": "feed-128j2sx",
+      "title": "Macron hosts security council meeting ahead of planned weekend of protests – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+      "publishedAt": "2026-10-22T08:43:40.000Z",
+      "category": "world",
+      "summary": "‘The government must hold its nerve,’ Macron told reporters earlier this week Italy and Spain have dropped mutual border controls introduced in the aftermath of the Ceuta border crisis . We covered that scenario on the blog last week (Europe Live, Friday) . Co"
+    },
+    {
+      "id": "feed-1iwox4",
+      "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+      "publishedAt": "2026-10-22T08:40:42.000Z",
+      "category": "world",
+      "summary": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Business live – latest updates Barclays is cutting 5,000 jobs as part of wider cost-cutting plans that its bosses say are being driven by advances "
+    },
+    {
+      "id": "feed-17w91ms",
+      "title": "French borrowing costs overtake US amid budget turmoil",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
+      "publishedAt": "2026-10-22T08:40:36.000Z",
+      "category": "uk",
+      "summary": "France’s bond market hit by another bout of selling as country recovers from weekend protests Business live – latest updates French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget"
+    },
+    {
+      "id": "feed-1o2pcbi",
+      "title": "Super Bowl contenders: are the NFL’s unbeaten teams as perfect as they seem?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/nfl-unbeaten-teams-49ers-chiefs-vikings-bills",
+      "publishedAt": "2026-10-22T08:30:10.000Z",
+      "category": "uk",
+      "summary": "The early standouts have emerged. But even the best teams have flaws that can be exposed by their opponents Who would have thought the 49ers would be here after a rough old offseason? Head coach Kyle Shanahan’s participation in training camp was limited due to"
+    },
+    {
+      "id": "feed-5d1l2l",
+      "title": "UK working to identify exposure after global cyber-security warning",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
+      "publishedAt": "2026-10-22T08:23:42.000Z",
+      "category": "technology",
+      "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
+    },
+    {
+      "id": "feed-8fsh87",
+      "title": "Two European women held captive for more than a year in Niger freed in Libya",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo",
+      "publishedAt": "2026-10-22T08:21:13.000Z",
+      "category": "world",
+      "summary": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say."
+    },
+    {
+      "id": "feed-m4lcc7",
+      "title": "Devon and Cornwall battening down the hatches ahead of Storm Austen",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo",
+      "publishedAt": "2026-10-22T08:17:11.000Z",
+      "category": "uk",
+      "summary": "Wind gusts of up to 80mph (130km/h) are forecast to bring disruption across the South West."
+    },
+    {
+      "id": "feed-1a5mvp2",
+      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo",
+      "publishedAt": "2026-10-22T08:15:48.000Z",
+      "category": "world",
+      "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago."
+    },
+    {
+      "id": "feed-ile0x2",
+      "title": "You be the chancellor: play our budget game to see if you can balance the books",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
+      "publishedAt": "2026-10-22T08:04:59.000Z",
+      "category": "uk",
+      "summary": "See if you can do a better job than John Healey at creating a budget that keeps MPs and the bond markets onside On 28 October, John Healey will announce the autumn budget to parliament. As in all years, the chancellor has to strike a balance between the follow"
+    },
+    {
+      "id": "feed-1xcdtma",
+      "title": "West End to get another lesson from The History Boys two decades on",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/oct/22/west-end-alan-bennett-the-history-boys-nicholas-hytner-theatre",
+      "publishedAt": "2026-10-22T08:00:10.000Z",
+      "category": "uk",
+      "summary": "Nation’s favourite play makes London comeback amid renewed debate about future of humanities teaching The History Boys is to return to the West End for the first time in two decades, with a warning from its director of an “almost terminal decline” in humanitie"
+    },
+    {
+      "id": "feed-rxp13w",
+      "title": "Criminals who refuse to attend sentencing face losing prison privileges under new rules",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
+      "publishedAt": "2026-10-22T07:54:17.000Z",
+      "category": "uk",
+      "summary": "England and Wales judges to be able to keep inmates in their cells for longer or stop visits if they refuse to face victims’ families in court Offenders who refuse to face their victims’ families in court for sentencing could be stripped of privileges or kept "
     },
     {
       "id": "feed-ug630n",
@@ -214,16 +324,6 @@
       "summary": "CCTV footage shows the police officer buying fast food, attending hospital, and visiting three separate Bunnings stores in the days after the alleged murder Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon ordered food from a Mc"
     },
     {
-      "id": "feed-1kx1tby",
-      "title": "Barclays profits up 12% as UK banks brace for tax increase in budget",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
-      "publishedAt": "2026-10-22T07:06:54.000Z",
-      "category": "uk",
-      "summary": "Lender gives further £500m to shareholders after reporting £2.3bn in pre-tax profits from July to September Business live – latest updates Barclays is giving a further £500m to shareholders after reporting a jump in quarterly profits, as the lender steels itse"
-    },
-    {
       "id": "feed-ls422v",
       "title": "Nobody Wants This review – prepare to fall in love again … with a different couple",
       "source": "The Guardian",
@@ -274,16 +374,6 @@
       "summary": "From George Balanchine to the Rockettes, the US magazine regularly ran lavish photo spreads dedicated to dance, with the myriad ways people moved their bodies holding up a mirror to the shifting times Life magazine launched in 1936. Its aim: to show the US the"
     },
     {
-      "id": "feed-5d1l2l",
-      "title": "UK working to identify exposure after global cyber-security warning",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
-      "publishedAt": "2026-10-22T06:58:38.000Z",
-      "category": "technology",
-      "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
-    },
-    {
       "id": "feed-14ch590",
       "title": "Children in care to get £10 a week savings",
       "source": "BBC News",
@@ -302,16 +392,6 @@
       "publishedAt": "2026-10-22T06:41:29.000Z",
       "category": "uk",
       "summary": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life."
-    },
-    {
-      "id": "feed-m4lcc7",
-      "title": "Devon and Cornwall battening down the hatches ahead of Storm Austen",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo",
-      "publishedAt": "2026-10-22T06:35:52.000Z",
-      "category": "uk",
-      "summary": "Wind gusts of up to 80mph (130km/h) are forecast to bring disruption across the South West."
     },
     {
       "id": "feed-2dgscm",
@@ -424,16 +504,6 @@
       "summary": "Teresa Goubert says heating is \"very expensive\" and she was struggling on her pension."
     },
     {
-      "id": "feed-o85w40",
-      "title": "TV tonight: Leo Reich’s new London sitcom especially for gen z",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/tv-tonight-leo-reichs-new-london-sitcom-especially-for-gen-z",
-      "publishedAt": "2026-10-22T05:20:06.000Z",
-      "category": "uk",
-      "summary": "It’s the first episode of this relatable mid-20s-houseshare comedy. Plus: will Paul McCartney take the Mercury prize? Here’s what to watch this evening 10.05pm, Channel 4 Comedian Leo Reich has created the great British sitcom for generation Z. “It just feels "
-    },
-    {
       "id": "feed-1wpsw4r",
       "title": "'An £8k service charge left me unable to pay bills'",
       "source": "BBC News",
@@ -450,7 +520,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
       "publishedAt": "2026-10-22T05:17:11.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Accommodation platform acts after long-standing guest complaints over doing dishes, taking out rubbish and stripping beds Airbnb hosts will no longer be able to ask guests to strip beds or wash dishes under the accommodation platform’s new rules. The changes, "
     },
     {
@@ -504,44 +574,24 @@
       "summary": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?"
     },
     {
-      "id": "feed-1mshiug",
-      "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
-      "publishedAt": "2026-10-22T05:00:08.000Z",
-      "category": "uk",
-      "summary": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style opposition AI companies have told ministers they have 12 months to head off public opposition to datacentres in the"
-    },
-    {
       "id": "feed-1szyhrk",
       "title": "Thursday news quiz: Liz is absurd, Apu finds words and a bloke steals a bird",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/lifeandstyle/2026/oct/22/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-270",
       "publishedAt": "2026-10-22T05:00:08.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Test yourself on topical news trivia, pop culture and general knowledge every Thursday. How will you fare? The Thursday quiz is aware of standard international units of time, such as the Liz Truss (49 days) and the Scaramucci (11 days). Now a new unit of measu"
     },
     {
-      "id": "feed-ltl8lb",
-      "title": "Rachel Roddy’s recipe for chicken with citrus and oregano | A kitchen in Rome",
+      "id": "feed-1mshiug",
+      "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/food/2026/oct/22/chicken-citrus-oregano-recipe-rachel-roddy",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
       "publishedAt": "2026-10-22T05:00:08.000Z",
-      "category": "uk",
-      "summary": "This dish of chicken in a lipsmacking citrus and oregano sauce has been handed down through many generations of Roman restaurateurs If you look through the window of Piatto Romano between 10am and midday, there will almost certainly be two, maybe three people "
-    },
-    {
-      "id": "feed-u68oi4",
-      "title": "Wanted: new No 10 adviser to help citizens deal with rise of AI",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/22/downing-street-advisers-andy-burnham-ai",
-      "publishedAt": "2026-10-22T05:00:06.000Z",
-      "category": "world",
-      "summary": "Andy Burnham advertises for policy experts in technology, economic growth and cost-of-living challenges Andy Burnham is to recruit a number of advisers to plug gaps in No 10, including an expert on how AI will affect society. The roles advertised by Downing St"
+      "category": "technology",
+      "summary": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style opposition AI companies have told ministers they have 12 months to head off public opposition to datacentres in the"
     },
     {
       "id": "feed-1yrkqvv",
@@ -754,8 +804,8 @@
       "summary": "Reports emerge of similar withdrawals in UAE, Jordan, Qatar and Bahrain amid concerns about a return to conflict with Iran after US midterm elections The US state department has ordered some diplomats and the families of US government employees to leave Saudi "
     },
     {
-      "id": "feed-189oy09",
-      "title": "The real reasons US politicians are getting older",
+      "id": "feed-1s57sp1",
+      "title": "The real reasons there are so few young politicians in the US",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno",
@@ -772,16 +822,6 @@
       "publishedAt": "2026-10-21T23:38:00.000Z",
       "category": "uk",
       "summary": "An inadequate law from the 19th century must be strengthened to deter saboteurs from attacking the UK's critical undersea cables and pipelines, a minister has said."
-    },
-    {
-      "id": "feed-13vesb3",
-      "title": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
-      "publishedAt": "2026-10-21T23:36:31.000Z",
-      "category": "world",
-      "summary": "USDA says screwworm found in elk in Texas, and warns hunters and ranchers to be vigilant to help stop spread The US Department of Agriculture (USDA) said on Wednesday it had ⁠confirmed the ⁠first detection ​of flesh-eating parasite the New World screwworm in U"
     },
     {
       "id": "feed-qqj8n6",
@@ -872,16 +912,6 @@
       "publishedAt": "2026-10-21T23:02:37.000Z",
       "category": "uk",
       "summary": "The winner, announced in early 2027, will receive £10m to deliver a year of cultural activities."
-    },
-    {
-      "id": "feed-71q52i",
-      "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo",
-      "publishedAt": "2026-10-21T23:02:30.000Z",
-      "category": "uk",
-      "summary": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia."
     },
     {
       "id": "feed-10l3t15",
@@ -984,16 +1014,6 @@
       "summary": "The research facility in Penrith will also help train the next generation of environmental scientists."
     },
     {
-      "id": "feed-1iq69lb",
-      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo",
-      "publishedAt": "2026-10-21T20:31:47.000Z",
-      "category": "world",
-      "summary": "It is thought the shark may have been drawn to the canal by unusually warm water and plenty of fish."
-    },
-    {
       "id": "feed-ot4c03",
       "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
       "source": "BBC News",
@@ -1002,16 +1022,6 @@
       "publishedAt": "2026-10-21T20:19:51.000Z",
       "category": "world",
       "summary": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April."
-    },
-    {
-      "id": "feed-1ojhrzm",
-      "title": "Pope does not need further treatment after lung cancer surgery",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo",
-      "publishedAt": "2026-10-21T20:09:10.000Z",
-      "category": "world",
-      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised."
     },
     {
       "id": "feed-abu9ka",
@@ -1184,16 +1194,6 @@
       "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool."
     },
     {
-      "id": "feed-g9nkd1",
-      "title": "Ben Jennings on Andy Burnham’s decision to approve the Jackdaw North Sea gasfield – cartoon",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/21/ben-jennings-andy-burnham-approve-jackdaw-north-sea-gasfield-cartoon",
-      "publishedAt": "2026-10-21T16:50:29.000Z",
-      "category": "business",
-      "summary": "Continue reading..."
-    },
-    {
       "id": "feed-1fhaxix",
       "title": "Can a giant tunnel save Windermere?",
       "source": "BBC News",
@@ -1212,16 +1212,6 @@
       "publishedAt": "2026-10-21T16:17:49.000Z",
       "category": "science",
       "summary": "BBC Verify's Ben Chu explains why energy prices are so high, and what Jackdaw could mean for your bills."
-    },
-    {
-      "id": "feed-1c5aefx",
-      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o",
-      "publishedAt": "2026-10-21T15:58:05.000Z",
-      "category": "business",
-      "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days."
     },
     {
       "id": "feed-1aglml8",
@@ -1310,7 +1300,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/vital-clues-could-help-predict-prostate-cancer-years-in-advance-study-suggests-13601915",
       "publishedAt": "2026-10-21T13:20:00.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Scientists have found clues that could help predict who will develop aggressive prostate cancer many years in advance."
     },
     {
@@ -1682,16 +1672,6 @@
       "publishedAt": "2026-10-20T04:01:00.000Z",
       "category": "world",
       "summary": "Donald Trump's approval rating has fallen to a record low - indicating that next month's midterm elections could be punishing for the Republicans."
-    },
-    {
-      "id": "feed-13vxi5v",
-      "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
-      "publishedAt": "2026-10-20T04:00:15.000Z",
-      "category": "technology",
-      "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom"
     },
     {
       "id": "feed-1eb73q2",
