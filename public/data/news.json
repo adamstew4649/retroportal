@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T15:59:02.034Z",
-  "generatedAt": "2026-10-22T15:59:02.034Z",
+  "updatedAt": "2026-10-22T16:27:00.795Z",
+  "generatedAt": "2026-10-22T16:27:00.795Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,44 @@
   ],
   "articles": [
     {
-      "id": "feed-1fhkk93",
-      "title": "Macron bans ‘illegitimate‘ protests in France as he tries to get a grip on unrest",
+      "id": "feed-1csyl2p",
+      "title": "Sri Lanka stun England by chasing down 430 to win as ODI records tumble – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
-      "publishedAt": "2026-10-22T15:54:13.000Z",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live",
+      "publishedAt": "2026-10-22T16:23:42.000Z",
+      "category": "uk",
+      "summary": "Harry Brook had hit record-breaking 202 for England Does cricket need a Ballon d’Or ? | And email Tom 3rd over: England 5-0 (Banton 2, Duckett 3) Duckett survives a run-out chance after taking a quick single on the off side. He was just short of his ground whe"
+    },
+    {
+      "id": "feed-2bocwf",
+      "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
+      "publishedAt": "2026-10-22T16:21:36.000Z",
+      "category": "business",
+      "summary": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? What is PHP, and how bad is the computer language flaw causing website shutdowns global"
+    },
+    {
+      "id": "feed-1b88ec3",
+      "title": "Lech Poznan v Sunderland, Juventus v Rennes, and more: Europa League – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+      "publishedAt": "2026-10-22T16:18:34.000Z",
+      "category": "uk",
+      "summary": "⚽ Updates from 5.45pm BST kick-offs, then the 8pm games ⚽ Live scores | Table | Read Football Daily | And mail Daniel OH MY COMPLETE AND UTTER EVERLOVING DAYS! It’s been a strange start to the season for Sunderland and I’m not just talking about those pink Elv"
+    },
+    {
+      "id": "feed-3sub3o",
+      "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno",
+      "publishedAt": "2026-10-22T16:16:49.000Z",
       "category": "world",
-      "summary": "French president will decide on concrete ‘next steps’ regarding demonstrations on Friday as part of tough security response to recent rioting Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases Emmanuel Macron has said "
+      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
     },
     {
       "id": "feed-18bsgb0",
@@ -119,9 +149,59 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-      "publishedAt": "2026-10-22T15:49:29.000Z",
-      "category": "world",
+      "publishedAt": "2026-10-22T16:16:40.000Z",
+      "category": "uk",
       "summary": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said Tell us: have you been affected by the PHP code flaw? The Office for National Statistics has also published a report on the gender "
+    },
+    {
+      "id": "feed-xqk7g8",
+      "title": "Crowd of 50 beats foreigner to death in South Africa",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego",
+      "publishedAt": "2026-10-22T16:15:25.000Z",
+      "category": "world",
+      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year."
+    },
+    {
+      "id": "feed-bqb5zd",
+      "title": "Burnham to become first PM to appear on Gogglebox in episode filmed at No 10",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/oct/22/andy-burnham-gogglebox-charity-episode",
+      "publishedAt": "2026-10-22T16:07:50.000Z",
+      "category": "uk",
+      "summary": "The PM is heard having a long discussion about crisps in the trailer to the show, which is in aid of Stand Up To Cancer From ranking his favourite crisps in the pub to complaining about people watching TikToks out loud on the train, Andy Burnham has made effor"
+    },
+    {
+      "id": "feed-1xslh2v",
+      "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
+      "publishedAt": "2026-10-22T16:07:40.000Z",
+      "category": "world",
+      "summary": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day. From mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivot Anonymous reader, California asks in a ca"
+    },
+    {
+      "id": "feed-1h3rmh1",
+      "title": "Gradual decay or sudden destruction? Ancient philosophers on the end of the world",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/22/ancient-philosophy-apocalypse",
+      "publishedAt": "2026-10-22T16:00:43.000Z",
+      "category": "uk",
+      "summary": "The feeling that the world is ending is nothing new – Plato, Epicurus and the Stoics all visualized the apocalypse Do your feelings of existential dread extend beyond your own personal mortality? Do they include fears about the survival of our culture and inst"
+    },
+    {
+      "id": "feed-15k3m3z",
+      "title": "BBC Inside Science",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct978b",
+      "publishedAt": "2026-10-22T16:00:00.000Z",
+      "category": "science",
+      "summary": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth."
     },
     {
       "id": "feed-7b689y",
@@ -129,9 +209,59 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-      "publishedAt": "2026-10-22T15:47:04.000Z",
+      "publishedAt": "2026-10-22T15:59:08.000Z",
       "category": "world",
       "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our re"
+    },
+    {
+      "id": "feed-y5zuk",
+      "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+      "publishedAt": "2026-10-22T15:57:31.000Z",
+      "category": "uk",
+      "summary": "Judge threatens to dismiss Trump’s BBC lawsuit unless he cooperates with discovery process and sits for deposition Donald Trump has been ordered by a US judge to cooperate with the discovery process mandated for his lawsuit against the BBC and to sit for a dep"
+    },
+    {
+      "id": "feed-c62h3t",
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo",
+      "publishedAt": "2026-10-22T15:56:36.000Z",
+      "category": "world",
+      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
+    },
+    {
+      "id": "feed-1fhkk93",
+      "title": "Macron bans ‘illegitimate‘ protests in France as he tries to get a grip on unrest",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
+      "publishedAt": "2026-10-22T15:54:13.000Z",
+      "category": "uk",
+      "summary": "French president will decide on concrete ‘next steps’ regarding demonstrations on Friday as part of tough security response to recent rioting Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases Emmanuel Macron has said "
+    },
+    {
+      "id": "feed-762poj",
+      "title": "South Africa beat Boland and weather to force series decider against Australia",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/south-africa-australia-second-test-day-five-report",
+      "publishedAt": "2026-10-22T15:53:38.000Z",
+      "category": "uk",
+      "summary": "Rabada and Mulder lead hosts to victory in second Test Boland bats for more than three hours as nightwatcher It took time, it gently frayed nerves, but ultimately South Africa sealed the second Test at Gqeberha deep into the final day, clear by an innings and "
+    },
+    {
+      "id": "feed-i37jos",
+      "title": "Cyprus police investigate financial and tax affairs of ex-Chelsea owner Roman Abramovich",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
+      "publishedAt": "2026-10-22T15:53:22.000Z",
+      "category": "uk",
+      "summary": "Inquiry follows report by Guardian and partners that aides of Russian oligarch appeared to have falsified paperwork mapping his businesses Police in Cyprus have opened an investigation into the financial and tax affairs of the former Chelsea FC owner, Roman Ab"
     },
     {
       "id": "feed-1fnf4q0",
@@ -140,28 +270,18 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
       "publishedAt": "2026-10-22T15:46:56.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Europe live – latest updates Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic"
     },
     {
-      "id": "feed-o01253",
-      "title": "Pete Hegseth has reportedly given DHS permission to test ‘heat ray’ for use at US-Mexico border",
+      "id": "feed-1flcm1d",
+      "title": "Pete Hegseth reportedly authorizes DHS to test ‘heat ray’ at US-Mexico border",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/oct/22/heat-ray-mexico-border-dhs",
       "publishedAt": "2026-10-22T15:40:41.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "The Pentagon’s Active Denial System shoots energy beam that causes ‘sensation of intense heat on surface of skin’ Pete Hegseth , the US secretary of defense, reportedly signed a memo last month permitting the Department of Homeland Security (DHS) to test a non"
-    },
-    {
-      "id": "feed-oh8b1",
-      "title": "England v Sri Lanka: Brook makes history in men’s tri-series cricket ODI – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live",
-      "publishedAt": "2026-10-22T15:40:29.000Z",
-      "category": "uk",
-      "summary": "Harry Brook hits record-breaking 202 for England Does cricket need a Ballon d’Or ? | And email Tom 3rd over: England 5-0 (Banton 2, Duckett 3) Duckett survives a run-out chance after taking a quick single on the off side. He was just short of his ground when A"
     },
     {
       "id": "feed-13w1t3x",
@@ -170,7 +290,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
       "publishedAt": "2026-10-22T15:40:03.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires. The social media company behind F"
     },
     {
@@ -254,16 +374,6 @@
       "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed."
     },
     {
-      "id": "feed-bqb5zd",
-      "title": "Burnham to become first PM to appear on Gogglebox in episode filmed at No 10",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/22/andy-burnham-gogglebox-charity-episode",
-      "publishedAt": "2026-10-22T15:18:57.000Z",
-      "category": "uk",
-      "summary": "The PM is heard having a long discussion about crisps in the trailer to the show, which is in aid of Stand Up To Cancer From ranking his favourite crisps in the pub to complaining about people watching TikToks out loud on the train, Andy Burnham has made effor"
-    },
-    {
       "id": "feed-1nbw7tv",
       "title": "‘Looksmaxxing’ influencer Clavicular pleads not guilty to raping teen",
       "source": "The Guardian",
@@ -271,27 +381,7 @@
       "url": "https://www.theguardian.com/us-news/2026/oct/22/clavicular-pleads-not-guilty-rape",
       "publishedAt": "2026-10-22T15:17:49.000Z",
       "category": "uk",
-      "summary": "The social media personality denies allegations he gave a girl alcohol until she was drunk and sexually assaulted her The “looksmaxxing” livestreamer Braden Peters, better known by his stage name Clavicular , pleaded not guilty Thursday to charges that he rape"
-    },
-    {
-      "id": "feed-t5serv",
-      "title": "Virginia Democrat indicted on federal drug and money laundering charges",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/l-louise-lucas-virginia-indicted-money-laundering",
-      "publishedAt": "2026-10-22T15:15:58.000Z",
-      "category": "world",
-      "summary": "Federal authorities allege state senator L Louise Lucas, a vocal Trump critic, led a ‘criminal marijuana enterprise’ Virginia state senator L Louise Lucas, one of the state’s most powerful Democrats, was charged on Thursday in connection with what federal auth"
-    },
-    {
-      "id": "feed-1b88ec3",
-      "title": "Lech Poznan v Sunderland, Juventus v Rennes, and more: Europa League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
-      "publishedAt": "2026-10-22T15:15:43.000Z",
-      "category": "uk",
-      "summary": "⚽ Updates from 5.45pm BST kick-offs, then the 8pm games ⚽ Live scores | Table | Read Football Daily | And mail Daniel It’s been a strange start to the season for Sunderland and I’m not just talking about those pink Elvis kits. Yes, that is a real sentence. The"
+      "summary": "The social media personality denies allegations he gave a girl alcohol until she was drunk and sexually assaulted her The “looksmaxxing” livestreamer Braden Peters, better known by his stage name Clavicular , pleaded not guilty on Thursday to charges that he r"
     },
     {
       "id": "feed-13phjeb",
@@ -340,7 +430,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
       "publishedAt": "2026-10-22T15:07:33.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "England and Wales judges to be able to keep inmates in cells for longer or stop visits if they refuse to face victims’ families in court Offenders who refuse to face their victims’ families in court for sentencing could be stripped of privileges or kept in cel"
     },
     {
@@ -350,7 +440,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
       "publishedAt": "2026-10-22T15:07:01.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with investigations under way to explore whether it contributed to hi"
     },
     {
@@ -364,16 +454,6 @@
       "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs."
     },
     {
-      "id": "feed-fra8oi",
-      "title": "Iran threatens oil and AI facilities across seven Gulf countries if US and Israel renew attacks",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
-      "publishedAt": "2026-10-22T15:03:00.000Z",
-      "category": "uk",
-      "summary": "Iran’s security chiefs say there will be ‘zero red lines’ if Trump and Netanyahu attack again Iran will strike oil facilities, undersea cables, datacentres and AI facilities across as many as seven countries in the Gulf in the event of a fresh US-Israeli attac"
-    },
-    {
       "id": "feed-tskxhl",
       "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
       "source": "The Guardian",
@@ -382,16 +462,6 @@
       "publishedAt": "2026-10-22T15:01:35.000Z",
       "category": "world",
       "summary": "It’s the last day of the electoral campaign in Serbia today ahead of this Sunday’s closely contested parliamentary election As we are waiting for Macron , first details of the planned police response to this weekend’s protests are emerging. Junior interior min"
-    },
-    {
-      "id": "feed-1vdov0e",
-      "title": "Ali G: Who Iz I? review – Sacha Baron Cohen’s high-stakes satire punches up and down with spectacular bad taste",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste",
-      "publishedAt": "2026-10-22T15:00:29.000Z",
-      "category": "uk",
-      "summary": "Baron Cohen’s live-ammo prankster is back, 20 years on, but has to battle with his own irrelevance in search of big laughs and the approval of a new generation • Exclusive: Republican leader embarrassed by film says he plays to sue Sacha Baron Cohen: ‘A liar a"
     },
     {
       "id": "feed-66ssgj",
@@ -411,7 +481,7 @@
       "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
       "publishedAt": "2026-10-22T14:39:29.000Z",
       "category": "technology",
-      "summary": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Business live – latest updates Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances i"
+      "summary": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances in AI. The job cuts will mean lo"
     },
     {
       "id": "feed-7ywki8",
@@ -494,6 +564,16 @@
       "summary": "Kieran Hayler had denied rape, sexual assault and sexual activity with a child at his trial."
     },
     {
+      "id": "feed-67glgn",
+      "title": "Man charged with murder over death of housing association worker",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/man-charged-with-murder-over-death-of-housing-association-worker-13602300",
+      "publishedAt": "2026-10-22T14:06:00.000Z",
+      "category": "uk",
+      "summary": "A man has been charged with murder after a housing association worker died following a car crash in South Wales, having sustained \"puncture wounds\"."
+    },
+    {
       "id": "feed-8fhesv",
       "title": "The great moth revival: how bogongs have bounced back",
       "source": "The Guardian",
@@ -512,6 +592,16 @@
       "publishedAt": "2026-10-22T14:00:35.000Z",
       "category": "world",
       "summary": "Hostility from constituents is not new for the state’s politicians, including its premiers. But the alleged attack on Helen Haines has sent a chill down the collective spine Get our new political email , free app or daily news podcast On Monday night, Georgie "
+    },
+    {
+      "id": "feed-1e5ihb9",
+      "title": "Sir Keir Starmer could be summoned to give evidence to grooming gangs inquiry",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/sir-keir-starmer-could-be-summoned-to-give-evidence-to-grooming-gangs-inquiry-13602297",
+      "publishedAt": "2026-10-22T13:59:00.000Z",
+      "category": "uk",
+      "summary": "Sir Keir Starmer may be required to give evidence at the grooming gangs inquiry, with hearings due to begin in December."
     },
     {
       "id": "feed-dve4ah",
@@ -644,16 +734,6 @@
       "summary": "Tim Visser is accused of controlling and abusive behaviour against a woman over a a 14-year period in Edinburgh and elsewhere."
     },
     {
-      "id": "feed-2bocwf",
-      "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
-      "publishedAt": "2026-10-22T12:40:10.000Z",
-      "category": "technology",
-      "summary": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? Websites around the world have been hit by millions of attempts to exploit a recently d"
-    },
-    {
       "id": "feed-svemad",
       "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
       "source": "BBC News",
@@ -751,7 +831,7 @@
       "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
       "publishedAt": "2026-10-22T11:28:11.000Z",
       "category": "business",
-      "summary": "Iran’s IRGC says it hit four vessels in the northern Gulf and three more struck mines near the strait of Hormuz Shipping workers: how is the Middle East conflict affecting you? Business live – latest updates Oil prices jumped to a five-month high on Thursday a"
+      "summary": "Iran’s IRGC says it hit four vessels in the northern Gulf and three more struck mines near the strait of Hormuz Shipping workers: how is the Middle East conflict affecting you? Oil prices jumped to a five-month high on Thursday after ​attacks in Saudi Arabia a"
     },
     {
       "id": "feed-zw2qlp",
@@ -884,16 +964,6 @@
       "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet."
     },
     {
-      "id": "feed-1a5mvp2",
-      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo",
-      "publishedAt": "2026-10-22T10:16:35.000Z",
-      "category": "world",
-      "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago."
-    },
-    {
       "id": "feed-hq5ccn",
       "title": "Stock up to survive 'extreme weather and cyber attacks', government urges",
       "source": "Sky News",
@@ -924,16 +994,6 @@
       "summary": "Roslynn Garner-Gatley uses a hot water bottle bed socks and earlier bedtimes to stay warm."
     },
     {
-      "id": "feed-3wn5fv",
-      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo",
-      "publishedAt": "2026-10-22T09:47:54.000Z",
-      "category": "world",
-      "summary": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\"."
-    },
-    {
       "id": "feed-donln4",
       "title": "Police to close major road near airport as investigation into fatal crash continues",
       "source": "Sky News",
@@ -962,16 +1022,6 @@
       "publishedAt": "2026-10-22T09:28:04.000Z",
       "category": "uk",
       "summary": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim."
-    },
-    {
-      "id": "feed-7nouqc",
-      "title": "How do Israel's elections work and who are the main contenders?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo",
-      "publishedAt": "2026-10-22T09:27:10.000Z",
-      "category": "world",
-      "summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications."
     },
     {
       "id": "feed-mfn6hv",
@@ -1011,7 +1061,7 @@
       "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
       "publishedAt": "2026-10-22T08:40:36.000Z",
       "category": "business",
-      "summary": "France’s bond market hit by another bout of selling as country recovers from weekend protests Business live – latest updates French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget"
+      "summary": "France’s bond market hit by another bout of selling as country recovers from weekend protests French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after public protests gripped "
     },
     {
       "id": "feed-1qiqnw2",
@@ -1042,16 +1092,6 @@
       "publishedAt": "2026-10-22T08:23:42.000Z",
       "category": "technology",
       "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
-    },
-    {
-      "id": "feed-ile0x2",
-      "title": "You be the chancellor: play our budget game to see if you can balance the books",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
-      "publishedAt": "2026-10-22T08:04:59.000Z",
-      "category": "business",
-      "summary": "See if you can do a better job than John Healey at creating a budget that keeps MPs and the bond markets onside On 28 October, John Healey will announce the autumn budget to parliament. As in all years, the chancellor has to strike a balance between the follow"
     },
     {
       "id": "feed-ug630n",
@@ -1192,16 +1232,6 @@
       "publishedAt": "2026-10-22T04:02:29.000Z",
       "category": "business",
       "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals."
-    },
-    {
-      "id": "feed-1gn9m5s",
-      "title": "Woman who died after crash had 'unrelated' injuries",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/woman-who-died-after-car-crash-had-sustained-unrelated-injuries-police-say-13602104",
-      "publishedAt": "2026-10-22T03:00:00.000Z",
-      "category": "uk",
-      "summary": "A woman who died following a car crash in South Wales had sustained injuries that were not related to the incident, police have said."
     },
     {
       "id": "feed-1g0fl0g",
@@ -1692,16 +1722,6 @@
       "publishedAt": "2026-10-20T12:33:27.000Z",
       "category": "technology",
       "summary": "Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek , as the countries race for domina"
-    },
-    {
-      "id": "feed-96w0nq",
-      "title": "UK asks Apple to widen access to its payment tech",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o",
-      "publishedAt": "2026-10-20T12:29:24.000Z",
-      "category": "technology",
-      "summary": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says."
     },
     {
       "id": "feed-da61ea",
