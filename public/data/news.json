@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T16:27:00.795Z",
-  "generatedAt": "2026-10-22T16:27:00.795Z",
+  "updatedAt": "2026-10-22T16:59:39.946Z",
+  "generatedAt": "2026-10-22T16:59:39.946Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,24 +104,14 @@
   ],
   "articles": [
     {
-      "id": "feed-1csyl2p",
-      "title": "Sri Lanka stun England by chasing down 430 to win as ODI records tumble – live",
+      "id": "feed-1brj5sq",
+      "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live",
-      "publishedAt": "2026-10-22T16:23:42.000Z",
-      "category": "uk",
-      "summary": "Harry Brook had hit record-breaking 202 for England Does cricket need a Ballon d’Or ? | And email Tom 3rd over: England 5-0 (Banton 2, Duckett 3) Duckett survives a run-out chance after taking a quick single on the off side. He was just short of his ground whe"
-    },
-    {
-      "id": "feed-2bocwf",
-      "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
-      "publishedAt": "2026-10-22T16:21:36.000Z",
-      "category": "business",
-      "summary": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? What is PHP, and how bad is the computer language flaw causing website shutdowns global"
+      "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+      "publishedAt": "2026-10-22T16:54:48.000Z",
+      "category": "world",
+      "summary": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or jo"
     },
     {
       "id": "feed-1b88ec3",
@@ -129,9 +119,129 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
-      "publishedAt": "2026-10-22T16:18:34.000Z",
+      "publishedAt": "2026-10-22T16:54:39.000Z",
       "category": "uk",
-      "summary": "⚽ Updates from 5.45pm BST kick-offs, then the 8pm games ⚽ Live scores | Table | Read Football Daily | And mail Daniel OH MY COMPLETE AND UTTER EVERLOVING DAYS! It’s been a strange start to the season for Sunderland and I’m not just talking about those pink Elv"
+      "summary": "⚽ Updates from 5.45pm BST kick-offs, then the 8pm games ⚽ Live scores | Table | Read Football Daily | And mail Daniel That took 78 seconds – and remember, Sunderland scored at 90+3 of 90+5 in their last game against Torreense. The Prem, problems, but in Europe"
+    },
+    {
+      "id": "feed-38cgec",
+      "title": "Russell Brand raped woman even though she screamed in pain, court hears",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears",
+      "publishedAt": "2026-10-22T16:52:27.000Z",
+      "category": "uk",
+      "summary": "Alleged victim told her parents and others about attack and was encouraged to go to police but she feared she would not be believed A woman told her mother that Russell Brand had raped her and “didn’t stop even when she screamed out in pain”, a court has heard"
+    },
+    {
+      "id": "feed-1xslh2v",
+      "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
+      "publishedAt": "2026-10-22T16:50:17.000Z",
+      "category": "world",
+      "summary": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day. From mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivot Catalina Beleña Martinez, España, nos env"
+    },
+    {
+      "id": "feed-udu7vn",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o",
+      "publishedAt": "2026-10-22T16:49:29.000Z",
+      "category": "world",
+      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
+    },
+    {
+      "id": "feed-7hd764",
+      "title": "CDC denies approval for high volume measles test, ‘prioritizing emerging technologies’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied",
+      "publishedAt": "2026-10-22T16:49:21.000Z",
+      "category": "world",
+      "summary": "A letter signed by health officials in California, Hawaii, Oregon and Washington, asks the CDC to reconsider California and Washington asked the US Centers for Disease Control and Prevention (CDC) in May to validate a new way to test for measles – but after wa"
+    },
+    {
+      "id": "feed-svemad",
+      "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o",
+      "publishedAt": "2026-10-22T16:45:09.000Z",
+      "category": "uk",
+      "summary": "The friend of a woman claiming to have been raped by Russell Brand says she said he was \"quite aggressive\"."
+    },
+    {
+      "id": "feed-2bocwf",
+      "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
+      "publishedAt": "2026-10-22T16:42:54.000Z",
+      "category": "uk",
+      "summary": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? What is PHP, and how bad is the computer language flaw causing website shutdowns global"
+    },
+    {
+      "id": "feed-1d6hwfo",
+      "title": "What is PHP and how serious is the computer language flaw causing website shutdowns?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/oct/22/what-is-php-computer-language-flaw-causing-global-website-shutdowns",
+      "publishedAt": "2026-10-22T16:42:23.000Z",
+      "category": "business",
+      "summary": "An estimated 70% of websites use the open-source language. What is the identified vulnerability in it? Website owners faced millions of attempts to exploit a serious security vulnerability in their programming language, it has emerged, triggering a rush by gov"
+    },
+    {
+      "id": "feed-7b689y",
+      "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+      "publishedAt": "2026-10-22T16:41:51.000Z",
+      "category": "world",
+      "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our re"
+    },
+    {
+      "id": "feed-tmsi3q",
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo",
+      "publishedAt": "2026-10-22T16:40:07.000Z",
+      "category": "world",
+      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood."
+    },
+    {
+      "id": "feed-lnuwnb",
+      "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
+      "publishedAt": "2026-10-22T16:39:49.000Z",
+      "category": "uk",
+      "summary": "Exclusive: Sasan Ghandehari’s partnership with religious foundation raises questions about past dealings with republic criticised by Nigel Farage Nigel Farage’s newest billionaire donor was in business with a powerful Iranian religious foundation under the aut"
+    },
+    {
+      "id": "feed-10aqaro",
+      "title": "Sri Lanka stun England with second-highest ODI chase despite Brook’s 202",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/sri-lanka-england-odi-match-report-brook-202",
+      "publishedAt": "2026-10-22T16:37:40.000Z",
+      "category": "uk",
+      "summary": "Liyanage hits six for win with one ball to spare England captain’s record innings not enough Harry Brook pulverised his way to the fastest double hundred in ODI history and it still was not enough for England. Sri Lanka were the victors in this absurd contest,"
+    },
+    {
+      "id": "feed-14duxzb",
+      "title": "Downing Street rejects Witkoff’s description of Putin as a ‘humanitarian’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/22/downing-street-us-envoy-witkoff-putin-humanitarian",
+      "publishedAt": "2026-10-22T16:33:28.000Z",
+      "category": "uk",
+      "summary": "No 10 says Russian president ‘has killed thousands of people, both innocent Ukrainians and his own people’ Downing Street has rejected the description of Vladimir Putin as a “humanitarian” made by Donald Trump’s chief negotiator on the Ukraine war. Steve Witko"
     },
     {
       "id": "feed-3sub3o",
@@ -150,7 +260,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
       "publishedAt": "2026-10-22T16:16:40.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said Tell us: have you been affected by the PHP code flaw? The Office for National Statistics has also published a report on the gender "
     },
     {
@@ -174,16 +284,6 @@
       "summary": "The PM is heard having a long discussion about crisps in the trailer to the show, which is in aid of Stand Up To Cancer From ranking his favourite crisps in the pub to complaining about people watching TikToks out loud on the train, Andy Burnham has made effor"
     },
     {
-      "id": "feed-1xslh2v",
-      "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-      "publishedAt": "2026-10-22T16:07:40.000Z",
-      "category": "world",
-      "summary": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day. From mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivot Anonymous reader, California asks in a ca"
-    },
-    {
       "id": "feed-1h3rmh1",
       "title": "Gradual decay or sudden destruction? Ancient philosophers on the end of the world",
       "source": "The Guardian",
@@ -202,16 +302,6 @@
       "publishedAt": "2026-10-22T16:00:00.000Z",
       "category": "science",
       "summary": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth."
-    },
-    {
-      "id": "feed-7b689y",
-      "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-      "publishedAt": "2026-10-22T15:59:08.000Z",
-      "category": "world",
-      "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our re"
     },
     {
       "id": "feed-y5zuk",
@@ -241,7 +331,7 @@
       "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
       "publishedAt": "2026-10-22T15:54:13.000Z",
       "category": "uk",
-      "summary": "French president will decide on concrete ‘next steps’ regarding demonstrations on Friday as part of tough security response to recent rioting Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases Emmanuel Macron has said "
+      "summary": "French president will decide on concrete ‘next steps’ regarding demonstrations called for Saturday and after, as part of tough response to recent rioting Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases Emmanuel Macr"
     },
     {
       "id": "feed-762poj",
@@ -261,7 +351,7 @@
       "url": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
       "publishedAt": "2026-10-22T15:53:22.000Z",
       "category": "uk",
-      "summary": "Inquiry follows report by Guardian and partners that aides of Russian oligarch appeared to have falsified paperwork mapping his businesses Police in Cyprus have opened an investigation into the financial and tax affairs of the former Chelsea FC owner, Roman Ab"
+      "summary": "Inquiry follows report by Guardian and partners that aides of Russian oligarch appeared to have falsified paperwork mapping his businesses Police in Cyprus have opened an investigation into the financial and tax affairs of the former Chelsea FC owner Roman Abr"
     },
     {
       "id": "feed-1fnf4q0",
@@ -270,7 +360,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
       "publishedAt": "2026-10-22T15:46:56.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Europe live – latest updates Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic"
     },
     {
@@ -290,7 +380,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
       "publishedAt": "2026-10-22T15:40:03.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires. The social media company behind F"
     },
     {
@@ -374,16 +464,6 @@
       "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed."
     },
     {
-      "id": "feed-1nbw7tv",
-      "title": "‘Looksmaxxing’ influencer Clavicular pleads not guilty to raping teen",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/clavicular-pleads-not-guilty-rape",
-      "publishedAt": "2026-10-22T15:17:49.000Z",
-      "category": "uk",
-      "summary": "The social media personality denies allegations he gave a girl alcohol until she was drunk and sexually assaulted her The “looksmaxxing” livestreamer Braden Peters, better known by his stage name Clavicular , pleaded not guilty on Thursday to charges that he r"
-    },
-    {
       "id": "feed-13phjeb",
       "title": "Weather warning in place ahead of Storm Boelo",
       "source": "BBC News",
@@ -394,16 +474,6 @@
       "summary": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday."
     },
     {
-      "id": "feed-e8dduw",
-      "title": "Zadie Smith among authors letting public bid to name new characters for charity auction",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/law/2026/oct/22/zadie-smith-margaret-atwood-ian-mcewan-public-bid-name-new-characters-charity-auction",
-      "publishedAt": "2026-10-22T15:13:50.000Z",
-      "category": "uk",
-      "summary": "Other prizes at Freedom from Torture event include rare Mary Wollstonecraft book illustrated by William Blake Margaret Atwood, Zadie Smith and Ian McEwan are among a number of literary stars auctioning off the chance for readers to name characters in their nex"
-    },
-    {
       "id": "feed-v1tzpa",
       "title": "Damaging hail pelts Phoenix in rare storm",
       "source": "BBC News",
@@ -412,26 +482,6 @@
       "publishedAt": "2026-10-22T15:11:49.000Z",
       "category": "world",
       "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice."
-    },
-    {
-      "id": "feed-wy61fx",
-      "title": "Republican leader embarrassed by Ali G film says he plans to sue Sacha Baron Cohen: ‘A liar and a pervert’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert",
-      "publishedAt": "2026-10-22T15:10:18.000Z",
-      "category": "uk",
-      "summary": "Exclusive: Michael Aboud, whose actions in what he believed to be a documentary are likely to come under considerable scrutiny, has expressed anger at the film-maker • This article contains spoilers for Ali G: Who Iz I? The chair of the El Paso County Republic"
-    },
-    {
-      "id": "feed-rxp13w",
-      "title": "Criminals who refuse to attend sentencing face losing prison privileges under new rules",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
-      "publishedAt": "2026-10-22T15:07:33.000Z",
-      "category": "world",
-      "summary": "England and Wales judges to be able to keep inmates in cells for longer or stop visits if they refuse to face victims’ families in court Offenders who refuse to face their victims’ families in court for sentencing could be stripped of privileges or kept in cel"
     },
     {
       "id": "feed-1h05x6y",
@@ -704,16 +754,6 @@
       "summary": "After mass protests and violence, what will persuade the French to accept economic reform?"
     },
     {
-      "id": "feed-bwu0gs",
-      "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
-      "publishedAt": "2026-10-22T13:05:30.000Z",
-      "category": "world",
-      "summary": "Similar withdrawals from UAE, Jordan, Qatar and Bahrain reported as concerns grow about restart of war on Iran after US midterm elections The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia as th"
-    },
-    {
       "id": "feed-icscqg",
       "title": "Have scientists finally found a way to save the banana from disaster?",
       "source": "The Guardian",
@@ -732,16 +772,6 @@
       "publishedAt": "2026-10-22T12:50:05.000Z",
       "category": "uk",
       "summary": "Tim Visser is accused of controlling and abusive behaviour against a woman over a a 14-year period in Edinburgh and elsewhere."
-    },
-    {
-      "id": "feed-svemad",
-      "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o",
-      "publishedAt": "2026-10-22T12:34:36.000Z",
-      "category": "uk",
-      "summary": "The friend of a woman claiming to have been raped by Russell Brand says she said he was \"quite aggressive\"."
     },
     {
       "id": "feed-pjanbn",
@@ -772,16 +802,6 @@
       "publishedAt": "2026-10-22T12:14:36.000Z",
       "category": "business",
       "summary": "You Can See Everything, a documentary about the disgraced biotech company founder Elizabeth Holmes, has enjoyed a record-breaking opening in the US. It is a testament to how fascinated we remain by the convicted fraudster, but what is behind the enduring appea"
-    },
-    {
-      "id": "feed-leww8m",
-      "title": "‘Nunchucks’ wielded by agitated man in Hannah Beazley’s office may have been drumsticks, court told",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/hannah-beazley-wa-office-nunchucks-drumsticks-wielded-man-court-hearing-ntwnfb",
-      "publishedAt": "2026-10-22T12:08:11.000Z",
-      "category": "world",
-      "summary": "John Lawrence Smart charged with being armed in a way that may cause fear but Perth lawyer expresses concern for mental health Get our breaking news email , free app or daily news podcast A man accused of making threats while armed with “improvised nunchucks” "
     },
     {
       "id": "feed-19n16oj",
@@ -884,16 +904,6 @@
       "summary": "The three year scheme is awarded £65,000 to collect seeds and plant them in the fells."
     },
     {
-      "id": "feed-1ih8dlc",
-      "title": "Moment man rescued from sinking car by Australian TV reporter",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko",
-      "publishedAt": "2026-10-22T11:08:33.000Z",
-      "category": "world",
-      "summary": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle."
-    },
-    {
       "id": "feed-154zqtf",
       "title": "Blockades, checkpoints and court action: fending off Brazil’s biofuel giants in the Amazon",
       "source": "The Guardian",
@@ -942,16 +952,6 @@
       "publishedAt": "2026-10-22T10:18:30.000Z",
       "category": "business",
       "summary": "We want to hear from those working or living at sea, including maritime workers, sailors, port staff and family about how the situation is affecting their work The conflict in the Middle East continues to disrupt shipping across the region, including in the st"
-    },
-    {
-      "id": "feed-1c9g6tn",
-      "title": "El Salvador's president threatens Haitian gangs over military hostages",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o",
-      "publishedAt": "2026-10-22T10:17:48.000Z",
-      "category": "world",
-      "summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday."
     },
     {
       "id": "feed-mbdjh0",
@@ -1052,16 +1052,6 @@
       "publishedAt": "2026-10-22T09:00:58.000Z",
       "category": "technology",
       "summary": "Nintendo Switch 2; Nintendo/Nintendo Bringing a holiday vibe and a generous selection of sport-themed games, this is exactly what you want from a family video game When the first Nintendo Switch Sports brought the effortless fun of Wii Sports back into my livi"
-    },
-    {
-      "id": "feed-17w91ms",
-      "title": "French borrowing costs overtake US amid budget turmoil",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
-      "publishedAt": "2026-10-22T08:40:36.000Z",
-      "category": "business",
-      "summary": "France’s bond market hit by another bout of selling as country recovers from weekend protests French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after public protests gripped "
     },
     {
       "id": "feed-1qiqnw2",
@@ -1362,16 +1352,6 @@
       "publishedAt": "2026-10-21T21:49:07.000Z",
       "category": "business",
       "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
-    },
-    {
-      "id": "feed-3o4j9j",
-      "title": "Offenders who refuse to attend sentencing will face new penalties",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/killers-who-refuse-to-attend-sentencing-will-face-new-penalties-under-government-plan-13601975",
-      "publishedAt": "2026-10-21T21:30:00.000Z",
-      "category": "uk",
-      "summary": "Offenders, including killers, who refuse to attend sentence hearings could be confined to their cell for weeks or lose visiting privileges."
     },
     {
       "id": "feed-lp7gk2",
