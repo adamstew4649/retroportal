@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T06:23:24.158Z",
+  "updatedAt": "2026-10-22T07:15:56.749Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,20 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-sngn36",
+      "title": "Dame Judi Dench: 'I can't do a play, a film or read any more'",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T06:41:29.000Z",
+      "summary": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life."
+    },
+    {
+      "id": "feed-2dgscm",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T06:24:59.000Z",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+    },
+    {
       "id": "feed-glntgh",
       "title": "Is the UK set to green-light a huge untapped oil field?",
       "link": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o",
       "source": "BBC News",
       "publishedAt": "2026-10-22T06:09:44.000Z",
       "summary": "Scotland editor James Cook visits Rosebank - the UK's largest known untapped oilfield - in the North Atlantic."
-    },
-    {
-      "id": "feed-5d1l2l",
-      "title": "UK working to identify exposure after global cyber-security warning",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T06:05:03.000Z",
-      "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
     },
     {
       "id": "feed-1wqhpl6",
@@ -38,6 +46,14 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T05:07:35.000Z",
       "summary": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured."
+    },
+    {
+      "id": "feed-1c8xtjz",
+      "title": "Dame Judi Dench: 'I can't be on stage, I can't do a film, I can't read anymore'",
+      "link": "https://www.bbc.co.uk/news/videos/c3n049jrdv9lo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T05:01:35.000Z",
+      "summary": "The actress sat down with her friend and fellow actor Brendan O'Hea to talk to the BBC's Emma Barnett ahead of the launch of her memoir."
     },
     {
       "id": "feed-1yrkqvv",
@@ -72,6 +88,14 @@
       "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
     },
     {
+      "id": "feed-rrypm1",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-21T23:27:05.000Z",
+      "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
+    },
+    {
       "id": "feed-1266e78",
       "title": "The grads ditching the UK for a fresh start abroad",
       "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo",
@@ -96,8 +120,8 @@
       "summary": "A new study finds Rosalind Franklin is the only woman named in Key Stage 4 science specifications."
     },
     {
-      "id": "feed-1j8go4n",
-      "title": "The four locations in the running to be UK City of Culture 2029",
+      "id": "feed-jklb80",
+      "title": "Four locations in the running to be UK City of Culture 2029",
       "link": "https://www.bbc.co.uk/news/articles/c6jrw03njgxzo",
       "source": "BBC News",
       "publishedAt": "2026-10-21T23:02:37.000Z",
@@ -120,36 +144,12 @@
       "summary": "Keeley McKee's mother Leanne was killed by her partner in 2003, weeks before the couple were due to marry."
     },
     {
-      "id": "feed-hxbcub",
-      "title": "Attempted murder arrests after boy, 16, attacked",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y095260go",
+      "id": "feed-3mnjh4",
+      "title": "Daughter of woman killed by partner 'refuses to be another victim'",
+      "link": "https://www.bbc.co.uk/news/articles/cm0j0d8p4lj7o",
       "source": "BBC News",
-      "publishedAt": "2026-10-21T20:54:38.000Z",
-      "summary": "Two boys aged 15 and 16 were being questioned after the teenager was found injured in Everton, Liverpool."
-    },
-    {
-      "id": "feed-1eu2qya",
-      "title": "MP harassed for 'being English' by man who took axe to pub",
-      "link": "https://www.bbc.co.uk/news/articles/cvde8glk94neo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T18:46:37.000Z",
-      "summary": "Michael Glover left a note on MP Henry Tufnell's office door and claimed he knew where he lived."
-    },
-    {
-      "id": "feed-7grc8k",
-      "title": "Burnham proposes plan to cut standing charges from gas bills",
-      "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T17:06:16.000Z",
-      "summary": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs."
-    },
-    {
-      "id": "feed-1hyc52x",
-      "title": "'Mindset shift' needed within government on No10 North, says deputy",
-      "link": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T17:05:09.000Z",
-      "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\"."
+      "publishedAt": "2026-10-21T23:00:21.000Z",
+      "summary": "Keeley McKee's mother Leanne was killed by her partner in 2003, weeks before the couple were due to marry."
     }
   ]
 }
