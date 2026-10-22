@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T11:57:12.689Z",
+  "updatedAt": "2026-10-22T12:24:33.870Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-824f0b",
+      "title": "How did AI discover the internet's massive cyber-security risk?",
+      "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T12:17:44.000Z",
+      "summary": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you."
+    },
     {
       "id": "feed-zw2qlp",
       "title": "At least four dead after storm brings flooding to southern France",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T23:06:37.000Z",
       "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
-    },
-    {
-      "id": "feed-10l3t15",
-      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T22:59:18.000Z",
-      "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood."
     }
   ]
 }
