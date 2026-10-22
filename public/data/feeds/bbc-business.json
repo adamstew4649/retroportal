@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T14:58:35.163Z",
+  "updatedAt": "2026-10-22T15:26:50.149Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-t1pg1",
+      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T15:05:47.000Z",
+      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs."
+    },
     {
       "id": "feed-1tyfej8",
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T19:54:57.000Z",
       "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
-    },
-    {
-      "id": "feed-10jaqku",
-      "title": "A warning to anyone with credit card debt...",
-      "link": "https://www.bbc.co.uk/news/videos/c620reny4e1no",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T17:06:28.000Z",
-      "summary": "Martin’s leading this week’s podcast with an urgent warning for anyone carrying credit card: now is the time to act."
     }
   ]
 }

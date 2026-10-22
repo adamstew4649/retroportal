@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T14:58:35.171Z",
-  "generatedAt": "2026-10-22T14:58:35.171Z",
+  "updatedAt": "2026-10-22T15:26:50.156Z",
+  "generatedAt": "2026-10-22T15:26:50.156Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,114 @@
   ],
   "articles": [
     {
+      "id": "feed-1ldsbag",
+      "title": "French weekend protests to be limited to union demos only, says Macron",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o",
+      "publishedAt": "2026-10-22T15:22:48.000Z",
+      "category": "world",
+      "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed."
+    },
+    {
+      "id": "feed-1ia00g4",
+      "title": "TV star's brother 'never recovered' from her death",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdm095d89yo",
+      "publishedAt": "2026-10-22T15:22:19.000Z",
+      "category": "uk",
+      "summary": "Paul Flack was \"everyone's favourite person\" but this \"took its toll\", an inquest hears."
+    },
+    {
+      "id": "feed-13phjeb",
+      "title": "Weather warning in place ahead of Storm Boelo",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o",
+      "publishedAt": "2026-10-22T15:14:38.000Z",
+      "category": "science",
+      "summary": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday."
+    },
+    {
+      "id": "feed-v1tzpa",
+      "title": "Damaging hail pelts Phoenix in rare storm",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do",
+      "publishedAt": "2026-10-22T15:11:49.000Z",
+      "category": "world",
+      "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice."
+    },
+    {
       "id": "feed-oh8b1",
       "title": "England v Sri Lanka: Brook makes history in men’s tri-series cricket ODI – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live",
-      "publishedAt": "2026-10-22T14:54:57.000Z",
+      "publishedAt": "2026-10-22T15:09:48.000Z",
       "category": "uk",
       "summary": "Harry Brook hits record-breaking 202 for England Does cricket need a Ballon d’Or ? | And email Tom 3rd over: England 5-0 (Banton 2, Duckett 3) Duckett survives a run-out chance after taking a quick single on the off side. He was just short of his ground when A"
+    },
+    {
+      "id": "feed-rxp13w",
+      "title": "Criminals who refuse to attend sentencing face losing prison privileges under new rules",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
+      "publishedAt": "2026-10-22T15:07:33.000Z",
+      "category": "uk",
+      "summary": "England and Wales judges to be able to keep inmates in cells for longer or stop visits if they refuse to face victims’ families in court Offenders who refuse to face their victims’ families in court for sentencing could be stripped of privileges or kept in cel"
+    },
+    {
+      "id": "feed-1h05x6y",
+      "title": "Shamonda virus detected in human for first time in France",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+      "publishedAt": "2026-10-22T15:07:01.000Z",
+      "category": "world",
+      "summary": "Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with investigations under way to explore whether it contributed to hi"
+    },
+    {
+      "id": "feed-7b689y",
+      "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+      "publishedAt": "2026-10-22T15:06:41.000Z",
+      "category": "world",
+      "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our re"
+    },
+    {
+      "id": "feed-t1pg1",
+      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro",
+      "publishedAt": "2026-10-22T15:05:47.000Z",
+      "category": "business",
+      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs."
+    },
+    {
+      "id": "feed-1xj1z6x",
+      "title": "Pete Hegseth’s staff break priceless historic globe he requested for office",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/pete-hegseth-eisenhower-globe-pentagon-office-broken",
+      "publishedAt": "2026-10-22T15:04:44.000Z",
+      "category": "world",
+      "summary": "Hegseth’s aides, who attempted to move 30in fragile globe themselves, dropped it during relocation, army officials say A priceless pre-second world war globe coveted by the US defence secretary Pete Hegseth for his office in the Pentagon was damaged by his sta"
+    },
+    {
+      "id": "feed-fra8oi",
+      "title": "Iran threatens oil and AI facilities across seven Gulf countries if US and Israel renew attacks",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
+      "publishedAt": "2026-10-22T15:03:00.000Z",
+      "category": "uk",
+      "summary": "Iran’s security chiefs say there will be ‘zero red lines’ if Trump and Netanyahu attack again Iran will strike oil facilities, undersea cables, datacentres and AI facilities across as many as seven countries in the Gulf in the event of a fresh US-Israeli attac"
     },
     {
       "id": "feed-ox9ztd",
@@ -119,19 +219,49 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-      "publishedAt": "2026-10-22T14:54:14.000Z",
-      "category": "uk",
+      "publishedAt": "2026-10-22T15:01:35.000Z",
+      "category": "world",
       "summary": "It’s the last day of the electoral campaign in Serbia today ahead of this Sunday’s closely contested parliamentary election As we are waiting for Macron , first details of the planned police response to this weekend’s protests are emerging. Junior interior min"
     },
     {
-      "id": "feed-2haqxt",
-      "title": "South Africa beat Australia by innings and 31 runs: second men’s cricket Test, day five – live",
+      "id": "feed-1vdov0e",
+      "title": "Ali G: Who Iz I? review – Sacha Baron Cohen’s high-stakes satire punches up and down with spectacular bad taste",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste",
+      "publishedAt": "2026-10-22T15:00:29.000Z",
+      "category": "uk",
+      "summary": "Baron Cohen’s live-ammo prankster is back, 20 years on, but has to battle with his own irrelevance in search of big laughs and the approval of a new generation If you liked Sacha Baron Cohen’s Ali G the first time around, you’ll like this less; if you disliked"
+    },
+    {
+      "id": "feed-1u2k42c",
+      "title": "Astronomers challenge dating of Van Gogh’s Starry Night",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/22/astronomy-dating-art-van-gogh-starry-night-painting",
+      "publishedAt": "2026-10-22T15:00:28.000Z",
+      "category": "uk",
+      "summary": "Study suggests much-loved work was based on a real dawn sky in July 1889 rather than just the artist’s rich imagination It was long assumed to be a product of Vincent van Gogh’s rich imagination – but scientific sleuthing now suggests The Starry Night may be b"
+    },
+    {
+      "id": "feed-fu7bzr",
+      "title": "Heartbreak, hope and human imperfection: Leonard Cohen’s greatest songs – ranked!",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/oct/22/leonard-cohen-best-songs-ranked",
+      "publishedAt": "2026-10-22T14:53:35.000Z",
+      "category": "uk",
+      "summary": "A decade after his final album, and his death, we rate the best of the Canadian singer-songwriter who brought a deep, spiritual wisdom to love and grief The synth-heavy production on 1988’s I’m Your Man has always been divisive – even Leonard Cohen’s longtime "
+    },
+    {
+      "id": "feed-mktrj1",
+      "title": "South Africa beat Australia by innings and 31 runs: second men’s cricket Test, day five – as it happened",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/22/south-africa-v-australia-second-test-day-five-cricket-st-georges-park-gqeberha-live-updates",
       "publishedAt": "2026-10-22T14:53:33.000Z",
       "category": "uk",
-      "summary": "Reaction as the Proteas host Australia in Gqeberha Any thoughts? Get in touch with Jim on email “At risk of overcooking the Shield chat,” writes Eamonn Maloney, “you don’t have to select from a bunch of mediocrities averaging 35 when it’s early in the season a"
+      "summary": "Proteas level series in Gqeberha and will head for a series decider in Cape Town “At risk of overcooking the Shield chat,” writes Eamonn Maloney, “you don’t have to select from a bunch of mediocrities averaging 35 when it’s early in the season and the small sa"
     },
     {
       "id": "feed-66ssgj",
@@ -144,14 +274,14 @@
       "summary": "The political activist cries in court while on trial accused of harassing Daily Mail journalists."
     },
     {
-      "id": "feed-7b689y",
-      "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
+      "id": "feed-1ueih5b",
+      "title": "Glee’s pro-LGBTQ+ vision captured 2010s hope. Can a reboot handle Trump’s America? | Alim Kheraj",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-      "publishedAt": "2026-10-22T14:50:25.000Z",
-      "category": "world",
-      "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our re"
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/glee-reboot-lgbtq-politics-trump",
+      "publishedAt": "2026-10-22T14:45:40.000Z",
+      "category": "uk",
+      "summary": "The beloved high school TV show is returning in a different political climate. I’m skeptical that Ryan Murphy has the nuance this moment needs For months, Ryan Murphy has been discussing Glee . In July, he expressed his love for the musical comedy drama he cre"
     },
     {
       "id": "feed-1iwox4",
@@ -254,16 +384,6 @@
       "summary": "We’d like to hear from small businesses that have been affected by the PHP code flaw. Did you have to take you website offline? Did you manage to patch the fault? Websites around the world have been hit by millions of attempts to exploit a recently discovered "
     },
     {
-      "id": "feed-1ia00g4",
-      "title": "TV star's brother 'never recovered' from her death",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdm095d89yo",
-      "publishedAt": "2026-10-22T14:11:01.000Z",
-      "category": "uk",
-      "summary": "Paul Flack was \"everyone's favourite person\" but this \"took its toll\", an inquest hears."
-    },
-    {
       "id": "feed-1j6fag3",
       "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
       "source": "BBC News",
@@ -334,16 +454,6 @@
       "summary": "The author reveals his mastery of comic timing in his narration of this novel about a cash-strapped actor paid to live inside a black leather bag The unnamed narrator of Luke Kennard’s novel is an out-of-work actor living in London. His last job was three mont"
     },
     {
-      "id": "feed-14usahb",
-      "title": "The best bread makers in the UK for easy homemade loaves – tested",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/thefilter/2026/oct/22/best-bread-makers-tested-uk",
-      "publishedAt": "2026-10-22T14:00:32.000Z",
-      "category": "uk",
-      "summary": "Want fresh bread without the hard work? Our expert baked her way through nine machines to find the best for white, wholemeal and gluten-free loaves • Everything you need to make great sourdough As a bread-loving lazy person, easy access to plump, airy loaves i"
-    },
-    {
       "id": "feed-gfwdxv",
       "title": "Bruno Guimarães had sleepless nights before Newcastle exit but hopes for same ‘love’ at Arsenal",
       "source": "The Guardian",
@@ -352,6 +462,16 @@
       "publishedAt": "2026-10-22T14:00:32.000Z",
       "category": "uk",
       "summary": "Midfielder says there were a lot of tears as he said goodbye at St James’ Park but he is enjoying the remorselessness at his new club For Bruno Guimarães, it was a time to show his steeliness, to fix his eyes on the prize – even if he knew it would surely mean"
+    },
+    {
+      "id": "feed-14usahb",
+      "title": "The best bread makers in the UK for easy homemade loaves – tested",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/thefilter/2026/oct/22/best-bread-makers-tested-uk",
+      "publishedAt": "2026-10-22T14:00:32.000Z",
+      "category": "uk",
+      "summary": "Want fresh bread without the hard work? Our expert baked her way through nine machines to find the best for white, wholemeal and gluten-free loaves • Everything you need to make great sourdough As a bread-loving lazy person, easy access to plump, airy loaves i"
     },
     {
       "id": "feed-1ok36zf",
@@ -364,16 +484,6 @@
       "summary": "Your friends may have had good intentions when making this ask, writes advice columnist Eleanor Gordon-Smith. But that needn’t dictate how you feel about it Read more Leading questions A friend, who I believe is financially comfortable, set up a GoFundMe page "
     },
     {
-      "id": "feed-ay95tn",
-      "title": "‘Jane Austen is for everyone’: novelist Diana Reid on adapting Sense and Sensibility – and surprising Brits with her accent",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/books/2026/oct/23/jane-austen-is-for-everyone-novelist-diana-reid-sense-and-sensibility-adaptation",
-      "publishedAt": "2026-10-22T14:00:29.000Z",
-      "category": "uk",
-      "summary": "The Australian author of Love and Virtue says her nationality didn’t give her pause when she wrote the script, but Ang Lee’s ‘perfect’ 1995 film did The summer Diana Reid spent writing her film adaptation of Sense and Sensibility , she found herself having som"
-    },
-    {
       "id": "feed-dve4ah",
       "title": "First human case of Shamonda virus detected in France, officials say",
       "source": "BBC News",
@@ -382,26 +492,6 @@
       "publishedAt": "2026-10-22T13:53:32.000Z",
       "category": "world",
       "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October."
-    },
-    {
-      "id": "feed-p457g0",
-      "title": "Ancient astronomy and a restorative mural: photos of the day – Thursday",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/gallery/2026/oct/22/ancient-astronomy-and-a-restorative-mural-photos-of-the-day-thursday",
-      "publishedAt": "2026-10-22T13:49:07.000Z",
-      "category": "uk",
-      "summary": "The Guardian’s picture editors select photographs from around the world Continue reading..."
-    },
-    {
-      "id": "feed-1fkav7g",
-      "title": "This mighty cry for a goddess to help Earth proves Dickson Mbi is a bold force in dance",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/stage/2026/oct/22/dickson-mbi-company-tellus-dance-review-sadlers-wells-east-london",
-      "publishedAt": "2026-10-22T13:48:55.000Z",
-      "category": "uk",
-      "summary": "Sadler’s Wells East, London The Olivier-winner draws on his Cameroonian heritage in a visceral show, with music and movement that speak as one Dickson Mbi won an Olivier award for his last major dance piece, Enowate , a result that surprised some of us who saw"
     },
     {
       "id": "feed-1b6q05c",
@@ -414,13 +504,13 @@
       "summary": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom."
     },
     {
-      "id": "feed-11knw3f",
-      "title": "Prepare for more website shutdowns in the age of AI – but human inaction is the real culprit | Chris Stokel-Walker",
+      "id": "feed-1257uua",
+      "title": "The internet has broken – again. Shouldn’t the tech firms that make billions from it pay to fix it? | Chris Stokel-Walker",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/22/website-shutdowns-ai-human-inaction-developers",
       "publishedAt": "2026-10-22T13:46:26.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "I’ve been banging the drum about these vulnerabilities for years. It will take more than a handful of exhausted developers to keep us safe Parts of the internet are going dark. In the Netherlands, government websites, including its digital ID login service, ha"
     },
     {
@@ -430,7 +520,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump",
       "publishedAt": "2026-10-22T13:46:12.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Democratic lawmaker says family’s safety is at risk amid death threats and raid making apartment’s address public Our reporters answer your questions about ICE, immigration and the midterms Minnesota congresswoman Ilhan Omar said she plans to move out of her W"
     },
     {
@@ -524,16 +614,6 @@
       "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland."
     },
     {
-      "id": "feed-c6h1w9",
-      "title": "Judi Dench says sight loss means she can no longer perform but she is still ‘besotted by’ Shakespeare’s sonnets",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/culture/2026/oct/22/judi-dench-sight-loss-macular-degeneration-shakespeares-sonnets",
-      "publishedAt": "2026-10-22T13:19:14.000Z",
-      "category": "world",
-      "summary": "Age-related macular degeneration has also left actor, 91, unable to read or recognise faces any more Judi Dench has said she can no longer perform on stage or in films because of her deteriorating eyesight, more than a decade after revealing she had been diagn"
-    },
-    {
       "id": "feed-1jw2gv8",
       "title": "The Briefing Room",
       "source": "BBC News",
@@ -584,16 +664,6 @@
       "summary": "Tim Visser is accused of controlling and abusive behaviour against a woman over a a 14-year period in Edinburgh and elsewhere."
     },
     {
-      "id": "feed-13phjeb",
-      "title": "Weather warning in place ahead of Storm Boelo",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o",
-      "publishedAt": "2026-10-22T12:43:39.000Z",
-      "category": "science",
-      "summary": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday."
-    },
-    {
       "id": "feed-2bocwf",
       "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
       "source": "The Guardian",
@@ -622,16 +692,6 @@
       "publishedAt": "2026-10-22T12:34:33.000Z",
       "category": "technology",
       "summary": "The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonathan Glatzer wanted the tagline of his latest TV creation to be: “We’re s"
-    },
-    {
-      "id": "feed-11pdz2s",
-      "title": "Arizona storms topple trees and bring golf ball-sized hail in possible tornado",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
-      "publishedAt": "2026-10-22T12:28:21.000Z",
-      "category": "world",
-      "summary": "Violent storms overnight knocked over utility poles and carried thunder and heavy winds through central Arizona Trees fell on to homes and utility poles were knocked down by a possible tornado in a central Arizona community during a series of violent storms th"
     },
     {
       "id": "feed-1nbzyy8",
@@ -730,7 +790,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
       "publishedAt": "2026-10-22T11:28:11.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Iran’s IRGC says it hit four vessels in the northern Gulf and three more struck mines near the strait of Hormuz Shipping workers: how is the Middle East conflict affecting you? Business live – latest updates Oil prices jumped to a five-month high on Thursday a"
     },
     {
@@ -894,16 +954,6 @@
       "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago."
     },
     {
-      "id": "feed-fqj27",
-      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo",
-      "publishedAt": "2026-10-22T10:10:13.000Z",
-      "category": "world",
-      "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation."
-    },
-    {
       "id": "feed-4h5xje",
       "title": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
       "source": "The Guardian",
@@ -914,8 +964,8 @@
       "summary": "Chief executive agrees to remain in California for eight years even if the state brings in a one-off wealth tax Business live – latest updates Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires."
     },
     {
-      "id": "feed-1o97e86",
-      "title": "Britons urged to keep three days of supplies to survive 'cyber attacks and extreme weather'",
+      "id": "feed-hq5ccn",
+      "title": "Stock up to survive 'extreme weather and cyber attacks', government urges",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/government-launches-new-push-to-prepare-uk-for-emergencies-and-hostile-acts-13602203",
@@ -1002,16 +1052,6 @@
       "publishedAt": "2026-10-22T09:23:00.000Z",
       "category": "uk",
       "summary": "The second named storm of the season is set to hit the UK on Saturday, the Met Office has said."
-    },
-    {
-      "id": "feed-7tns14",
-      "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo",
-      "publishedAt": "2026-10-22T09:06:48.000Z",
-      "category": "world",
-      "summary": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition."
     },
     {
       "id": "feed-190mmra",
@@ -1444,26 +1484,6 @@
       "summary": "The head of English football's watchdog will address the 72 clubs below the top flight on Thursday as the quest for a financial redistribution deal with the Premier League continues."
     },
     {
-      "id": "feed-btsp6s",
-      "title": "Fuel leak which killed fish in River Taff stopped",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8lvxzp59vo",
-      "publishedAt": "2026-10-21T18:28:06.000Z",
-      "category": "science",
-      "summary": "GE Aerospace previously confirmed fuel got into the river while repair work took place nearby."
-    },
-    {
-      "id": "feed-10jaqku",
-      "title": "A warning to anyone with credit card debt...",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/c620reny4e1no",
-      "publishedAt": "2026-10-21T17:06:28.000Z",
-      "category": "business",
-      "summary": "Martin’s leading this week’s podcast with an urgent warning for anyone carrying credit card: now is the time to act."
-    },
-    {
       "id": "feed-687re5",
       "title": "Just Eat apologises for AI food mistakes after social media ridicule",
       "source": "BBC News",
@@ -1542,16 +1562,6 @@
       "publishedAt": "2026-10-21T12:36:00.000Z",
       "category": "business",
       "summary": "The father-and-son team who control BetGoodwin, an online sports betting and casino operator, have begun plotting a London stock market listing even as their peers intensify warnings over tax rises in next week's budget."
-    },
-    {
-      "id": "feed-1e9hlne",
-      "title": "Scrap 'unfair' prescription charges in England, say pharmacies",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/scrap-unfair-prescription-charges-in-england-say-pharmacies-13601870",
-      "publishedAt": "2026-10-21T11:03:00.000Z",
-      "category": "uk",
-      "summary": "Pharmacy leaders have called for prescription charges to be scrapped in England."
     },
     {
       "id": "feed-1fb2utm",
@@ -1892,16 +1902,6 @@
       "publishedAt": "2026-10-15T18:49:45.000Z",
       "category": "science",
       "summary": "My brother Norman McCubbin, who has died aged 77, was a scientist who worked at the forefront of experimental particle physics. A leading light in experiments that took place on the Large Hadron Collider, the world’s biggest and most powerful particle accelera"
-    },
-    {
-      "id": "feed-e2wvex",
-      "title": "Neanderthals capable of both violence and care, bones from Iraqi cave suggest",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/neanderthals-capable-of-both-violence-and-care-bones-from-iraqi-cave-suggest-13599736",
-      "publishedAt": "2026-10-15T18:25:00.000Z",
-      "category": "technology",
-      "summary": "Neanderthals were not the unintelligent cave dwellers of popular imagination, but may have been capable of showing both violence and care, researchers who have discovered bones dating back 75,000 years have said."
     }
   ]
 }
