@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T17:22:58.643Z",
+  "updatedAt": "2026-10-23T17:53:42.889Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,12 +8,36 @@
   },
   "articles": [
     {
+      "id": "feed-bjdegi",
+      "title": "Meghan statement offers answers after years of questions about her relationship with father",
+      "link": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T17:27:50.000Z",
+      "summary": "Today, without exactly using the word, Meghan claimed vindication."
+    },
+    {
+      "id": "feed-15ql6rt",
+      "title": "Trump says Burnham is 'getting it done' after Jackdaw decision",
+      "link": "https://www.bbc.co.uk/news/articles/cry4x7n5yje0o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T17:27:20.000Z",
+      "summary": "The US president has praised Burnham after the government allowed gas drilling in the North Sea's Jackdaw field."
+    },
+    {
       "id": "feed-urpm5g",
       "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo",
       "source": "BBC News",
       "publishedAt": "2026-10-23T16:58:14.000Z",
       "summary": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held."
+    },
+    {
+      "id": "feed-rbmlsz",
+      "title": "Police yet to receive £2m after A66 crash, says commissioner",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lzl0ydy8o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T16:48:02.000Z",
+      "summary": "Cleveland Police and Crime Commissioner Matt Storey says it has been nearly two months since force was promised the cash."
     },
     {
       "id": "feed-tfz3or",
@@ -126,30 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T09:41:44.000Z",
       "summary": "Callum Turner and Jack Lowden \"appear to be in the mix\" of actors doing screen tests for the role."
-    },
-    {
-      "id": "feed-11p5ilo",
-      "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
-      "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T08:26:47.000Z",
-      "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives."
-    },
-    {
-      "id": "feed-8qrrta",
-      "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
-      "link": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T07:49:02.000Z",
-      "summary": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer."
-    },
-    {
-      "id": "feed-ambqt3",
-      "title": "Lights will stay on this winter, grid operator says after concerns",
-      "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T06:47:10.000Z",
-      "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
     }
   ]
 }
