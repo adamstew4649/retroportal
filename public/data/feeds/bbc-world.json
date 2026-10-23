@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T10:55:39.531Z",
+  "updatedAt": "2026-10-23T11:19:19.205Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-17xp59n",
+      "title": "At least one dead and four injured in Paris suburb shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T11:09:36.000Z",
+      "summary": "The French prime minister says an individual is in police custody after a \"serious event\" in Trappes."
+    },
+    {
+      "id": "feed-16a0aoh",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T11:01:08.000Z",
+      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
+    },
     {
       "id": "feed-d8is4z",
       "title": "Malawi opposition demands answers over president's prolonged stay abroad",
@@ -21,7 +37,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
       "source": "BBC News",
       "publishedAt": "2026-10-23T10:26:06.000Z",
-      "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election."
+      "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election."
     },
     {
       "id": "feed-edggsx",
@@ -46,14 +62,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T10:14:33.000Z",
       "summary": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say."
-    },
-    {
-      "id": "feed-16a0aoh",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T09:36:43.000Z",
-      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
     },
     {
       "id": "feed-2issea",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T17:49:13.000Z",
       "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine."
-    },
-    {
-      "id": "feed-1jda69a",
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T17:12:51.000Z",
-      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
     }
   ]
 }
