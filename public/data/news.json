@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T05:20:21.350Z",
-  "generatedAt": "2026-10-23T05:20:21.350Z",
+  "updatedAt": "2026-10-23T05:56:06.676Z",
+  "generatedAt": "2026-10-23T05:56:06.676Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -104,6 +104,46 @@
   ],
   "articles": [
     {
+      "id": "feed-1dh7s8d",
+      "title": "Renting in London - 'I pay £2,000 for one bedroom'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo",
+      "publishedAt": "2026-10-23T05:45:54.000Z",
+      "category": "business",
+      "summary": "We ask people in the capital how much they pay for their homes."
+    },
+    {
+      "id": "feed-1vdb9bz",
+      "title": "'I live in the dark': How rising bills are shaping daily life",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vxl21m3jo",
+      "publishedAt": "2026-10-23T05:35:35.000Z",
+      "category": "business",
+      "summary": "Errol McGuiness says he has changed his daily routine to cope with higher household bills."
+    },
+    {
+      "id": "feed-c7rdza",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o",
+      "publishedAt": "2026-10-23T05:16:37.000Z",
+      "category": "world",
+      "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region."
+    },
+    {
+      "id": "feed-rsx6dl",
+      "title": "'Wildly unfair that my husband and I pay £4k a year for ADHD treatment'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cvze4wg10389o",
+      "publishedAt": "2026-10-23T05:14:41.000Z",
+      "category": "uk",
+      "summary": "Northern Ireland is the only part of the UK without a formally commissioned, publicly-funded adult service for ADHD."
+    },
+    {
       "id": "feed-w682am",
       "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
       "source": "BBC News",
@@ -111,7 +151,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o",
       "publishedAt": "2026-10-23T05:12:55.000Z",
       "category": "science",
-      "summary": "The Met Office has issued a yellow warning for rain across most of central and eastern Scotland on Friday."
+      "summary": "The Met Office has issued a yellow warning for rain across Scotland on Friday, followed by a wind warning on Saturday."
     },
     {
       "id": "feed-4h2edq",
@@ -132,6 +172,26 @@
       "publishedAt": "2026-10-23T05:05:03.000Z",
       "category": "science",
       "summary": "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
+    },
+    {
+      "id": "feed-1p8ytk3",
+      "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo",
+      "publishedAt": "2026-10-23T05:00:12.000Z",
+      "category": "uk",
+      "summary": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system."
+    },
+    {
+      "id": "feed-1xuu45z",
+      "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o",
+      "publishedAt": "2026-10-23T05:00:05.000Z",
+      "category": "uk",
+      "summary": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women."
     },
     {
       "id": "feed-14hw254",
@@ -284,16 +344,6 @@
       "summary": "People succumbed to heat at highest rates in Malta, Italy and Hungary, with health issues, loneliness and poverty exacerbating toll Heat killed a record 50,000 people in European cities this summer, new research suggests, with scientists blaming climate breakd"
     },
     {
-      "id": "feed-143eumd",
-      "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
-      "publishedAt": "2026-10-23T04:00:06.000Z",
-      "category": "uk",
-      "summary": "Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of"
-    },
-    {
       "id": "feed-6pzhqd",
       "title": "Experience: I’ve climbed Mount Everest 20 times",
       "source": "The Guardian",
@@ -302,6 +352,16 @@
       "publishedAt": "2026-10-23T04:00:06.000Z",
       "category": "uk",
       "summary": "In 1996 doctors told me I wouldn’t walk again unaided, but in 2022 I took the record for the most Everest summits by a non-Sherpa I grew up in Slough, Berkshire, in a bungalow beside a farm. My father was a scout leader, and I was always outside, building dams"
+    },
+    {
+      "id": "feed-143eumd",
+      "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+      "publishedAt": "2026-10-23T04:00:06.000Z",
+      "category": "uk",
+      "summary": "Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of"
     },
     {
       "id": "feed-1vnhmxu",
@@ -382,6 +442,16 @@
       "publishedAt": "2026-10-23T03:24:01.000Z",
       "category": "world",
       "summary": "Jones, 85, has pleaded not guilty to 21 charges of indecent assault and sexual touching Listen to the podcast Alan Jones on Trial The mother of the youngest alleged victim of Alan Jones continued to seek advice from the broadcaster after the teenager was alleg"
+    },
+    {
+      "id": "feed-gc350j",
+      "title": "Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
+      "publishedAt": "2026-10-23T02:16:26.000Z",
+      "category": "business",
+      "summary": "A war of words has erupted over who is responsible for the restrictions on Starshield access in Ukraine A war of words has erupted between the Trump administration, officials in Kyiv and Elon Musk over who is to blame for limiting Ukraine’s access to Space X’s"
     },
     {
       "id": "feed-ai6n3l",
@@ -504,14 +574,14 @@
       "summary": "Hollie Sharman shares her experience of health anxiety and a doctor advises on how to manage symptoms."
     },
     {
-      "id": "feed-1lpeiyu",
-      "title": "Private care home investment needs monitoring, regulator says",
+      "id": "feed-1b45kj4",
+      "title": "Rapid changes to care market risk to National Care Service, regulator says",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cke8r6543gplo",
       "publishedAt": "2026-10-22T23:20:05.000Z",
       "category": "uk",
-      "summary": "US investors are buying up UK care homes - a situation regulators say they are \"watching carefully\" in case it threatens plans for a National Care Service."
+      "summary": "Concerns raised as big private firms buy up care homes and home help fragmenting in England."
     },
     {
       "id": "feed-7wbme2",
@@ -602,6 +672,16 @@
       "publishedAt": "2026-10-22T21:29:44.000Z",
       "category": "uk",
       "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains."
+    },
+    {
+      "id": "feed-1dt9pu3",
+      "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
+      "publishedAt": "2026-10-22T21:23:39.000Z",
+      "category": "business",
+      "summary": "Musk’s investment into the new media empire comes after Paramount’s $111bn merger with Warner Bros Discovery Elon Musk has reportedly invested approximately $1bn in Skydance, the new media empire led by David Ellison. The deal comes alongside fresh equity infu"
     },
     {
       "id": "feed-1gx4z1m",
@@ -754,6 +834,16 @@
       "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
     },
     {
+      "id": "feed-ok3vca",
+      "title": "Unsafe water, burning eyes and kerosene slicks: residents demand answers on River Taff leak",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
+      "publishedAt": "2026-10-22T17:58:51.000Z",
+      "category": "business",
+      "summary": "People near south Wales river were told to keep windows and doors shut after thousands of litres of kerosene from a GE Aerospace site got into the water Oily slicks of kerosene still appeared to be leaking into the River Taff this week, several days after a br"
+    },
+    {
       "id": "feed-dbptop",
       "title": "Fahnbulleh says she backs home secretary on migration after comments to journalists",
       "source": "BBC News",
@@ -782,6 +872,16 @@
       "publishedAt": "2026-10-22T17:30:45.000Z",
       "category": "business",
       "summary": "The current US administration is an obstacle, but public demand for protection will ultimately prevail Organisations around the world scrambled on Thursday to fix critical flaws in PHP, the software that powers much of the web. The vulnerabilities could allow "
+    },
+    {
+      "id": "feed-1jqu6he",
+      "title": "Trump says he asked Google CEO to rename Atlantic Ocean on Maps",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-atlantic-ocean-rename-google",
+      "publishedAt": "2026-10-22T17:27:05.000Z",
+      "category": "business",
+      "summary": "Tech company previously complied with president’s demand to rename Gulf of Mexico as Gulf of America Donald Trump said Google rejected his request to rename the Atlantic Ocean after himself or America. Speaking at a rally in South Carolina on Wednesday, the pr"
     },
     {
       "id": "feed-mekotc",
@@ -904,16 +1004,6 @@
       "summary": "An estimated 70% of websites use the open-source language. What is the identified vulnerability in it? Website owners faced millions of attempts to exploit a serious security vulnerability in their programming language, it has emerged, triggering a rush by gov"
     },
     {
-      "id": "feed-1ov9jmm",
-      "title": "Map thief leads 'merry dance' with return promises",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c9rkyl50l28lo",
-      "publishedAt": "2026-10-22T16:26:17.000Z",
-      "category": "uk",
-      "summary": "The 1684 world map, cut from an atlas at the National Maritime Museum’s library, has not been found."
-    },
-    {
       "id": "feed-xqk7g8",
       "title": "Crowd of 50 beats foreigner to death in South Africa",
       "source": "BBC News",
@@ -924,16 +1014,6 @@
       "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year."
     },
     {
-      "id": "feed-6bqpp3",
-      "title": "Man, 61, charged with murder after 'stabbed' woman dies following crash",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c8g473g2wp1ro",
-      "publishedAt": "2026-10-22T16:09:00.000Z",
-      "category": "uk",
-      "summary": "Clifford Foster has been charged with the murder of Eleanor Barnfield, who died after police were called to a crash."
-    },
-    {
       "id": "feed-c62h3t",
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
       "source": "BBC News",
@@ -942,26 +1022,6 @@
       "publishedAt": "2026-10-22T15:56:36.000Z",
       "category": "world",
       "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
-    },
-    {
-      "id": "feed-1ywm1xi",
-      "title": "UK plans emergency powers to protect undersea cables",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lz45d820o",
-      "publishedAt": "2026-10-22T15:56:03.000Z",
-      "category": "uk",
-      "summary": "Ministers are set to gain powers over telecoms companies during national security emergencies."
-    },
-    {
-      "id": "feed-i37jos",
-      "title": "Cyprus police investigate financial and tax affairs of ex-Chelsea owner Roman Abramovich",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
-      "publishedAt": "2026-10-22T15:53:22.000Z",
-      "category": "business",
-      "summary": "Inquiry follows report by Guardian and partners that aides of Russian oligarch appeared to have falsified paperwork mapping his businesses Police in Cyprus have opened an investigation into the financial and tax affairs of the former Chelsea FC owner Roman Abr"
     },
     {
       "id": "feed-13w1t3x",
@@ -1000,7 +1060,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do",
       "publishedAt": "2026-10-22T15:11:49.000Z",
-      "category": "world",
+      "category": "science",
       "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice."
     },
     {
@@ -1074,16 +1134,6 @@
       "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October."
     },
     {
-      "id": "feed-1257uua",
-      "title": "The internet has broken – again. Shouldn’t the tech firms that make billions from it pay to fix it? | Chris Stokel-Walker",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/website-shutdowns-ai-human-inaction-developers",
-      "publishedAt": "2026-10-22T13:46:26.000Z",
-      "category": "business",
-      "summary": "I’ve been banging the drum about these vulnerabilities for years. It will take more than a handful of exhausted developers to keep us safe Parts of the internet are going dark. In the Netherlands, government websites, including its digital ID login service, ha"
-    },
-    {
       "id": "feed-fd0mvj",
       "title": "Tank barrel production returns to UK after 20 years",
       "source": "BBC News",
@@ -1102,16 +1152,6 @@
       "publishedAt": "2026-10-22T13:30:04.000Z",
       "category": "science",
       "summary": "Volunteers say they have been campaigning for 30 years to keep a wild space free from development."
-    },
-    {
-      "id": "feed-3u0eso",
-      "title": "Rosebank row: will Labour block the oilfield? – podcast",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/audio/2026/oct/22/rosebank-row-will-labour-block-the-oilfield-podcast",
-      "publishedAt": "2026-10-22T13:24:13.000Z",
-      "category": "business",
-      "summary": "The government has given the go-ahead for the Jackdaw gasfield, but that was the easy part. The next big headache is the Rosebank oilfield. The energy secretary, Miatta Fahnbulleh, has indicated she might reject this licence because of the project’s expected e"
     },
     {
       "id": "feed-1g4bmqp",
@@ -1160,7 +1200,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video",
       "publishedAt": "2026-10-22T12:14:36.000Z",
-      "category": "business",
+      "category": "science",
       "summary": "You Can See Everything, a documentary about the disgraced biotech company founder Elizabeth Holmes, has enjoyed a record-breaking opening in the US. It is a testament to how fascinated we remain by the convicted fraudster, but what is behind the enduring appea"
     },
     {
@@ -1172,26 +1212,6 @@
       "publishedAt": "2026-10-22T12:00:44.000Z",
       "category": "technology",
       "summary": "Datacenters, AI and distaste for the billionaires developing it has soured Americans on big tech How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions The campaign ad begins with a clear, idyllic stream th"
-    },
-    {
-      "id": "feed-1akepd1",
-      "title": "Tax online sales more heavily to save high streets, Burnham urged",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
-      "publishedAt": "2026-10-22T11:32:45.000Z",
-      "category": "business",
-      "summary": "Exclusive: British Chambers of Commerce president calls for overhaul of business rates and greater powers for local leaders How Middleton’s revival could inspire struggling towns What makes a good town? Here are five key ingredients Andy Burnham has been urged"
-    },
-    {
-      "id": "feed-1r08ynk",
-      "title": "Oil prices jump to five-month high as attacks threaten global supply",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
-      "publishedAt": "2026-10-22T11:28:11.000Z",
-      "category": "business",
-      "summary": "Iran’s IRGC says it hit four vessels in the northern Gulf and three more struck mines near the strait of Hormuz Shipping workers: how is the Middle East conflict affecting you? Oil prices jumped to a five-month high on Thursday after ​attacks in Saudi Arabia a"
     },
     {
       "id": "feed-zw2qlp",
@@ -1281,7 +1301,7 @@
       "url": "https://news.sky.com/story/boelo-met-office-names-second-storm-to-hit-uk-in-24-hours-13602192",
       "publishedAt": "2026-10-22T09:23:00.000Z",
       "category": "uk",
-      "summary": "Several weather warnings are in place as the first named storm of the season is set to hit the UK today."
+      "summary": "Several weather warnings are in place as the first named storm of the season hits the UK today."
     },
     {
       "id": "feed-190mmra",
@@ -1364,26 +1384,6 @@
       "summary": "North Korea says it plans to resume propaganda broadcasts targeting South Korea within days along the heavily-armed border between the two countries."
     },
     {
-      "id": "feed-1thlvyb",
-      "title": "'I can't afford to heat my home on my pension'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g19jnjgpno",
-      "publishedAt": "2026-10-22T05:24:13.000Z",
-      "category": "business",
-      "summary": "Teresa Goubert says heating is \"very expensive\" and she was struggling on her pension."
-    },
-    {
-      "id": "feed-1wpsw4r",
-      "title": "'An £8k service charge left me unable to pay bills'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ye6mvr33o",
-      "publishedAt": "2026-10-22T05:19:53.000Z",
-      "category": "business",
-      "summary": "Housing association Curo defends large increases to leaseholder bills."
-    },
-    {
       "id": "feed-1tpm5ag",
       "title": "Is an 'AI war' complicating your job search?",
       "source": "BBC News",
@@ -1452,16 +1452,6 @@
       "publishedAt": "2026-10-21T23:27:05.000Z",
       "category": "business",
       "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
-    },
-    {
-      "id": "feed-1266e78",
-      "title": "The grads ditching the UK for a fresh start abroad",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo",
-      "publishedAt": "2026-10-21T23:12:06.000Z",
-      "category": "business",
-      "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
     },
     {
       "id": "feed-5uyzy2",
@@ -1900,6 +1890,16 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video",
       "publishedAt": "2026-10-13T15:18:47.000Z",
+      "category": "science",
+      "summary": "US defence secretary Pete Hegseth’s plan to livestream the execution of Nidal Malik Hasan has incurred condemnation from human rights groups and politicians on all sides. But according to Coltan Scrivner, an author and psychologist at Arizona State University "
+    },
+    {
+      "id": "feed-16u3zpp",
+      "title": "The surprising psychology of morbid curiosity – podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast",
+      "publishedAt": "2026-10-13T04:00:13.000Z",
       "category": "science",
       "summary": "US defence secretary Pete Hegseth’s plan to livestream the execution of Nidal Malik Hasan has incurred condemnation from human rights groups and politicians on all sides. But according to Coltan Scrivner, an author and psychologist at Arizona State University "
     }
