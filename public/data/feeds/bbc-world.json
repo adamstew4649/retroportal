@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T20:13:31.870Z",
+  "updatedAt": "2026-10-23T20:55:15.700Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-125w7jo",
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T20:18:13.000Z",
+      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention."
+    },
     {
       "id": "feed-tav1sp",
       "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
@@ -24,8 +32,8 @@
       "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
     },
     {
-      "id": "feed-1ljghll",
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "id": "feed-1xuin77",
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
       "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
       "source": "BBC News",
       "publishedAt": "2026-10-23T19:30:19.000Z",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T08:45:58.000Z",
       "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say."
-    },
-    {
-      "id": "feed-53pxzt",
-      "title": "Rubio turns to small Indian town as US faces high oil prices",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T08:39:42.000Z",
-      "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year."
     }
   ]
 }
