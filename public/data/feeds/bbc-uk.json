@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T08:01:40.121Z",
+  "updatedAt": "2026-10-23T08:59:23.616Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-8qrrta",
+      "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
+      "link": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T07:49:02.000Z",
+      "summary": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer."
+    },
     {
       "id": "feed-ambqt3",
       "title": "Lights will stay on this winter, grid operator says after concerns",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T17:54:51.000Z",
       "summary": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview."
-    },
-    {
-      "id": "feed-1jda69a",
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T17:12:51.000Z",
-      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
     }
   ]
 }

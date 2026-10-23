@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T08:01:40.123Z",
+  "updatedAt": "2026-10-23T08:59:23.619Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-c4scd1",
+      "title": "Presenter battles strong winds as Storm Austen hits Newquay",
+      "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T08:26:47.000Z",
+      "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives."
+    },
     {
       "id": "feed-ambqt3",
       "title": "Lights will stay on this winter, grid operator says after concerns",
@@ -72,9 +80,9 @@
       "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked."
     },
     {
-      "id": "feed-15k3m3z",
+      "id": "feed-1pbwy4w",
       "title": "BBC Inside Science",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978b",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
       "source": "BBC News",
       "publishedAt": "2026-10-22T20:00:00.000Z",
       "summary": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth."
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T11:11:13.000Z",
       "summary": "The three year scheme is awarded £65,000 to collect seeds and plant them in the fells."
-    },
-    {
-      "id": "feed-sa61zw",
-      "title": "Two storms in two days as Austen and Boelo target UK",
-      "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T10:34:17.000Z",
-      "summary": "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend."
     }
   ]
 }

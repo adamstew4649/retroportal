@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T08:01:40.123Z",
+  "updatedAt": "2026-10-23T08:59:23.618Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1idproe",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T08:45:58.000Z",
+      "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say."
+    },
+    {
+      "id": "feed-16a0aoh",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T08:36:32.000Z",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
+    },
     {
       "id": "feed-ky2qyz",
       "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
@@ -72,14 +88,6 @@
       "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
     },
     {
-      "id": "feed-1ylxk6z",
-      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T21:42:39.000Z",
-      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
-    },
-    {
       "id": "feed-tmsi3q",
       "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
       "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T17:01:47.000Z",
       "summary": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies."
-    },
-    {
-      "id": "feed-xqk7g8",
-      "title": "Crowd of 50 beats foreigner to death in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T16:15:25.000Z",
-      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year."
     }
   ]
 }
