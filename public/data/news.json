@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T17:53:42.897Z",
-  "generatedAt": "2026-10-23T17:53:42.897Z",
+  "updatedAt": "2026-10-23T18:15:19.352Z",
+  "generatedAt": "2026-10-23T18:15:19.352Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -104,14 +104,34 @@
   ],
   "articles": [
     {
-      "id": "feed-umz6kw",
-      "title": "Trump’s justice department sues to block Senate race certification in Alaska if Republican loses – live",
+      "id": "feed-tav1sp",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
+      "publishedAt": "2026-10-23T18:10:56.000Z",
+      "category": "world",
+      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
+    },
+    {
+      "id": "feed-ch5ux6",
+      "title": "Justice department sues to block Alaska US Senate race certification if Trump-backed Republican loses – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-      "publishedAt": "2026-10-23T17:36:06.000Z",
+      "publishedAt": "2026-10-23T18:08:24.000Z",
       "category": "world",
       "summary": "Preliminary lawsuit claims there could be ‘voter confusion’ about the two Dan Sullivans on the ballot, which could influence the race’s outcome in favor of the Democratic nominee, Mary Peltola Sign up for the Breaking News US email With less than two weeks unt"
+    },
+    {
+      "id": "feed-19tc2hk",
+      "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+      "publishedAt": "2026-10-23T18:05:28.000Z",
+      "category": "world",
+      "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where on"
     },
     {
       "id": "feed-1cimg63",
@@ -119,9 +139,9 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/oct/23/ipswich-v-nottingham-forest-premier-league-live",
-      "publishedAt": "2026-10-23T17:30:09.000Z",
+      "publishedAt": "2026-10-23T17:54:20.000Z",
       "category": "uk",
-      "summary": "⚽ Updates from the 8pm BST kick-off at Portman Road ⚽ Ten things to look out for | How they stand | Mail Scott At last, the 1978 show! That year marking the start of imperial phases for both of these clubs: Ipswich Town won their first and only FA Cup, Notting"
+      "summary": "⚽ Updates from the 8pm BST kick-off at Portman Road ⚽ Ten things to look out for | How they stand | Mail Scott Nottingham Forest also make two changes to their starting XI, after their 1-0 loss at home to the champions Arsenal. Morgan Gibbs-White and Nikola Mi"
     },
     {
       "id": "feed-bjdegi",
@@ -212,16 +232,6 @@
       "publishedAt": "2026-10-23T17:14:16.000Z",
       "category": "uk",
       "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and r"
-    },
-    {
-      "id": "feed-19tc2hk",
-      "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-      "publishedAt": "2026-10-23T17:14:16.000Z",
-      "category": "world",
-      "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where on"
     },
     {
       "id": "feed-1ywuigl",
@@ -372,16 +382,6 @@
       "publishedAt": "2026-10-23T16:35:48.000Z",
       "category": "uk",
       "summary": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider deb"
-    },
-    {
-      "id": "feed-tav1sp",
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
-      "publishedAt": "2026-10-23T16:33:11.000Z",
-      "category": "world",
-      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
     },
     {
       "id": "feed-1ai2wo7",
@@ -1374,8 +1374,8 @@
       "summary": "The Duchess of Sussex has said she is \"deeply distressed\" by allegations that her estranged father possessed child sex abuse images."
     },
     {
-      "id": "feed-fhlnc2",
-      "title": "Fatal shooting in Paris suburb 'clearly a terrorist crime', says minister",
+      "id": "feed-qp70pb",
+      "title": "Fatal shooting in Paris suburb 'clearly a terrorist crime' - as suspect arrested",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320",
