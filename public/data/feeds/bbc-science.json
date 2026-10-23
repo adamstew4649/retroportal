@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T09:58:32.101Z",
+  "updatedAt": "2026-10-23T10:23:15.946Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-zxevjl",
+      "title": "Fund to help businesses switch to green vehicles",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ydqjvg9lo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T10:15:00.000Z",
+      "summary": "Council leader Stephen Place says it will help businesses counter the rising cost of fuel."
+    },
     {
       "id": "feed-dsfd34",
       "title": "Weather warnings in place ahead of Storm Boelo",
@@ -21,7 +29,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o",
       "source": "BBC News",
       "publishedAt": "2026-10-23T09:47:42.000Z",
-      "summary": "It is the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
+      "summary": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
     },
     {
       "id": "feed-1rtmc3r",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T11:23:16.000Z",
       "summary": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region."
-    },
-    {
-      "id": "feed-80tewc",
-      "title": "Project aims to protect rare arctic-alpine plants",
-      "link": "https://www.bbc.co.uk/news/articles/c6ewe4zyyg0ro",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T11:11:13.000Z",
-      "summary": "The three year scheme is awarded £65,000 to collect seeds and plant them in the fells."
     }
   ]
 }
