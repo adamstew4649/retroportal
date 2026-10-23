@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T23:49:52.130Z",
+  "updatedAt": "2026-10-23T00:12:27.665Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-rwpc9y",
+      "title": "Amber warning in place as Storm Austen hits parts of UK",
+      "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T00:08:43.000Z",
+      "summary": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday."
+    },
     {
       "id": "feed-11159r7",
       "title": "Grid operator says lights will stay on this winter after concerns",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T06:09:44.000Z",
       "summary": "Scotland editor James Cook visits Rosebank - the UK's largest known untapped oilfield - in the North Atlantic."
-    },
-    {
-      "id": "feed-a0prz7",
-      "title": "NI risks missing 2030 energy goals, says Stormont committee",
-      "link": "https://www.bbc.co.uk/news/articles/c623d18dl3v0o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T05:09:52.000Z",
-      "summary": "A committee hears that Northern Ireland could lose out on economic opportunities if action is not accelerated."
     }
   ]
 }
