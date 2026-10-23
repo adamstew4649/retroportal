@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T12:16:25.263Z",
+  "updatedAt": "2026-10-23T13:07:45.977Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-2dgscm",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T12:24:17.000Z",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+    },
     {
       "id": "feed-1o1z46r",
       "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
@@ -38,14 +46,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T17:12:51.000Z",
       "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
-    },
-    {
-      "id": "feed-2dgscm",
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T11:15:58.000Z",
-      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
     },
     {
       "id": "feed-mbdjh0",
