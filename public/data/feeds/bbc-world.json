@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T15:00:54.242Z",
+  "updatedAt": "2026-10-23T16:00:35.269Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,28 +8,44 @@
   },
   "articles": [
     {
+      "id": "feed-1ljghll",
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T15:48:04.000Z",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+    },
+    {
+      "id": "feed-tdqk9j",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T15:37:07.000Z",
+      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
+    },
+    {
+      "id": "feed-taeplo",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T15:30:47.000Z",
+      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife"
+    },
+    {
       "id": "feed-tr2s4q",
       "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
       "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
       "source": "BBC News",
-      "publishedAt": "2026-10-23T15:00:27.000Z",
+      "publishedAt": "2026-10-23T15:15:18.000Z",
       "summary": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way."
     },
     {
-      "id": "feed-1gv00vl",
-      "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+      "id": "feed-18w1ka1",
+      "title": "US justice department investigating Corey Lewandowski over DHS role",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o",
       "source": "BBC News",
-      "publishedAt": "2026-10-23T14:48:10.000Z",
-      "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
-    },
-    {
-      "id": "feed-fqdor5",
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T14:45:43.000Z",
-      "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election."
+      "publishedAt": "2026-10-23T14:58:19.000Z",
+      "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain."
     },
     {
       "id": "feed-pfitco",
@@ -128,28 +144,12 @@
       "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year."
     },
     {
-      "id": "feed-7ywki8",
-      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T06:26:25.000Z",
-      "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
-    },
-    {
       "id": "feed-c7rdza",
       "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o",
       "source": "BBC News",
       "publishedAt": "2026-10-23T05:16:37.000Z",
       "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region."
-    },
-    {
-      "id": "feed-1ufgbzd",
-      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
-      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T05:05:03.000Z",
-      "summary": "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
     }
   ]
 }
