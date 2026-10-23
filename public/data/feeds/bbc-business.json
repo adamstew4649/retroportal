@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T10:23:15.946Z",
+  "updatedAt": "2026-10-23T10:55:39.532Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-frynrh",
+      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T10:49:36.000Z",
+      "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
+    },
     {
       "id": "feed-wtuzs7",
       "title": "What is the Budget and what could be in it?",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T05:29:22.000Z",
       "summary": "Roslynn Garner-Gatley starts using a hot water bottle, bed socks and earlier bedtimes to stay warm."
-    },
-    {
-      "id": "feed-1tpm5ag",
-      "title": "Is an 'AI war' complicating your job search?",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T05:01:31.000Z",
-      "summary": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?"
     }
   ]
 }
