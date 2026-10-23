@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T14:02:29.216Z",
-  "generatedAt": "2026-10-23T14:02:29.216Z",
+  "updatedAt": "2026-10-23T15:00:54.246Z",
+  "generatedAt": "2026-10-23T15:00:54.246Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,134 @@
   ],
   "articles": [
     {
-      "id": "feed-dsfd34",
-      "title": "Weather warnings in place ahead of Storm Boelo",
+      "id": "feed-tr2s4q",
+      "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o",
-      "publishedAt": "2026-10-23T13:58:38.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
+      "publishedAt": "2026-10-23T15:00:27.000Z",
+      "category": "world",
+      "summary": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way."
+    },
+    {
+      "id": "feed-1wigva4",
+      "title": "I thought I was dying but it was health anxiety - here's how to recognise the signs",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yez87qwvdo",
+      "publishedAt": "2026-10-23T14:57:30.000Z",
+      "category": "uk",
+      "summary": "Hollie Sharman shares her experience of health anxiety and a doctor advises on how to manage symptoms."
+    },
+    {
+      "id": "feed-15ejn5r",
+      "title": "Prince William makes surprise appearance on Graham Norton show",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/prince-william-graham-norton-show",
+      "publishedAt": "2026-10-23T14:52:06.000Z",
+      "category": "world",
+      "summary": "Cate Blanchett and Hannah Waddingham join William on sofa for special edition to celebrate prince’s Earthshot prize The Prince of Wales has braved the chatshow sofa, making a surprise appearance on The Graham Norton Show. In the pre-recorded show, to be aired "
+    },
+    {
+      "id": "feed-15mpb2x",
+      "title": "US supreme court sides with Republicans on rejecting student IDs in New Hampshire midterms",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms",
+      "publishedAt": "2026-10-23T14:51:46.000Z",
+      "category": "world",
+      "summary": "Voting rights advocates say directive would disenfranchise young and low-income voters, but Republicans say it’s needed to combat voter fraud US politics live – latest updates The US supreme court has cleared the way for New Hampshire to prohibit student IDs a"
+    },
+    {
+      "id": "feed-9ygbj0",
+      "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
+      "publishedAt": "2026-10-23T14:50:49.000Z",
+      "category": "world",
+      "summary": "The prime minister said the government is having conversation about emergency preparedness A DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main decision-making body amid a row with party leadership over the "
+    },
+    {
+      "id": "feed-5raqij",
+      "title": "Reader Q&A: what’s next for France? Ask our Europe columnists – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+      "publishedAt": "2026-10-23T14:49:53.000Z",
+      "category": "world",
+      "summary": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst are taking questions from readers about the riots and protests in France. Join the discussion in the comments here . David Welling asks: On the matter of so-called police violence. The question shou"
+    },
+    {
+      "id": "feed-1gv00vl",
+      "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+      "publishedAt": "2026-10-23T14:48:10.000Z",
+      "category": "world",
+      "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+    },
+    {
+      "id": "feed-fqdor5",
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
+      "publishedAt": "2026-10-23T14:45:43.000Z",
+      "category": "world",
+      "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election."
+    },
+    {
+      "id": "feed-19tc2hk",
+      "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+      "publishedAt": "2026-10-23T14:45:39.000Z",
+      "category": "uk",
+      "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where on"
+    },
+    {
+      "id": "feed-ylr8cg",
+      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o",
+      "publishedAt": "2026-10-23T14:44:59.000Z",
       "category": "science",
-      "summary": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
+      "summary": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
+    },
+    {
+      "id": "feed-hrxzuo",
+      "title": "A farewell to BioWare, maker of some of the best games of the 21st century | Lucy James",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/games/2026/oct/23/bioware-rpg-games-ea-closure-mass-effect",
+      "publishedAt": "2026-10-23T14:44:48.000Z",
+      "category": "technology",
+      "summary": "The closure of the studio responsible for some of the best games of the 21st century leaves the world of RPGs feeling smaller without the hope of another instalment of the much-loved sci-fi series Earlier this week, EA announced the closure of BioWare, a game "
+    },
+    {
+      "id": "feed-1qqr5f2",
+      "title": "Carrick delivers near six-minute monologue defending United; Dortmund take on the influencers: football – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/23/manchester-united-latest-european-reaction-and-more-football-news-live",
+      "publishedAt": "2026-10-23T14:44:41.000Z",
+      "category": "uk",
+      "summary": "⚽ All the latest news going into the weekend’s action ⚽ Premier League: weekend guide | Mail Rob Álvaro Arbeloa’s been talking ahead of Fulham’s trip to Coventry on Saturday, and buoyed up by last weekend’s much needed win over Hull. “Nothing has changed for u"
+    },
+    {
+      "id": "feed-1gtlzko",
+      "title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+      "publishedAt": "2026-10-23T14:44:03.000Z",
+      "category": "world",
+      "summary": "Trump to campaign for gubernatorial candidate Byron Donalds, who has distanced himself from president; Trump doubled down on support for Ramaswamy Sign up for the Breaking News US email With fewer than two weeks until the midterms, my colleague Jonathan Freedl"
     },
     {
       "id": "feed-tfz3or",
@@ -119,9 +239,179 @@
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo",
-      "publishedAt": "2026-10-23T13:58:04.000Z",
+      "publishedAt": "2026-10-23T14:43:48.000Z",
       "category": "uk",
       "summary": "The Duchess of Sussex issues a statement following reports her estranged father is being investigated over child sex abuse images in the Philippines."
+    },
+    {
+      "id": "feed-3t180w",
+      "title": "Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - as it happened",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news",
+      "publishedAt": "2026-10-23T14:39:21.000Z",
+      "category": "uk",
+      "summary": "Rolling coverage of the latest economic and financial news Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead to a fall in sales of beer and cider. The world’s second largest brewer sent a presentation to Brit"
+    },
+    {
+      "id": "feed-ajf4zb",
+      "title": "Telegraph cuts up to 100 jobs as new owner promises to turn paper into ‘AI-powered’ global business",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/media/2026/oct/23/telegraph-job-cuts-axel-springer-owner-promises-turn-paper-ai-powered-global-business",
+      "publishedAt": "2026-10-23T14:38:03.000Z",
+      "category": "uk",
+      "summary": "Redundancies come after paper was bought in June by European media group Axel Springer The new owners of the Daily Telegraph have made large numbers of staff redundant, telling them the title will be transformed from a newspaper “into a global, AI-powered prem"
+    },
+    {
+      "id": "feed-dsfd34",
+      "title": "Weather warnings in place ahead of Storm Boelo",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o",
+      "publishedAt": "2026-10-23T14:37:05.000Z",
+      "category": "science",
+      "summary": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
+    },
+    {
+      "id": "feed-h24b04",
+      "title": "Nobody Wants This creator says she disagrees with Adam Brody’s ‘free Palestine’ comments",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/nobody-wants-this-adam-brody-palestine-comments",
+      "publishedAt": "2026-10-23T14:33:52.000Z",
+      "category": "uk",
+      "summary": "After Brody called out the ‘death and misery’ in Palestine, the Netflix hit’s Jewish creator said they don’t see eye to eye The creator of the hit Netflix comedy Nobody Wants This has responded to star Adam Brody’s recent support of Palestine amid the Israel-G"
+    },
+    {
+      "id": "feed-1z0gaw6",
+      "title": "We’re teenage girls fighting to ban the use of school uniform in porn. Why have you left it up to us? | Rose, Mae, Aylin and Willow",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/teenage-girls-ban-school-uniform-porn-children-minors",
+      "publishedAt": "2026-10-23T14:33:05.000Z",
+      "category": "uk",
+      "summary": "No one should have to feel nervous about walking to school in clothes designed for children. It’s time for UK law to end the disgusting sexualisation of minors In the Little Feminist Book Club, we don’t read a lot of books. The group, set up by former students"
+    },
+    {
+      "id": "feed-f1yuqy",
+      "title": "Allegations against Thomas Markle Sr challenge media’s Meghan narrative",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative",
+      "publishedAt": "2026-10-23T14:31:42.000Z",
+      "category": "uk",
+      "summary": "Duchess of Sussex’s decision to cut ties with elderly father cast in new light as he faces sexual abuse image claims Meghan ‘deeply distressed’ by allegations against father The depiction of the Duchess of Sussex by certain sections of the media has often been"
+    },
+    {
+      "id": "feed-wb7uwu",
+      "title": "France to deploy 70,000 police across country on Saturday to prevent unrest",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
+      "publishedAt": "2026-10-23T14:31:23.000Z",
+      "category": "uk",
+      "summary": "Move follows some of the worst street violence in years on the fringes of cost-of-living protests last weekend France will deploy about 70,000 police around the country on Saturday as the government seeks to prevent more civil unrest after some of the worst st"
+    },
+    {
+      "id": "feed-1ovfchr",
+      "title": "Mum sentenced for killing her three children",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g17qn738xo",
+      "publishedAt": "2026-10-23T14:24:42.000Z",
+      "category": "uk",
+      "summary": "Yasmeen Ali, 44, is given an indefinite hospital order after admitting their manslaughter."
+    },
+    {
+      "id": "feed-gjpbrs",
+      "title": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "publishedAt": "2026-10-23T14:19:30.000Z",
+      "category": "uk",
+      "summary": "Two soldiers and two Palestinians killed in exchange of fire outside Hebron, where Israeli military says it thwarted ‘terror attack’ Benjamin Netanyahu has ordered the army to prepare for a “very extensive” operation in the occupied West Bank after two Israeli"
+    },
+    {
+      "id": "feed-pfitco",
+      "title": "PSG v Lyon moved as Paris prepares for more protests",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po",
+      "publishedAt": "2026-10-23T14:18:41.000Z",
+      "category": "world",
+      "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests."
+    },
+    {
+      "id": "feed-1im9scq",
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
+      "publishedAt": "2026-10-23T14:15:23.000Z",
+      "category": "world",
+      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
+    },
+    {
+      "id": "feed-1lvc352",
+      "title": "PM defends Gogglebox appearance after Badenoch criticism",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g140585ngo",
+      "publishedAt": "2026-10-23T14:13:43.000Z",
+      "category": "uk",
+      "summary": "Burnham says he \"makes no apology\" for the move as Kemi Badenoch says she is \"amazed\" he has time."
+    },
+    {
+      "id": "feed-5ji7qg",
+      "title": "A West Bank shootout and a Liverpool light festival: photos of the day – Friday",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/news/gallery/2026/oct/23/west-bank-liverpool-light-festival-photos-of-the-day-friday",
+      "publishedAt": "2026-10-23T14:07:02.000Z",
+      "category": "uk",
+      "summary": "The Guardian’s picture editors select photographs from around the world Warning: this gallery contains sensitive images Continue reading..."
+    },
+    {
+      "id": "feed-maqtch",
+      "title": "Photos fill the frame at the Epson Pano awards 2026 – in pictures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/23/epson-pano-awards-2026-in-pictures",
+      "publishedAt": "2026-10-23T14:00:31.000Z",
+      "category": "uk",
+      "summary": "The Epson Pano awards celebrate panoramic photography from first-time entrants and established professionals alike. This year, the 17th iteration, adds a new aerial category to show off the unique format This gallery is best viewed on desktop Beautifully stran"
+    },
+    {
+      "id": "feed-1ldx06v",
+      "title": "How I Shop with Bill Bailey: ‘Could be a life-saver in an apocalypse’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/thefilter/2026/oct/23/how-i-shop-with-bill-bailey",
+      "publishedAt": "2026-10-23T14:00:28.000Z",
+      "category": "uk",
+      "summary": "Always wondered what everyday stuff celebrities buy, where they shop for food and the basics they scrimp on? The comedian and musician talks medieval instruments, hiking socks and coffee rituals with the Filter • Don’t get the Filter delivered to your inbox? S"
+    },
+    {
+      "id": "feed-1jxax9s",
+      "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+      "publishedAt": "2026-10-23T14:00:28.000Z",
+      "category": "technology",
+      "summary": "Anthropic claims AI will shift how work gets done and labor demand – but some experts are skeptical of the vision Last year, Anthropic CEO Dario Amodei warned that artificial intelligence could eliminate half of entry-level white-collar jobs and that in six mo"
+    },
+    {
+      "id": "feed-1y5yu6o",
+      "title": "Crowded nest? How parents and their adult kids can live together in peace",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/23/crowded-nest-parents-adult-kids-live-together-peace",
+      "publishedAt": "2026-10-23T14:00:27.000Z",
+      "category": "uk",
+      "summary": "With record numbers of adult children living at home with their parents, how can this arrangement work for everyone? Set ground rules from the off, respect each other’s privacy, and don’t revert to type, say the experts Whether they are fresh out of university"
     },
     {
       "id": "feed-1bbzt7j",
@@ -134,26 +424,6 @@
       "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​th"
     },
     {
-      "id": "feed-1qf37p8",
-      "title": "Carrick ‘100%’ sure he can lead United forward; Dortmund take on the influencers: football – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/23/manchester-united-latest-european-reaction-and-more-football-news-live",
-      "publishedAt": "2026-10-23T13:56:55.000Z",
-      "category": "uk",
-      "summary": "⚽ All the latest news going into the weekend’s action ⚽ Premier League: weekend guide | Mail Tom Álvaro Arbeloa’s been talking ahead of Fulham’s trip to Coventry on Saturday, and buoyed up by last weekend’s much needed win over Hull. “Nothing has changed for u"
-    },
-    {
-      "id": "feed-1dqafsk",
-      "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-      "publishedAt": "2026-10-23T13:55:38.000Z",
-      "category": "uk",
-      "summary": "Interior minister Laurent Nuñez defended blanket bans on demonstrations in some parts of France The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four othe"
-    },
-    {
       "id": "feed-1cgbt2v",
       "title": "UK government to make unprecedented intervention in setting of water bills",
       "source": "The Guardian",
@@ -164,26 +434,6 @@
       "summary": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’ UK politics live – latest updates Ministers will make an unprecedented intervention in water bills and how companies prioritise investment, directing b"
     },
     {
-      "id": "feed-9ygbj0",
-      "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
-      "publishedAt": "2026-10-23T13:47:30.000Z",
-      "category": "world",
-      "summary": "The prime minister said the government is having conversation about emergency preparedness A DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main decision-making body amid a row with party leadership over the "
-    },
-    {
-      "id": "feed-vv4fxu",
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
-      "publishedAt": "2026-10-23T13:37:20.000Z",
-      "category": "world",
-      "summary": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way."
-    },
-    {
       "id": "feed-1r7ojnj",
       "title": "Crystal Palace and Newcastle face off with both in search of season kickstart",
       "source": "The Guardian",
@@ -192,26 +442,6 @@
       "publishedAt": "2026-10-23T13:36:21.000Z",
       "category": "uk",
       "summary": "Pierre Sage and Matthias Jaissle were appointed this summer and good form has been elusive, with injuries and tactics as factors Conceding 17 goals in seven Premier League matches is not exactly the start Pierre Sage or Crystal Palace’s hierarchy would have ho"
-    },
-    {
-      "id": "feed-8m27v6",
-      "title": "Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news",
-      "publishedAt": "2026-10-23T13:35:48.000Z",
-      "category": "uk",
-      "summary": "Rolling coverage of the latest economic and financial news Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead to a fall in sales of beer and cider. The world’s second largest brewer sent a presentation to Brit"
-    },
-    {
-      "id": "feed-1gtlzko",
-      "title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-      "publishedAt": "2026-10-23T13:35:40.000Z",
-      "category": "world",
-      "summary": "Trump to campaign for gubernatorial candidate Byron Donalds, who has distanced himself from president; Trump doubled down on support for Ramaswamy Sign up for the Breaking News US email With only 11 days until the midterm elections, and with more than 20m earl"
     },
     {
       "id": "feed-1j7px1l",
@@ -232,26 +462,6 @@
       "publishedAt": "2026-10-23T13:27:04.000Z",
       "category": "world",
       "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Business live – latest updates Oil has hit its highest level in more than five months as fears of fresh escalation in the Middle East conflict grip the energ"
-    },
-    {
-      "id": "feed-wue51m",
-      "title": "Anti-terror police investigate as one person killed in shooting near Paris",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
-      "publishedAt": "2026-10-23T13:26:48.000Z",
-      "category": "world",
-      "summary": "French Prime Minister Sébastien Lecornu says the suspected gunman has been apprehended."
-    },
-    {
-      "id": "feed-gjpbrs",
-      "title": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-      "publishedAt": "2026-10-23T13:26:32.000Z",
-      "category": "uk",
-      "summary": "Israel’s prime minister gives order after military says it thwarted ‘terror attack’ by two armed Palestinians Benjamin Netanyahu has ordered the army to prepare for a “very extensive” operation in the occupied West Bank after two Israeli soldiers and two Pales"
     },
     {
       "id": "feed-nnljzr",
@@ -284,34 +494,14 @@
       "summary": "Campaigners are asking for a judicial review into Home Office plans for MoD Bicester."
     },
     {
-      "id": "feed-1w82scb",
-      "title": "Ryu Murakami, cult Japanese author, dies aged 74",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/books/2026/oct/23/ryu-murakami-cult-author-of-coin-locker-babies-and-audition-dies-aged-74",
-      "publishedAt": "2026-10-23T13:21:16.000Z",
+      "id": "feed-3tf5s1",
+      "title": "Airbnb hosts can't ask guests to do 'chores' anymore in rule change",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/airbnb-hosts-can-no-longer-ask-guests-to-do-dishes-or-strip-bed-under-new-rules-13602685",
+      "publishedAt": "2026-10-23T13:05:00.000Z",
       "category": "uk",
-      "summary": "The bestselling writer, known as Japan’s enfant terrible, explored the dark underbelly of Japanese society in more than 40 works of subversive fiction including Audition, later made into a landmark indie horror movie Ryu Murakami, the cult Japanese author and "
-    },
-    {
-      "id": "feed-d1o8to",
-      "title": "Met police searching for suspect after man shot near Royal Artillery barracks",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/23/shooting-royal-artillery-barracks-woolwich-london",
-      "publishedAt": "2026-10-23T13:08:56.000Z",
-      "category": "uk",
-      "summary": "Victim left with life-threatening injuries after incident in Frances Street, Woolwich, south-east London Police are searching for a suspect after a man was shot near the Royal Artillery barracks in south-east London. The victim has been left with life-threaten"
-    },
-    {
-      "id": "feed-ylr8cg",
-      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o",
-      "publishedAt": "2026-10-23T13:00:59.000Z",
-      "category": "science",
-      "summary": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
+      "summary": "Airbnb hosts will no longer be able to ask guests to do the dishes or strip the beds under new rules announced by the platform."
     },
     {
       "id": "feed-g1s0yp",
@@ -320,18 +510,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
       "publishedAt": "2026-10-23T12:59:38.000Z",
-      "category": "uk",
-      "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and r"
-    },
-    {
-      "id": "feed-cq7waj",
-      "title": "Andy Burnham says he has emergency stockpile of beans, soup and Twiglets",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/2026/oct/23/andy-burnham-emergency-stockpile-twiglets",
-      "publishedAt": "2026-10-23T12:57:06.000Z",
       "category": "world",
-      "summary": "PM’s revelation follows launch of advice for households to have enough water and food to get by in civil emergency UK politics live – latest updates Andy Burnham has stockpiles of beans, soup and Twiglets in case of a civil emergency, he has said, adding that "
+      "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and r"
     },
     {
       "id": "feed-1u5benl",
@@ -344,26 +524,6 @@
       "summary": "Six people have died and 28 have been injured after gunmen opened fire on a funeral at a church in Jordan."
     },
     {
-      "id": "feed-u3ou17",
-      "title": "Will Borthwick’s autumn England squad embrace Prem chaos or prioritise prudence? | Gerard Meagher",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/23/rugby-union-england-steve-borthwick-selection-autumn-nations-championship",
-      "publishedAt": "2026-10-23T12:56:07.000Z",
-      "category": "uk",
-      "summary": "Scoring spree will be forgotten at the Rugby World Cup, and a return for Courtney Lawes may hint at coach’s thinking It says much about Steve Borthwick’s approach to England’s coming autumn campaign that he is due to name his training squad within minutes of t"
-    },
-    {
-      "id": "feed-fqdor5",
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
-      "publishedAt": "2026-10-23T12:48:52.000Z",
-      "category": "world",
-      "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election."
-    },
-    {
       "id": "feed-3gjawq",
       "title": "Burnham suggests stocking up on tinned food and bottled water",
       "source": "BBC News",
@@ -374,43 +534,13 @@
       "summary": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare."
     },
     {
-      "id": "feed-ybvkfb",
-      "title": "I expect you to cry: what the James Bond actors may face at the final audition",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/oct/23/i-expect-you-to-cry-what-the-james-bond-actors-may-face-at-the-final-audition",
-      "publishedAt": "2026-10-23T12:38:44.000Z",
-      "category": "uk",
-      "summary": "Jack Lowden, Callum Turner and Josh O’Connor are rumoured to be the final candidates taking screentests this weekend. So how can they best prepare? And who is likely to triumph? This weekend, the identity of the next James Bond is finally expected to be known "
-    },
-    {
-      "id": "feed-ccwrt",
-      "title": "Telegraph cuts 100 jobs as new owner promises to turn paper into ‘AI-powered’ global business",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/media/2026/oct/23/telegraph-job-cuts-axel-springer-owner-promises-turn-paper-ai-powered-global-business",
-      "publishedAt": "2026-10-23T12:34:19.000Z",
-      "category": "uk",
-      "summary": "Redundancies come after paper was bought in June by European media group Axel Springer The new owners of the Daily Telegraph have made large numbers of staff redundant, telling them the title will be transformed from a newspaper “into a global, AI-powered prem"
-    },
-    {
-      "id": "feed-kmnuz9",
-      "title": "World and Olympic marathon champion Jepchirchir suspended after positive doping test",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/23/world-olympic-marathon-champion-peres-jepchirchir-suspended-positive-doping-test-athletics",
-      "publishedAt": "2026-10-23T12:31:29.000Z",
-      "category": "uk",
-      "summary": "AIU investigates after sample tested positive for EPO 33-year-old won Olympic marathon in 2021 In a fresh hammer blow for Kenyan athletics, world marathon champion Peres Jepchirchir has been provisionally suspended for doping, the Athletics Integrity Unit anno"
-    },
-    {
       "id": "feed-da1yzo",
       "title": "Hammersmith Bridge is a symbol of our dysfunctional times. The money is there, the joined-up thinking isn’t | Simon Jenkins",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/23/hammersmith-bridge-crumbling-traffic-delays-roadworks-london",
       "publishedAt": "2026-10-23T12:30:26.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "London’s roads are horrendous, with constant roadworks and creaking infrastructure. And the emblem of all that spans the River Thames London’s Hammersmith Bridge is a metaphor for all that is wrong with British government. Closed to motor traffic and inert for"
     },
     {
@@ -420,7 +550,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
       "publishedAt": "2026-10-23T12:26:53.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "New PM has prioritised small fixes to show voters Labour can make a real difference, and government insiders are delighted at the public’s reaction In the first episode of Armando Iannucci’s political satire The Thick of It, the hapless minister Hugh Abbot is "
     },
     {
@@ -442,16 +572,6 @@
       "publishedAt": "2026-10-23T12:24:17.000Z",
       "category": "technology",
       "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
-    },
-    {
-      "id": "feed-1bnqtbm",
-      "title": "Stranger things turn an English village upside down in Max Porter’s rural noir Lanny",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/stage/2026/oct/23/lanny-review-bristol-old-vic-max-porter",
-      "publishedAt": "2026-10-23T12:23:46.000Z",
-      "category": "uk",
-      "summary": "Bristol Old Vic A family are just getting used to their new home in this haunting drama when a parallel world emerges Overheard in the auditorium during the interval: it’s like Tales of the Unexpected meets Jackanory. But if those references are dated by sever"
     },
     {
       "id": "feed-13ugrs",
@@ -484,14 +604,14 @@
       "summary": "Nathan Owens had a \"longstanding sexual obsession\" with his stepdaughter Carla Georgescu, a judge says."
     },
     {
-      "id": "feed-aa28wr",
-      "title": "Ukraine troops report continuing Starlink problems despite Trump claims",
+      "id": "feed-od7w7y",
+      "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
       "publishedAt": "2026-10-23T12:09:08.000Z",
       "category": "world",
-      "summary": "Communications system still faces speed restrictions after US president said Musk had resumed full service Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row? Ukrainian forces continue to report widespread disruptions to the Starlink satell"
+      "summary": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weeds The White House said on Friday that Russia and Ukraine had agreed to a ceasefire in the Russian-occupied city of Oleshky, where a de"
     },
     {
       "id": "feed-15rfuie",
@@ -564,14 +684,14 @@
       "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
     },
     {
-      "id": "feed-1ovfchr",
-      "title": "Mum sentenced for killing her three children",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g17qn738xo",
-      "publishedAt": "2026-10-23T11:40:01.000Z",
+      "id": "feed-1m4rrjx",
+      "title": "What is in the Be Ready checklist as Britons urged to stock up to survive potential cyber or climate emergencies?",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/what-is-in-the-be-ready-checklist-as-britons-urged-to-stock-up-to-survive-potential-cyber-or-climate-emergencies-13602659",
+      "publishedAt": "2026-10-23T11:33:00.000Z",
       "category": "uk",
-      "summary": "Yasmeen Ali, 44, is given an indefinite hospital order after admitting their manslaughter."
+      "summary": "The British public is being urged to stockpile food, water and emergency supplies as part of national efforts to prepare the UK for any potential crises."
     },
     {
       "id": "feed-zalt4k",
@@ -594,26 +714,6 @@
       "summary": "People under 35 are hunting for no-frills rides they can pay for in cash and fix themselves – defying expectations to take on steep loans Jack Price joined the Marines in fall 2021 knowing he would need a car to get around base and that he couldn’t afford a ne"
     },
     {
-      "id": "feed-13a0vv",
-      "title": "The mega-Maga contender in deep-red Florida who doesn’t want to talk about Trump",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/byron-donalds-florida-trump",
-      "publishedAt": "2026-10-23T11:22:38.000Z",
-      "category": "world",
-      "summary": "Byron Donalds removed mentions of the president from his website and has barely uttered his name – will his ploy prove successful in a tight governor’s race? It took Byron Donalds, addressing a wildly supportive crowd at a rally in Florida’s bluest county, som"
-    },
-    {
-      "id": "feed-iiw22f",
-      "title": "I sat in A&E for 13 hours - here's how to recognise health anxiety",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yez87qwvdo",
-      "publishedAt": "2026-10-23T11:14:58.000Z",
-      "category": "uk",
-      "summary": "Hollie Sharman shares her experience of health anxiety and a doctor advises on how to manage symptoms."
-    },
-    {
       "id": "feed-z6ehi6",
       "title": "Man charged over Belfast knife attack pleads not guilty",
       "source": "BBC News",
@@ -624,16 +724,6 @@
       "summary": "A man charged in connection with a knife attack in north Belfast, that sparked serious disorder in the city, pleads not guilty to attempted murder."
     },
     {
-      "id": "feed-1a64co8",
-      "title": "Leaked trove reveals extent of far-right AfD’s efforts to court Trump and Maga allies",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-afd-maga-allies",
-      "publishedAt": "2026-10-23T11:07:00.000Z",
-      "category": "world",
-      "summary": "Exclusive: Documents show German party’s scramble to request support after president’s 2016 election win and co-leader’s pursuit of Steve Bannon A data leak from Germany’s far-right German Alternative für Deutschland (AfD) has revealed the extent of efforts by"
-    },
-    {
       "id": "feed-16a0aoh",
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
       "source": "BBC News",
@@ -642,16 +732,6 @@
       "publishedAt": "2026-10-23T11:01:08.000Z",
       "category": "world",
       "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
-    },
-    {
-      "id": "feed-18iiz4f",
-      "title": "What’s up with Trump’s unhinged fixation on male candidates’ bodies at rallies?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-midterm-rallies-male-bodies",
-      "publishedAt": "2026-10-23T11:00:32.000Z",
-      "category": "world",
-      "summary": "Trump’s latest tactic to champion Republicans at midterm rallies? Assessing men’s bodies in meticulous detail Speaking at a rally in Youngstown, Ohio, earlier this month, to support the Republican senator Jon Husted, Donald Trump broke from his prepared remark"
     },
     {
       "id": "feed-1mdibij",
@@ -792,6 +872,16 @@
       "publishedAt": "2026-10-23T09:23:53.000Z",
       "category": "world",
       "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms."
+    },
+    {
+      "id": "feed-1f7v699",
+      "title": "Three people linked to Conservatives sentenced after cheating at gambling on general election",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/three-people-linked-to-conservatives-sentenced-after-cheating-at-gambling-on-general-election-13602611",
+      "publishedAt": "2026-10-23T09:18:00.000Z",
+      "category": "uk",
+      "summary": "Three people linked to the Conservatives, including the party's former director of campaigning, have been given suspended sentences after admitting to cheating at gambling on the 2024 general election date."
     },
     {
       "id": "feed-b73szu",
@@ -960,7 +1050,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/the-1000-mistake-people-are-making-with-new-iphone-purchase-13602560",
       "publishedAt": "2026-10-23T06:39:00.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Apple's new iPhone Duo is the company's first foldable device - but at £1,999, it's not cheap."
     },
     {
@@ -980,7 +1070,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/mounjaro-rollout-on-nhs-needs-urgent-boost-say-mps-13602553",
       "publishedAt": "2026-10-23T06:01:00.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Plans for rolling out weight-loss drug Mounjaro are \"unambitious\" and will reach a \"woefully small number of people\", according to MPs."
     },
     {
@@ -1104,16 +1194,6 @@
       "summary": "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
     },
     {
-      "id": "feed-1p8ytk3",
-      "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo",
-      "publishedAt": "2026-10-23T05:00:12.000Z",
-      "category": "uk",
-      "summary": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system."
-    },
-    {
       "id": "feed-14hw254",
       "title": "Some of Europe’s highest energy costs expected in Britain this winter",
       "source": "The Guardian",
@@ -1184,26 +1264,6 @@
       "summary": "Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of"
     },
     {
-      "id": "feed-gc350j",
-      "title": "Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
-      "publishedAt": "2026-10-23T02:16:26.000Z",
-      "category": "business",
-      "summary": "A war of words has erupted over who is responsible for the restrictions on Starshield access in Ukraine A war of words has erupted between the Trump administration, officials in Kyiv and Elon Musk over who is to blame for limiting Ukraine’s access to Space X’s"
-    },
-    {
-      "id": "feed-udu7vn",
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o",
-      "publishedAt": "2026-10-23T01:38:44.000Z",
-      "category": "world",
-      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
-    },
-    {
       "id": "feed-7si0ve",
       "title": "Military aircraft to be equipped to fight wildfires",
       "source": "Sky News",
@@ -1212,16 +1272,6 @@
       "publishedAt": "2026-10-23T01:11:00.000Z",
       "category": "technology",
       "summary": "Military aircraft will be equipped to help tackle wildfires, the UK government has announced, after a summer of \"unrelenting\" blazes and sustained hot conditions."
-    },
-    {
-      "id": "feed-cfjmgp",
-      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo",
-      "publishedAt": "2026-10-22T23:55:39.000Z",
-      "category": "world",
-      "summary": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry."
     },
     {
       "id": "feed-be8gjt",
@@ -1244,14 +1294,14 @@
       "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
     },
     {
-      "id": "feed-mvkpwq",
-      "title": "Meghan told of 'disturbing allegations' against her father",
+      "id": "feed-1db6cz4",
+      "title": "Meghan's father investigated by police over child sex abuse image claims",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/meghan-deeply-distressed-by-allegations-against-her-father-thomas-markle-13602319",
       "publishedAt": "2026-10-22T23:01:00.000Z",
       "category": "uk",
-      "summary": "The Duchess of Sussex has said she is \"deeply distressed\" by reports of allegations against her father Thomas Markle."
+      "summary": "The Duchess of Sussex has said she is \"deeply distressed\" by allegations that her estranged father possessed child sex abuse images."
     },
     {
       "id": "feed-147r4nu",
@@ -1544,16 +1594,6 @@
       "summary": "The first human case of the Shamonda virus has been detected in France in a person who later died, according to authorities."
     },
     {
-      "id": "feed-1rezmbo",
-      "title": "Oxford quantum computing spinout QuantrolOx lands £10m funding boost",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/oxford-quantum-computing-spinout-quantrolox-lands-10m-funding-boost-13602169",
-      "publishedAt": "2026-10-22T08:26:00.000Z",
-      "category": "business",
-      "summary": "A quantum computing technology company which was spun out of Oxford University and won backing from the Arm Holdings founder Hermann Hauser has landed £10m in a new fundraising."
-    },
-    {
       "id": "feed-5d1l2l",
       "title": "UK working to identify exposure after global cyber-security warning",
       "source": "BBC News",
@@ -1612,16 +1652,6 @@
       "publishedAt": "2026-10-22T01:13:01.000Z",
       "category": "technology",
       "summary": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list"
-    },
-    {
-      "id": "feed-qqj8n6",
-      "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
-      "publishedAt": "2026-10-21T23:33:34.000Z",
-      "category": "technology",
-      "summary": "Jury had found Meta misled consumers after Trump’s 2016 presidential campaign obtained user data without consent A judge in New Mexico ordered Meta Platforms to pay $25bn on ⁠Wednesday after a jury found the company had misled consumers in a case arising from "
     },
     {
       "id": "feed-5uyzy2",
@@ -1794,16 +1824,6 @@
       "summary": "Exceeding a key global climate target is now \"imminent and unavoidable\", United Nations (UN) scientists have warned."
     },
     {
-      "id": "feed-1gvnn1o",
-      "title": "Uganda reacts angrily as Nigeria confirms its first Ebola case",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/nigeria-confirms-ebola-case-as-outbreak-continues-to-spread-13601748",
-      "publishedAt": "2026-10-21T00:39:00.000Z",
-      "category": "world",
-      "summary": "Nigeria has recorded its first case of Ebola during the current outbreak, the country's health ministry has said - as the virus continues to spread internationally."
-    },
-    {
       "id": "feed-1272pn8",
       "title": "Bad apple effect: study shows how people are influenced by rule-breaking of others",
       "source": "The Guardian",
@@ -1822,16 +1842,6 @@
       "publishedAt": "2026-10-20T19:45:00.000Z",
       "category": "technology",
       "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
-    },
-    {
-      "id": "feed-16mn7a8",
-      "title": "The dangers of letting tech billionaires shape our world",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/global/2026/oct/19/musk-ukraine-ai-music",
-      "publishedAt": "2026-10-20T14:31:45.000Z",
-      "category": "technology",
-      "summary": "As SpaceX impacts Ukraine and AI-generated music divides artists and fans, critics are asking what happens when technology has too much control over our lives This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign "
     },
     {
       "id": "feed-da61ea",
@@ -1892,16 +1902,6 @@
       "publishedAt": "2026-10-15T18:49:45.000Z",
       "category": "science",
       "summary": "My brother Norman McCubbin, who has died aged 77, was a scientist who worked at the forefront of experimental particle physics. A leading light in experiments that took place on the Large Hadron Collider, the world’s biggest and most powerful particle accelera"
-    },
-    {
-      "id": "feed-e2wvex",
-      "title": "Neanderthals capable of both violence and care, bones from Iraqi cave suggest",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/neanderthals-capable-of-both-violence-and-care-bones-from-iraqi-cave-suggest-13599736",
-      "publishedAt": "2026-10-15T18:25:00.000Z",
-      "category": "technology",
-      "summary": "Neanderthals were not the unintelligent cave dwellers of popular imagination, but may have been capable of showing both violence and care, researchers who have discovered bones dating back 75,000 years have said."
     }
   ]
 }
