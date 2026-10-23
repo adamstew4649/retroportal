@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T09:26:28.016Z",
-  "generatedAt": "2026-10-23T09:26:28.016Z",
+  "updatedAt": "2026-10-23T09:58:32.104Z",
+  "generatedAt": "2026-10-23T09:58:32.104Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,134 @@
   ],
   "articles": [
     {
-      "id": "feed-13phjeb",
-      "title": "Weather warning in place ahead of Storm Boelo",
+      "id": "feed-dsfd34",
+      "title": "Weather warnings in place ahead of Storm Boelo",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o",
-      "publishedAt": "2026-10-23T09:11:19.000Z",
+      "publishedAt": "2026-10-23T09:53:51.000Z",
       "category": "science",
-      "summary": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday."
+      "summary": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
+    },
+    {
+      "id": "feed-90o2rz",
+      "title": "Government won’t put together ‘shopping list’ for public to stockpile for emergency – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
+      "publishedAt": "2026-10-23T09:53:08.000Z",
+      "category": "world",
+      "summary": "Ministers have repeated several warnings in the last 18 months about the threat of hybrid attacks from overseas Foreign secretary Ed Miliband is in Turkey today as he is set to join talks on the strait of Hormuz and the situation in Saudi Arabia. Ministers fro"
+    },
+    {
+      "id": "feed-1dhfhjf",
+      "title": "Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/23/manchester-united-latest-european-reaction-and-more-football-news-live",
+      "publishedAt": "2026-10-23T09:50:49.000Z",
+      "category": "uk",
+      "summary": "⚽ All the latest news going into the weekend’s action ⚽ Premier League: weekend guide | Mail Tom Álvaro Arbeloa’s been talking ahead of Fulham’s trip to Coventry on Saturday, and buoyed up by last weekend’s much needed win over Hull. “Nothing has changed for u"
+    },
+    {
+      "id": "feed-ylr8cg",
+      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o",
+      "publishedAt": "2026-10-23T09:47:42.000Z",
+      "category": "science",
+      "summary": "It is the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
+    },
+    {
+      "id": "feed-1i5v4td",
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
+      "publishedAt": "2026-10-23T09:44:40.000Z",
+      "category": "world",
+      "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election."
+    },
+    {
+      "id": "feed-lr52x",
+      "title": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+      "publishedAt": "2026-10-23T09:44:32.000Z",
+      "category": "uk",
+      "summary": "The satellite service was still operating at a cap of 161km/hr, crippling key air defences I’m going to track away from the French protests just slightly – although one of the demands of Parisian high schoolers is for air-conditioning and other basics in their"
+    },
+    {
+      "id": "feed-cx6zc4",
+      "title": "Detective raped by fellow officer David Carrick calls on Met chief to resign",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/detective-raped-by-fellow-officer-david-carrick-calls-on-met-chief-to-resign",
+      "publishedAt": "2026-10-23T09:42:28.000Z",
+      "category": "uk",
+      "summary": "Linda Williams says police force’s handling of her attack in 2004 was ‘like being raped all over again’ A detective who was raped by the former Scotland Yard officer David Carrick has called for the head of the Metropolitan police to resign, saying the handlin"
+    },
+    {
+      "id": "feed-h7ujfe",
+      "title": "Final James Bond screen tests to take place this weekend, reports say",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c50mep10dek7o",
+      "publishedAt": "2026-10-23T09:41:44.000Z",
+      "category": "uk",
+      "summary": "Callum Turner and Jack Lowden \"appear to be in the mix\" of actors doing screen tests for the role."
+    },
+    {
+      "id": "feed-1t6dwd",
+      "title": "Briton facing forced separation from baby son after Sweden orders his deportation",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
+      "publishedAt": "2026-10-23T09:37:12.000Z",
+      "category": "uk",
+      "summary": "Exclusive: Photographer Simon Montgomery told ‘state’s interest in regulated immigration’ outweighs his family concerns UK politics live – latest updates Europe live – latest updates A British photographer is facing deportation from Sweden and forced separatio"
+    },
+    {
+      "id": "feed-16a0aoh",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+      "publishedAt": "2026-10-23T09:36:43.000Z",
+      "category": "world",
+      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
+    },
+    {
+      "id": "feed-5attd",
+      "title": "The best thing since sliced bread? The Stephen Collins cartoon",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/picture/2026/oct/23/the-best-thing-since-sliced-bread-the-stephen-collins-cartoon",
+      "publishedAt": "2026-10-23T09:30:05.000Z",
+      "category": "uk",
+      "summary": "Continue reading..."
+    },
+    {
+      "id": "feed-1rtmc3r",
+      "title": "Storm Austen hits UK as yellow wind warnings in effect",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o",
+      "publishedAt": "2026-10-23T09:30:03.000Z",
+      "category": "science",
+      "summary": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday."
+    },
+    {
+      "id": "feed-apkwz4",
+      "title": "‘Overnight, everything was dead’: the Teeside fisherman turned activist dubbed the Mr Bates of the seas",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/oct/23/overnight-everything-was-dead-the-teeside-fisherman-turned-activist-dubbed-the-mr-bates-of-the-seas",
+      "publishedAt": "2026-10-23T09:13:35.000Z",
+      "category": "uk",
+      "summary": "When thousands of dying crabs washed up on a Yorkshire beach in 2021, Stan Rennie’s livelihood was immediately threatened. Five years later, he’s leading the fight back against toxic ocean pollution – and corporate coverups It was an otherwise typical day on 2"
     },
     {
       "id": "feed-8m27v6",
@@ -124,23 +244,13 @@
       "summary": "Rolling coverage of the latest economic and financial news Rob Wood , chief UK economist at Pantheon Macroeconomics, says the biggest news is from S&P’s PMI data is the composite employment index rising above 50 for the first time since the 2024 budget. He sai"
     },
     {
-      "id": "feed-lr52x",
-      "title": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-      "publishedAt": "2026-10-23T09:10:02.000Z",
-      "category": "uk",
-      "summary": "The satellite service was still operating at a cap of 161km/hr, crippling key air defences But Macron’s government has ramped up restrictions and security measures to try and stop the widespread looting and ransacking we saw on the fringes of the wider peacefu"
-    },
-    {
       "id": "feed-jdl0cb",
       "title": "Boom in weight-loss drugs could lead to drop in beer sales, Heineken warns British pubs",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
       "publishedAt": "2026-10-23T09:08:36.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "World’s second largest brewer says use of drugs such as Wegovy can reduce desire to drink alcohol Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead to a fall in sales of beer and cider. The world’s second lar"
     },
     {
@@ -194,26 +304,6 @@
       "summary": "The Friends alum makes up half of a messy and pretentious comedy drama that boasts some visual panache but is dragged down by a confused tone You could be forgiven, upon watching the first scene of Junk, for believing that this debut feature will boldly, perha"
     },
     {
-      "id": "feed-1t6dwd",
-      "title": "Briton facing forced separation from baby son after Sweden orders his deportation",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
-      "publishedAt": "2026-10-23T09:00:04.000Z",
-      "category": "uk",
-      "summary": "Exclusive: Photographer Simon Montgomery told ‘state’s interest in regulated immigration’ outweighs his family concerns UK politics live – latest updates Europe live – latest updates A British photographer is facing deportation from Sweden and forced separatio"
-    },
-    {
-      "id": "feed-1dhfhjf",
-      "title": "Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/23/manchester-united-latest-european-reaction-and-more-football-news-live",
-      "publishedAt": "2026-10-23T09:00:00.000Z",
-      "category": "uk",
-      "summary": "⚽ All the latest news going into the weekend’s action ⚽ Premier League: weekend guide | Mail Tom Manchester United are inviting fans to offer their views via a survey on the design of the proposed new 100,000-seat stadium. Colette Roche, United’s CEO New Stadi"
-    },
-    {
       "id": "feed-oaapra",
       "title": "Reader Q&A: what’s next for France? Ask our Europe columnists",
       "source": "The Guardian",
@@ -222,16 +312,6 @@
       "publishedAt": "2026-10-23T08:54:53.000Z",
       "category": "world",
       "summary": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from readers about the riots and protests in France at 3pm BST / 4pm CEST today. Send your questions by email now to conversations@theguardian.com or join the discussio"
-    },
-    {
-      "id": "feed-90o2rz",
-      "title": "Government won’t put together ‘shopping list’ for public to stockpile for emergency – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
-      "publishedAt": "2026-10-23T08:48:37.000Z",
-      "category": "world",
-      "summary": "Ministers have repeated several warnings in the last 18 months about the threat of hybrid attacks from overseas As Wes Streeting and James Murray have been recommending in the last 24 hours, the Government is advising people to stockpile supplies for three day"
     },
     {
       "id": "feed-1idproe",
@@ -244,18 +324,8 @@
       "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say."
     },
     {
-      "id": "feed-16a0aoh",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
-      "publishedAt": "2026-10-23T08:36:32.000Z",
-      "category": "world",
-      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
-    },
-    {
-      "id": "feed-c4scd1",
-      "title": "Presenter battles strong winds as Storm Austen hits Newquay",
+      "id": "feed-11p5ilo",
+      "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo",
@@ -301,7 +371,7 @@
       "url": "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577",
       "publishedAt": "2026-10-23T08:03:00.000Z",
       "category": "world",
-      "summary": "The Israeli government has ordered its army to prepare for a full closure of the West Bank following a shooting near Hebron."
+      "summary": "The Israeli government has ordered its army to prepare for a full closure of the occupied West Bank following a shooting near Hebron."
     },
     {
       "id": "feed-ky2qyz",
@@ -340,7 +410,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
       "publishedAt": "2026-10-23T07:53:58.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Search and rescue efforts under way after quake strikes region’s north, with at least seven aftershocks recorded A magnitude-7 earthquake has hit Tibet, killing at least 16 people, injuring 54 and destroying hundreds of homes in the northern regional city of N"
     },
     {
@@ -352,6 +422,16 @@
       "publishedAt": "2026-10-23T07:52:32.000Z",
       "category": "world",
       "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
+    },
+    {
+      "id": "feed-1ik8du1",
+      "title": "Police officer raped by David Carrick says Met chief must resign",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/police-officer-raped-by-david-carrick-says-met-chief-must-resign-13602574",
+      "publishedAt": "2026-10-23T07:52:00.000Z",
+      "category": "uk",
+      "summary": "A police detective raped by fellow officer and notorious sexual predator David Carrick has called for the head of the Metropolitan Police to resign."
     },
     {
       "id": "feed-8qrrta",
@@ -384,16 +464,6 @@
       "summary": "Latest negative economic update comes as John Healey is due to announce budget next week Business live – latest updates Retail sales in Great Britain fell more steeply than expected last month, the latest negative economic update before the chancellor, John He"
     },
     {
-      "id": "feed-5h3r6b",
-      "title": "Basma and Temir Alcy: NAD review – skulking, sultry French-Moroccan crew evoke this shifting season",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/music/2026/oct/23/basma-and-temir-alcy-nad-review",
-      "publishedAt": "2026-10-23T07:30:03.000Z",
-      "category": "uk",
-      "summary": "(Stroom) Vocalist Basma and group Temir Alcy offer a dark and disorienting listen that contemplates loss and new beginnings, stoking a captivating sense of tension The new album from French-Moroccan vocalist Basma and Paris-based group Temir Alcy comes just in"
-    },
-    {
       "id": "feed-dtb0rg",
       "title": "UK consumer confidence falls at fastest rate since Brexit vote as cost of living bites",
       "source": "The Guardian",
@@ -402,26 +472,6 @@
       "publishedAt": "2026-10-23T07:25:57.000Z",
       "category": "world",
       "summary": "Economic fallout from war in Middle East adds to pressures on consumers and on chancellor before budget Consumer confidence in the UK has fallen at the fastest rate outside the Covid pandemic since the 2016 Brexit vote as the escalating economic damage from th"
-    },
-    {
-      "id": "feed-1ixev7w",
-      "title": "Chaotic state of football in Brazil epitomises a nation where greed has conquered glory | Jonathan Liew",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/23/chaotic-football-brazil-politics-election-flavio-bolsonaro-lula",
-      "publishedAt": "2026-10-23T07:00:04.000Z",
-      "category": "uk",
-      "summary": "The national game merely reflects the mood in a divided nation which is going to the polls with very little faith in the power of democracy Look, cards on the table: I don’t know for certain, and nor do you, whether Flávio Bolsonaro – the man widely tipped to "
-    },
-    {
-      "id": "feed-8i4riv",
-      "title": "Chess: Bodhana Sivanandan, 11, can break another world age record on Friday",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/23/chess-bodhana-sivanandan-11-can-break-another-world-age-record-on-friday",
-      "publishedAt": "2026-10-23T07:00:04.000Z",
-      "category": "uk",
-      "summary": "England’s talent from Harrow can become the youngest female international master in chess history Bodhana Sivanandan, 11, who needed just a few rating points to qualify for an open international master title and to break Judit Polgar’s world age record, went v"
     },
     {
       "id": "feed-16phiun",
@@ -564,16 +614,6 @@
       "summary": "Northern Ireland is the only part of the UK without a formally commissioned, publicly-funded adult service for ADHD."
     },
     {
-      "id": "feed-w682am",
-      "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o",
-      "publishedAt": "2026-10-23T05:12:55.000Z",
-      "category": "science",
-      "summary": "The Met Office has issued a yellow warning for rain across Scotland on Friday, followed by a wind warning on Saturday."
-    },
-    {
       "id": "feed-5gdn5h",
       "title": "Monk on Caldey Island gave naked photos of himself to visitors",
       "source": "BBC News",
@@ -644,6 +684,16 @@
       "summary": "The UK still imports 60% of its gas and, even with Jackdaw, its energy supply and resilience problems are not going away After the overdue approval of the Jackdaw field in the North Sea, here comes a reminder that Britain still imports almost 60% of its gas an"
     },
     {
+      "id": "feed-hgdmpm",
+      "title": "Imagine if, for once, Labour decided to tell the truth about immigration | Gaby Hinsliff",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/labour-truth-immigration-economy-nhs-home-secretary",
+      "publishedAt": "2026-10-23T05:00:02.000Z",
+      "category": "business",
+      "summary": "Our economy needs it. The NHS needs it. And making foreign workers’ lives more miserable – as the home secretary plans to do – will undermine integration My mum’s carer was uncharacteristically late one morning. She didn’t want to say why at first, but it turn"
+    },
+    {
       "id": "feed-y1j9rf",
       "title": "How citizen science is tracking changes in shorelines around the world",
       "source": "The Guardian",
@@ -652,16 +702,6 @@
       "publishedAt": "2026-10-23T05:00:01.000Z",
       "category": "science",
       "summary": "An app and a camera phone are all that’s needed at more than 200 spots to help researchers monitor coastal areas The shoreline changes with the weather. Tracking these changes over time is a labour-intensive task, and an army of citizen scientists with camera "
-    },
-    {
-      "id": "feed-1oqzz3g",
-      "title": "MoD seeks out-of-court resolution over compensation battle with gay veterans",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/23/mod-wes-streeting-legal-battle-gay-veterans",
-      "publishedAt": "2026-10-23T05:00:00.000Z",
-      "category": "world",
-      "summary": "Exclusive: Wes Streeting says MoD in talks amid legal challenge by LGBT staff forced out of military Wes Streeting is pursuing an out-of-court resolution to a legal battle over compensation for gay veterans who were forced to resign from the armed forces becau"
     },
     {
       "id": "feed-ogk8u2",
@@ -784,16 +824,6 @@
       "summary": "Military aircraft will be equipped to help tackle wildfires, the UK government has announced, after a summer of \"unrelenting\" blazes and sustained hot conditions."
     },
     {
-      "id": "feed-rwpc9y",
-      "title": "Amber warning in place as Storm Austen hits parts of UK",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o",
-      "publishedAt": "2026-10-23T00:08:43.000Z",
-      "category": "science",
-      "summary": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday."
-    },
-    {
       "id": "feed-cfjmgp",
       "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
       "source": "BBC News",
@@ -864,6 +894,16 @@
       "summary": "Current plans for 6% of eligible patients to get Mounjaro by 2028 unambitious, say MPs."
     },
     {
+      "id": "feed-f6shxl",
+      "title": "Meghan 'deeply distressed' by reports of allegations against her father",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/meghan-deeply-distressed-by-allegations-against-her-father-thomas-markle-13602319",
+      "publishedAt": "2026-10-22T23:01:00.000Z",
+      "category": "uk",
+      "summary": "The Duchess of Sussex says she is \"deeply distressed\" by reports of allegations against her father Thomas Markle."
+    },
+    {
       "id": "feed-1ysrfkp",
       "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
       "source": "BBC News",
@@ -882,16 +922,6 @@
       "publishedAt": "2026-10-22T22:05:00.000Z",
       "category": "uk",
       "summary": "It was the national resilience moment that very nearly barely happened."
-    },
-    {
-      "id": "feed-xr6jow",
-      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-      "publishedAt": "2026-10-22T21:50:13.000Z",
-      "category": "technology",
-      "summary": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing The latest shudder for stocks in the AI industry pulled markets lower worldwide on Thursday, while oil prices hit their highest levels since May on w"
     },
     {
       "id": "feed-3pydzb",
@@ -1074,16 +1104,6 @@
       "summary": "People near south Wales river were told to keep windows and doors shut after thousands of litres of kerosene from a GE Aerospace site got into the water Oily slicks of kerosene still appeared to be leaking into the River Taff this week, several days after a br"
     },
     {
-      "id": "feed-dbptop",
-      "title": "Fahnbulleh says she backs home secretary on migration after comments to journalists",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93pz494zzo",
-      "publishedAt": "2026-10-22T17:54:51.000Z",
-      "category": "uk",
-      "summary": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview."
-    },
-    {
       "id": "feed-1t9jn6x",
       "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
       "source": "BBC News",
@@ -1134,16 +1154,6 @@
       "summary": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025."
     },
     {
-      "id": "feed-y5zuk",
-      "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
-      "publishedAt": "2026-10-22T17:18:12.000Z",
-      "category": "business",
-      "summary": "Judge threatens to dismiss Trump’s BBC lawsuit unless he cooperates with discovery process and sits for deposition Donald Trump has been ordered by a US judge to cooperate with the discovery process mandated for his lawsuit against the BBC and to sit for a dep"
-    },
-    {
       "id": "feed-1jda69a",
       "title": "Race to update services' computer systems after cyber-security flaw found",
       "source": "BBC News",
@@ -1154,16 +1164,6 @@
       "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
     },
     {
-      "id": "feed-cxzyi6",
-      "title": "The race to fix huge PHP code flaw at the heart of the internet - The Latest",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/video/2026/oct/22/the-race-to-fix-huge-php-flaw-at-the-heart-of-the-internet-the-latest",
-      "publishedAt": "2026-10-22T17:12:07.000Z",
-      "category": "business",
-      "summary": "Websites around the world have been taken offline as governments and businesses scramble to fix a flaw in the computer language PHP. There are fears that hackers could exploit the vulnerability to steal data, take control of web servers and disrupt services. M"
-    },
-    {
       "id": "feed-dc5oce",
       "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
       "source": "BBC News",
@@ -1172,26 +1172,6 @@
       "publishedAt": "2026-10-22T17:07:03.000Z",
       "category": "world",
       "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year."
-    },
-    {
-      "id": "feed-a9u856",
-      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go",
-      "publishedAt": "2026-10-22T17:01:47.000Z",
-      "category": "world",
-      "summary": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies."
-    },
-    {
-      "id": "feed-i18xut",
-      "title": "We will make the net-zero transition work for Britain – approving the Jackdaw gasfield is part of the plan | Andy Burnham",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
-      "publishedAt": "2026-10-22T17:00:45.000Z",
-      "category": "business",
-      "summary": "Protecting jobs and strengthening energy security in the short term does not mean wavering on Labour’s deep commitment to a cleaner, greener future Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval On Wednesday, the energy secreta"
     },
     {
       "id": "feed-2bocwf",
@@ -1272,16 +1252,6 @@
       "publishedAt": "2026-10-22T14:23:00.000Z",
       "category": "business",
       "summary": "The Post Office is to spend millions of pounds on its first television ads since the Horizon IT scandal, as it seeks to raise awareness of its range of bankjng services during a critical period for the state-owned company."
-    },
-    {
-      "id": "feed-1c7mna1",
-      "title": "Man charged with murder after woman found dead in car with puncture wounds",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/man-charged-with-murder-over-death-of-housing-association-worker-13602300",
-      "publishedAt": "2026-10-22T14:06:00.000Z",
-      "category": "uk",
-      "summary": "A man has been charged with murder after a housing association worker died following a car crash in South Wales, having sustained \"puncture wounds\"."
     },
     {
       "id": "feed-dve4ah",
@@ -1554,16 +1524,6 @@
       "summary": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style opposition AI companies have told ministers they have 12 months to head off public opposition to datacentres in the"
     },
     {
-      "id": "feed-gyt2z0",
-      "title": "Elizabeth Holmes is back in the spotlight: why can’t we look away? – podcast",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast",
-      "publishedAt": "2026-10-22T04:00:06.000Z",
-      "category": "science",
-      "summary": "You Can See Everything, a documentary about the disgraced biotech company founder Elizabeth Holmes, has enjoyed a record-breaking opening in the US. It is a testament to how fascinated we remain by the convicted fraudster, but what is behind the enduring appea"
-    },
-    {
       "id": "feed-jtits9",
       "title": "'Millions' of exploitation attempts since security flaw affecting websites emerged",
       "source": "Sky News",
@@ -1692,6 +1652,16 @@
       "publishedAt": "2026-10-21T15:02:28.000Z",
       "category": "technology",
       "summary": "With You Can See Everything, Holmes joins other such high-profile subjects as Lance Armstrong, Imelda Marcos and Anthony Weiner to allow film-makers to document their lives. But do they ever come out well? In You Can See Everything, convicted fraudster Elizabe"
+    },
+    {
+      "id": "feed-135jsp",
+      "title": "New prize launches for books co-written with AI",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
+      "publishedAt": "2026-10-21T14:59:34.000Z",
+      "category": "technology",
+      "summary": "After months of controversy over the possible use of AI by winners of prestigious awards, the Prix Pascal de Littérature IA is rewarding fiction written with the help of LLMs A prize for AI-written books has launched this week. The Prix Pascal de Littérature I"
     },
     {
       "id": "feed-1g8hdo1",
@@ -1844,6 +1814,16 @@
       "summary": "Australian workers expect the government to act to protect them from AI harms. There is a clear reform solution at hand Get our new political email , free app or daily news podcast Australia’s major political parties are edging towards rare consensus. Labor an"
     },
     {
+      "id": "feed-da61ea",
+      "title": "‘These risks are real’: the threat of AI bioweapons - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video",
+      "publishedAt": "2026-10-20T12:14:42.000Z",
+      "category": "science",
+      "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom"
+    },
+    {
       "id": "feed-qolofn",
       "title": "Thames Water creditors secure Labour's Hutton to drive rescue deal",
       "source": "Sky News",
@@ -1902,6 +1882,26 @@
       "publishedAt": "2026-10-18T16:30:04.000Z",
       "category": "science",
       "summary": "In the three weeks since a health worker’s death in Siberia, officials have stonewalled the WHO – setting a worrying precedent for future pandemics Is there a plague outbreak in Russia? If the answer were a clear yes, there shouldn’t be much reason to worry. W"
+    },
+    {
+      "id": "feed-8p1chz",
+      "title": "Norman McCubbin obituary",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/oct/15/norman-mccubbin-obituary",
+      "publishedAt": "2026-10-15T18:49:45.000Z",
+      "category": "science",
+      "summary": "My brother Norman McCubbin, who has died aged 77, was a scientist who worked at the forefront of experimental particle physics. A leading light in experiments that took place on the Large Hadron Collider, the world’s biggest and most powerful particle accelera"
+    },
+    {
+      "id": "feed-t2mjvv",
+      "title": "Is your boss watching you? The rise of AI surveillance at work - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
+      "publishedAt": "2026-10-15T11:10:25.000Z",
+      "category": "science",
+      "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts"
     }
   ]
 }

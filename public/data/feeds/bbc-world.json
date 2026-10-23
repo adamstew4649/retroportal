@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T09:26:28.010Z",
+  "updatedAt": "2026-10-23T09:58:32.100Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,20 +8,28 @@
   },
   "articles": [
     {
-      "id": "feed-1idproe",
-      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o",
+      "id": "feed-1i5v4td",
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
       "source": "BBC News",
-      "publishedAt": "2026-10-23T08:45:58.000Z",
-      "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say."
+      "publishedAt": "2026-10-23T09:44:40.000Z",
+      "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election."
     },
     {
       "id": "feed-16a0aoh",
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
       "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
       "source": "BBC News",
-      "publishedAt": "2026-10-23T08:36:32.000Z",
-      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
+      "publishedAt": "2026-10-23T09:36:43.000Z",
+      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
+    },
+    {
+      "id": "feed-1idproe",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T08:45:58.000Z",
+      "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say."
     },
     {
       "id": "feed-ky2qyz",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T17:07:03.000Z",
       "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year."
-    },
-    {
-      "id": "feed-a9u856",
-      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T17:01:47.000Z",
-      "summary": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies."
     }
   ]
 }
