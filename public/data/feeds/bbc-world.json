@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T20:55:15.700Z",
+  "updatedAt": "2026-10-23T21:17:43.110Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-vuopgu",
+      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T20:59:39.000Z",
+      "summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it."
+    },
     {
       "id": "feed-125w7jo",
       "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
@@ -72,14 +80,6 @@
       "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife"
     },
     {
-      "id": "feed-18w1ka1",
-      "title": "US justice department investigating Corey Lewandowski over DHS role",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T14:58:19.000Z",
-      "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain."
-    },
-    {
       "id": "feed-pfitco",
       "title": "PSG v Lyon moved as Paris prepares for more protests",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po",
@@ -102,22 +102,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T11:30:32.000Z",
       "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system."
-    },
-    {
-      "id": "feed-d8is4z",
-      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T10:36:01.000Z",
-      "summary": "This is President Peter Mutharika's fifth visit to South Africa this year."
-    },
-    {
-      "id": "feed-edggsx",
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T10:23:07.000Z",
-      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
     },
     {
       "id": "feed-140cx5d",
@@ -144,12 +128,28 @@
       "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms."
     },
     {
-      "id": "feed-1idproe",
-      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o",
+      "id": "feed-53pxzt",
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o",
       "source": "BBC News",
-      "publishedAt": "2026-10-23T08:45:58.000Z",
-      "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say."
+      "publishedAt": "2026-10-23T08:39:42.000Z",
+      "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year."
+    },
+    {
+      "id": "feed-1ufgbzd",
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T05:05:03.000Z",
+      "summary": "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
+    },
+    {
+      "id": "feed-cfjmgp",
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-22T23:55:39.000Z",
+      "summary": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry."
     }
   ]
 }
