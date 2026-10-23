@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T11:56:08.755Z",
+  "updatedAt": "2026-10-23T12:16:25.263Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-1o1z46r",
+      "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T12:00:25.000Z",
+      "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems."
+    },
     {
       "id": "feed-1h6yfq4",
       "title": "The Indian workers filming their work to train AI",
@@ -102,14 +110,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-21T08:42:49.000Z",
       "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
-    },
-    {
-      "id": "feed-phrv2r",
-      "title": "The tech helping crack decades-old cold cases",
-      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T23:13:24.000Z",
-      "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy."
     },
     {
       "id": "feed-1o4g26t",

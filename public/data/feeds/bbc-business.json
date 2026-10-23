@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T11:56:08.755Z",
+  "updatedAt": "2026-10-23T12:16:25.263Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-k8gojj",
+      "title": "Island inflation rate rises to 3%, figures show",
+      "link": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T11:58:19.000Z",
+      "summary": "The rising cost of food and alcohol drives an increase in the inflation rate, figures show."
+    },
     {
       "id": "feed-frynrh",
       "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T06:57:45.000Z",
       "summary": "Eligible people in the care system will be able to access the savings once they turn 18."
-    },
-    {
-      "id": "feed-k07j0o",
-      "title": "Woman 'scared to turn heating on' due to oil cost",
-      "link": "https://www.bbc.co.uk/news/articles/cmgel220j7nvo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T05:29:22.000Z",
-      "summary": "Roslynn Garner-Gatley starts using a hot water bottle, bed socks and earlier bedtimes to stay warm."
     }
   ]
 }
