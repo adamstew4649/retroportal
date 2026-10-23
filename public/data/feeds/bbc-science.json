@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T19:04:18.213Z",
+  "updatedAt": "2026-10-23T19:52:23.161Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
@@ -8,12 +8,20 @@
   },
   "articles": [
     {
-      "id": "feed-1v4oybv",
-      "title": "Thousands without power and travel disruption as Storm Austen batters southern UK",
+      "id": "feed-17zj9z",
+      "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T19:31:02.000Z",
+      "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
+    },
+    {
+      "id": "feed-adehik",
+      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
       "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o",
       "source": "BBC News",
       "publishedAt": "2026-10-23T18:48:18.000Z",
-      "summary": "On Saturday, Storm Boelo is forecast to bring more strong winds and heavy rain to Scotland and parts of northern England."
+      "summary": "Millions remain under yellow weather warnings for wind and rain, with a second storm expected to hit Scotland and parts of northern England on Saturday."
     },
     {
       "id": "feed-nnljzr",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T05:05:03.000Z",
       "summary": "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
-    },
-    {
-      "id": "feed-1gx4z1m",
-      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
-      "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T21:21:22.000Z",
-      "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked."
     }
   ]
 }
