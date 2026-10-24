@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T05:53:38.503Z",
+  "updatedAt": "2026-10-24T06:14:52.010Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1ponxpy",
+      "title": "Historic swimming pond to be restored",
+      "link": "https://www.bbc.co.uk/news/articles/c5lyellrmlego",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T06:08:37.000Z",
+      "summary": "Specialists are looking at how to clear the Cornwall bath house pond and understand the tidal inlet."
+    },
     {
       "id": "feed-51yfhb",
       "title": "The people on standby when a storm strikes",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T06:47:10.000Z",
       "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
-    },
-    {
-      "id": "feed-1ty0krx",
-      "title": "Could experts have a solution to toxic algae?",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8l640xl3do",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T05:17:13.000Z",
-      "summary": "Experts from the University of Bath are testing out a new invention at a lake in Wiltshire."
     }
   ]
 }
