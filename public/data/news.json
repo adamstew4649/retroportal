@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T18:10:11.705Z",
-  "generatedAt": "2026-10-24T18:10:11.705Z",
+  "updatedAt": "2026-10-24T18:55:50.169Z",
+  "generatedAt": "2026-10-24T18:55:50.169Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "id": "bbc-world",
@@ -104,24 +104,84 @@
   ],
   "articles": [
     {
-      "id": "feed-1q8gnkd",
-      "title": "Chelsea v Tottenham: Premier League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live",
-      "publishedAt": "2026-10-24T18:01:55.000Z",
-      "category": "uk",
-      "summary": "⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Aston Villa 2-1 Man City | Live scores | Table | Mail Scott The teams take to the pitch. Chelsea in blue, Spurs in white, and it won’t be long before every shirt is soaking wet. Has the signature work of "
-    },
-    {
       "id": "feed-gqgmzk",
       "title": "Strictly Come Dancing week five – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/tv-and-radio/live/2026/oct/24/strictly-come-dancing-week-five-live",
-      "publishedAt": "2026-10-24T17:58:55.000Z",
+      "publishedAt": "2026-10-24T18:44:50.000Z",
       "category": "uk",
       "summary": "Blondie, Olivia Rodrigo and Måneskin are on the playlist tonight. But whose performance will wow the judges – and who will stumble into trouble? Charge glasses and refill nibbles bowls/snack platters/charcuterie plates. We’re about to go live to the Elstree St"
+    },
+    {
+      "id": "feed-15746fw",
+      "title": "Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report",
+      "publishedAt": "2026-10-24T18:32:03.000Z",
+      "category": "uk",
+      "summary": "There were times when Roberto De Zerbi’s frustration threatened to boil over. The Tottenham manager cut a tense figure in his technical area. He bounced around for 90 minutes and let out blasts of fury whenever he saw something that displeased him, but in the "
+    },
+    {
+      "id": "feed-1bf2zxy",
+      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
+      "publishedAt": "2026-10-24T18:26:46.000Z",
+      "category": "science",
+      "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
+    },
+    {
+      "id": "feed-8v14n2",
+      "title": "Hundreds of thousands march across France as protests take place across Europe – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "publishedAt": "2026-10-24T18:26:30.000Z",
+      "category": "world",
+      "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m "
+    },
+    {
+      "id": "feed-10gn663",
+      "title": "Leicester turn up the hostility as Steward caps old-time beating of Northampton",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/24/leicester-northampton-prem-rugby-union-match-report",
+      "publishedAt": "2026-10-24T18:13:50.000Z",
+      "category": "uk",
+      "summary": "Leicester 28-7 Northampton Hosts score four unanswered tries after interval We have seen this before. It is easy to forget, amid all the tries and sunshine, that rugby has a darker side too: a wet, windy, deafening ferocity that not even the most twinkle-toed "
+    },
+    {
+      "id": "feed-1wxw0co",
+      "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "publishedAt": "2026-10-24T18:11:44.000Z",
+      "category": "uk",
+      "summary": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro Tens of thousands of supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant pr"
+    },
+    {
+      "id": "feed-1cezyqp",
+      "title": "Championship roundup: Southampton beat West Ham; QPR put five past Swansea",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/24/championship-roundup-sheffield-united-derby-west-ham-swansea",
+      "publishedAt": "2026-10-24T18:11:23.000Z",
+      "category": "uk",
+      "summary": "Hammers humbled at home; Swansea thrashed 5-0 Burnley sack manager Hayen after 4-1 loss at Lincoln Southampton announced themselves in the promotion race with a statement 3-2 win at the pre-season title favourites, West Ham . Kuryu Matsuki, James Bree and Lewi"
+    },
+    {
+      "id": "feed-11f9c3b",
+      "title": "Manhunt under way to find prisoner who absconded from medical facility",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/manhunt-under-way-to-find-prisoner-who-absconded-from-medical-facility",
+      "publishedAt": "2026-10-24T18:10:15.000Z",
+      "category": "uk",
+      "summary": "Met police say Anthony Lloyd, 38, was last seen on Friday in south London, and ‘poses a risk to himself and the public’ A manhunt is under way to locate a prisoner who police say “poses a risk both to himself and the public” after he absconded from a medical f"
     },
     {
       "id": "feed-wg82kk",
@@ -134,16 +194,6 @@
       "summary": "Government estimates at least 400,000 people took part, but trade unions say the number is double that Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more teachers and repa"
     },
     {
-      "id": "feed-19mmb20",
-      "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "publishedAt": "2026-10-24T17:41:05.000Z",
-      "category": "world",
-      "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m "
-    },
-    {
       "id": "feed-pkq6g2",
       "title": "Two rescued after Nairobi building collapse with five still missing",
       "source": "BBC News",
@@ -154,14 +204,14 @@
       "summary": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction."
     },
     {
-      "id": "feed-1bf2zxy",
-      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
+      "id": "feed-1vp3j8m",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
-      "publishedAt": "2026-10-24T17:14:39.000Z",
-      "category": "science",
-      "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
+      "publishedAt": "2026-10-24T17:21:42.000Z",
+      "category": "world",
+      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election."
     },
     {
       "id": "feed-5d2ts6",
@@ -192,26 +242,6 @@
       "publishedAt": "2026-10-24T16:40:21.000Z",
       "category": "uk",
       "summary": "Woman alleging frat-house rape has privacy and safety issues outweighing need to publicly identify her, judge says The woman at the center ⁠of rape allegations against students at Cornell University can continue using a pseudonym in ⁠her lawsuit, a ⁠judge ​has"
-    },
-    {
-      "id": "feed-1cezyqp",
-      "title": "Championship roundup: Southampton beat West Ham; QPR put five past Swansea",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/24/championship-roundup-sheffield-united-derby-west-ham-swansea",
-      "publishedAt": "2026-10-24T16:36:57.000Z",
-      "category": "uk",
-      "summary": "Hammers humbled at home; Swansea thrashed 5-0 Burnley fans turn on manager after 4-1 loss at Lincoln Southampton announced themselves in the promotion race with a statement 3-2 win at the pre-season title favourites, West Ham . Kuryu Matsuki, James Bree and Le"
-    },
-    {
-      "id": "feed-10gn663",
-      "title": "Leicester turn up the hostility as Steward caps old-time beating of Northampton",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/24/leicester-northampton-prem-rugby-union-match-report",
-      "publishedAt": "2026-10-24T16:27:41.000Z",
-      "category": "uk",
-      "summary": "Leicester 28-7 Northampton Hosts score four unanswered tries after interval We have seen this before. It is easy to forget, in all the tries and sunshine, that rugby has a darker side too: a wet, windy, deafening ferocity that not even the most twinkle-toed ca"
     },
     {
       "id": "feed-gzfc8w",
@@ -424,26 +454,6 @@
       "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
     },
     {
-      "id": "feed-1ga7rpj",
-      "title": "‘Bolso shows all signs of fascism’: the journalist who predicted Brazil’s future – and paid the ultimate price",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/24/jair-bolsonaro-fascism-journalist-dom-phillips-predicted-brazil-future",
-      "publishedAt": "2026-10-24T12:00:33.000Z",
-      "category": "uk",
-      "summary": "Dom Phillips warned that Jair Bolsonaro would make life more dangerous for reporters and the Amazon rainforest, and that his sons were even more extreme “Bolso shows all signs of fascism, as do his supporters,” the murdered British journalist Dom Phillips told"
-    },
-    {
-      "id": "feed-1474miv",
-      "title": "‘Outrageously good’: the best (and worst) supermarket ready-made custard, tasted and rated",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/thefilter/2026/oct/24/best-worst-supermarket-ready-made-custard-tasted-rated",
-      "publishedAt": "2026-10-24T12:00:33.000Z",
-      "category": "uk",
-      "summary": "Which supermarket pots are ambrosial heaven and which are a gummy disaster? • The best supermarket double cream It was only when I sat down to taste 10 custards that I realised this was a dangerous test to judge on my own. I tried a range of ready-made offerin"
-    },
-    {
       "id": "feed-z2gkpo",
       "title": "Additional 178 cases of measles reported by US health authorities amid outbreak",
       "source": "The Guardian",
@@ -550,18 +560,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
       "publishedAt": "2026-10-24T11:00:31.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Lobby group’s figures, shared with John Healey, are misleading as they do not include major rival Paris, say campaigners A banking lobby group has been accused of cherrypicking data and trying to mislead the British government by claiming a tax rise for banks "
-    },
-    {
-      "id": "feed-hamgoa",
-      "title": "Medical experts shocked by Tennessee team’s ‘malpractice’ in Christa Pike’s failed execution",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/24/christa-pike-execution-medical-experts",
-      "publishedAt": "2026-10-24T11:00:30.000Z",
-      "category": "world",
-      "summary": "New details of IV team’s attempts to find a vein shared by Pike’s lawyer ‘shocked and disturbed’ practitioners Medical experts have expressed shock at the apparent incompetence shown by Tennessee’s execution team during the failed lethal injection of Christa P"
     },
     {
       "id": "feed-nnljzr",
@@ -1004,16 +1004,6 @@
       "summary": "A newly earned special power left one contestant with a big decision to make in Friday's episode."
     },
     {
-      "id": "feed-131sqq2",
-      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo",
-      "publishedAt": "2026-10-23T22:47:07.000Z",
-      "category": "world",
-      "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher."
-    },
-    {
       "id": "feed-lndwew",
       "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
       "source": "The Guardian",
@@ -1302,16 +1292,6 @@
       "publishedAt": "2026-10-23T09:30:03.000Z",
       "category": "science",
       "summary": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday."
-    },
-    {
-      "id": "feed-1f7v699",
-      "title": "Three people linked to Conservatives sentenced after cheating at gambling on general election",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/three-people-linked-to-conservatives-sentenced-after-cheating-at-gambling-on-general-election-13602611",
-      "publishedAt": "2026-10-23T09:18:00.000Z",
-      "category": "uk",
-      "summary": "Three people linked to the Conservatives, including the party's former director of campaigning, have been given suspended sentences after admitting to cheating at gambling on the 2024 general election date."
     },
     {
       "id": "feed-b73szu",
@@ -1902,6 +1882,26 @@
       "publishedAt": "2026-10-15T11:10:25.000Z",
       "category": "science",
       "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts"
+    },
+    {
+      "id": "feed-18xlmy8",
+      "title": "Is your boss watching you? The rise of AI surveillance at work – podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast",
+      "publishedAt": "2026-10-15T04:00:21.000Z",
+      "category": "science",
+      "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts"
+    },
+    {
+      "id": "feed-1cfpgd4",
+      "title": "Government backs bid for 'Northern Games' in 2040s",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/pm-backs-north-of-england-olympics-bid-with-7m-budget-injection-13597494",
+      "publishedAt": "2026-10-10T16:46:00.000Z",
+      "category": "uk",
+      "summary": "The prime minister is supporting plans to bring the Olympic and Paralympic Games back to the UK, with £7m cash due to be announced in next week's budget."
     }
   ]
 }
