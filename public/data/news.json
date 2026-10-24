@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T19:45:43.001Z",
-  "generatedAt": "2026-10-24T19:45:43.001Z",
+  "updatedAt": "2026-10-24T20:07:45.594Z",
+  "generatedAt": "2026-10-24T20:07:45.594Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,24 +104,34 @@
   ],
   "articles": [
     {
+      "id": "feed-pm3k2g",
+      "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
+      "publishedAt": "2026-10-24T20:03:06.000Z",
+      "category": "science",
+      "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
+    },
+    {
+      "id": "feed-1ok4tmk",
+      "title": "Six Flags to reopen Goliath rollercoaster – but now with seatbelts after recent rider death",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/six-flags-goliath-rollercoaster-seatbelts",
+      "publishedAt": "2026-10-24T19:44:36.000Z",
+      "category": "world",
+      "summary": "Hassan Jihad Ibn Kariem fell from ride earlier this month, spurring amusement park to temporarily shut it down Six Flags will install seatbelts on its Goliath rollercoaster in Georgia , after a rider plummeted to his death earlier this month. Hassan Jihad Ibn "
+    },
+    {
       "id": "feed-kwmeho",
       "title": "Hundreds of thousands march in France as protests take place across Europe – Europe live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "publishedAt": "2026-10-24T19:37:59.000Z",
+      "publishedAt": "2026-10-24T19:40:13.000Z",
       "category": "world",
       "summary": "French police have made 1,000 arrests and Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m h"
-    },
-    {
-      "id": "feed-gqgmzk",
-      "title": "Strictly Come Dancing week five – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/live/2026/oct/24/strictly-come-dancing-week-five-live",
-      "publishedAt": "2026-10-24T19:33:50.000Z",
-      "category": "uk",
-      "summary": "Blondie, Olivia Rodrigo and Måneskin are on the playlist tonight. But whose performance will wow the judges – and who will stumble into trouble? Charge glasses and refill nibbles bowls/snack platters/charcuterie plates. We’re about to go live to the Elstree St"
     },
     {
       "id": "feed-m9kzxw",
@@ -202,16 +212,6 @@
       "publishedAt": "2026-10-24T18:32:03.000Z",
       "category": "uk",
       "summary": "There were times when Roberto De Zerbi’s frustration threatened to boil over. The Tottenham manager cut a tense figure in his technical area. He bounced around for 90 minutes and let out blasts of fury whenever he saw something that displeased him, but in the "
-    },
-    {
-      "id": "feed-1bf2zxy",
-      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
-      "publishedAt": "2026-10-24T18:26:46.000Z",
-      "category": "science",
-      "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
     },
     {
       "id": "feed-10gn663",
@@ -382,6 +382,16 @@
       "publishedAt": "2026-10-24T15:21:44.000Z",
       "category": "world",
       "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+    },
+    {
+      "id": "feed-1wpxicn",
+      "title": "Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league",
+      "publishedAt": "2026-10-24T15:16:45.000Z",
+      "category": "uk",
+      "summary": "Defender costs three goals in past two league matches Emery praises ‘fantastic’ match-winner Jackson Enzo Maresca is not concerned by the form of Marc Guéhi despite the defender costing his side three goals in the past two Premier League matches, the Mancheste"
     },
     {
       "id": "feed-1u2z24j",
@@ -604,16 +614,6 @@
       "summary": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There"
     },
     {
-      "id": "feed-1fix7h0",
-      "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
-      "publishedAt": "2026-10-24T11:00:31.000Z",
-      "category": "world",
-      "summary": "Leading restaurateur says Gulf countries actively help businesses set up, while east Asia has a better work ethic Some of London’s top restaurants are opening branches in Dubai because of a “tax tsunami” in the UK and better work ethic abroad, according to a l"
-    },
-    {
       "id": "feed-ju7aql",
       "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
       "source": "The Guardian",
@@ -622,6 +622,16 @@
       "publishedAt": "2026-10-24T11:00:31.000Z",
       "category": "business",
       "summary": "Lobby group’s figures, shared with John Healey, are misleading as they do not include major rival Paris, say campaigners A banking lobby group has been accused of cherrypicking data and trying to mislead the British government by claiming a tax rise for banks "
+    },
+    {
+      "id": "feed-1fix7h0",
+      "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+      "publishedAt": "2026-10-24T11:00:31.000Z",
+      "category": "business",
+      "summary": "Leading restaurateur says Gulf countries actively help businesses set up, while east Asia has a better work ethic Some of London’s top restaurants are opening branches in Dubai because of a “tax tsunami” in the UK and better work ethic abroad, according to a l"
     },
     {
       "id": "feed-nnljzr",
@@ -1242,6 +1252,16 @@
       "publishedAt": "2026-10-23T13:05:00.000Z",
       "category": "business",
       "summary": "Airbnb hosts will no longer be able to ask guests to do the dishes or strip the beds under new rules announced by the platform."
+    },
+    {
+      "id": "feed-wx1n8x",
+      "title": "Seven dead and 34 injured after shooting at church in Jordan",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679",
+      "publishedAt": "2026-10-23T12:57:00.000Z",
+      "category": "world",
+      "summary": "Seven people have died and 34 have been injured after gunmen opened fire on a funeral at a church in Jordan."
     },
     {
       "id": "feed-1q722gk",
@@ -1882,26 +1902,6 @@
       "publishedAt": "2026-10-19T18:36:00.000Z",
       "category": "technology",
       "summary": "A former OpenAI engineer charged with secretly installing a recording device at its offices was \"mere days\" away from fleeing to Saudi Arabia before his arrest, prosecutors allege."
-    },
-    {
-      "id": "feed-odycot",
-      "title": "Object thought to be Amelia Earhart’s missing plane likely just 'large trees', researchers find",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/object-thought-to-be-amelia-earharts-missing-plane-likely-a-collection-of-large-trees-researchers-find-13601021",
-      "publishedAt": "2026-10-19T14:45:00.000Z",
-      "category": "technology",
-      "summary": "An expedition to investigate if an anomaly seen on a satellite image of a remote island in the South Pacific was Amelia Earhart’s missing plane has ended without recovering the wreckage."
-    },
-    {
-      "id": "feed-9m1zr7",
-      "title": "The Guardian view on plague in Russia: what is most worrying is the lack of information | Editorial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information",
-      "publishedAt": "2026-10-18T16:30:04.000Z",
-      "category": "science",
-      "summary": "In the three weeks since a health worker’s death in Siberia, officials have stonewalled the WHO – setting a worrying precedent for future pandemics Is there a plague outbreak in Russia? If the answer were a clear yes, there shouldn’t be much reason to worry. W"
     }
   ]
 }
