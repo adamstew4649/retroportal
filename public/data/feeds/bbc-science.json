@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T02:55:39.843Z",
+  "updatedAt": "2026-10-24T03:17:08.456Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-gdns3i",
+      "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T02:25:54.000Z",
+      "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches."
+    },
     {
       "id": "feed-adehik",
       "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T05:10:30.000Z",
       "summary": "The first farmer in England hit by bird flu this season tells of the \"emotional roller coaster\" of losing 32,000 hens."
-    },
-    {
-      "id": "feed-1gx4z1m",
-      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
-      "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T21:21:22.000Z",
-      "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked."
     }
   ]
 }
