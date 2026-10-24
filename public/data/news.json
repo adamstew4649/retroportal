@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T02:19:25.665Z",
-  "generatedAt": "2026-10-24T02:19:25.665Z",
+  "updatedAt": "2026-10-24T02:55:39.851Z",
+  "generatedAt": "2026-10-24T02:55:39.851Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -103,6 +103,26 @@
     }
   ],
   "articles": [
+    {
+      "id": "feed-xmabde",
+      "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o",
+      "publishedAt": "2026-10-24T02:52:10.000Z",
+      "category": "uk",
+      "summary": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told."
+    },
+    {
+      "id": "feed-1xlq5fg",
+      "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+      "publishedAt": "2026-10-24T02:22:32.000Z",
+      "category": "uk",
+      "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled Typhoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠h"
+    },
     {
       "id": "feed-1vga9en",
       "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – as it happened",
@@ -390,7 +410,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o",
       "publishedAt": "2026-10-23T21:10:47.000Z",
-      "category": "uk",
+      "category": "science",
       "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather."
     },
     {
@@ -612,26 +632,6 @@
       "publishedAt": "2026-10-23T17:27:20.000Z",
       "category": "uk",
       "summary": "The US president has praised Burnham after the government allowed gas drilling in the North Sea's Jackdaw field."
-    },
-    {
-      "id": "feed-w0rfqo",
-      "title": "The week around the world in 20 pictures",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/23/the-week-around-the-world-in-20-pictures",
-      "publishedAt": "2026-10-23T17:24:13.000Z",
-      "category": "uk",
-      "summary": "Violent protests in France, settler attacks in the West Bank, Russian strikes on Kyiv and wildfires in California – the past seven days as captured by the world’s leading photojournalists Warning: this gallery contains images some readers may find distressing "
-    },
-    {
-      "id": "feed-1wbke2l",
-      "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-      "publishedAt": "2026-10-23T17:22:11.000Z",
-      "category": "world",
-      "summary": "Benjamin Netanyahu and ministers promise demolitions and forced displacement after deadly gunfight Israel has launched a campaign of collective punishment against Palestinians in Hebron after gunmen killed two Israeli soldiers and injured three near a checkpoi"
     },
     {
       "id": "feed-urpm5g",
@@ -1494,6 +1494,16 @@
       "summary": "PM will also announce funding for specialised protective gear and the deployment of military aircraft The UK government is to create an AI Cobra unit to spot wildfires after this year’s record-breaking summer saw devastating blazes across the country. The coun"
     },
     {
+      "id": "feed-1gx4z1m",
+      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo",
+      "publishedAt": "2026-10-22T21:21:22.000Z",
+      "category": "science",
+      "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked."
+    },
+    {
       "id": "feed-1fzwuh0",
       "title": "Clubs face £20m bill for football watchdog's new levy",
       "source": "Sky News",
@@ -1892,16 +1902,6 @@
       "publishedAt": "2026-10-15T18:25:00.000Z",
       "category": "technology",
       "summary": "Neanderthals were not the unintelligent cave dwellers of popular imagination, but may have been capable of showing both violence and care, researchers who have discovered bones dating back 75,000 years have said."
-    },
-    {
-      "id": "feed-t2mjvv",
-      "title": "Is your boss watching you? The rise of AI surveillance at work - video",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
-      "publishedAt": "2026-10-15T11:10:25.000Z",
-      "category": "science",
-      "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts"
     }
   ]
 }
