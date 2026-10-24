@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T09:14:36.732Z",
-  "generatedAt": "2026-10-24T09:14:36.732Z",
+  "updatedAt": "2026-10-24T09:53:25.701Z",
+  "generatedAt": "2026-10-24T09:53:25.701Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -104,24 +104,104 @@
   ],
   "articles": [
     {
+      "id": "feed-1jybzs0",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
+      "publishedAt": "2026-10-24T09:46:53.000Z",
+      "category": "world",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
+    },
+    {
+      "id": "feed-1ysawna",
+      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o",
+      "publishedAt": "2026-10-24T09:44:01.000Z",
+      "category": "world",
+      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled."
+    },
+    {
+      "id": "feed-166ueag",
+      "title": "Australia v England: women’s Rugby League World Cup – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/24/australia-vs-england-womens-rugby-league-world-cup-live-updates",
+      "publishedAt": "2026-10-24T09:43:35.000Z",
+      "category": "uk",
+      "summary": "Updates as the Jillaroos and England meet at HBF Park Any thoughts? Get in touch with an email The teams are finishing up their preparations in the change rooms now – it won’t be long until the match gets under way! You’d expect the Jillaroos to be happy after"
+    },
+    {
+      "id": "feed-1ln6q0l",
+      "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
+      "publishedAt": "2026-10-24T09:43:09.000Z",
+      "category": "uk",
+      "summary": "The 36-year-old died after two boys reportedly swept away by strong current near Bimini, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling. The Royal Bahamas police f"
+    },
+    {
+      "id": "feed-1s77lxp",
+      "title": "Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-buildup-premier-league-news-wsl-and-more-matchday-live",
+      "publishedAt": "2026-10-24T09:42:11.000Z",
+      "category": "uk",
+      "summary": "⚽ All the latest as we build up to Saturday’s games ⚽ Ten things to look out for | Fixtures | Mail David Just under three hours to go before Villa Park witnesses people defiantly waving inflatable bananas while being called cheats. Taha Hashim looks at Aston V"
+    },
+    {
+      "id": "feed-1bf2zxy",
+      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
+      "publishedAt": "2026-10-24T09:41:10.000Z",
+      "category": "science",
+      "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
+    },
+    {
+      "id": "feed-1gh6444",
+      "title": "Kim Jong-un crosses over newly opened bridge into China",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+      "publishedAt": "2026-10-24T09:34:40.000Z",
+      "category": "uk",
+      "summary": "Visit by train over New Yalu River Bridge marks North Korean leader’s first known trip abroad in more than a year Kim Jong-un has travelled to China over a newly opened bridge marking the North Korean leader’s first known trip abroad in more than a year, South"
+    },
+    {
+      "id": "feed-1jg60xm",
+      "title": "France prepares for day of protest a week after nationwide riots",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo",
+      "publishedAt": "2026-10-24T09:34:32.000Z",
+      "category": "world",
+      "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions."
+    },
+    {
       "id": "feed-4ltdnb",
       "title": "Hundreds of protests expected across France, with shops, businesses and tourist sites closed – Europe live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "publishedAt": "2026-10-24T09:07:35.000Z",
-      "category": "world",
+      "publishedAt": "2026-10-24T09:29:53.000Z",
+      "category": "uk",
       "summary": "France will deploy 70,000 officers around the country. Protests are also expected in Italy, Spain, Austria, Portugal, Albania and Ireland The mood in Paris was heightened by fear and horror after what the government said was “racist, terrorist attack” in two t"
     },
     {
-      "id": "feed-17zj9z",
-      "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
-      "publishedAt": "2026-10-24T09:04:21.000Z",
-      "category": "science",
-      "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
+      "id": "feed-17lxs1",
+      "title": "‘Israel should go as far right as possible’: how national security is defining the election - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/news/video/2026/oct/24/israel-should-go-as-far-right-as-possible-how-national-security-is-defining-the-election-video",
+      "publishedAt": "2026-10-24T09:08:54.000Z",
+      "category": "uk",
+      "summary": "Israel is heading to the polls for the first time since the 7 October attacks and concerns about national security are dominating the campaign. Benjamin Netanyahu is facing a significant challenge from the former IDF chief Gadi Eisenkot as voters weigh up who "
     },
     {
       "id": "feed-16gxru",
@@ -134,14 +214,34 @@
       "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
     },
     {
+      "id": "feed-32l0v5",
+      "title": "Caroline Hirons: ‘My celebrity crush? Colin Farrell. I hope he reads this – I hear he likes an older woman’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/24/caroline-hirons-interview-beauty-aesthetician-writer-new-book-skin-rules",
+      "publishedAt": "2026-10-24T09:00:29.000Z",
+      "category": "uk",
+      "summary": "The beauty entrepreneur on why she wears three wedding rings, her fear of running out of HRT, and what put her off being a midwife Born in Liverpool, Caroline Hirons, 57, moved to London at 17. In 1997, she joined the Aveda counter in Harvey Nichols and went o"
+    },
+    {
       "id": "feed-bg1flg",
       "title": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
       "publishedAt": "2026-10-24T09:00:29.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Government campaign recommends three days’ worth of stores for emergencies, but some are ahead of the game Dried foods, bottled water, medicine stocks and backup power banks: it could be the props cupboard on a disaster movie, but instead it is precisely what "
+    },
+    {
+      "id": "feed-163guqp",
+      "title": "‘Unlike anything we’ve experienced’: fans swarm San Francisco for BTS star’s art exhibition",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/24/rm-bts-sfmoma-exhibition",
+      "publishedAt": "2026-10-24T09:00:29.000Z",
+      "category": "uk",
+      "summary": "K-pop star RM gave a boost to the previously struggling SFMOMA with an exhibition of over 100 pieces from his collection Two years ago, RM of the wildly popular K-pop boyband BTS was serving as a soldier in the South Korean military when he received an offer f"
     },
     {
       "id": "feed-11y4li9",
@@ -154,24 +254,14 @@
       "summary": "Much of the Burnham project depends on how the budget is received, as promise of ‘breathing space’ is a two-way street You be the chancellor: play our budget game to see if you can balance the books Every Sunday night, the chancellor, John Healey, slips next d"
     },
     {
-      "id": "feed-166ueag",
-      "title": "Australia v England: women’s Rugby League World Cup – live",
+      "id": "feed-4euv4j",
+      "title": "Channel 4’s new social media drama has 90-second episodes – and it’s as enjoyable as watching adverts",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/24/australia-vs-england-womens-rugby-league-world-cup-live-updates",
-      "publishedAt": "2026-10-24T08:56:40.000Z",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/24/channel-4s-new-social-media-drama-has-90-second-episodes-and-its-as-enjoyable-as-watching-adverts",
+      "publishedAt": "2026-10-24T09:00:28.000Z",
       "category": "uk",
-      "summary": "Updates as the Jillaroos and England meet at HBF Park Kick-off time in Perth is 5.05pm local/8.05pm AEDT/10.05am BST Any thoughts? Get in touch with an email You’d expect the Jillaroos to be happy after their huge win over Samoa last week, but they have identi"
-    },
-    {
-      "id": "feed-1s77lxp",
-      "title": "Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-buildup-premier-league-news-wsl-and-more-matchday-live",
-      "publishedAt": "2026-10-24T08:54:02.000Z",
-      "category": "uk",
-      "summary": "⚽ All the latest as we build up to Saturday’s games ⚽ Ten things to look out for | Fixtures | Mail David Just under three hours to go before Villa Park witnesses people defiantly waving inflatable bananas while being called cheats. Taha Hashim looks at Aston V"
+      "summary": "Vertical dramas are a global phenomenon made in bite-sized addictive chunks to watch on phones. But Channel 4 has made a slow-release syrupy tale in five parts – without tension or actual drama Vertical dramas – that is, short-form content made specifically fo"
     },
     {
       "id": "feed-31zmv8",
@@ -191,7 +281,7 @@
       "url": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79",
       "publishedAt": "2026-10-24T08:44:44.000Z",
       "category": "uk",
-      "summary": "Founding member of Planxty, Lunny went on to play for bands such as Moving Hearts, the Bothy Band and Coolfin The Irish traditional musician Dónal Lunny has died at the age of 79 from cancer. Lunny rose to prominence in the band Rakes of Kildare alongside Chri"
+      "summary": "Founding member of Planxty, Lunny went on to play for bands such as Moving Hearts, the Bothy Band and Coolfin The Irish traditional musician Dónal Lunny has died at the age of 79 from cancer. Lunny rose to prominence in the trio Rakes of Kildare alongside his "
     },
     {
       "id": "feed-tjrcvu",
@@ -280,18 +370,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/money/2026/oct/24/budget-tax-talking-points-explained-john-healey",
       "publishedAt": "2026-10-24T07:00:26.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "As the chancellor prepares for 28 October, we unpack the facts and figures – and the implications any changes could mean for you As John Healey prepares his first budget as chancellor, tax is the small word that is likely to cast a large shadow over next week’"
-    },
-    {
-      "id": "feed-ea4xt4",
-      "title": "Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/24/la-liga-clasico-barcelona-real-madrid-jose-mourinho",
-      "publishedAt": "2026-10-24T07:00:26.000Z",
-      "category": "uk",
-      "summary": "Once Bobby Robson’s translator at the Camp Nou, Mourinho is tasked with bringing down Barcelona on Sunday José Mourinho has done the por que?, the printout and the press conference no-show, and he’s been here only three months. The Real Madrid manager has play"
     },
     {
       "id": "feed-xa3frg",
@@ -340,18 +420,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
       "publishedAt": "2026-10-24T06:21:44.000Z",
-      "category": "uk",
-      "summary": "About 200 firefighters deployed to tackle the blaze at former Nazi retreat in a remote part of southern Germany German police said Saturday they had detained a suspect after a fire at Adolf Hitler’s former mountain retreat, known as the Eagle’s Nest, in the st"
-    },
-    {
-      "id": "feed-1jg60xm",
-      "title": "France prepares for day of protest a week after nationwide riots",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo",
-      "publishedAt": "2026-10-24T06:19:46.000Z",
       "category": "world",
-      "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions."
+      "summary": "About 200 firefighters deployed to tackle the blaze at former Nazi retreat in a remote part of southern Germany German police said Saturday they had detained a suspect after a fire at Adolf Hitler’s former mountain retreat, known as the Eagle’s Nest, in the st"
     },
     {
       "id": "feed-4r1l7g",
@@ -374,34 +444,24 @@
       "summary": "Specialists are looking at how to clear the Cornwall bath house pond and understand the tidal inlet."
     },
     {
-      "id": "feed-dhogrr",
-      "title": "Most levelling up projects still unfinished years after funding allocated",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation",
-      "publishedAt": "2026-10-24T06:00:27.000Z",
-      "category": "uk",
-      "summary": "Data released under freedom of information laws reveals hundreds of projects unfinished despite Tory promises on regional equality • Can a £5.8bn scheme help revive Grimsby and other town centres? Most levelling up projects are not finished, years after funds "
-    },
-    {
       "id": "feed-16q7jgn",
       "title": "More than third of post offices in TG Jones stores to shut by early 2027",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027",
       "publishedAt": "2026-10-24T06:00:27.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Closures within chain formerly under the WH Smith brand raise fears of high streets becoming ‘postal deserts’ Towns and even city centres face being left as “postal deserts” after it emerged that more than a third of post offices within the troubled TG Jones c"
     },
     {
-      "id": "feed-115hsdh",
-      "title": "What links Buckeyes, Crimson Tide and Wolverines? The Saturday quiz",
+      "id": "feed-dhogrr",
+      "title": "Most levelling up projects still unfinished years after funding allocated",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/24/what-links-buckeyes-crimson-tide-and-wolverines-the-saturday-quiz",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation",
       "publishedAt": "2026-10-24T06:00:27.000Z",
-      "category": "uk",
-      "summary": "From Alison, Harry Bailey and Madame Eglantine to the slipper limpet and trumpet tube worm, test your knowledge with the Saturday quiz 1 Which islands lie at the geographic centre of the western hemisphere? 2 Esme Pepper is which writer’s 135th book? 3 What ph"
+      "category": "business",
+      "summary": "Data released under freedom of information laws reveals hundreds of projects unfinished despite Tory promises on regional equality • Can a £5.8bn scheme help revive Grimsby and other town centres? Most levelling up projects are not finished, years after funds "
     },
     {
       "id": "feed-1vpjo7l",
@@ -624,16 +684,6 @@
       "summary": "Defense secretary Pete Hegseth alleges Confucius Institutes operating in disguise on US university campuses The ⁠US defense department has designated Chinese-funded cultural centers on university campuses ⁠known as Confucius ⁠Institutes ​as a threat to US nati"
     },
     {
-      "id": "feed-gt0cwo",
-      "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
-      "publishedAt": "2026-10-24T00:52:33.000Z",
-      "category": "world",
-      "summary": "WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’ Get our new political email , free app or daily news podcast Jordon Steele-John has confirmed he will not attend parliament next week as the embattled"
-    },
-    {
       "id": "feed-1r9rlks",
       "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "source": "BBC News",
@@ -662,16 +712,6 @@
       "publishedAt": "2026-10-24T00:05:45.000Z",
       "category": "uk",
       "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
-    },
-    {
-      "id": "feed-1jybzs0",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
-      "publishedAt": "2026-10-24T00:05:43.000Z",
-      "category": "world",
-      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
     },
     {
       "id": "feed-14um3ko",
@@ -832,16 +872,6 @@
       "publishedAt": "2026-10-23T19:46:30.000Z",
       "category": "world",
       "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
-    },
-    {
-      "id": "feed-1myl63r",
-      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
-      "publishedAt": "2026-10-23T19:42:08.000Z",
-      "category": "world",
-      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
     },
     {
       "id": "feed-ntmo9q",
@@ -1050,7 +1080,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/airbnb-hosts-can-no-longer-ask-guests-to-do-dishes-or-strip-bed-under-new-rules-13602685",
       "publishedAt": "2026-10-23T13:05:00.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Airbnb hosts will no longer be able to ask guests to do the dishes or strip the beds under new rules announced by the platform."
     },
     {
@@ -1272,16 +1302,6 @@
       "publishedAt": "2026-10-23T08:03:00.000Z",
       "category": "world",
       "summary": "The Israeli government has ordered its army to prepare for a full closure of the occupied West Bank following a shooting near Hebron which killed two soldiers."
-    },
-    {
-      "id": "feed-1rvvj1l",
-      "title": "Police officer raped by David Carrick waives anonymity and says Met chief must resign",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/police-officer-raped-by-david-carrick-says-met-chief-must-resign-13602574",
-      "publishedAt": "2026-10-23T07:52:00.000Z",
-      "category": "uk",
-      "summary": "A police detective raped by fellow officer and notorious sexual predator David Carrick has called for the head of the Metropolitan Police to resign."
     },
     {
       "id": "feed-l5ky16",
@@ -1882,16 +1902,6 @@
       "publishedAt": "2026-10-10T01:00:00.000Z",
       "category": "technology",
       "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
-    },
-    {
-      "id": "feed-x3odfq",
-      "title": "You're probably answering this insurance question incorrectly - and it's costing you | Money newsletter",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142",
-      "publishedAt": "2025-05-13T12:06:00.000Z",
-      "category": "business",
-      "summary": "More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week."
     }
   ]
 }
