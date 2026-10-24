@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T05:15:16.768Z",
+  "updatedAt": "2026-10-24T05:53:38.503Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-51yfhb",
+      "title": "The people on standby when a storm strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T05:44:22.000Z",
+      "summary": "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it."
+    },
     {
       "id": "feed-gdns3i",
       "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T05:17:13.000Z",
       "summary": "Experts from the University of Bath are testing out a new invention at a lake in Wiltshire."
-    },
-    {
-      "id": "feed-4h2edq",
-      "title": "'Shock' of first England farmer hit by bird flu this season",
-      "link": "https://www.bbc.co.uk/news/articles/crpdg235g76no",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T05:10:30.000Z",
-      "summary": "The first farmer in England hit by bird flu this season tells of the \"emotional roller coaster\" of losing 32,000 hens."
     }
   ]
 }
