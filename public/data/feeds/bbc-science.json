@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T08:14:24.667Z",
+  "updatedAt": "2026-10-24T08:54:55.201Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-dsfd34",
+      "title": "Weather warnings in place ahead of Storm Boelo",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T08:28:49.000Z",
+      "summary": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
+    },
     {
       "id": "feed-jj44h7",
       "title": "Second storm to hit UK with up to 80mph gusts as hundreds still without power",
@@ -94,14 +102,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T15:30:47.000Z",
       "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife"
-    },
-    {
-      "id": "feed-dsfd34",
-      "title": "Weather warnings in place ahead of Storm Boelo",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T14:37:05.000Z",
-      "summary": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
     },
     {
       "id": "feed-1j7px1l",
