@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T20:07:45.591Z",
+  "updatedAt": "2026-10-24T20:48:31.562Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1qmitrf",
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T19:37:35.000Z",
+      "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall."
+    },
     {
       "id": "feed-m9kzxw",
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
@@ -40,8 +48,8 @@
       "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
     },
     {
-      "id": "feed-skphx6",
-      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "id": "feed-45k32t",
+      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
       "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
       "source": "BBC News",
       "publishedAt": "2026-10-24T15:56:48.000Z",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T23:09:16.000Z",
       "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy."
-    },
-    {
-      "id": "feed-1hicnrg",
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T23:08:23.000Z",
-      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
     }
   ]
 }

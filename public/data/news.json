@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T20:07:45.594Z",
-  "generatedAt": "2026-10-24T20:07:45.594Z",
+  "updatedAt": "2026-10-24T20:48:31.570Z",
+  "generatedAt": "2026-10-24T20:48:31.570Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -109,9 +109,59 @@
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
-      "publishedAt": "2026-10-24T20:03:06.000Z",
+      "publishedAt": "2026-10-24T20:46:57.000Z",
       "category": "science",
       "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
+    },
+    {
+      "id": "feed-t01pug",
+      "title": "United States Grand Prix: Formula One qualifying – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/24/united-states-grand-prix-formula-one-qualifying-live",
+      "publishedAt": "2026-10-24T20:45:25.000Z",
+      "category": "uk",
+      "summary": "️ Updates from Austin; start 10pm BST, 4pm local ️ Giles Richards’ preview | Mail Philip Anthony Davidson , right on cue on Sky, starts a track limits sequence – and the second driver he shows going over a white line is Antonelli. One feature of free practice "
+    },
+    {
+      "id": "feed-1a6a8zh",
+      "title": "Thousands of people gather in support of Drumcree Orangemen",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq313dnzzeo",
+      "publishedAt": "2026-10-24T20:31:12.000Z",
+      "category": "uk",
+      "summary": "Hundreds of Orangemen are parading through Portadown, joined by bands and a crowd of supporters who have not been deterred by the weather."
+    },
+    {
+      "id": "feed-ggm2bm",
+      "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o",
+      "publishedAt": "2026-10-24T20:30:43.000Z",
+      "category": "uk",
+      "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days."
+    },
+    {
+      "id": "feed-tllxc2",
+      "title": "Barack Obama to rally for Abdul El-Sayed in Michigan before key US Senate race – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
+      "publishedAt": "2026-10-24T20:28:45.000Z",
+      "category": "uk",
+      "summary": "The former Democratic president is showing major support in Detroit for the progressive Michigan candidate in final days before US midterm elections Sign up for Breaking News US email Abdul El-Sayed, a doctor and former Wayne county health director, ran on Med"
+    },
+    {
+      "id": "feed-1cnxv7i",
+      "title": "Hundreds of thousands march in France as protests take place across Europe – as it happened",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "publishedAt": "2026-10-24T20:22:18.000Z",
+      "category": "world",
+      "summary": "French police have made 1,000 arrests and Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m h"
     },
     {
       "id": "feed-1ok4tmk",
@@ -124,14 +174,14 @@
       "summary": "Hassan Jihad Ibn Kariem fell from ride earlier this month, spurring amusement park to temporarily shut it down Six Flags will install seatbelts on its Goliath rollercoaster in Georgia , after a rider plummeted to his death earlier this month. Hassan Jihad Ibn "
     },
     {
-      "id": "feed-kwmeho",
-      "title": "Hundreds of thousands march in France as protests take place across Europe – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "publishedAt": "2026-10-24T19:40:13.000Z",
+      "id": "feed-1qmitrf",
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do",
+      "publishedAt": "2026-10-24T19:37:35.000Z",
       "category": "world",
-      "summary": "French police have made 1,000 arrests and Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m h"
+      "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall."
     },
     {
       "id": "feed-m9kzxw",
@@ -211,7 +261,17 @@
       "url": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report",
       "publishedAt": "2026-10-24T18:32:03.000Z",
       "category": "uk",
-      "summary": "There were times when Roberto De Zerbi’s frustration threatened to boil over. The Tottenham manager cut a tense figure in his technical area. He bounced around for 90 minutes and let out blasts of fury whenever he saw something that displeased him, but in the "
+      "summary": "There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only known doom. Spurs played with control, stayed patient and won at Stamford Bridge for the fi"
+    },
+    {
+      "id": "feed-yk0sf2",
+      "title": "Murder charge after body found in wheelie bin",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg7p3qrpgdo",
+      "publishedAt": "2026-10-24T18:20:56.000Z",
+      "category": "uk",
+      "summary": "Police say Mohamed Abotaka, 36, is charged with the murder of 52-year-old Ali Barzai."
     },
     {
       "id": "feed-10gn663",
@@ -232,16 +292,6 @@
       "publishedAt": "2026-10-24T18:11:44.000Z",
       "category": "uk",
       "summary": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro Tens of thousands of supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant pr"
-    },
-    {
-      "id": "feed-1cezyqp",
-      "title": "Championship roundup: Southampton beat West Ham; QPR put five past Swansea",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/24/championship-roundup-sheffield-united-derby-west-ham-swansea",
-      "publishedAt": "2026-10-24T18:11:23.000Z",
-      "category": "uk",
-      "summary": "Hammers humbled at home; Swansea thrashed 5-0 Burnley sack manager Hayen after 4-1 loss at Lincoln Southampton announced themselves in the promotion race with a statement 3-2 win at the pre-season title favourites, West Ham . Kuryu Matsuki, James Bree and Lewi"
     },
     {
       "id": "feed-11f9c3b",
@@ -334,8 +384,8 @@
       "summary": "The wait goes on for David Moyes. The 63-year-old Scot must have been hoping that on his 14th visit to this stadium as Everton’s manager, his luck would change. Yet from the moment Ezri Konsa slammed home his first goal for Arsenal as the Premier League champi"
     },
     {
-      "id": "feed-skphx6",
-      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "id": "feed-45k32t",
+      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
@@ -414,6 +464,16 @@
       "summary": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday."
     },
     {
+      "id": "feed-1x5ezaf",
+      "title": "Habitat destroyed by Cairngorms fire to be restored with government funding",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnkwnlv6po",
+      "publishedAt": "2026-10-24T14:29:47.000Z",
+      "category": "uk",
+      "summary": "The funding will also support habitat, species and river restoration, control of invasive non-native species and deer management across Scotland."
+    },
+    {
       "id": "feed-kzcbt9",
       "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
       "source": "The Guardian",
@@ -432,16 +492,6 @@
       "publishedAt": "2026-10-24T14:24:15.000Z",
       "category": "world",
       "summary": "Footage broadcast on state TV shows three attackers approaching Greek Orthodox church and firing shots Nine people have been killed after gunmen opened fire at a funeral at a church in Jordan in a rare attack ⁠on the country’s Christian minority. Authorities d"
-    },
-    {
-      "id": "feed-o56p6",
-      "title": "Relief for Slegers as Russo rescues Arsenal against Tottenham in WSL",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/24/tottenham-arsenal-wsl-match-report",
-      "publishedAt": "2026-10-24T13:59:27.000Z",
-      "category": "uk",
-      "summary": "Alessia Russo’s contentious second-half penalty delivered relief, a reprieve and a chance for a reset as Arsenal came from a goal down to earn their second win of the WSL season in the north London derby. At a rain-lashed Tottenham Hotspur Stadium, the Gunners"
     },
     {
       "id": "feed-e1a64v",
@@ -492,6 +542,16 @@
       "publishedAt": "2026-10-24T13:17:13.000Z",
       "category": "world",
       "summary": "PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpoint Israeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in collective punishment for a militant attack on an army checkpoi"
+    },
+    {
+      "id": "feed-14jmikn",
+      "title": "Reward offered over murder in flat used as brothel",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c615j787ee82o",
+      "publishedAt": "2026-10-24T13:00:13.000Z",
+      "category": "uk",
+      "summary": "Jinming Zhang had been stabbed multiple times before he was found on 9 February 2022."
     },
     {
       "id": "feed-b439r",
@@ -582,6 +642,16 @@
       "publishedAt": "2026-10-24T11:35:22.000Z",
       "category": "world",
       "summary": "Nazhat Shameem Khan claims some staff are facing ‘banking difficulties’ but their work is unaffected The deputy prosecutor of the international criminal court has said new US sanctions are beginning to take effect on its staff but insisted they have not hinder"
+    },
+    {
+      "id": "feed-1krg89c",
+      "title": "Could Somerset pub be the oldest in England?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn0rv6k90o",
+      "publishedAt": "2026-10-24T11:32:46.000Z",
+      "category": "uk",
+      "summary": "Experts say The George Inn, in Norton St Philip, which dates to about 1430, is England's oldest pub."
     },
     {
       "id": "feed-1wj92sn",
@@ -744,6 +814,26 @@
       "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
     },
     {
+      "id": "feed-1dwoesm",
+      "title": "What a spectre - Bond boys bounce around London",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmde869e8k34o",
+      "publishedAt": "2026-10-24T07:04:47.000Z",
+      "category": "uk",
+      "summary": "Are Jack Lowden, Callum Turner and Josh O'Connor shaking, not stirring, through London in a bid to become the next Bond?"
+    },
+    {
+      "id": "feed-2ovw7v",
+      "title": "Politics and pedestrians: How traffic was removed from Oxford Street",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrp144r21o",
+      "publishedAt": "2026-10-24T07:03:35.000Z",
+      "category": "uk",
+      "summary": "More than a kilometre of the so-called \"nation's high-street\" will be pedestrianised from Monday."
+    },
+    {
       "id": "feed-1wkfcya",
       "title": "What essentials to keep, what rubbish to get rid of? Burnham, Badenoch, Farage don’t know either | Robert Hutton",
       "source": "The Guardian",
@@ -802,16 +892,6 @@
       "publishedAt": "2026-10-24T06:17:32.000Z",
       "category": "science",
       "summary": "Conservation groups say black poplars are endangered due to felling, land drainage and habitat loss."
-    },
-    {
-      "id": "feed-1xuib8f",
-      "title": "Fitness became an addiction that left me anxious and sleep deprived",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg909xv1j8o",
-      "publishedAt": "2026-10-24T06:17:30.000Z",
-      "category": "uk",
-      "summary": "Wayne Davies was left \"constantly worrying\" about race times, comparing himself to other runners on social media."
     },
     {
       "id": "feed-1ponxpy",
@@ -1004,16 +1084,6 @@
       "summary": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures."
     },
     {
-      "id": "feed-by65vg",
-      "title": "Strictly's new presenters - after frosty reviews have they warmed up?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o",
-      "publishedAt": "2026-10-23T23:15:47.000Z",
-      "category": "uk",
-      "summary": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say."
-    },
-    {
       "id": "feed-50x9ou",
       "title": "Are California voters about to impose 'world's first' tax on billionaires?",
       "source": "BBC News",
@@ -1034,46 +1104,6 @@
       "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy."
     },
     {
-      "id": "feed-1hicnrg",
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o",
-      "publishedAt": "2026-10-23T23:08:23.000Z",
-      "category": "world",
-      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
-    },
-    {
-      "id": "feed-1pmdjdd",
-      "title": "Britain's posh schools are heading to India for students and profits",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo",
-      "publishedAt": "2026-10-23T23:02:25.000Z",
-      "category": "uk",
-      "summary": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population."
-    },
-    {
-      "id": "feed-huk6po",
-      "title": "The gang murder and the women who went to the White House looking for answers",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg7w12yz0po",
-      "publishedAt": "2026-10-23T23:01:05.000Z",
-      "category": "uk",
-      "summary": "The fallout of the murder of 33-year-old Robert McCartney, a father-of-two, reverberated around the world - forcing the IRA to acknowledge several of its members were involved."
-    },
-    {
-      "id": "feed-1n4jd3q",
-      "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo",
-      "publishedAt": "2026-10-23T22:52:40.000Z",
-      "category": "uk",
-      "summary": "A newly earned special power left one contestant with a big decision to make in Friday's episode."
-    },
-    {
       "id": "feed-lndwew",
       "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
       "source": "The Guardian",
@@ -1084,16 +1114,6 @@
       "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan C"
     },
     {
-      "id": "feed-yrziev",
-      "title": "Man dies after car crashes into Lidl supermarket",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwrky7j13r4vo",
-      "publishedAt": "2026-10-23T21:16:38.000Z",
-      "category": "uk",
-      "summary": "West Midlands Police said the man was pronounced dead at the scene with others requiring treatment."
-    },
-    {
       "id": "feed-adehik",
       "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
       "source": "BBC News",
@@ -1102,16 +1122,6 @@
       "publishedAt": "2026-10-23T21:10:47.000Z",
       "category": "science",
       "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather."
-    },
-    {
-      "id": "feed-ntmo9q",
-      "title": "GP says she was forced out of job after raising concerns about gender treatment",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynl415j79o",
-      "publishedAt": "2026-10-23T19:23:10.000Z",
-      "category": "uk",
-      "summary": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors."
     },
     {
       "id": "feed-bpd7dx",
@@ -1132,16 +1142,6 @@
       "publishedAt": "2026-10-23T18:48:48.000Z",
       "category": "technology",
       "summary": "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’ Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence t"
-    },
-    {
-      "id": "feed-1f1xxu4",
-      "title": "Prince William on how he once dreamed of becoming 'DJ Xara'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo",
-      "publishedAt": "2026-10-23T18:42:38.000Z",
-      "category": "uk",
-      "summary": "The Prince of Wales made a surprise appearance on the Graham Norton Show as part of a special edition to mark the Earthshot Prize."
     },
     {
       "id": "feed-11itr7k",
@@ -1422,6 +1422,16 @@
       "publishedAt": "2026-10-23T08:03:00.000Z",
       "category": "world",
       "summary": "The Israeli government has ordered its army to prepare for a full closure of the occupied West Bank following a shooting near Hebron which killed two soldiers."
+    },
+    {
+      "id": "feed-l5ky16",
+      "title": "Man 'sexually obsessed' with stepdaughter jailed for her murder",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/man-sexually-obsessed-with-stepdaughter-jailed-for-her-murder-13602566",
+      "publishedAt": "2026-10-23T07:34:00.000Z",
+      "category": "uk",
+      "summary": "A man who had a secret sexual obsession with his stepdaughter before going on to murder her has been jailed for at least 35 years."
     },
     {
       "id": "feed-16phiun",
@@ -1892,16 +1902,6 @@
       "publishedAt": "2026-10-19T20:04:00.000Z",
       "category": "technology",
       "summary": "Japan launched a spacecraft towards Mars in a ground-breaking mission to bring back samples from the largest of the planet's two moons."
-    },
-    {
-      "id": "feed-1tjqo2f",
-      "title": "Ex-OpenAI worker accused of bugging offices planned to 'flee' to Saudi Arabia, prosecutors say",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/ex-openai-worker-accused-of-bugging-offices-planned-to-flee-to-saudi-arabia-prosecutors-say-13601112",
-      "publishedAt": "2026-10-19T18:36:00.000Z",
-      "category": "technology",
-      "summary": "A former OpenAI engineer charged with secretly installing a recording device at its offices was \"mere days\" away from fleeing to Saudi Arabia before his arrest, prosecutors allege."
     }
   ]
 }
