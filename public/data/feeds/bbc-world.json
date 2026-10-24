@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T21:50:30.483Z",
+  "updatedAt": "2026-10-24T22:11:36.980Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-3a9d3f",
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T22:08:47.000Z",
+      "summary": "Voters are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro."
+    },
     {
       "id": "feed-2fj8k2",
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T00:36:47.000Z",
       "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
-    },
-    {
-      "id": "feed-50x9ou",
-      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T23:11:31.000Z",
-      "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare."
     }
   ]
 }
