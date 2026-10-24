@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T11:12:58.522Z",
+  "updatedAt": "2026-10-24T11:52:46.222Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1tobo0c",
+      "title": "Storm Boelo to bring severe gales and heavy rain into Sunday",
+      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T11:48:58.000Z",
+      "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches."
+    },
     {
       "id": "feed-nnljzr",
       "title": "Wales plans to ban steel pylons as government launches consultation",
@@ -38,14 +46,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T08:28:49.000Z",
       "summary": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
-    },
-    {
-      "id": "feed-jj44h7",
-      "title": "Second storm to hit UK with up to 80mph gusts as hundreds still without power",
-      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T06:40:39.000Z",
-      "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches."
     },
     {
       "id": "feed-4r1l7g",
