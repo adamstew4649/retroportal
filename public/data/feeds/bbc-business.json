@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T23:10:24.056Z",
+  "updatedAt": "2026-10-24T23:44:03.470Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-8fsmrp",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T23:15:18.000Z",
+      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+    },
     {
       "id": "feed-19b32ui",
       "title": "Rising demand from families needing Christmas help",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T23:20:38.000Z",
       "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
-    },
-    {
-      "id": "feed-1ysrfkp",
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T22:27:53.000Z",
-      "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
     }
   ]
 }
