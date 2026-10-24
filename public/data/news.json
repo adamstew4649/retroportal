@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T23:49:08.050Z",
-  "generatedAt": "2026-10-23T23:49:08.050Z",
+  "updatedAt": "2026-10-24T00:12:06.164Z",
+  "generatedAt": "2026-10-24T00:12:06.164Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -103,6 +103,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "feed-b3dxf6",
+      "title": "How does the UK state pension compare with other countries?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo",
+      "publishedAt": "2026-10-24T00:09:12.000Z",
+      "category": "uk",
+      "summary": "Do British pensioners have it better or worse than those in other countries?"
+    },
+    {
+      "id": "feed-1nn8rox",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+      "publishedAt": "2026-10-24T00:05:45.000Z",
+      "category": "uk",
+      "summary": "The Chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
+    },
+    {
+      "id": "feed-14um3ko",
+      "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o",
+      "publishedAt": "2026-10-23T23:50:45.000Z",
+      "category": "uk",
+      "summary": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm."
+    },
     {
       "id": "feed-u4b1h1",
       "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
@@ -361,7 +391,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
       "publishedAt": "2026-10-23T19:42:08.000Z",
       "category": "world",
-      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
+      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
     },
     {
       "id": "feed-1k58u2p",
@@ -460,7 +490,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
       "publishedAt": "2026-10-23T18:48:48.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’ Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence t"
     },
     {
@@ -552,6 +582,16 @@
       "publishedAt": "2026-10-23T17:22:11.000Z",
       "category": "uk",
       "summary": "Benjamin Netanyahu and ministers promise demolitions and forced displacement after deadly gunfight Israel has launched a campaign of collective punishment against Palestinians in Hebron after gunmen killed two Israeli soldiers and injured three near a checkpoi"
+    },
+    {
+      "id": "feed-epqshn",
+      "title": "Who will be the next James Bond? - The Latest",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/news/video/2026/oct/23/who-will-be-the-next-james-bond-the-latest",
+      "publishedAt": "2026-10-23T17:21:23.000Z",
+      "category": "uk",
+      "summary": "The search for the next James Bond may be in the final stages, with screen tests reportedly taking place this weekend. Callum Turner, Jack Lowden and Josh O’Connor are among the actors thought to be in the running for the role. So who is likely to emerge as th"
     },
     {
       "id": "feed-13c3ag4",
@@ -814,16 +854,6 @@
       "summary": "The UK government has warned households to have three days of essential supplies on hand."
     },
     {
-      "id": "feed-oo0sur",
-      "title": "Military base asylum plans challenged at High Court",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3rm4l39no",
-      "publishedAt": "2026-10-23T13:22:32.000Z",
-      "category": "uk",
-      "summary": "Campaigners are asking for a judicial review into Home Office plans for MoD Bicester."
-    },
-    {
       "id": "feed-3tf5s1",
       "title": "Airbnb hosts can't ask guests to do 'chores' anymore in rule change",
       "source": "Sky News",
@@ -834,16 +864,6 @@
       "summary": "Airbnb hosts will no longer be able to ask guests to do the dishes or strip the beds under new rules announced by the platform."
     },
     {
-      "id": "feed-gxo252",
-      "title": "Watch: Moment part of Brighton's historic West Pier collapses",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo",
-      "publishedAt": "2026-10-23T13:03:29.000Z",
-      "category": "uk",
-      "summary": "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water."
-    },
-    {
       "id": "feed-wx1n8x",
       "title": "Seven dead and 34 injured after shooting at church in Jordan",
       "source": "Sky News",
@@ -852,16 +872,6 @@
       "publishedAt": "2026-10-23T12:57:00.000Z",
       "category": "world",
       "summary": "Seven people have died and 34 have been injured after gunmen opened fire on a funeral at a church in Jordan."
-    },
-    {
-      "id": "feed-3gjawq",
-      "title": "Burnham suggests stocking up on tinned food and bottled water",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo",
-      "publishedAt": "2026-10-23T12:41:10.000Z",
-      "category": "uk",
-      "summary": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare."
     },
     {
       "id": "feed-da1yzo",
@@ -1534,16 +1544,6 @@
       "summary": "Britain's energy supplies are secure for winter, national grid operators have said, despite expected higher gas demand at peak times and possible \"tight days\" for electricity."
     },
     {
-      "id": "feed-t1pg1",
-      "title": "'I wasn't thinking straight' says five jobs civil servant",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro",
-      "publishedAt": "2026-10-22T15:05:47.000Z",
-      "category": "business",
-      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs."
-    },
-    {
       "id": "feed-1iwox4",
       "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
       "source": "The Guardian",
@@ -1554,16 +1554,6 @@
       "summary": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances in AI. The job cuts will mean lo"
     },
     {
-      "id": "feed-1tyfej8",
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo",
-      "publishedAt": "2026-10-22T14:28:59.000Z",
-      "category": "business",
-      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce."
-    },
-    {
       "id": "feed-1x9aiwq",
       "title": "Post Office to launch first TV ads since Horizon scandal",
       "source": "Sky News",
@@ -1572,16 +1562,6 @@
       "publishedAt": "2026-10-22T14:23:00.000Z",
       "category": "business",
       "summary": "The Post Office is to spend millions of pounds on its first television ads since the Horizon IT scandal, as it seeks to raise awareness of its range of bankjng services during a critical period for the state-owned company."
-    },
-    {
-      "id": "feed-fd0mvj",
-      "title": "Tank barrel production returns to UK after 20 years",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o",
-      "publishedAt": "2026-10-22T13:45:19.000Z",
-      "category": "business",
-      "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces."
     },
     {
       "id": "feed-icscqg",
@@ -1794,16 +1774,6 @@
       "summary": "Scientists have found clues that could help predict who will develop aggressive prostate cancer many years in advance."
     },
     {
-      "id": "feed-1u4e4q0",
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-      "publishedAt": "2026-10-21T08:42:49.000Z",
-      "category": "technology",
-      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
-    },
-    {
       "id": "feed-1pgsr7t",
       "title": "Mystery of Roman sarcophagus unearthed at Westminster Abbey solved at last, expert says",
       "source": "The Guardian",
@@ -1902,6 +1872,36 @@
       "publishedAt": "2026-10-15T18:49:45.000Z",
       "category": "science",
       "summary": "My brother Norman McCubbin, who has died aged 77, was a scientist who worked at the forefront of experimental particle physics. A leading light in experiments that took place on the Large Hadron Collider, the world’s biggest and most powerful particle accelera"
+    },
+    {
+      "id": "feed-e2wvex",
+      "title": "Neanderthals capable of both violence and care, bones from Iraqi cave suggest",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/neanderthals-capable-of-both-violence-and-care-bones-from-iraqi-cave-suggest-13599736",
+      "publishedAt": "2026-10-15T18:25:00.000Z",
+      "category": "technology",
+      "summary": "Neanderthals were not the unintelligent cave dwellers of popular imagination, but may have been capable of showing both violence and care, researchers who have discovered bones dating back 75,000 years have said."
+    },
+    {
+      "id": "feed-t2mjvv",
+      "title": "Is your boss watching you? The rise of AI surveillance at work - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
+      "publishedAt": "2026-10-15T11:10:25.000Z",
+      "category": "science",
+      "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts"
+    },
+    {
+      "id": "feed-18xlmy8",
+      "title": "Is your boss watching you? The rise of AI surveillance at work – podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast",
+      "publishedAt": "2026-10-15T04:00:21.000Z",
+      "category": "science",
+      "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts"
     }
   ]
 }
