@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T10:14:13.141Z",
-  "generatedAt": "2026-10-24T10:14:13.141Z",
+  "updatedAt": "2026-10-24T10:52:22.569Z",
+  "generatedAt": "2026-10-24T10:52:22.569Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "id": "sky-technology",
@@ -104,6 +104,56 @@
   ],
   "articles": [
     {
+      "id": "feed-166ueag",
+      "title": "Australia v England: women’s Rugby League World Cup – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/24/australia-vs-england-womens-rugby-league-world-cup-live-updates",
+      "publishedAt": "2026-10-24T10:45:14.000Z",
+      "category": "uk",
+      "summary": "Updates as the Jillaroos and England meet at HBF Park Any thoughts? Get in touch with an email The teams are finishing up their preparations in the change rooms now – it won’t be long until the match gets under way! You’d expect the Jillaroos to be happy after"
+    },
+    {
+      "id": "feed-1qce50o",
+      "title": "Mourinho labels Madrid-Barça comparison ‘unfair’, Kompany to miss ‘weeks’ say Bayern, and more",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-buildup-premier-league-news-wsl-and-more-matchday-live",
+      "publishedAt": "2026-10-24T10:40:11.000Z",
+      "category": "uk",
+      "summary": "⚽ All the latest as we build up to Saturday’s games ⚽ Ten things to look out for | Fixtures | Mail David Just under three hours to go before Villa Park witnesses people defiantly waving inflatable bananas while being called cheats. Taha Hashim looks at Aston V"
+    },
+    {
+      "id": "feed-vb9r9q",
+      "title": "Protests begin across France, with shops, businesses and tourist sites closed – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "publishedAt": "2026-10-24T10:36:45.000Z",
+      "category": "uk",
+      "summary": "France will deploy 70,000 officers around the country, while protests are also expected in Italy, Spain, Austria, Portugal, Albania and Ireland Police in Italy have raided 150 homes in Milan and other cities as the country braces for more protests on Saturday "
+    },
+    {
+      "id": "feed-39oy1i",
+      "title": "Eight killed and 40 injured after gunmen open fire at church funeral in Jordan",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+      "publishedAt": "2026-10-24T10:23:13.000Z",
+      "category": "uk",
+      "summary": "Footage broadcast on state TV shows three attackers approaching Greek Orthodox church and firing shots Eight people have been killed after gunmen opened fire at a funeral at a church in Jordan in a rare attack ⁠on the country’s Christian minority. Authorities "
+    },
+    {
+      "id": "feed-16gxru",
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
+      "publishedAt": "2026-10-24T10:22:34.000Z",
+      "category": "world",
+      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+    },
+    {
       "id": "feed-nnljzr",
       "title": "Wales plans to ban steel pylons as government launches consultation",
       "source": "BBC News",
@@ -120,8 +170,38 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
       "publishedAt": "2026-10-24T10:04:04.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany German police have arrested a suspect after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi me"
+    },
+    {
+      "id": "feed-ur6ip4",
+      "title": "‘It was so magical’: the 33-year-old who made history swimming the length of California",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/catherine-breed-interview-swim-california-coastline",
+      "publishedAt": "2026-10-24T10:00:31.000Z",
+      "category": "uk",
+      "summary": "Ultra-endurance swimmer Catherine Breed navigated waves, wildlife and pollution to become the first person to swim from state’s northern-most tip to Mexico border Nearly four months ago, Catherine Breed, a 33-year-old from the San Francisco Bay Area, set out t"
+    },
+    {
+      "id": "feed-anyanh",
+      "title": "Forget the Live Aid image, Africa is only a broken continent in the minds of the west | Moky Makura",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/global-development/2026/oct/24/forget-the-live-aid-image-africa-is-only-a-broken-continent-in-the-minds-of-the-west",
+      "publishedAt": "2026-10-24T10:00:31.000Z",
+      "category": "uk",
+      "summary": "Innovators and business leaders are driving progress across the continent-wide, but the ‘visibility gap’ prevents the rest of the world from truly seeing it Thirty years ago, shortly after South Africa emerged from apartheid, I left London for Johannesburg in "
+    },
+    {
+      "id": "feed-b7oaj5",
+      "title": "Tom Kean had everything going for him. Then the Republican New Jersey congressman disappeared",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/tom-kean-new-jersey-rebecca-bennett",
+      "publishedAt": "2026-10-24T10:00:31.000Z",
+      "category": "uk",
+      "summary": "Even with a multimillion-dollar war chest, the US representative faces a stiff fight for his seat from Democrat Rebecca Bennett The stars above New Jersey seemed aligned for Tom Kean Jr. The Republican congressman had a war chest of more than $2.4m in February"
     },
     {
       "id": "feed-3x4xk8",
@@ -140,28 +220,38 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/24/headphone-dodgers-antisocial-behaviour-britain-japan",
       "publishedAt": "2026-10-24T10:00:30.000Z",
-      "category": "business",
+      "category": "uk",
       "summary": "Working in Japanese schools, I saw how teaching young people civic pride creates adults with consideration for others There are two types of people who listen to music in public: those who wear headphones and those who … are a word I probably can’t use here. “"
     },
     {
-      "id": "feed-166ueag",
-      "title": "Australia v England: women’s Rugby League World Cup – live",
+      "id": "feed-1it7cl9",
+      "title": "A theatrical dancer on a pristine limestone mountain in East Java: Mohammad Nur Nasikin’s best phone picture",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/24/australia-vs-england-womens-rugby-league-world-cup-live-updates",
-      "publishedAt": "2026-10-24T09:57:30.000Z",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/24/mohammad-nur-nasikin-best-phone-picture-indonesia",
+      "publishedAt": "2026-10-24T10:00:30.000Z",
       "category": "uk",
-      "summary": "Updates as the Jillaroos and England meet at HBF Park Any thoughts? Get in touch with an email The teams are finishing up their preparations in the change rooms now – it won’t be long until the match gets under way! You’d expect the Jillaroos to be happy after"
+      "summary": "The photographer hopes his image of a father and son practising a traditional Indonesian artform will go some way towards preserving it Early this summer, in a pristine, limestone mountain range in the East Java province of Indonesia, Mohammad Nur Nasikin met "
     },
     {
-      "id": "feed-4ltdnb",
-      "title": "Hundreds of protests expected across France, with shops, businesses and tourist sites closed – Europe live",
+      "id": "feed-57bar1",
+      "title": "Young country diary: A red squirrel examines a nut, right in front of me | Tom",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "publishedAt": "2026-10-24T09:54:55.000Z",
+      "url": "https://www.theguardian.com/environment/2026/oct/24/young-country-diary-red-squirrel-brownsea-island-examines-a-nut",
+      "publishedAt": "2026-10-24T10:00:30.000Z",
       "category": "uk",
-      "summary": "France will deploy 70,000 officers around the country. Protests are also expected in Italy, Spain, Austria, Portugal, Albania and Ireland Following last weekend’s unrest, authorities across France moved to try to restrict demonstrations, limiting gathering num"
+      "summary": "Brownsea Island, Dorset: I’ve been here lots of times to see the squirrels, so I know exactly where to find them – behind the church in the woods Every October my family have an annual trip to Brownsea Island. We go in autumn because this is a good time to see"
+    },
+    {
+      "id": "feed-ww9zvd",
+      "title": "Becky Barnicoat on scary outfits for Halloween – cartoon",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/24/becky-barnicoat-on-scary-outfits-for-halloween-cartoon",
+      "publishedAt": "2026-10-24T10:00:29.000Z",
+      "category": "uk",
+      "summary": "Continue reading..."
     },
     {
       "id": "feed-1vbs839",
@@ -172,16 +262,6 @@
       "publishedAt": "2026-10-24T09:53:42.000Z",
       "category": "business",
       "summary": "The campaign, run by Little Stars, is running from today until 4 December."
-    },
-    {
-      "id": "feed-1csrihd",
-      "title": "Mourinho says Madrid-Barça comparison ‘unfair’, Premier League news, WSL, and more",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-buildup-premier-league-news-wsl-and-more-matchday-live",
-      "publishedAt": "2026-10-24T09:50:01.000Z",
-      "category": "uk",
-      "summary": "⚽ All the latest as we build up to Saturday’s games ⚽ Ten things to look out for | Fixtures | Mail David Just under three hours to go before Villa Park witnesses people defiantly waving inflatable bananas while being called cheats. Taha Hashim looks at Aston V"
     },
     {
       "id": "feed-1jybzs0",
@@ -221,7 +301,7 @@
       "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
       "publishedAt": "2026-10-24T09:43:09.000Z",
       "category": "uk",
-      "summary": "The 36-year-old died after two boys reportedly swept away by strong current near Bimini, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling. The Royal Bahamas police f"
+      "summary": "Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling. The Royal B"
     },
     {
       "id": "feed-1bf2zxy",
@@ -254,6 +334,16 @@
       "summary": "Visit by train over New Yalu River Bridge marks North Korean leader’s first known trip abroad in more than a year Kim Jong-un has travelled to China over a newly opened bridge marking the North Korean leader’s first known trip abroad in more than a year, South"
     },
     {
+      "id": "feed-1g9ul1f",
+      "title": "Bahamas police investigate after British woman dies trying to rescue sons",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/bahamas-police-investigate-after-british-woman-dies-trying-to-rescue-sons-13602998",
+      "publishedAt": "2026-10-24T09:25:00.000Z",
+      "category": "world",
+      "summary": "Police are investigating after a British woman died while trying to rescue her two sons off the Bahamas coast."
+    },
+    {
       "id": "feed-17lxs1",
       "title": "‘Israel should go as far right as possible’: how national security is defining the election - video",
       "source": "The Guardian",
@@ -262,16 +352,6 @@
       "publishedAt": "2026-10-24T09:08:54.000Z",
       "category": "uk",
       "summary": "Israel is heading to the polls for the first time since the 7 October attacks and concerns about national security are dominating the campaign. Benjamin Netanyahu is facing a significant challenge from the former IDF chief Gadi Eisenkot as voters weigh up who "
-    },
-    {
-      "id": "feed-16gxru",
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
-      "publishedAt": "2026-10-24T09:03:15.000Z",
-      "category": "world",
-      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
     },
     {
       "id": "feed-32l0v5",
@@ -294,16 +374,6 @@
       "summary": "Government campaign recommends three days’ worth of stores for emergencies, but some are ahead of the game Dried foods, bottled water, medicine stocks and backup power banks: it could be the props cupboard on a disaster movie, but instead it is precisely what "
     },
     {
-      "id": "feed-163guqp",
-      "title": "‘Unlike anything we’ve experienced’: fans swarm San Francisco for BTS star’s art exhibition",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/24/rm-bts-sfmoma-exhibition",
-      "publishedAt": "2026-10-24T09:00:29.000Z",
-      "category": "uk",
-      "summary": "K-pop star RM gave a boost to the previously struggling SFMOMA with an exhibition of over 100 pieces from his collection Two years ago, RM of the wildly popular K-pop boyband BTS was serving as a soldier in the South Korean military when he received an offer f"
-    },
-    {
       "id": "feed-11y4li9",
       "title": "Can John Healey make a dent in the cost of living crisis in his first budget?",
       "source": "The Guardian",
@@ -314,33 +384,13 @@
       "summary": "Much of the Burnham project depends on how the budget is received, as promise of ‘breathing space’ is a two-way street You be the chancellor: play our budget game to see if you can balance the books Every Sunday night, the chancellor, John Healey, slips next d"
     },
     {
-      "id": "feed-4euv4j",
-      "title": "Channel 4’s new social media drama has 90-second episodes – and it’s as enjoyable as watching adverts",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/24/channel-4s-new-social-media-drama-has-90-second-episodes-and-its-as-enjoyable-as-watching-adverts",
-      "publishedAt": "2026-10-24T09:00:28.000Z",
-      "category": "uk",
-      "summary": "Vertical dramas are a global phenomenon made in bite-sized addictive chunks to watch on phones. But Channel 4 has made a slow-release syrupy tale in five parts – without tension or actual drama Vertical dramas – that is, short-form content made specifically fo"
-    },
-    {
-      "id": "feed-31zmv8",
-      "title": "England crush France by 82 points to keep Rugby League World Cup hopes alive",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/24/england-france-rugby-league-world-cup-match-report",
-      "publishedAt": "2026-10-24T08:54:00.000Z",
-      "category": "uk",
-      "summary": "England 82-0 France Herbie Farnworth and Dom Young grab hat-tricks England’s hopes of reaching the semi-finals of the Rugby League World Cup remain just about alive after Brian McDermott’s side racked up 82 points against France to keep themselves in a difficu"
-    },
-    {
       "id": "feed-yg6q1h",
       "title": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79",
       "publishedAt": "2026-10-24T08:44:44.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Founding member of Planxty, Lunny went on to play for bands such as Moving Hearts, the Bothy Band and Coolfin The Irish traditional musician Dónal Lunny has died at the age of 79 from cancer. Lunny rose to prominence in the trio Rakes of Kildare alongside his "
     },
     {
@@ -350,7 +400,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
       "publishedAt": "2026-10-24T08:32:56.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say The David Attenborough -narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewer"
     },
     {
@@ -362,26 +412,6 @@
       "publishedAt": "2026-10-24T08:28:49.000Z",
       "category": "science",
       "summary": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
-    },
-    {
-      "id": "feed-1dvgzk4",
-      "title": "‘False autumn’: stressed trees drop leaves early after scorching English summer",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/oct/24/false-autumn-stressed-trees-drop-leaves-early-extreme-summer-heat",
-      "publishedAt": "2026-10-24T08:00:27.000Z",
-      "category": "uk",
-      "summary": "Season will be less vibrant with trees such as birches, which usually offer a striking burst of yellow leaves, already bare Among a canvas of copper, red and purple autumn leaves on display at Wisley garden in Surrey, south-east England, one tree stands conspi"
-    },
-    {
-      "id": "feed-16kd9uy",
-      "title": "‘Our third date was at Buckingham Palace’: Marlon James and Nicholas Boggs on life as a literary power couple",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/books/2026/oct/24/our-third-date-was-at-buckingham-palace-marlon-james-and-nicholas-boggs-on-life-as-a-literary-power-couple",
-      "publishedAt": "2026-10-24T08:00:27.000Z",
-      "category": "uk",
-      "summary": "Shortlisted for the Booker and Baillie Gifford prizes respectively, the novelist and biographer talk about working and living together – and giving a voice to Black queer history The literary power couple is a historically seductive concept. Two writers sharin"
     },
     {
       "id": "feed-1xuin77",
@@ -400,7 +430,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
       "publishedAt": "2026-10-24T07:00:27.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk Broads Polluters and regulators who fail to stop pollution must quake in their boots when they receive a letter from the lawyers for Tim and Geli "
     },
     {
@@ -410,7 +440,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/24/burnham-badenoch-farage-essentials-truss",
       "publishedAt": "2026-10-24T07:00:27.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "After a fractious week, they probably agree that no one at all needs Liz Truss’s new book, but then the political housekeeping decisions get much harder What are you stockpiling? Wes Streeting says we need water and food to last 72 hours in case of national em"
     },
     {
@@ -682,16 +712,6 @@
       "publishedAt": "2026-10-24T02:01:54.000Z",
       "category": "world",
       "summary": "This live blog is now closed. Sign up for the Breaking News US email With less than two weeks until the midterms, my colleague Jonathan Freedland and Guardian US columnist Moira Donegan are answering your questions in this week’s episode of Politics Weekly Ame"
-    },
-    {
-      "id": "feed-thmkds",
-      "title": "California officials ordered by DoJ to set aside ‘likely’ noncitizen ballots",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
-      "publishedAt": "2026-10-24T02:00:13.000Z",
-      "category": "world",
-      "summary": "Letters from federal prosecutors represent latest escalation as Trump continues to make claims of voter fraud Federal prosecutors sent letters to county registrars across California on Friday demanding that local officials set aside and verify ballots that the"
     },
     {
       "id": "feed-1jmi0dy",
@@ -1882,26 +1902,6 @@
       "publishedAt": "2026-10-15T04:00:21.000Z",
       "category": "science",
       "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts"
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
-    },
-    {
-      "id": "feed-x3odfq",
-      "title": "You're probably answering this insurance question incorrectly - and it's costing you | Money newsletter",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142",
-      "publishedAt": "2025-05-13T12:06:00.000Z",
-      "category": "business",
-      "summary": "More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week."
     }
   ]
 }
