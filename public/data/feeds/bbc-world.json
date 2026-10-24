@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T21:10:38.111Z",
+  "updatedAt": "2026-10-24T21:50:30.483Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-2fj8k2",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T21:09:27.000Z",
+      "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations."
+    },
     {
       "id": "feed-1qmitrf",
       "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T23:11:31.000Z",
       "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare."
-    },
-    {
-      "id": "feed-v7d2z6",
-      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T23:09:16.000Z",
-      "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy."
     }
   ]
 }
