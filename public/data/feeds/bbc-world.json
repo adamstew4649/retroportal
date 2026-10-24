@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T15:51:29.164Z",
+  "updatedAt": "2026-10-24T16:13:27.308Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-skphx6",
+      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T15:56:48.000Z",
+      "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire."
+    },
     {
       "id": "feed-mzh5ps",
       "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T22:47:07.000Z",
       "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher."
-    },
-    {
-      "id": "feed-195oedt",
-      "title": "Who actually controls Ukraine's access to Starlink?",
-      "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T22:24:36.000Z",
-      "summary": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it."
     }
   ]
 }
