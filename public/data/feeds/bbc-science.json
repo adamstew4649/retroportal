@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T22:48:40.687Z",
+  "updatedAt": "2026-10-24T23:10:24.056Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-kmburd",
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T23:02:51.000Z",
+      "summary": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward."
+    },
     {
       "id": "feed-pm3k2g",
       "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T09:30:03.000Z",
       "summary": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday."
-    },
-    {
-      "id": "feed-11p5ilo",
-      "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
-      "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T08:26:47.000Z",
-      "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives."
     }
   ]
 }
