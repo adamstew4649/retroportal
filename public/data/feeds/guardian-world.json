@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T18:56:53.575Z",
+  "updatedAt": "2026-10-25T19:17:35.404Z",
   "feed": {
     "title": "World news | The Guardian",
     "url": "https://www.theguardian.com/world/rss",
@@ -8,28 +8,44 @@
   },
   "articles": [
     {
+      "id": "feed-1e027yx",
+      "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
+      "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-25T19:14:25.000Z",
+      "summary": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% b"
+    },
+    {
+      "id": "feed-zqzrdb",
+      "title": "Suspect in shooting death of Missouri teen on highway charged in second road incident",
+      "link": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-25T19:12:05.000Z",
+      "summary": "Man accused of shooting teen who was driving to a party is also linked to shooting of a vehicle days earlier, police say A man accused in the shooting death of a Missouri teen has been charged in a second shooting incident – both of which involve firing into c"
+    },
+    {
+      "id": "feed-mhs4yn",
+      "title": "US south-west braces for more storms after enduring days of rain and flooding",
+      "link": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-25T19:02:51.000Z",
+      "summary": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week Another round of heavy showers and thunderstorms were expected to hit the south-west US on Sunday after the region endured days of rain that forced evacu"
+    },
+    {
+      "id": "feed-1ou6f4b",
+      "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+      "link": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-25T19:00:10.000Z",
+      "summary": "Lana Nusseibeh has Palestine’s endorsement but faces criticism over the UAE’s human rights record and alleged funding of the RSF in Sudan An Emirati diplomat who as UAE ambassador to the UN helped secure the delivery of humanitarian aid to Gaza has entered the"
+    },
+    {
       "id": "feed-1f4mgad",
       "title": "One dead and 82,000 properties without power as Storm Boelo batters UK",
       "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
       "source": "The Guardian",
       "publishedAt": "2026-10-25T18:38:44.000Z",
       "summary": "Man, 60, killed by falling tree near Castle Douglas in Scotland as Met Office reports gusts of up to 84mph A 60-year-old man has been killed by a falling tree and more than 82,000 properties have been left without power as Storm Boelo continues to batter Scotl"
-    },
-    {
-      "id": "feed-1e027yx",
-      "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
-      "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-25T18:37:37.000Z",
-      "summary": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% b"
-    },
-    {
-      "id": "feed-1xacegw",
-      "title": "US south-west braces for more flooding after stretch of heavy rain and storms",
-      "link": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-25T17:46:48.000Z",
-      "summary": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week A rain-soaked swath of the south-west US braced on Sunday for another round of potentially heavy showers and thunderstorms after days of rain forced evac"
     },
     {
       "id": "feed-1t8247m",
@@ -72,14 +88,6 @@
       "summary": "Incumbent president lost in first round to senator and son of convicted ex-president Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, Luiz Inácio Lula da Silva , is attempting an unprecedented comebac"
     },
     {
-      "id": "feed-1stnajl",
-      "title": "Suspect in shooting death of teen on Missouri highway charged in second road incident",
-      "link": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-25T14:16:37.000Z",
-      "summary": "Man accused of shooting teen, who was driving to a party, has also been linked to shooting of a vehicle days earlier A man accused in the shooting death of a Missouri teen has been charged in a second shooting incident – both of which involve firing into cars "
-    },
-    {
       "id": "feed-12myk4g",
       "title": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
       "link": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
@@ -109,7 +117,7 @@
       "link": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
       "source": "The Guardian",
       "publishedAt": "2026-10-25T13:31:05.000Z",
-      "summary": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some red wall MPs Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner but r"
+      "summary": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some ‘red wall’ MPs Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner but"
     },
     {
       "id": "feed-dqgpll",
@@ -142,14 +150,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-10-25T12:07:05.000Z",
       "summary": "Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more te"
-    },
-    {
-      "id": "feed-16bp3yq",
-      "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-25T11:52:45.000Z",
-      "summary": "Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images All signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a full forensic investigation will give a “d"
     }
   ]
 }

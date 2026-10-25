@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T18:56:53.580Z",
-  "generatedAt": "2026-10-25T18:56:53.580Z",
+  "updatedAt": "2026-10-25T19:17:35.409Z",
+  "generatedAt": "2026-10-25T19:17:35.409Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,34 @@
   ],
   "articles": [
     {
-      "id": "feed-dt357t",
-      "title": "NFL week seven: 49ers v Falcons, Colts v Vikings, Bengals v Ravens and more – updates",
+      "id": "feed-buj831",
+      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
+      "publishedAt": "2026-10-25T19:14:27.000Z",
+      "category": "world",
+      "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze."
+    },
+    {
+      "id": "feed-1e027yx",
+      "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/25/nfl-week-seven-jets-v-dolphins-vikings-v-colts-and-more",
-      "publishedAt": "2026-10-25T18:51:31.000Z",
-      "category": "uk",
-      "summary": "Steelers hold off Saints 16-10 in Paris You can email Graham | Sign up for The Recap TOUCHDOWN! Browns 0-7 Titans 12:57, 1st quarter T Pollard 36 yard rush M Willis to C Douglas for seven yards T Huntley to Z Flowers for 48 yards Continue reading..."
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+      "publishedAt": "2026-10-25T19:14:25.000Z",
+      "category": "world",
+      "summary": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% b"
+    },
+    {
+      "id": "feed-zqzrdb",
+      "title": "Suspect in shooting death of Missouri teen on highway charged in second road incident",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
+      "publishedAt": "2026-10-25T19:12:05.000Z",
+      "category": "world",
+      "summary": "Man accused of shooting teen who was driving to a party is also linked to shooting of a vehicle days earlier, police say A man accused in the shooting death of a Missouri teen has been charged in a second shooting incident – both of which involve firing into c"
     },
     {
       "id": "feed-v0s176",
@@ -119,9 +139,69 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/tv-and-radio/live/2026/oct/24/strictly-come-dancing-week-five-live",
-      "publishedAt": "2026-10-25T18:51:24.000Z",
+      "publishedAt": "2026-10-25T19:05:35.000Z",
       "category": "uk",
       "summary": "Saturday night saw this year’s first perfect 10s and Tabby Stoecker top the scores. Shaun Wright-Phillips was bottom. But who won’t be hoofing on Halloween? Charge glasses and refill nibbles bowls/snack platters/charcuterie plates. We’re about to go live to th"
+    },
+    {
+      "id": "feed-mhs4yn",
+      "title": "US south-west braces for more storms after enduring days of rain and flooding",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
+      "publishedAt": "2026-10-25T19:02:51.000Z",
+      "category": "uk",
+      "summary": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week Another round of heavy showers and thunderstorms were expected to hit the south-west US on Sunday after the region endured days of rain that forced evacu"
+    },
+    {
+      "id": "feed-1ou6f4b",
+      "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
+      "publishedAt": "2026-10-25T19:00:10.000Z",
+      "category": "uk",
+      "summary": "Lana Nusseibeh has Palestine’s endorsement but faces criticism over the UAE’s human rights record and alleged funding of the RSF in Sudan An Emirati diplomat who as UAE ambassador to the UN helped secure the delivery of humanitarian aid to Gaza has entered the"
+    },
+    {
+      "id": "feed-15k1296",
+      "title": "United States Grand Prix: Formula One – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/25/united-states-grand-prix-formula-one-live",
+      "publishedAt": "2026-10-25T19:00:09.000Z",
+      "category": "uk",
+      "summary": "️ Updates from Austin; race start 3pm CDT/8pm GMT ️ Antonelli seizes US GP poll | Mail Tom with your thoughts So here we are. Nine-year-old Kimi Antonelli* has a chance to become the youngest champion in F1 history today – and he’s sitting on pole too . He lea"
+    },
+    {
+      "id": "feed-xqwndn",
+      "title": "Barcelona v Real Madrid: El Clásico – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/25/barcelona-v-real-madrid-el-clasico-live",
+      "publishedAt": "2026-10-25T18:59:55.000Z",
+      "category": "uk",
+      "summary": "Live La Liga updates, kick-off 8pm (GMT) Sid Lowe: Mourinho’s Madrid primed for battle Live scoreboard | And you can email Niall Some essential pre-match reading, from Sid Lowe. Barcelona (4-2-3-1): Joan García; João Cancelo, Pau Cubarsí, Gerard Martín, Xavi E"
+    },
+    {
+      "id": "feed-dt357t",
+      "title": "NFL week seven: 49ers v Falcons, Colts v Vikings, Bengals v Ravens and more – updates",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/25/nfl-week-seven-jets-v-dolphins-vikings-v-colts-and-more",
+      "publishedAt": "2026-10-25T18:57:47.000Z",
+      "category": "uk",
+      "summary": "Steelers hold off Saints 16-10 in Paris You can email Graham | Sign up for The Recap TOUCHDOWN! Browns 0-7 Titans 12:57, 1st quarter T Pollard 36 yard rush M Willis to C Douglas for seven yards T Huntley to Z Flowers for 48 yards Continue reading..."
+    },
+    {
+      "id": "feed-4n26qa",
+      "title": "Ella Baron on Trump’s admiration for Putin – cartoon",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/25/ella-baron-donald-trump-putin-cartoon",
+      "publishedAt": "2026-10-25T18:53:33.000Z",
+      "category": "uk",
+      "summary": "Continue reading..."
     },
     {
       "id": "feed-tl0ijb",
@@ -134,36 +214,6 @@
       "summary": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen."
     },
     {
-      "id": "feed-1e027yx",
-      "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-      "publishedAt": "2026-10-25T18:48:28.000Z",
-      "category": "uk",
-      "summary": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% b"
-    },
-    {
-      "id": "feed-16j9o4",
-      "title": "Roefs and Trafford stand firm as Sunderland and Leeds battle for point",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
-      "publishedAt": "2026-10-25T18:46:08.000Z",
-      "category": "uk",
-      "summary": "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra balanced manager was looking more than a little fed up and frustrated. His bottom-placed team had probably just about deserved a second Premier League win o"
-    },
-    {
-      "id": "feed-xqwndn",
-      "title": "Barcelona v Real Madrid: El Clásico – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/25/barcelona-v-real-madrid-el-clasico-live",
-      "publishedAt": "2026-10-25T18:43:29.000Z",
-      "category": "uk",
-      "summary": "Live La Liga updates, kick-off 8pm (GMT) Sid Lowe: Mourinho’s Madrid primed for battle Live scoreboard | And you can email Niall Tonight’s game also takes place against a weekend of unrest in Barcelona. There were 128 arrests overnight for acts of “vandalism, "
-    },
-    {
       "id": "feed-1f4mgad",
       "title": "One dead and 82,000 properties without power as Storm Boelo batters UK",
       "source": "The Guardian",
@@ -174,8 +224,8 @@
       "summary": "Man, 60, killed by falling tree near Castle Douglas in Scotland as Met Office reports gusts of up to 84mph A 60-year-old man has been killed by a falling tree and more than 82,000 properties have been left without power as Storm Boelo continues to batter Scotl"
     },
     {
-      "id": "feed-bx7n5d",
-      "title": "Letter making claims about Meghan's father written by his ex-wife, BBC understands",
+      "id": "feed-qftxmv",
+      "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo",
@@ -202,6 +252,16 @@
       "publishedAt": "2026-10-25T18:25:59.000Z",
       "category": "uk",
       "summary": "Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in Love The owners of Elvis Presley ’s music catalogue are suing artificial intelligence ( AI ) company Anthropic for allegedly using Presley’s songs to "
+    },
+    {
+      "id": "feed-id67qk",
+      "title": "Talks between Ukraine, Russia and US to be held next month",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/meeting-between-ukraine-russia-and-us-to-be-held-next-month-zelenskyy-says-13603718",
+      "publishedAt": "2026-10-25T18:09:00.000Z",
+      "category": "world",
+      "summary": "A meeting between Ukraine, Russia and the US will take place next month, President Volodymyr Zelenskyy said."
     },
     {
       "id": "feed-1m41gjk",
@@ -242,16 +302,6 @@
       "publishedAt": "2026-10-25T17:49:38.000Z",
       "category": "science",
       "summary": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland."
-    },
-    {
-      "id": "feed-1xacegw",
-      "title": "US south-west braces for more flooding after stretch of heavy rain and storms",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
-      "publishedAt": "2026-10-25T17:46:48.000Z",
-      "category": "uk",
-      "summary": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week A rain-soaked swath of the south-west US braced on Sunday for another round of potentially heavy showers and thunderstorms after days of rain forced evac"
     },
     {
       "id": "feed-7xkd40",
@@ -330,7 +380,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/25/tech-firms-should-pay-the-creators-whose-work-they-use",
       "publishedAt": "2026-10-25T17:11:34.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "It could raise up to £300m a year, providing UK creators with additional income, write Barbara Hayes , Tayyiba Nasser , Christian Zimmermann and Paul Seheult Anthropic’s proposal ( AI firm Anthropic to commit 5% of shares to fund for ‘public good’, 19 October "
     },
     {
@@ -352,16 +402,6 @@
       "publishedAt": "2026-10-25T17:03:00.000Z",
       "category": "world",
       "summary": "Venezuelan opposition leader Maria Corina Machado has returned ‌to the country nearly a year after her daring escape."
-    },
-    {
-      "id": "feed-1ezbqd",
-      "title": "England stunned after Shadab Khan’s miraculous century delivers one-wicket win for Pakistan",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/25/england-pakistan-odi-match-report-cricket-shadab-khan",
-      "publishedAt": "2026-10-25T16:49:49.000Z",
-      "category": "uk",
-      "summary": "England blow victory chance after hosts were 154 for nine Shadab makes unbeaten 113 as he and Haris Rauf win thriller Shadab Khan whipped the rug from under England’s boots with an eye-popping blitz of boundary-peppering when hope was lost, turning an English "
     },
     {
       "id": "feed-kudqzf",
@@ -464,16 +504,6 @@
       "summary": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea."
     },
     {
-      "id": "feed-1stnajl",
-      "title": "Suspect in shooting death of teen on Missouri highway charged in second road incident",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
-      "publishedAt": "2026-10-25T14:16:37.000Z",
-      "category": "world",
-      "summary": "Man accused of shooting teen, who was driving to a party, has also been linked to shooting of a vehicle days earlier A man accused in the shooting death of a Missouri teen has been charged in a second shooting incident – both of which involve firing into cars "
-    },
-    {
       "id": "feed-39xcws",
       "title": "Four-year-old girl dies after fall from tower block",
       "source": "BBC News",
@@ -541,7 +571,7 @@
       "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
       "publishedAt": "2026-10-25T13:31:05.000Z",
       "category": "world",
-      "summary": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some red wall MPs Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner but r"
+      "summary": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some ‘red wall’ MPs Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner but"
     },
     {
       "id": "feed-1f8be6r",
@@ -662,16 +692,6 @@
       "publishedAt": "2026-10-25T12:00:03.000Z",
       "category": "business",
       "summary": "The closure of former WH Smith stores around the UK is sobering on many levels. The publications they sold were there to be perused, to broaden horizons Towards the end of the 1970s, the brief but spectacular career of those punk rockers and folk devils the Se"
-    },
-    {
-      "id": "feed-16bp3yq",
-      "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
-      "publishedAt": "2026-10-25T11:52:45.000Z",
-      "category": "world",
-      "summary": "Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images All signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a full forensic investigation will give a “d"
     },
     {
       "id": "feed-um122d",
@@ -992,16 +1012,6 @@
       "publishedAt": "2026-10-25T04:47:00.000Z",
       "category": "uk",
       "summary": "Andy Burnham says that an \"honest discussion\" is needed about readopting the EU's free movement rules."
-    },
-    {
-      "id": "feed-mydmmf",
-      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
-      "publishedAt": "2026-10-25T03:20:16.000Z",
-      "category": "world",
-      "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further."
     },
     {
       "id": "feed-l5xmvx",
@@ -1352,16 +1362,6 @@
       "publishedAt": "2026-10-23T23:11:31.000Z",
       "category": "business",
       "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare."
-    },
-    {
-      "id": "feed-bpd7dx",
-      "title": "Why Trump told Burnham the UK is going to be 'very rich'",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/donald-trump-tells-andy-burnham-the-uk-will-become-very-rich-by-drilling-in-the-north-sea-13602842",
-      "publishedAt": "2026-10-23T19:10:00.000Z",
-      "category": "uk",
-      "summary": "Donald Trump has said he told Andy Burnham the UK is set to become \"a very rich country\" after the prime minister decided to allow drilling in the North Sea."
     },
     {
       "id": "feed-su3azd",
