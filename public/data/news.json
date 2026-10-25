@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T23:44:03.476Z",
-  "generatedAt": "2026-10-24T23:44:03.476Z",
+  "updatedAt": "2026-10-25T00:08:03.442Z",
+  "generatedAt": "2026-10-25T00:08:03.442Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 8
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,14 @@
   ],
   "articles": [
     {
-      "id": "feed-lotlg3",
-      "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – US politics live",
+      "id": "feed-1ias1kl",
+      "title": "Barack Obama rallies Michigan crowd for El-Sayed, saying he’s ‘fighting for real change’",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
-      "publishedAt": "2026-10-24T23:30:37.000Z",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+      "publishedAt": "2026-10-24T23:50:30.000Z",
       "category": "uk",
-      "summary": "The former Democratic president is showing major support in Detroit for the progressive Michigan candidate in final days before US midterm elections Sign up for Breaking News US email Donald Trump voted in West Palm Beach, Florida today, telling reporters at t"
+      "summary": "Former president speaks to rapturous crowd of thousands in support of Democrat Abdul El-Sayed for US Senate Barack Obama told a Detroit crowd on Saturday that Abdul El-Sayed was “fighting for change, real change, that will get money out of politics and put mon"
     },
     {
       "id": "feed-8fsmrp",
@@ -332,6 +332,16 @@
       "publishedAt": "2026-10-24T19:37:35.000Z",
       "category": "world",
       "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall."
+    },
+    {
+      "id": "feed-1i96w2n",
+      "title": "Police to trial ignoring some minor breaches of tag conditions, Sky News understands",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/police-to-reduce-enforcement-of-minor-tag-breaches-sky-news-understands-13603365",
+      "publishedAt": "2026-10-24T19:21:00.000Z",
+      "category": "uk",
+      "summary": "The Metropolitan Police is reducing enforcement of offenders who breach their tag conditions amid resourcing pressures and following early prisoner release, Sky News understands."
     },
     {
       "id": "feed-m9kzxw",
@@ -674,16 +684,6 @@
       "summary": "Centers for Disease Control and Prevention reported 4,588 cases across the country, more than double the tally in 2025 Federal health authorities reported an additional 178 cases of measles in the US this week, as the vaccine-preventable illness continues to s"
     },
     {
-      "id": "feed-wovphv",
-      "title": "Epstein files take back seat in midterms but experts say issue has not gone away",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
-      "publishedAt": "2026-10-24T12:00:32.000Z",
-      "category": "world",
-      "summary": "Other voter concerns have prevailed but return of Congress likely to see renewed focus on late sex offender’s activities As US voters head to the polls for crucial and fraught midterm elections, some survivors’ advocates in the Jeffrey Epstein investigation ha"
-    },
-    {
       "id": "feed-1cwdvek",
       "title": "‘Cuts mean jobs’: Skydance staff brace for shake-up after $110bn megamerger",
       "source": "The Guardian",
@@ -824,16 +824,6 @@
       "summary": "Police are investigating after a British woman died while trying to rescue her two sons off the Bahamas coast."
     },
     {
-      "id": "feed-1q89wn2",
-      "title": "Can curry nights and canny advisers help Healey deliver a budget for everyday people?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/can-john-healey-make-a-dent-in-the-cost-of-living-crisis-in-his-first-budget",
-      "publishedAt": "2026-10-24T09:00:29.000Z",
-      "category": "business",
-      "summary": "The chancellor has promised ‘breathing space’ for households and small businesses but global events cannot be ignored You be the chancellor: play our budget game to see if you can balance the books Every Sunday night, the chancellor, John Healey, slips next do"
-    },
-    {
       "id": "feed-bg1flg",
       "title": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
       "source": "The Guardian",
@@ -842,6 +832,16 @@
       "publishedAt": "2026-10-24T09:00:29.000Z",
       "category": "business",
       "summary": "Government campaign recommends three days’ worth of stores for emergencies, but some are ahead of the game Dried foods, bottled water, medicine stocks and backup power banks: it could be the props cupboard on a disaster movie, but instead it is precisely what "
+    },
+    {
+      "id": "feed-1q89wn2",
+      "title": "Can curry nights and canny advisers help Healey deliver a budget for everyday people?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/can-john-healey-make-a-dent-in-the-cost-of-living-crisis-in-his-first-budget",
+      "publishedAt": "2026-10-24T09:00:29.000Z",
+      "category": "business",
+      "summary": "The chancellor has promised ‘breathing space’ for households and small businesses but global events cannot be ignored You be the chancellor: play our budget game to see if you can balance the books Every Sunday night, the chancellor, John Healey, slips next do"
     },
     {
       "id": "feed-tjrcvu",
