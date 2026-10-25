@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T18:11:21.575Z",
-  "generatedAt": "2026-10-25T18:11:21.575Z",
+  "updatedAt": "2026-10-25T18:56:53.580Z",
+  "generatedAt": "2026-10-25T18:56:53.580Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "id": "sky-technology",
@@ -104,24 +104,34 @@
   ],
   "articles": [
     {
-      "id": "feed-th92sa",
-      "title": "Sunderland v Leeds: Premier League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/25/sunderland-v-leeds-premier-league-live",
-      "publishedAt": "2026-10-25T18:02:05.000Z",
-      "category": "uk",
-      "summary": "Live Premier League updates from 4.30pm BST Europe more curse than blessing for Sunderland Sign up for Football Daily 1 min Peep peep! Leeds, in their yellow change strip, kick off from left to right as we watch. Prokofiev is on the tannoy at the Stadium of Li"
-    },
-    {
       "id": "feed-dt357t",
       "title": "NFL week seven: 49ers v Falcons, Colts v Vikings, Bengals v Ravens and more – updates",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/25/nfl-week-seven-jets-v-dolphins-vikings-v-colts-and-more",
-      "publishedAt": "2026-10-25T18:01:40.000Z",
+      "publishedAt": "2026-10-25T18:51:31.000Z",
       "category": "uk",
       "summary": "Steelers hold off Saints 16-10 in Paris You can email Graham | Sign up for The Recap TOUCHDOWN! Browns 0-7 Titans 12:57, 1st quarter T Pollard 36 yard rush M Willis to C Douglas for seven yards T Huntley to Z Flowers for 48 yards Continue reading..."
+    },
+    {
+      "id": "feed-v0s176",
+      "title": "Strictly Come Dancing week five results – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/live/2026/oct/24/strictly-come-dancing-week-five-live",
+      "publishedAt": "2026-10-25T18:51:24.000Z",
+      "category": "uk",
+      "summary": "Saturday night saw this year’s first perfect 10s and Tabby Stoecker top the scores. Shaun Wright-Phillips was bottom. But who won’t be hoofing on Halloween? Charge glasses and refill nibbles bowls/snack platters/charcuterie plates. We’re about to go live to th"
+    },
+    {
+      "id": "feed-tl0ijb",
+      "title": "Travel disruption and power cuts after back-to-back storms",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o",
+      "publishedAt": "2026-10-25T18:50:09.000Z",
+      "category": "science",
+      "summary": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen."
     },
     {
       "id": "feed-1e027yx",
@@ -129,9 +139,79 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-      "publishedAt": "2026-10-25T17:58:38.000Z",
+      "publishedAt": "2026-10-25T18:48:28.000Z",
       "category": "uk",
       "summary": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% b"
+    },
+    {
+      "id": "feed-16j9o4",
+      "title": "Roefs and Trafford stand firm as Sunderland and Leeds battle for point",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
+      "publishedAt": "2026-10-25T18:46:08.000Z",
+      "category": "uk",
+      "summary": "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra balanced manager was looking more than a little fed up and frustrated. His bottom-placed team had probably just about deserved a second Premier League win o"
+    },
+    {
+      "id": "feed-xqwndn",
+      "title": "Barcelona v Real Madrid: El Clásico – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/25/barcelona-v-real-madrid-el-clasico-live",
+      "publishedAt": "2026-10-25T18:43:29.000Z",
+      "category": "uk",
+      "summary": "Live La Liga updates, kick-off 8pm (GMT) Sid Lowe: Mourinho’s Madrid primed for battle Live scoreboard | And you can email Niall Tonight’s game also takes place against a weekend of unrest in Barcelona. There were 128 arrests overnight for acts of “vandalism, "
+    },
+    {
+      "id": "feed-1f4mgad",
+      "title": "One dead and 82,000 properties without power as Storm Boelo batters UK",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+      "publishedAt": "2026-10-25T18:38:44.000Z",
+      "category": "uk",
+      "summary": "Man, 60, killed by falling tree near Castle Douglas in Scotland as Met Office reports gusts of up to 84mph A 60-year-old man has been killed by a falling tree and more than 82,000 properties have been left without power as Storm Boelo continues to batter Scotl"
+    },
+    {
+      "id": "feed-bx7n5d",
+      "title": "Letter making claims about Meghan's father written by his ex-wife, BBC understands",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo",
+      "publishedAt": "2026-10-25T18:38:17.000Z",
+      "category": "uk",
+      "summary": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018."
+    },
+    {
+      "id": "feed-j6ij0x",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+      "publishedAt": "2026-10-25T18:29:00.000Z",
+      "category": "world",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
+    },
+    {
+      "id": "feed-xwy2l7",
+      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+      "publishedAt": "2026-10-25T18:25:59.000Z",
+      "category": "uk",
+      "summary": "Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in Love The owners of Elvis Presley ’s music catalogue are suing artificial intelligence ( AI ) company Anthropic for allegedly using Presley’s songs to "
+    },
+    {
+      "id": "feed-1m41gjk",
+      "title": "Board of Deputies of British Jews declares Greens to be racist party",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo",
+      "publishedAt": "2026-10-25T18:05:17.000Z",
+      "category": "uk",
+      "summary": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion."
     },
     {
       "id": "feed-1nejdyw",
@@ -142,6 +222,16 @@
       "publishedAt": "2026-10-25T17:56:18.000Z",
       "category": "science",
       "summary": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK."
+    },
+    {
+      "id": "feed-znemvm",
+      "title": "Fernandes gamble leaves Carrick to carry the can for United’s institutional failures | Will Unwin",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-michael-carrick-bruno-fernandes-jim-ratcliffe-institutional-failures",
+      "publishedAt": "2026-10-25T17:56:06.000Z",
+      "category": "uk",
+      "summary": "Leaving out his captain was doomed to fail but so are the club under its current leadership, and the fans at Old Trafford know that all too well Dropping your captain, the man that has held the team together for most of the past five years, is a bold move from"
     },
     {
       "id": "feed-1xaimcr",
@@ -244,16 +334,6 @@
       "summary": "It could raise up to £300m a year, providing UK creators with additional income, write Barbara Hayes , Tayyiba Nasser , Christian Zimmermann and Paul Seheult Anthropic’s proposal ( AI firm Anthropic to commit 5% of shares to fund for ‘public good’, 19 October "
     },
     {
-      "id": "feed-1f4mgad",
-      "title": "One dead and 82,000 properties without power as Storm Boelo batters UK",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-      "publishedAt": "2026-10-25T17:10:11.000Z",
-      "category": "uk",
-      "summary": "Man, 60, killed by falling tree near Castle Douglas in Scotland as Met Office reports gusts of up to 84mph A 60-year-old man has been killed by a falling tree and more than 82,000 properties have been left without power as Storm Boelo continues to batter Scotl"
-    },
-    {
       "id": "feed-ueb7ng",
       "title": "When will the weather settle after Storm Boelo?",
       "source": "BBC News",
@@ -262,6 +342,16 @@
       "publishedAt": "2026-10-25T17:04:32.000Z",
       "category": "science",
       "summary": "Gillian Smart has the weather forecast after the worst of Storm Boelo."
+    },
+    {
+      "id": "feed-8uulvp",
+      "title": "Exiled opposition leader announces shock return to Venezuela",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692",
+      "publishedAt": "2026-10-25T17:03:00.000Z",
+      "category": "world",
+      "summary": "Venezuelan opposition leader Maria Corina Machado has returned ‌to the country nearly a year after her daring escape."
     },
     {
       "id": "feed-1ezbqd",
@@ -274,16 +364,6 @@
       "summary": "England blow victory chance after hosts were 154 for nine Shadab makes unbeaten 113 as he and Haris Rauf win thriller Shadab Khan whipped the rug from under England’s boots with an eye-popping blitz of boundary-peppering when hope was lost, turning an English "
     },
     {
-      "id": "feed-122hdxs",
-      "title": "Blanche defends DoJ’s pre-emptive suit to block Alaska Senate results certification",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/todd-blanche-doj-lawsuit-alaska-senate-election-results",
-      "publishedAt": "2026-10-25T16:48:41.000Z",
-      "category": "uk",
-      "summary": "US attorney general calls CNN ‘crazy’ for suggesting Trump’s attempt to overturn election could lead to January 6 repeat Sign up for The Stakes 2026: your weekly guide to the US midterms Todd Blanche , Donald Trump ’s attorney general, lashed out during an int"
-    },
-    {
       "id": "feed-kudqzf",
       "title": "Two-day manhunt for escaped prisoner who is 'a risk to the public'",
       "source": "Sky News",
@@ -294,43 +374,13 @@
       "summary": "Police warned the public not to approach an escaped prisoner who has been on the run from a medical facility for two days."
     },
     {
-      "id": "feed-kwxqa",
-      "title": "Osula and Barnes’ second-half burst sees Newcastle pile pressure on lacklustre Palace",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/25/crystal-palace-newcastle-premier-league-match-report",
-      "publishedAt": "2026-10-25T16:29:02.000Z",
-      "category": "uk",
-      "summary": "The first half was one of the worst 45 minutes of football in Premier League history. The pass completion rate was a meagre 72.8%, although it felt lower. There were only two shots on target. The sun kept popping out from behind the clouds to take a look, and "
-    },
-    {
-      "id": "feed-j6ij0x",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-      "publishedAt": "2026-10-25T16:21:40.000Z",
-      "category": "world",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
-    },
-    {
-      "id": "feed-n20gts",
-      "title": "Michael Carrick on the brink after Manchester United are humiliated by Bournemouth",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-bournemouth-premier-league-match-report-michael-carrick",
-      "publishedAt": "2026-10-25T16:19:03.000Z",
-      "category": "uk",
-      "summary": "After Bruno Fernandes was dropped for “pure football” reasons – according to Michael Carrick – could ­Manchester United actually win a game of football? The answer, again, was a resounding, humiliating no, and if the manager’s job remains in real peril, you ha"
-    },
-    {
       "id": "feed-1jpmhln",
       "title": "‘He’s not going to punk me. I’ll trick him’: Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
       "publishedAt": "2026-10-25T16:13:19.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Exclusive: Joshua Loudermilk says suspicions first raised during filming by gun shaped like wearable plastic bottom: ‘You’re gonna put a butt on top of a butt? You can’t run in that’ • This article contains spoilers for Ali G: Who Iz I? Joshua Loudermilk, one "
     },
     {
@@ -342,16 +392,6 @@
       "publishedAt": "2026-10-25T16:05:15.000Z",
       "category": "world",
       "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
-    },
-    {
-      "id": "feed-tl0ijb",
-      "title": "Travel disruption and power cuts after back-to-back storms",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o",
-      "publishedAt": "2026-10-25T15:58:33.000Z",
-      "category": "science",
-      "summary": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen."
     },
     {
       "id": "feed-1gokasc",
@@ -784,16 +824,6 @@
       "summary": "That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners."
     },
     {
-      "id": "feed-dsx9fo",
-      "title": "Meghan broke contact with father in letter citing abuse claims",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo",
-      "publishedAt": "2026-10-25T08:05:31.000Z",
-      "category": "uk",
-      "summary": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren."
-    },
-    {
       "id": "feed-1ftv084",
       "title": "‘You can’t bring in robots’: the leather firm handmaking everything from wallets to cigar cases",
       "source": "The Guardian",
@@ -1134,16 +1164,6 @@
       "summary": "Athletes’ scramble to control – and monetise – their digital identities at the cutting edge of AI rights deals Get our new political email , free app or daily news podcast The Socceroos star stares at the camera as he strides through an enormous atrium, the so"
     },
     {
-      "id": "feed-yk0sf2",
-      "title": "Murder charge after body found in wheelie bin",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg7p3qrpgdo",
-      "publishedAt": "2026-10-24T18:20:56.000Z",
-      "category": "uk",
-      "summary": "Police say Mohamed Abotaka, 36, is charged with the murder of 52-year-old Ali Barzai."
-    },
-    {
       "id": "feed-14r1ha0",
       "title": "Man charged with murder after body found in wheelie bin",
       "source": "Sky News",
@@ -1272,16 +1292,6 @@
       "publishedAt": "2026-10-24T08:32:56.000Z",
       "category": "technology",
       "summary": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say The David Attenborough -narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewer"
-    },
-    {
-      "id": "feed-xa3frg",
-      "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
-      "publishedAt": "2026-10-24T06:51:53.000Z",
-      "category": "technology",
-      "summary": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider deb"
     },
     {
       "id": "feed-5z25zp",
@@ -1892,16 +1902,6 @@
       "publishedAt": "2026-10-18T16:30:04.000Z",
       "category": "science",
       "summary": "In the three weeks since a health worker’s death in Siberia, officials have stonewalled the WHO – setting a worrying precedent for future pandemics Is there a plague outbreak in Russia? If the answer were a clear yes, there shouldn’t be much reason to worry. W"
-    },
-    {
-      "id": "feed-8p1chz",
-      "title": "Norman McCubbin obituary",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/2026/oct/15/norman-mccubbin-obituary",
-      "publishedAt": "2026-10-15T18:49:45.000Z",
-      "category": "science",
-      "summary": "My brother Norman McCubbin, who has died aged 77, was a scientist who worked at the forefront of experimental particle physics. A leading light in experiments that took place on the Large Hadron Collider, the world’s biggest and most powerful particle accelera"
     }
   ]
 }
