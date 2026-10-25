@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:03:04.802Z",
-  "generatedAt": "2026-10-25T13:03:04.802Z",
+  "updatedAt": "2026-10-25T13:51:38.865Z",
+  "generatedAt": "2026-10-25T13:51:38.865Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "bbc-world",
@@ -109,19 +109,9 @@
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o",
-      "publishedAt": "2026-10-25T13:00:35.000Z",
+      "publishedAt": "2026-10-25T13:50:04.000Z",
       "category": "science",
-      "summary": "Flights have been cancelled in Belfast and Dublin, while thousands of homes have been left without power."
-    },
-    {
-      "id": "feed-tl0ijb",
-      "title": "Travel disruption and power cuts after back-to-back storms",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o",
-      "publishedAt": "2026-10-25T12:57:35.000Z",
-      "category": "science",
-      "summary": "Hundreds of homes have been without power while there is disruption on roads, rail and ferry."
+      "summary": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure."
     },
     {
       "id": "feed-tatc4a",
@@ -129,19 +119,79 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/25/pakistan-v-england-tri-series-one-day-international-cricket-live",
-      "publishedAt": "2026-10-25T12:48:45.000Z",
+      "publishedAt": "2026-10-25T13:49:31.000Z",
       "category": "uk",
       "summary": "Live ODI cricket updates from 8am GMT Sri Lanka stun England with second-highest ODI chase Sign up for The Spin | And send James an email Mark Butcher is touching the surface now. Looks a road. But what do I know? The last time England played here they failed "
     },
     {
-      "id": "feed-16dthrn",
-      "title": "Fernandes dropped by Manchester United, Liverpool v Brighton and more: clockwatch – live",
+      "id": "feed-6eoiac",
+      "title": "Fernandes on bench for Manchester United, Liverpool v Brighton and more: clockwatch – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/oct/25/manchester-united-v-bournemouth-liverpool-v-brighton-and-more-premier-league-live",
-      "publishedAt": "2026-10-25T12:38:54.000Z",
+      "publishedAt": "2026-10-25T13:47:24.000Z",
       "category": "uk",
-      "summary": "⚽️ Premier League updates from 2pm GMT ⚽️ Live scoreboard | Send Daniel an email Daniel Reports from Old Trafford, broadcast by Sky, advise us that Bruno Fernandes has been dropped by Michael Carrick. We don’t know if it’s for consistent poor form or midweek i"
+      "summary": "⚽️ Premier League updates from 2pm GMT ⚽️ Live scoreboard | Send Daniel an email Daniel Otherwise, Carrick goes for ballast in the midfield, with Andrey Santos and Carlos Baleba, which makes sense, but in front of him, there’s a palpable lack of magic. Matheus"
+    },
+    {
+      "id": "feed-tl0ijb",
+      "title": "Travel disruption and power cuts after back-to-back storms",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o",
+      "publishedAt": "2026-10-25T13:45:16.000Z",
+      "category": "science",
+      "summary": "Hundreds of homes have been without power while there is disruption on roads, rail and ferry."
+    },
+    {
+      "id": "feed-4svpi5",
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "publishedAt": "2026-10-25T13:43:19.000Z",
+      "category": "uk",
+      "summary": "VW investment creates 4,500 jobs in Georgia comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company Volkswagen struggles w"
+    },
+    {
+      "id": "feed-122fssc",
+      "title": "Burnham call for debate on free movement with EU draws mixed Labour response",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+      "publishedAt": "2026-10-25T13:31:05.000Z",
+      "category": "uk",
+      "summary": "Angela Rayner backs PM’s plea for ‘honest discussion’ but MPs in heavily pro-Brexit seats may be more cautious Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner "
+    },
+    {
+      "id": "feed-qu0cib",
+      "title": "Stormy seas and the Day of the Dead: photos of the weekend",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/news/gallery/2026/oct/25/stormy-seas-and-the-day-of-the-dead-photos-of-the-weekend",
+      "publishedAt": "2026-10-25T13:28:46.000Z",
+      "category": "uk",
+      "summary": "The Guardian’s picture editors select photographs from around the world Continue reading..."
+    },
+    {
+      "id": "feed-dqgpll",
+      "title": "Ethnic minorities in England less likely to get breast cancer diagnosis from routine screening",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/society/2026/oct/25/ethnic-minorities-england-breast-cancer-screening-disparity",
+      "publishedAt": "2026-10-25T13:28:23.000Z",
+      "category": "uk",
+      "summary": "Exclusive: People from marginalised groups more likely to be diagnosed via urgent referral or in emergency setting, research finds People from minority ethnic backgrounds in England are up to a third less likely to be diagnosed with breast cancer via routine s"
+    },
+    {
+      "id": "feed-cs5rgv",
+      "title": "Overnight winds reach 85mph as Scotland is hit by Storm Boelo",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
+      "publishedAt": "2026-10-25T13:25:04.000Z",
+      "category": "science",
+      "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday."
     },
     {
       "id": "feed-19j1jz8",
@@ -149,9 +199,59 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-      "publishedAt": "2026-10-25T12:36:28.000Z",
+      "publishedAt": "2026-10-25T13:14:28.000Z",
       "category": "uk",
       "summary": "Met Office reports gusts of up to 84mph after weather warnings issued across Scotland, Northern Ireland and north of England More than 82,000 properties have been left without power as Storm Boelo continues to batter Scotland, Northern Ireland and the north of"
+    },
+    {
+      "id": "feed-df2nd2",
+      "title": "Cutting ‘red tape’ is nothing but a red herring – and arguably counterproductive | Heather Stewart",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/oct/25/cutting-red-tape-is-nothing-but-a-red-herring-and-arguably-counterproductive",
+      "publishedAt": "2026-10-25T13:00:34.000Z",
+      "category": "uk",
+      "summary": "Blaming a moribund economy on too many rules is a hackneyed neoliberal trope – UK plc needs smarter regulation, not less regulation Before becoming prime minister, Andy Burnham pledged to “end 40 years of neoliberalism”. But as he prepares for his first budget"
+    },
+    {
+      "id": "feed-1oi0j8a",
+      "title": "Former Tory candidate suspended over contract killer claims was adviser in Kemi Badenoch’s office",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/former-tory-candidate-suspended-over-contract-killer-claims-was-adviser-in-kemi-badenoch-office-jack-ross",
+      "publishedAt": "2026-10-25T13:00:03.000Z",
+      "category": "uk",
+      "summary": "Sources close to Tory leader say Jack Ross, who faces party investigation after undercover report, worked as social media consultant A former Conservative election candidate who was suspended after he was filmed discussing the cost of hiring contract killers w"
+    },
+    {
+      "id": "feed-1gd2n5e",
+      "title": "FDR made it a blue bastion – now it’s Trump’s stronghold in California. Is it forever lost?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump",
+      "publishedAt": "2026-10-25T13:00:03.000Z",
+      "category": "world",
+      "summary": "Shasta has embraced the Maga movement with gusto – can Democrats ever win back the rural, working-class voters they once relied upon? A crucial election was approaching and the country was desperate. Despite promises that economic conditions were improving, ne"
+    },
+    {
+      "id": "feed-xududi",
+      "title": "How to make mushroom stroganoff – recipe | Felicity Cloake's Masterclass",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/food/2026/oct/25/how-to-make-mushroom-stroganoff-recipe",
+      "publishedAt": "2026-10-25T13:00:02.000Z",
+      "category": "uk",
+      "summary": "An age-old Russian favourite, rich and full of flavour, in nine easy steps Stroganoff is a richly savoury dish of sautéed beef in soured cream named after a 19th-century count (though no one seems quite sure exactly which one). But it was only as recently as t"
+    },
+    {
+      "id": "feed-povs23",
+      "title": "The WNBA finals are a basketball wonderland – unless you’re part of the Maga machine",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/25/the-wnba-finals-are-a-basketball-wonderland-unless-youre-part-of-the-maga-machine",
+      "publishedAt": "2026-10-25T12:48:44.000Z",
+      "category": "uk",
+      "summary": "The Dream and Valkyries are tied at 2-2 after four absorbing games. Many in America would rather we revisited the national anthem debate When Tyler Perry leading lady Crystal Renee took center stage at State Farm Arena to sing the national anthem before the At"
     },
     {
       "id": "feed-om966o",
@@ -254,64 +354,14 @@
       "summary": "The 2030 target for 80% of new cars to have zero emissions could be cut to as low as half Electric cars make people happy. More than nine in 10 EV drivers – 94% in a recent poll – are saving money, and a similar number would stick with electric for their next "
     },
     {
-      "id": "feed-1w0ygdk",
-      "title": "As a young man, magazines were my window to the world. That wonder will be lost when all the shops have gone | John Harris",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/25/as-a-young-man-magazines-were-my-window-to-the-world-that-wonder-will-be-lost-when-all-the-shops-have-gone",
-      "publishedAt": "2026-10-25T12:00:03.000Z",
-      "category": "uk",
-      "summary": "The closure of former WH Smith stores around the UK is sobering on many levels. The publications they sold were there to be perused, to broaden horizons Towards the end of the 1970s, the brief but spectacular career of those punk rockers and folk devils the Se"
-    },
-    {
       "id": "feed-121nb5v",
       "title": "What is the £100k income ‘cliff-edge’?",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/money/2026/oct/25/100k-salary-income-cliff-edge-tax-personal-allowance-children",
       "publishedAt": "2026-10-25T12:00:03.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The tax-free personal allowance starts to be taken away when you hit six figures, and in England you lose access to childcare subsidies Believe it or not, there are downsides to earning more than £100,000 a year – particularly if you have small children. “It’s"
-    },
-    {
-      "id": "feed-53hlie",
-      "title": "Two children’s laureates to give Sally Rooney royalties after ban on UK sales",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales",
-      "publishedAt": "2026-10-25T12:00:02.000Z",
-      "category": "uk",
-      "summary": "Irish and Welsh authors Chris Haughton and Nicola Davies show solidarity over Rooney’s support for Palestine Action The children’s laureates for Ireland and Wales are donating royalties from their works to Sally Rooney in a show of solidarity after she was for"
-    },
-    {
-      "id": "feed-xv0exw",
-      "title": "‘A hidden tradition’: Benjamin Moser wants you to know Jewish anti-Zionism is not new",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/25/benjamin-moser-jewish-anti-zionism-book",
-      "publishedAt": "2026-10-25T12:00:02.000Z",
-      "category": "uk",
-      "summary": "The writer rarely questioned the tenets of liberal Zionism growing up. Now he embraces anti-Zionism with the fervor of a new convert In 1987, the Israeli human rights attorney Felicia Langer was paying a visit to the Neve Tirza women’s prison when a client nam"
-    },
-    {
-      "id": "feed-1u9gogh",
-      "title": "Stephen Fry: ‘Sherlock Holmes altered the course of my whole life’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/books/2026/oct/25/stephen-fry-sherlock-holmes-altered-the-course-of-my-whole-life",
-      "publishedAt": "2026-10-25T12:00:02.000Z",
-      "category": "uk",
-      "summary": "Nearly a hundred years after Arthur Conan Doyle’s last Sherlock Holmes story, the writer and broadcaster unravels the mystery of the detective’s enduring appeal It has become quite the fashion for contemporary writers to have a go at reinventing past classics."
-    },
-    {
-      "id": "feed-15h9ofb",
-      "title": "From five-fingered trainers to the shoeless shoe: what’s with all the freaky footwear?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/fashion/2026/oct/25/ugly-shoes-mainstream-freaky-footwear",
-      "publishedAt": "2026-10-25T12:00:01.000Z",
-      "category": "uk",
-      "summary": "‘Ugly’ shoes, once the preserve of the catwalk, have gone mainstream. Why are so many people taking a walk on the wild side? Until recently, a busy commuter train would be packed with people wearing low-key, unobtrusive shoes. An elegant and inoffensive pump, "
     },
     {
       "id": "feed-3l6axr",
@@ -330,18 +380,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
       "publishedAt": "2026-10-25T11:52:45.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images All signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a full forensic investigation will give a “d"
-    },
-    {
-      "id": "feed-f6fc2a",
-      "title": "Jokić says booing fans ‘not welcome’ after Nuggets rally from 23 points down to beat Pelicans",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/25/jokic-says-booing-fans-not-welcome-after-nuggets-rally-from-23-points-down-to-beat-pelicans",
-      "publishedAt": "2026-10-25T11:48:49.000Z",
-      "category": "uk",
-      "summary": "New Orleans Pelicans 135-141 Denver Nuggets (OT) Nuggets fans showed displeasure at half-time Nikola Jokić scored eight of his 35 points in overtime and finished with 15 rebounds and 10 assists, and the short-handed Denver Nuggets rallied from 23 points down t"
     },
     {
       "id": "feed-um122d",
@@ -352,16 +392,6 @@
       "publishedAt": "2026-10-25T11:42:17.000Z",
       "category": "science",
       "summary": "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country."
-    },
-    {
-      "id": "feed-cs5rgv",
-      "title": "Overnight winds reach 85mph as Scotland is hit by Storm Boelo",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
-      "publishedAt": "2026-10-25T11:14:48.000Z",
-      "category": "science",
-      "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday."
     },
     {
       "id": "feed-1h9tk18",
@@ -381,7 +411,7 @@
       "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
       "publishedAt": "2026-10-25T11:00:01.000Z",
       "category": "world",
-      "summary": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide A time-critical investigation into the death of a British man whose body was found in a ransacked property on the Caribbean island of Grenada has stalled because of diplo"
+      "summary": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide A time-critical investigation into the death of a British father whose body was found in a ransacked property on the Caribbean island of Grenada has stalled because of di"
     },
     {
       "id": "feed-s72ddn",
@@ -454,8 +484,8 @@
       "summary": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March."
     },
     {
-      "id": "feed-v4wc8p",
-      "title": "Bus and lorry collide killing 22, including passengers 'returning from funeral'",
+      "id": "feed-1keg6t9",
+      "title": "Bus and lorry collide killing 22, including passengers returning from funeral",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/bus-and-lorry-collide-in-kenya-killling-22-including-passengers-returning-from-funeral-13603491",
@@ -474,23 +504,13 @@
       "summary": "The Geordie singer appears to have lowered ticket prices ahead of his upcoming tour."
     },
     {
-      "id": "feed-fi9bvr",
-      "title": "‘Why would I leave?’: Middlesbrough pushes back against ‘hardest place to grow up’ label",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/25/middlesbrough-rejects-hardest-place-to-grow-up-label",
-      "publishedAt": "2026-10-25T09:00:58.000Z",
-      "category": "world",
-      "summary": "Teesside town has come out worst in children’s commissioner’s report, but residents say such rankings are demoralising and counterproductive “It’s disappointing, it’s just another kicking,” said a youth worker after the town in which they work was labelled as "
-    },
-    {
       "id": "feed-1a3oavt",
       "title": "Bust companies revived in ‘phoenix’ deals more likely to fail again, study finds",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/25/bust-companies-revived-in-phoenix-deals-more-likely-to-fail-again-study-finds",
       "publishedAt": "2026-10-25T09:00:57.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Exclusive: research for the Guardian shows ‘pre-pack’ deals with former management also pay far less to creditors The boss whose twice-bust business appears to be back Insolvent businesses reacquired by their previous management in “pre-pack” administrations a"
     },
     {
@@ -554,8 +574,8 @@
       "summary": "In the third article in a series on high-end British manufacturing, we visit the Ettinger factory in Walsall ‘Our town is making jeans again’: reviving jobs and skills in Wales From feathers to pet portraits, Rolls-Royce rides high on custom craze “It is all d"
     },
     {
-      "id": "feed-1whnbf5",
-      "title": "Student protesters aim for electoral victory over Serbia's long serving leader",
+      "id": "feed-86bd36",
+      "title": "Student protesters aim for electoral victory over Serbia's long-serving leader",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/student-protest-movement-aims-to-defeat-ex-serbian-leader-in-parliamentary-election-13603462",
@@ -802,16 +822,6 @@
       "publishedAt": "2026-10-25T02:27:15.000Z",
       "category": "world",
       "summary": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\"."
-    },
-    {
-      "id": "feed-12crowa",
-      "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
-      "publishedAt": "2026-10-25T02:00:49.000Z",
-      "category": "world",
-      "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isola"
     },
     {
       "id": "feed-15u2voe",
@@ -1340,7 +1350,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/vincent-kompany-bayern-coach-taken-to-hospital-after-collapsing-at-training-13602791",
       "publishedAt": "2026-10-23T16:55:00.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Bayern Munich coach Vincent Kompany has been taken to hospital after collapsing at the club's training ground."
     },
     {
@@ -1804,16 +1814,6 @@
       "summary": "Scientists have found clues that could help predict who will develop aggressive prostate cancer many years in advance."
     },
     {
-      "id": "feed-1pgsr7t",
-      "title": "Mystery of Roman sarcophagus unearthed at Westminster Abbey solved at last, expert says",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/21/mystery-roman-sarcophagus-westminster-abbey-solved-at-last-expert-says",
-      "publishedAt": "2026-10-21T05:00:03.000Z",
-      "category": "science",
-      "summary": "Archaeologist says skeleton inside coffin inscribed to Valerius Amandinus is likely to be remains of 11th-century abbot It has all the ingredients of a chilling mystery: the skeleton of an unknown man discovered within a Roman sarcophagus unearthed in the grou"
-    },
-    {
       "id": "feed-s17y6m",
       "title": "UK 'woefully unprepared' to face wildfires, MPs warn - as UN issues climate target warning",
       "source": "Sky News",
@@ -1894,14 +1894,14 @@
       "summary": "My brother Norman McCubbin, who has died aged 77, was a scientist who worked at the forefront of experimental particle physics. A leading light in experiments that took place on the Large Hadron Collider, the world’s biggest and most powerful particle accelera"
     },
     {
-      "id": "feed-1cfpgd4",
-      "title": "Government backs bid for 'Northern Games' in 2040s",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/pm-backs-north-of-england-olympics-bid-with-7m-budget-injection-13597494",
-      "publishedAt": "2026-10-10T16:46:00.000Z",
-      "category": "uk",
-      "summary": "The prime minister is supporting plans to bring the Olympic and Paralympic Games back to the UK, with £7m cash due to be announced in next week's budget."
+      "id": "feed-t2mjvv",
+      "title": "Is your boss watching you? The rise of AI surveillance at work - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
+      "publishedAt": "2026-10-15T11:10:25.000Z",
+      "category": "science",
+      "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts"
     }
   ]
 }
