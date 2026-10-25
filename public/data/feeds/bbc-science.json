@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T09:53:33.304Z",
+  "updatedAt": "2026-10-25T10:12:59.831Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
@@ -8,20 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-11mvzu7",
+      "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T10:09:27.000Z",
+      "summary": "More than 500 homes are without power and flooding and felled trees have been reported on roads."
+    },
+    {
+      "id": "feed-2ho92y",
+      "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T09:59:50.000Z",
+      "summary": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March."
+    },
+    {
       "id": "feed-j1r88l",
       "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
       "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
       "source": "BBC News",
       "publishedAt": "2026-10-25T09:33:29.000Z",
       "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday."
-    },
-    {
-      "id": "feed-11mvzu7",
-      "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T09:28:30.000Z",
-      "summary": "More than 500 homes are without power and flooding and felled trees have been reported on roads."
     },
     {
       "id": "feed-z9kvi0",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T21:10:47.000Z",
       "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather."
-    },
-    {
-      "id": "feed-1psd5ru",
-      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
-      "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T16:13:11.000Z",
-      "summary": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
     }
   ]
 }
