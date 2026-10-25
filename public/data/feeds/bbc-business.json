@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T05:53:29.084Z",
+  "updatedAt": "2026-10-25T06:15:26.325Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1m7c7un",
+      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T06:00:15.000Z",
+      "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
+    },
     {
       "id": "feed-1yscitz",
       "title": "Budget to include £1bn for social and affordable housing",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T05:45:54.000Z",
       "summary": "We ask people in the capital how much they pay for their homes."
-    },
-    {
-      "id": "feed-1fkhx9w",
-      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T23:20:38.000Z",
-      "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
     }
   ]
 }
