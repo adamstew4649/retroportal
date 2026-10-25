@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T23:10:22.754Z",
+  "updatedAt": "2026-10-25T23:44:59.311Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-1xtzoc",
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T23:44:34.000Z",
+      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts."
+    },
     {
       "id": "feed-1nn8rox",
       "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -96,17 +104,9 @@
       "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
     },
     {
-      "id": "feed-abu9ka",
-      "title": "Websites taken down worldwide as critical cyber-security update issued",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-21T19:54:57.000Z",
-      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
-    },
-    {
-      "id": "feed-1o4g26t",
+      "id": "feed-1hkzm1v",
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet",
       "source": "BBC News",
       "publishedAt": "2026-10-20T19:45:00.000Z",
       "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
