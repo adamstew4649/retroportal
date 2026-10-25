@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T14:51:50.686Z",
+  "updatedAt": "2026-10-25T15:13:10.374Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-duwpnz",
+      "title": "Couple were celebrating anniversary before Bahamas tragedy",
+      "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T14:38:51.000Z",
+      "summary": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea."
+    },
     {
       "id": "feed-39xcws",
       "title": "Four-year-old girl dies after fall from tower block",
@@ -16,12 +24,28 @@
       "summary": "Paramedics gave first aid at the scene on Saturday morningb ut the child later died, police say."
     },
     {
+      "id": "feed-1f8be6r",
+      "title": "Newscast",
+      "link": "https://www.bbc.co.uk/sounds/play/p0phhxp0",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T13:30:00.000Z",
+      "summary": "Andy Burnham opens the door to EU free movement, and another Brexit battle."
+    },
+    {
       "id": "feed-1kxibkc",
       "title": "Burnham open to 'honest discussion' on EU free movement",
       "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o",
       "source": "BBC News",
       "publishedAt": "2026-10-25T12:11:23.000Z",
       "summary": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
+    },
+    {
+      "id": "feed-1t8kr8b",
+      "title": "Storm Boelo floods town centre of Largs, Scotland",
+      "link": "https://www.bbc.co.uk/news/videos/c977pkdjm0z8o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T11:35:56.000Z",
+      "summary": "The town centre of Largs, a coastal town west of Glasgow, was seen completely flooded last night."
     },
     {
       "id": "feed-1yscitz",
@@ -104,14 +128,6 @@
       "summary": "Police say Mohamed Abotaka, 36, is charged with the murder of 52-year-old Ali Barzai."
     },
     {
-      "id": "feed-5d2ts6",
-      "title": "Mum who died trying to save sons was hero, husband says",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T17:11:56.000Z",
-      "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
-    },
-    {
       "id": "feed-mlf2st",
       "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
       "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T13:00:13.000Z",
       "summary": "Jinming Zhang had been stabbed multiple times before he was found on 9 February 2022."
-    },
-    {
-      "id": "feed-1krg89c",
-      "title": "Could Somerset pub be the oldest in England?",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn0rv6k90o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T11:32:46.000Z",
-      "summary": "Experts say The George Inn, in Norton St Philip, which dates to about 1430, is England's oldest pub."
-    },
-    {
-      "id": "feed-1wj92sn",
-      "title": "Between quick wins and big dreams lies Burnham's biggest test",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T11:03:57.000Z",
-      "summary": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg."
     }
   ]
 }
