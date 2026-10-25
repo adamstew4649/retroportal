@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:50:54.056Z",
+  "updatedAt": "2026-10-25T12:13:01.552Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1ozj0zk",
+      "title": "Flight disruption and thousands without electricity after Storm Boelo",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T12:00:35.000Z",
+      "summary": "Flights have been cancelled in Belfast and Dublin, while thousands of homes have been left without power."
+    },
     {
       "id": "feed-um122d",
       "title": "'What was in the Clyde is basically now on the shore'",
@@ -22,14 +30,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-25T11:14:48.000Z",
       "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday."
-    },
-    {
-      "id": "feed-1ozj0zk",
-      "title": "Flight disruption and thousands without electricity after Storm Boelo",
-      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T11:00:22.000Z",
-      "summary": "Flights have been cancelled in Belfast and Dublin, while thousands of homes have been left without power."
     },
     {
       "id": "feed-tl0ijb",
