@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T07:09:09.910Z",
+  "updatedAt": "2026-10-25T07:55:45.337Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
@@ -8,11 +8,27 @@
   },
   "articles": [
     {
+      "id": "feed-j1r88l",
+      "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T07:28:58.000Z",
+      "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday."
+    },
+    {
+      "id": "feed-nimljm",
+      "title": "Seabirds and sewage among UNESCO status challenges",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd1e364jlo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T07:22:57.000Z",
+      "summary": "A report marking 10 years of the Isle of Man as a UNESCO Biosphere highlights the scheme's progress."
+    },
+    {
       "id": "feed-8fsmrp",
       "title": "Rosebank: Life on the oil field at the centre of a political storm",
       "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
       "source": "BBC News",
-      "publishedAt": "2026-10-24T23:15:18.000Z",
+      "publishedAt": "2026-10-25T07:15:38.000Z",
       "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
     },
     {
@@ -20,7 +36,7 @@
       "title": "Rosebank: Life on the oil field at the centre of a political storm",
       "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
       "source": "BBC News",
-      "publishedAt": "2026-10-24T23:15:18.000Z",
+      "publishedAt": "2026-10-25T07:15:38.000Z",
       "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
     },
     {
@@ -30,14 +46,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T23:02:51.000Z",
       "summary": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward."
-    },
-    {
-      "id": "feed-pm3k2g",
-      "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T22:39:52.000Z",
-      "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
     },
     {
       "id": "feed-1vbyc4h",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T13:30:32.000Z",
       "summary": "The UK government has warned households to have three days of essential supplies on hand."
-    },
-    {
-      "id": "feed-1q722gk",
-      "title": "October's full Hunter's Moon to light up night sky this weekend",
-      "link": "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T12:24:20.000Z",
-      "summary": "October's full Moon, known as the Hunter's Moon, will rise on Sunday night. Will the weather be in your favour?"
     }
   ]
 }
