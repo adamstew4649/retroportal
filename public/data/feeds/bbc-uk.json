@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T22:10:15.338Z",
+  "updatedAt": "2026-10-25T22:47:08.391Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,11 +8,19 @@
   },
   "articles": [
     {
-      "id": "feed-145e6v0",
-      "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+      "id": "feed-e6sfs3",
+      "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+      "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T22:37:36.000Z",
+      "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July."
+    },
+    {
+      "id": "feed-1v2xpw3",
+      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o",
       "source": "BBC News",
-      "publishedAt": "2026-10-25T21:30:15.000Z",
+      "publishedAt": "2026-10-25T22:24:16.000Z",
       "summary": "An amber wind warning has now expired after severe weather sweeps across the UK."
     },
     {
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T21:44:39.000Z",
       "summary": "Hundreds of Orangemen are parading through Portadown, joined by bands and a crowd of supporters who have not been deterred by the weather."
-    },
-    {
-      "id": "feed-mlf2st",
-      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T15:45:46.000Z",
-      "summary": "The full feasibility study will look in detail at how hosting the Games in northern England could work."
     }
   ]
 }
