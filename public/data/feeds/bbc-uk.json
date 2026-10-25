@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T20:49:36.673Z",
+  "updatedAt": "2026-10-25T21:11:43.048Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-145e6v0",
+      "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T20:32:27.000Z",
+      "summary": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK."
+    },
     {
       "id": "feed-qftxmv",
       "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T14:29:47.000Z",
       "summary": "The funding will also support habitat, species and river restoration, control of invasive non-native species and deer management across Scotland."
-    },
-    {
-      "id": "feed-14jmikn",
-      "title": "Reward offered over murder in flat used as brothel",
-      "link": "https://www.bbc.co.uk/news/articles/c615j787ee82o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T13:00:13.000Z",
-      "summary": "Jinming Zhang had been stabbed multiple times before he was found on 9 February 2022."
     }
   ]
 }
