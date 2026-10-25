@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T02:17:05.144Z",
-  "generatedAt": "2026-10-25T02:17:05.144Z",
+  "updatedAt": "2026-10-25T02:55:54.746Z",
+  "generatedAt": "2026-10-25T02:55:54.746Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "id": "sky-technology",
@@ -104,13 +104,23 @@
   ],
   "articles": [
     {
+      "id": "feed-z5wyey",
+      "title": "Ukraine war briefing: Kyiv targets Russian-occupied Crimea as UK and France conduct joint military exercise",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/25/ukraine-war-briefing-kyiv-targets-russian-occupied-crimea-as-uk-and-france-conduct-joint-military-exercise",
+      "publishedAt": "2026-10-25T02:37:44.000Z",
+      "category": "uk",
+      "summary": "Crimea strikes cause water and power cuts; war game designed to show how Nato countries could be defended amid fears of Russian aggression. What we know on day 1,705 A Ukrainian attack led to water and power cuts in occupied Crimea on Saturday, as a barrage of"
+    },
+    {
       "id": "feed-12crowa",
       "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
       "publishedAt": "2026-10-25T02:00:49.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isola"
     },
     {
@@ -130,7 +140,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
       "publishedAt": "2026-10-25T01:41:37.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme Get our breaking news email , free app or daily news podcast Four people have been injured after a drive-by shooting outside a venue hosting a boxing event, includi"
     },
     {
@@ -152,6 +162,16 @@
       "publishedAt": "2026-10-25T01:32:00.000Z",
       "category": "uk",
       "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days."
+    },
+    {
+      "id": "feed-1y5s4ga",
+      "title": "Brazilians go to polls today with left-winger and son of Trump ally neck and neck",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/brazilians-go-to-polls-today-with-luiz-inacio-lula-da-silva-and-flavio-bolsonaro-neck-and-neck-13603442",
+      "publishedAt": "2026-10-25T01:11:00.000Z",
+      "category": "world",
+      "summary": "Brazilians go to the polls on Sunday to elect a president in a run-off vote that is being closely watched around the world."
     },
     {
       "id": "feed-1kxibkc",
@@ -292,16 +312,6 @@
       "publishedAt": "2026-10-24T21:44:39.000Z",
       "category": "uk",
       "summary": "Hundreds of Orangemen are parading through Portadown, joined by bands and a crowd of supporters who have not been deterred by the weather."
-    },
-    {
-      "id": "feed-18y0gp7",
-      "title": "New York archdiocese finalizing $800m settlement with clergy sex abuse survivors",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/24/new-york-archdiocese-800m-settlement-sexual-abuse",
-      "publishedAt": "2026-10-24T21:33:24.000Z",
-      "category": "uk",
-      "summary": "Agreement with more than 1,300 victims of clergy members and lay leaders would resolve long legal fight The Catholic archdiocese of New York is finalizing a settlement for at least $800m with more than 1,300 people who said they were sexually abused by clergy "
     },
     {
       "id": "feed-1fqf9tc",
@@ -532,26 +542,6 @@
       "publishedAt": "2026-10-24T17:11:56.000Z",
       "category": "uk",
       "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
-    },
-    {
-      "id": "feed-h3l92m",
-      "title": "Scottish Premiership: Kelsy fires Rangers to emphatic win; Dundee United pip Aberdeen",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/24/scottish-premiership-rangers-dundee-celtic-hearts",
-      "publishedAt": "2026-10-24T16:52:06.000Z",
-      "category": "uk",
-      "summary": "Rangers 4-0 St Johnstone; Dundee United 3-2 Aberdeen Kevin Kelsy scores two to sink 10-man Saints Derek McInnes asked his Rangers side to be “brilliant” against St Johnstone and was rewarded with a 4-0 Premiership win at Ibrox. After dropping two points at Dun"
-    },
-    {
-      "id": "feed-1iiyg0r",
-      "title": "Judge rules Cornell’s ‘Jane Doe’ can use pseudonym in suit over alleged gang-rape",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/24/cornell-jane-doe",
-      "publishedAt": "2026-10-24T16:40:21.000Z",
-      "category": "uk",
-      "summary": "Woman alleging frat-house rape has privacy and safety issues outweighing need to publicly identify her, judge says The woman at the center ⁠of rape allegations against students at Cornell University can continue using a pseudonym in ⁠her lawsuit, a ⁠judge ​has"
     },
     {
       "id": "feed-45k32t",
@@ -1902,6 +1892,16 @@
       "publishedAt": "2026-10-10T16:46:00.000Z",
       "category": "uk",
       "summary": "The prime minister is supporting plans to bring the Olympic and Paralympic Games back to the UK, with £7m cash due to be announced in next week's budget."
+    },
+    {
+      "id": "feed-aihyai",
+      "title": "Tech Now",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "category": "technology",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
