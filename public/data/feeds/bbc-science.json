@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T07:55:45.337Z",
+  "updatedAt": "2026-10-25T08:13:38.053Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-tcf25u",
+      "title": "Thousands without electricity as Storm Boelo hits",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T07:59:20.000Z",
+      "summary": "An amber warning is in force across parts of County Antrim and County Londonderry until 10:00 GMT on Sunday."
+    },
     {
       "id": "feed-j1r88l",
       "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T15:30:47.000Z",
       "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife"
-    },
-    {
-      "id": "feed-1j7px1l",
-      "title": "Why should I stockpile and what will I need?",
-      "link": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T13:30:32.000Z",
-      "summary": "The UK government has warned households to have three days of essential supplies on hand."
     }
   ]
 }
