@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T19:17:35.404Z",
+  "updatedAt": "2026-10-25T19:47:13.530Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
@@ -8,28 +8,36 @@
   },
   "articles": [
     {
+      "id": "feed-1xaimcr",
+      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T19:45:52.000Z",
+      "summary": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland."
+    },
+    {
+      "id": "feed-145e6v0",
+      "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T19:40:26.000Z",
+      "summary": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK."
+    },
+    {
+      "id": "feed-1sxfazn",
+      "title": "The aftermath of Storm Boelo across Scotland",
+      "link": "https://www.bbc.co.uk/news/videos/cr3wvzl947q7o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T19:31:36.000Z",
+      "summary": "Flooding, travel disruption and fallen trees - Storm Boelo has left it's mark across Scotland."
+    },
+    {
       "id": "feed-tl0ijb",
       "title": "Travel disruption and power cuts after back-to-back storms",
       "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o",
       "source": "BBC News",
       "publishedAt": "2026-10-25T18:50:09.000Z",
       "summary": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen."
-    },
-    {
-      "id": "feed-1nejdyw",
-      "title": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T17:56:18.000Z",
-      "summary": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK."
-    },
-    {
-      "id": "feed-1xaimcr",
-      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T17:49:38.000Z",
-      "summary": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland."
     },
     {
       "id": "feed-ueb7ng",
@@ -134,14 +142,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T11:48:58.000Z",
       "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches."
-    },
-    {
-      "id": "feed-nnljzr",
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T10:04:29.000Z",
-      "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
     },
     {
       "id": "feed-nnljzr",
