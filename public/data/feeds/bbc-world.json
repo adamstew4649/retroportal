@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T09:14:47.861Z",
+  "updatedAt": "2026-10-25T09:53:33.300Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-2fj8k2",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T09:32:59.000Z",
+      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries."
+    },
     {
       "id": "feed-z9kvi0",
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
@@ -38,14 +46,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-25T05:15:52.000Z",
       "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
-    },
-    {
-      "id": "feed-2fj8k2",
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T04:16:52.000Z",
-      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries."
     },
     {
       "id": "feed-mydmmf",
@@ -136,8 +136,8 @@
       "summary": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction."
     },
     {
-      "id": "feed-vtpryf",
-      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "id": "feed-5d2ts6",
+      "title": "Mum who died trying to save sons was hero, husband says",
       "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o",
       "source": "BBC News",
       "publishedAt": "2026-10-24T17:11:56.000Z",
