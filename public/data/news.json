@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T04:57:35.463Z",
-  "generatedAt": "2026-10-25T04:57:35.463Z",
+  "updatedAt": "2026-10-25T05:20:19.116Z",
+  "generatedAt": "2026-10-25T05:20:19.116Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,16 @@
   ],
   "articles": [
     {
+      "id": "feed-l8x46w",
+      "title": "A women's commune sounds like a great retirement option. But I have my doubts | Polly Hudson",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/25/womens-commune-sounds-great-retirement-but-i-have-my-doubts",
+      "publishedAt": "2026-10-25T05:00:53.000Z",
+      "category": "uk",
+      "summary": "Think back to those terrible flatshares in your 20s. Cohabiting with friends can seem like a dream, but the reality is sometimes less Golden Girls – more Young Ones In most female friendships between women with male partners, the following occurs, sometimes re"
+    },
+    {
       "id": "feed-2fj8k2",
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
       "source": "BBC News",
@@ -122,6 +132,16 @@
       "publishedAt": "2026-10-25T03:54:43.000Z",
       "category": "world",
       "summary": "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email , free app or daily news podcast Australia’s top federal law enforcement official has drawn a direct link between politicians’ "
+    },
+    {
+      "id": "feed-1e6ovcu",
+      "title": "Weather warnings for strong winds remain in place as Storm Boelo peaks",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/weather-warnings-for-strong-winds-remain-in-place-as-second-storm-in-two-days-subsides-13603443",
+      "publishedAt": "2026-10-25T03:03:00.000Z",
+      "category": "uk",
+      "summary": "An amber warning for wind will remain in place until 9pm on Sunday, after Storm Boelo battered the north of the UK."
     },
     {
       "id": "feed-1yscitz",
@@ -540,7 +560,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
       "publishedAt": "2026-10-24T17:54:41.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more te"
     },
     {
@@ -1882,26 +1902,6 @@
       "publishedAt": "2026-10-10T16:46:00.000Z",
       "category": "uk",
       "summary": "The prime minister is supporting plans to bring the Olympic and Paralympic Games back to the UK, with £7m cash due to be announced in next week's budget."
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
-    },
-    {
-      "id": "feed-x3odfq",
-      "title": "You're probably answering this insurance question incorrectly - and it's costing you | Money newsletter",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142",
-      "publishedAt": "2025-05-13T12:06:00.000Z",
-      "category": "business",
-      "summary": "More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week."
     }
   ]
 }
