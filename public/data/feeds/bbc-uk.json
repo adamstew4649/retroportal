@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T02:55:54.737Z",
+  "updatedAt": "2026-10-25T03:17:33.014Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1yscitz",
+      "title": "Budget to include £1bn for social and affordable housing",
+      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T02:57:30.000Z",
+      "summary": "The move will take funding for the 10-year programme to more than £40bn."
+    },
     {
       "id": "feed-dsx9fo",
       "title": "Meghan broke contact with father in letter citing abuse claims",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T07:04:47.000Z",
       "summary": "Are Jack Lowden, Callum Turner and Josh O'Connor shaking, not stirring, through London in a bid to become the next Bond?"
-    },
-    {
-      "id": "feed-2ovw7v",
-      "title": "Politics and pedestrians: How traffic was removed from Oxford Street",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrp144r21o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T07:03:35.000Z",
-      "summary": "More than a kilometre of the so-called \"nation's high-street\" will be pedestrianised from Monday."
     }
   ]
 }
