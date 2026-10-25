@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:12:49.066Z",
+  "updatedAt": "2026-10-25T11:50:54.056Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-um122d",
+      "title": "'What was in the Clyde is basically now on the shore'",
+      "link": "https://www.bbc.co.uk/news/videos/cmg47e2znpzpo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T11:42:17.000Z",
+      "summary": "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country."
+    },
+    {
+      "id": "feed-t3axrx",
+      "title": "Overnight winds hit 85mph as Scotland is hit by Storm Boelo",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T11:14:48.000Z",
+      "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday."
+    },
     {
       "id": "feed-1ozj0zk",
       "title": "Flight disruption and thousands without electricity after Storm Boelo",
@@ -16,8 +32,8 @@
       "summary": "Flights have been cancelled in Belfast and Dublin, while thousands of homes have been left without power."
     },
     {
-      "id": "feed-11mvzu7",
-      "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
+      "id": "feed-tl0ijb",
+      "title": "Travel disruption and power cuts after back-to-back storms",
       "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o",
       "source": "BBC News",
       "publishedAt": "2026-10-25T10:54:23.000Z",
@@ -38,14 +54,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-25T09:59:50.000Z",
       "summary": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March."
-    },
-    {
-      "id": "feed-j1r88l",
-      "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T09:33:29.000Z",
-      "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday."
     },
     {
       "id": "feed-z9kvi0",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T06:08:37.000Z",
       "summary": "Specialists are looking at how to clear the Cornwall bath house pond and understand the tidal inlet."
-    },
-    {
-      "id": "feed-51yfhb",
-      "title": "The people on standby when a storm strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T05:44:22.000Z",
-      "summary": "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it."
     }
   ]
 }
