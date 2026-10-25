@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T10:12:59.831Z",
+  "updatedAt": "2026-10-25T10:51:51.340Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1ozj0zk",
+      "title": "Flight disruption and thousands without electricity after Storm Boelo",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T10:26:55.000Z",
+      "summary": "Flights have been cancelled in Belfast and Dublin, while thousands of homes have been left without power."
+    },
+    {
+      "id": "feed-2hu2yv",
+      "title": "More wet and windy weather to follow stormy weekend",
+      "link": "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T10:16:20.000Z",
+      "summary": "Following the first two named storms of the season, wet and very windy conditions are set to continue into the start of the new week."
+    },
     {
       "id": "feed-11mvzu7",
       "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
@@ -38,14 +54,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-25T09:00:00.000Z",
       "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
-    },
-    {
-      "id": "feed-tcf25u",
-      "title": "Thousands without electricity as Storm Boelo hits",
-      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T08:53:04.000Z",
-      "summary": "An amber warning is in force across parts of County Antrim and County Londonderry until 10:00 GMT on Sunday."
     },
     {
       "id": "feed-nimljm",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T05:44:22.000Z",
       "summary": "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it."
-    },
-    {
-      "id": "feed-adehik",
-      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-      "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T21:10:47.000Z",
-      "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather."
     }
   ]
 }
