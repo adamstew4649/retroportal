@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T14:12:50.228Z",
+  "updatedAt": "2026-10-25T14:51:50.686Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-39xcws",
+      "title": "Four-year-old girl dies after fall from tower block",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34vzrj865o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T14:00:37.000Z",
+      "summary": "Paramedics gave first aid at the scene on Saturday morningb ut the child later died, police say."
+    },
     {
       "id": "feed-1kxibkc",
       "title": "Burnham open to 'honest discussion' on EU free movement",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T11:03:57.000Z",
       "summary": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg."
-    },
-    {
-      "id": "feed-1dwoesm",
-      "title": "What a spectre - Bond boys bounce around London",
-      "link": "https://www.bbc.co.uk/news/articles/cmde869e8k34o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T07:04:47.000Z",
-      "summary": "Are Jack Lowden, Callum Turner and Josh O'Connor shaking, not stirring, through London in a bid to become the next Bond?"
     }
   ]
 }
