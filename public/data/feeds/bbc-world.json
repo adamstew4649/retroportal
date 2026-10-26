@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T06:30:01.676Z",
+  "updatedAt": "2026-10-26T07:26:01.756Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1q9y7rl",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T06:16:15.000Z",
+      "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme."
+    },
     {
       "id": "feed-j6ij0x",
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-25T08:36:47.000Z",
       "summary": "That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners."
-    },
-    {
-      "id": "feed-l33jg0",
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T05:15:52.000Z",
-      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
     }
   ]
 }
