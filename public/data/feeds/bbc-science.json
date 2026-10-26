@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T07:26:01.757Z",
+  "updatedAt": "2026-10-26T08:13:13.513Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-4qmgsp",
+      "title": "Storm Boelo clears but more wind and rain bears down on UK",
+      "link": "https://www.bbc.co.uk/weather/articles/cqwy7w8dryrxo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T08:09:16.000Z",
+      "summary": "Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday."
+    },
     {
       "id": "feed-1bp1i74",
       "title": "Plans to create a wildflower meadow take shape",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-25T09:00:00.000Z",
       "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
-    },
-    {
-      "id": "feed-8fsmrp",
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T07:15:38.000Z",
-      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
     }
   ]
 }
