@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T09:08:36.650Z",
+  "updatedAt": "2026-10-26T10:08:14.221Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-18xkdr8",
+      "title": "Healey to shield low-income pensioners from income tax in the Budget",
+      "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T09:47:21.000Z",
+      "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April."
+    },
     {
       "id": "feed-1l3hclz",
       "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
@@ -38,6 +46,14 @@
       "source": "BBC News",
       "publishedAt": "2026-10-25T23:44:34.000Z",
       "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts."
+    },
+    {
+      "id": "feed-be6x11",
+      "title": "Business Daily",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ggp",
+      "source": "BBC News",
+      "publishedAt": "2026-10-25T19:00:00.000Z",
+      "summary": "A Chinese export surge has implications far beyond its borders"
     },
     {
       "id": "feed-1yscitz",
@@ -104,6 +120,14 @@
       "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
     },
     {
+      "id": "feed-qvyhf1",
+      "title": "The Documentary",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9kk8",
+      "source": "BBC News",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "summary": "Author Katja Hoyer, reports on a city which benefits from a new, green landscape,"
+    },
+    {
       "id": "feed-19b32ui",
       "title": "Rising demand from families needing Christmas help",
       "link": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o",
@@ -126,30 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T00:09:12.000Z",
       "summary": "Do British pensioners have it better or worse than those in other countries?"
-    },
-    {
-      "id": "feed-1nn8rox",
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T00:05:45.000Z",
-      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
-    },
-    {
-      "id": "feed-50x9ou",
-      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T23:11:31.000Z",
-      "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare."
-    },
-    {
-      "id": "feed-3ioe1j",
-      "title": "The little-known investment Martin Lewis wants you to understand...",
-      "link": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T15:41:28.000Z",
-      "summary": "The little-known investment Martin Lewis wants you to understand"
     }
   ]
 }
