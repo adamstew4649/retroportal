@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T21:56:22.258Z",
-  "generatedAt": "2026-10-26T21:56:22.258Z",
+  "updatedAt": "2026-10-26T22:20:47.082Z",
+  "generatedAt": "2026-10-26T22:20:47.082Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,24 +104,64 @@
   ],
   "articles": [
     {
-      "id": "feed-1sb1ko4",
-      "title": "Ballon d’Or 2026: updates from London as Lamine Yamal wins men’s young talent award – live",
+      "id": "feed-1ub0vua",
+      "title": "Ballon d’Or 2026: Lamine Yamal wins young men’s trophy, Saka awarded humanitarian prize – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/oct/26/ballon-dor-2026-updates-from-70th-edition-in-london-live",
-      "publishedAt": "2026-10-26T21:41:25.000Z",
+      "publishedAt": "2026-10-26T22:11:44.000Z",
       "category": "uk",
       "summary": "⚽️ Ballon d’Or updates from 8.45pm GMT/4.45pm ET ⚽️ Ceremony returns to England in nod to Stanley Matthews ⚽️ Women’s power rankings: will a new winner be crowned? ⚽️ Send your thoughts to Daniel via email Talking of UK winners, it’s absolutely insane to think"
     },
     {
-      "id": "feed-1k869yd",
-      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
+      "id": "feed-t2851u",
+      "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+      "publishedAt": "2026-10-26T22:08:38.000Z",
+      "category": "world",
+      "summary": "Jordanian air force says it carried out strikes against ‘terrorist groups’ tied to killing of nine in Karak Jordan has carried out airstrikes against armed groups in Syria in retaliation for Friday’s attack on a Greek Orthodox church in the southern Jordanian "
+    },
+    {
+      "id": "feed-w60127",
+      "title": "Republican and Democratic ex-governors issue rare joint endorsement for South Carolina Senate candidate – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+      "publishedAt": "2026-10-26T22:08:20.000Z",
+      "category": "uk",
+      "summary": "Republican David Beasley and Democrat Jim Hodges back Democrat Annie Andrews to flip seat held by Lindsey Graham’s Trump-backed sister Darline What are the US midterm elections and why do they matter? Sign up for Breaking News US email In a post to social medi"
+    },
+    {
+      "id": "feed-1sbxudp",
+      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; security crackdown for nine MPs after alleged Haines attack",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "publishedAt": "2026-10-26T21:40:55.000Z",
+      "publishedAt": "2026-10-26T22:02:37.000Z",
       "category": "world",
       "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’: Ruston A day after MPs addressed the House of Representatives paying tribute to independent Helen Haines , who was injur"
+    },
+    {
+      "id": "feed-1x0wz4k",
+      "title": "Escaping Idi Amin review – there’s a happy ending to this awful tale … and it should be a lesson to us all",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/escaping-idi-amin-review-bbc-two-iplayer",
+      "publishedAt": "2026-10-26T22:00:53.000Z",
+      "category": "uk",
+      "summary": "Four Britons describe the horrors they witnessed as children as thousands were expelled from Uganda – or killed – by the Ugandan dictator. The new lives they made should teach us something important The contributors to Escaping Idi Amin hardly make any direct "
+    },
+    {
+      "id": "feed-99ihqt",
+      "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "publishedAt": "2026-10-26T21:56:49.000Z",
+      "category": "world",
+      "summary": "Far-right senator banned from leaving country as supreme court judge’s ruling makes reference to money-laundering case The far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic lo"
     },
     {
       "id": "feed-4y45n4",
@@ -162,16 +202,6 @@
       "publishedAt": "2026-10-26T21:02:47.000Z",
       "category": "world",
       "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro."
-    },
-    {
-      "id": "feed-w60127",
-      "title": "Republican and Democratic ex-governors issue rare joint endorsement for South Carolina Senate candidate – US politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-      "publishedAt": "2026-10-26T20:58:14.000Z",
-      "category": "uk",
-      "summary": "Republican David Beasley and Democrat Jim Hodges back Democrat Annie Andrews to flip seat held by Lindsey Graham’s Trump-backed sister Darline What are the US midterm elections and why do they matter? Sign up for Breaking News US email In a post to social medi"
     },
     {
       "id": "feed-5kbc4v",
@@ -414,16 +444,6 @@
       "summary": "The building has been described as a \"gloomy, mice-infested, bomb-curtained rabbit warren\"."
     },
     {
-      "id": "feed-1k1ob3w",
-      "title": "England fret over Fin Smith’s fitness for looming Australia match",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/26/england-fin-smith-fitness-australia-nations-championship-rugby-union",
-      "publishedAt": "2026-10-26T18:30:01.000Z",
-      "category": "uk",
-      "summary": "Borthwick responds by calling up Charlie Atkinson Guy Pepper and Benhard van Rensburg also doubts England are fretting over the fitness of the fly-half Fin Smith in the lead-up to the Nations Championship home opener against Australia on 8 November. The Northa"
-    },
-    {
       "id": "feed-pcir15",
       "title": "Major clean-up under way after two storms cause havoc in Britain",
       "source": "The Guardian",
@@ -504,16 +524,6 @@
       "summary": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?"
     },
     {
-      "id": "feed-trcezg",
-      "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
-      "publishedAt": "2026-10-26T17:56:50.000Z",
-      "category": "world",
-      "summary": "A viral WhatsApp channel and student-led protests played a key role in the veteran Brazilian leftist’s election victory After the first round of the Brazilian presidential election three weeks ago, the leftist incumbent Luiz Inácio Lula da Silva reportedly tol"
-    },
-    {
       "id": "feed-c4xx3p",
       "title": "Ben Jennings on Andy Burnham’s plans for young people – cartoon",
       "source": "The Guardian",
@@ -522,16 +532,6 @@
       "publishedAt": "2026-10-26T17:53:43.000Z",
       "category": "business",
       "summary": "Continue reading..."
-    },
-    {
-      "id": "feed-1fpp9dk",
-      "title": "Jury selected for trial of four accused of sexually assaulting man’s drugged ex-wife",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
-      "publishedAt": "2026-10-26T17:51:03.000Z",
-      "category": "world",
-      "summary": "Mr Justice Saini tells the eight men and six women at Winchester crown court the case is likely to be upsetting Jurors being selected for the trial of four men accused of sexually assaulting the ex-wife of a former Conservative councillor, who has admitted rep"
     },
     {
       "id": "feed-1ob3m0m",
@@ -1224,16 +1224,6 @@
       "summary": "An amber wind warning has now expired after severe weather sweeps across the UK."
     },
     {
-      "id": "feed-16kch9t",
-      "title": "Second person charged in connection with shooting of police officer in Nottingham",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/second-person-charged-in-connection-with-shooting-of-police-officer-in-nottingham-13603855",
-      "publishedAt": "2026-10-26T03:24:00.000Z",
-      "category": "uk",
-      "summary": "A second person has been charged in connection with the shooting of a police officer in Nottingham city centre on 18 October."
-    },
-    {
       "id": "feed-1vupbix",
       "title": "Met Office issues new weather warning for wind - as two men killed by falling trees",
       "source": "Sky News",
@@ -1902,6 +1892,16 @@
       "publishedAt": "2026-10-21T04:49:00.000Z",
       "category": "technology",
       "summary": "Exceeding a key global climate target is now \"imminent and unavoidable\", United Nations (UN) scientists have warned."
+    },
+    {
+      "id": "feed-1o4g26t",
+      "title": "Tech Life",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl",
+      "publishedAt": "2026-10-20T19:45:00.000Z",
+      "category": "technology",
+      "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
     }
   ]
 }
