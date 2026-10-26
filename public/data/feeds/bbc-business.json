@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T11:02:50.915Z",
+  "updatedAt": "2026-10-26T13:42:12.444Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-5xjwnc",
+      "title": "Anthropic unveils details of planned historic stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T13:27:43.000Z",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
+    },
     {
       "id": "feed-1l3hclz",
       "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
@@ -125,7 +133,7 @@
       "link": "https://www.bbc.co.uk/sounds/play/w3ct9kk8",
       "source": "BBC News",
       "publishedAt": "2026-10-24T12:00:00.000Z",
-      "summary": "Author Katja Hoyer, reports on a city which benefits from a new, green landscape,"
+      "summary": "Author Katja Hoyer, reports on a city which benefits from a new, green landscape"
     },
     {
       "id": "feed-19b32ui",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T00:36:47.000Z",
       "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
-    },
-    {
-      "id": "feed-b3dxf6",
-      "title": "How does the UK state pension compare with other countries?",
-      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T00:09:12.000Z",
-      "summary": "Do British pensioners have it better or worse than those in other countries?"
     }
   ]
 }

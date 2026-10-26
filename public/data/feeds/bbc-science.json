@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T11:02:50.916Z",
+  "updatedAt": "2026-10-26T13:42:12.444Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
@@ -8,28 +8,36 @@
   },
   "articles": [
     {
+      "id": "feed-1chiccb",
+      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T12:00:20.000Z",
+      "summary": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds."
+    },
+    {
+      "id": "feed-a7prn8",
+      "title": "Stunning photos capture October's Hunter's Moon around the world",
+      "link": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T11:27:39.000Z",
+      "summary": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend."
+    },
+    {
+      "id": "feed-1snjs0c",
+      "title": "Storm Boelo clears but more wind and rain bear down on UK",
+      "link": "https://www.bbc.co.uk/weather/articles/cqwy7w8dryrxo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T11:21:24.000Z",
+      "summary": "Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday."
+    },
+    {
       "id": "feed-kkxjfj",
       "title": "What do we still need to know about the Tyne nurdle spill?",
       "link": "https://www.bbc.co.uk/news/articles/c34g1e81e9jeo",
       "source": "BBC News",
       "publishedAt": "2026-10-26T11:01:59.000Z",
       "summary": "The spill of 18 tonnes of plastic pellets happened in July but there is still a lot we do not know."
-    },
-    {
-      "id": "feed-1chiccb",
-      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T10:21:18.000Z",
-      "summary": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds."
-    },
-    {
-      "id": "feed-4qmgsp",
-      "title": "Storm Boelo clears but more wind and rain bears down on UK",
-      "link": "https://www.bbc.co.uk/weather/articles/cqwy7w8dryrxo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T08:09:16.000Z",
-      "summary": "Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday."
     },
     {
       "id": "feed-1bp1i74",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-25T11:42:17.000Z",
       "summary": "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country."
-    },
-    {
-      "id": "feed-2hu2yv",
-      "title": "More wet and windy weather to follow stormy weekend",
-      "link": "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T10:16:20.000Z",
-      "summary": "Following the first two named storms of the season, wet and very windy conditions are set to continue into the start of the new week."
     }
   ]
 }
