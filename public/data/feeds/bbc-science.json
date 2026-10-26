@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T00:10:14.861Z",
+  "updatedAt": "2026-10-26T01:18:33.529Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-bvlose",
+      "title": "From agriculture to AI-griculture: How tech is changing farming",
+      "link": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T00:13:09.000Z",
+      "summary": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology."
+    },
     {
       "id": "feed-a3r9w7",
       "title": "Majority of homes in NI have power restored after Storm Boelo",
@@ -134,14 +142,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-24T23:02:51.000Z",
       "summary": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward."
-    },
-    {
-      "id": "feed-1vbyc4h",
-      "title": "Amber weather warning as Storm Boelo hits Scotland",
-      "link": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-24T14:40:18.000Z",
-      "summary": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday."
     },
     {
       "id": "feed-nnljzr",
