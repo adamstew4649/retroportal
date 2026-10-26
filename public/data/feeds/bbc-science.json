@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T22:58:08.708Z",
+  "updatedAt": "2026-10-26T23:19:58.015Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1xglyuz",
+      "title": "New weather warnings as third storm set to hit Scotland",
+      "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T23:00:14.000Z",
+      "summary": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend."
+    },
     {
       "id": "feed-e64heq",
       "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-25T21:11:43.000Z",
       "summary": "The severe weather brought strong winds and heavy rain to large parts of Scotland."
-    },
-    {
-      "id": "feed-1xaimcr",
-      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T21:09:58.000Z",
-      "summary": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland."
     }
   ]
 }
