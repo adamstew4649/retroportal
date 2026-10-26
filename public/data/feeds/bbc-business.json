@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T08:13:13.513Z",
+  "updatedAt": "2026-10-26T09:08:36.650Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1l3hclz",
+      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+      "link": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T06:14:11.000Z",
+      "summary": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future."
+    },
     {
       "id": "feed-wtuzs7",
       "title": "What is the Budget and what could be in it?",
@@ -24,8 +32,8 @@
       "summary": "The economic is positive now but come January things could become trickier for the Labour government"
     },
     {
-      "id": "feed-1xtzoc",
-      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "id": "feed-1lvcaz3",
+      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
       "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
       "source": "BBC News",
       "publishedAt": "2026-10-25T23:44:34.000Z",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T15:41:28.000Z",
       "summary": "The little-known investment Martin Lewis wants you to understand"
-    },
-    {
-      "id": "feed-i53u7m",
-      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-      "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T15:15:13.000Z",
-      "summary": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs."
     }
   ]
 }

@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T08:13:13.513Z",
+  "updatedAt": "2026-10-26T09:08:36.651Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1cdyr99",
+      "title": "Clean-up under way as Storm Boelo leaves thousands without power",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T08:27:44.000Z",
+      "summary": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds."
+    },
     {
       "id": "feed-4qmgsp",
       "title": "Storm Boelo clears but more wind and rain bears down on UK",
@@ -24,8 +32,8 @@
       "summary": "Fairstead Recreation Ground is being planted with wildflowers to benefit insects and pollinators."
     },
     {
-      "id": "feed-1agux7x",
-      "title": "Fed-up driver builds AI litter tracker",
+      "id": "feed-iujp2z",
+      "title": "Weary driver creates AI 'litter-tracking dashcam'",
       "link": "https://www.bbc.co.uk/news/articles/c5x2v3ky1ek7o",
       "source": "BBC News",
       "publishedAt": "2026-10-26T06:18:37.000Z",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-25T10:16:20.000Z",
       "summary": "Following the first two named storms of the season, wet and very windy conditions are set to continue into the start of the new week."
-    },
-    {
-      "id": "feed-z9kvi0",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T09:00:00.000Z",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
     }
   ]
 }
