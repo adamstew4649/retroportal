@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T21:24:20.532Z",
+  "updatedAt": "2026-10-26T21:56:22.249Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-yiyurk",
+      "title": "Will the public change its mind about Meghan?",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjn29lg2vzo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T20:03:05.000Z",
+      "summary": "This complicated - and developing - story could prove to be a turning point for Meghan."
+    },
     {
       "id": "feed-jwy4wd",
       "title": "Heavenly Creatures killer Pauline Parker dies in Orkney, aged 88",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-26T10:28:12.000Z",
       "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April."
-    },
-    {
-      "id": "feed-1bgl4e2",
-      "title": "Daughter wins £127k claim for caring for mum at home",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zp78g580o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T06:23:01.000Z",
-      "summary": "Bern Rogers says the row with her siblings since her elderly mother died was \"harrowing and deeply sad\"."
     }
   ]
 }
