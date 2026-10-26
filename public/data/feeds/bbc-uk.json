@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T16:18:39.302Z",
+  "updatedAt": "2026-10-26T17:07:19.499Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-1chiccb",
+      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T16:54:11.000Z",
+      "summary": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds."
+    },
+    {
       "id": "feed-glzaip",
       "title": "Independent review announced into murder of student Henry Nowak",
       "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o",
       "source": "BBC News",
       "publishedAt": "2026-10-26T16:15:16.000Z",
       "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review."
+    },
+    {
+      "id": "feed-ujwyl5",
+      "title": "Tributes paid to man killed by falling tree",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgl8rlmvn2o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-26T16:11:15.000Z",
+      "summary": "Richard Baines was the long-serving curator of Logan Botanic Garden near Stranraer."
     },
     {
       "id": "feed-ppxuyf",
@@ -32,12 +48,12 @@
       "summary": "Hardeep Bhachu and Jasskamal Riyat are warned of the 'irreversible' consequences of their actions."
     },
     {
-      "id": "feed-1ha1n9q",
-      "title": "Electricity restored to all of NI after storm",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo",
+      "id": "feed-1o01j7e",
+      "title": "Thousands still without power after Storm Boelo",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2dyd73gyeo",
       "source": "BBC News",
-      "publishedAt": "2026-10-26T15:17:59.000Z",
-      "summary": "The Met Office has issued two new yellow weather warnings for parts of Northern Ireland."
+      "publishedAt": "2026-10-26T15:34:41.000Z",
+      "summary": "Up to 5,000 homes in north-east England and Cumbria still have no power following Storm Boelo."
     },
     {
       "id": "feed-myekn9",
@@ -62,14 +78,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-26T14:03:48.000Z",
       "summary": "Leigh and Paul Hutchinson unexpectedly had their first dance in the iconic Blackpool Tower ballroom."
-    },
-    {
-      "id": "feed-1chiccb",
-      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T12:00:20.000Z",
-      "summary": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds."
     },
     {
       "id": "feed-1sa6to3",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-26T06:00:04.000Z",
       "summary": "The rugby league star is \"gold dust\" and \"should have been Sir Kevin years ago,\" says the Prince of Wales."
-    },
-    {
-      "id": "feed-142vwg1",
-      "title": "Photos show potholes days before fatal crash",
-      "link": "https://www.bbc.co.uk/news/articles/ckd6d7pegv0qo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T05:48:11.000Z",
-      "summary": "The pictures, taken by council representatives, reveal the poor condition of the riverside road."
     }
   ]
 }
