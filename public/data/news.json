@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T04:04:14.072Z",
-  "generatedAt": "2026-10-26T04:04:14.072Z",
+  "updatedAt": "2026-10-26T05:01:21.278Z",
+  "generatedAt": "2026-10-26T05:01:21.278Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,24 +104,44 @@
   ],
   "articles": [
     {
+      "id": "feed-vr4tlw",
+      "title": "Australia politics live: Zali Steggall accuses Angus Taylor of not ‘reading the room’ in Haines tribute speech",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+      "publishedAt": "2026-10-26T04:56:09.000Z",
+      "category": "world",
+      "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absol"
+    },
+    {
+      "id": "feed-1e7iarr",
+      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o",
+      "publishedAt": "2026-10-26T04:41:36.000Z",
+      "category": "uk",
+      "summary": "An amber wind warning has now expired after severe weather sweeps across the UK."
+    },
+    {
       "id": "feed-6nd7ia",
       "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "publishedAt": "2026-10-26T04:00:06.000Z",
+      "publishedAt": "2026-10-26T04:38:16.000Z",
       "category": "uk",
       "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local "
     },
     {
-      "id": "feed-14q0zj9",
-      "title": "Australia politics live: Haines’s first words after waking were of concern for staff and bystanders; restrained start to question time",
+      "id": "feed-1fcmrxt",
+      "title": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "publishedAt": "2026-10-26T03:53:01.000Z",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
+      "publishedAt": "2026-10-26T04:29:01.000Z",
       "category": "world",
-      "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absol"
+      "summary": "Victorian coroner hears Emily Lal told Stacey Warnecke that her ‘condition and mindset’ needed to be ‘solid’ to avoid a hospital birth Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast A bir"
     },
     {
       "id": "feed-lfec17",
@@ -184,6 +204,16 @@
       "summary": "Prohibition of salty, yeast-based condiment in Victoria’s prisons remains after convicted murderer claimed it denied him right to ‘enjoy his culture’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily new"
     },
     {
+      "id": "feed-543mia",
+      "title": "Two men killed by falling trees - as Storm Boelo recovery under way",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/two-men-killed-by-falling-trees-and-90000-without-power-as-storm-boelo-recovery-under-way-13603854",
+      "publishedAt": "2026-10-26T02:24:00.000Z",
+      "category": "uk",
+      "summary": "Two men have been killed by falling trees as Storm Boelo pummelled the UK, with winds of up to 84mph, flooded streets and power cut to 800,000 homes."
+    },
+    {
       "id": "feed-wtuzs7",
       "title": "What is the Budget and what could be in it?",
       "source": "BBC News",
@@ -192,26 +222,6 @@
       "publishedAt": "2026-10-26T02:16:37.000Z",
       "category": "uk",
       "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
-    },
-    {
-      "id": "feed-yzhvn5",
-      "title": "Helen Haines’s first words after alleged attack were about safety of staff and gratitude to bystanders, MP reveals",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
-      "publishedAt": "2026-10-26T02:05:23.000Z",
-      "category": "world",
-      "summary": "Allegra Spender calls Indi MP ‘force for change’ as politicians pay tribute in parliament Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Helen Haines’s first words after an alleged att"
-    },
-    {
-      "id": "feed-1e7iarr",
-      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o",
-      "publishedAt": "2026-10-26T02:01:29.000Z",
-      "category": "uk",
-      "summary": "An amber wind warning has now expired after severe weather sweeps across the UK."
     },
     {
       "id": "feed-12e72e1",
@@ -304,8 +314,8 @@
       "summary": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology."
     },
     {
-      "id": "feed-1g4j5td",
-      "title": "'Everyone fought to the end': Meet the Ukrainian veteran who lost 25kg as a PoW",
+      "id": "feed-1k8j6a1",
+      "title": "Mariupol veteran who flew in classified mission on what every Ukrainian should know",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/the-ukrainian-veteran-of-the-battle-for-mariupol-who-lost-25kg-as-a-russian-prisoner-of-war-13603850",
@@ -1364,26 +1374,6 @@
       "summary": "Athletes’ scramble to control – and monetise – their digital identities at the cutting edge of AI rights deals Get our new political email , free app or daily news podcast The Socceroos star stares at the camera as he strides through an enormous atrium, the so"
     },
     {
-      "id": "feed-14r1ha0",
-      "title": "Man charged with murder after body found in wheelie bin",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/man-charged-with-murder-after-body-found-in-wheelie-bin-13601476",
-      "publishedAt": "2026-10-24T17:34:00.000Z",
-      "category": "uk",
-      "summary": "A man has been charged with murder after a body was found in a wheelie bin."
-    },
-    {
-      "id": "feed-1vxwitg",
-      "title": "British and French paratroopers take part in major wargame in Germany",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/british-and-french-paratroopers-take-part-in-major-wargame-in-germany-13603116",
-      "publishedAt": "2026-10-24T14:07:00.000Z",
-      "category": "world",
-      "summary": "Over 2,500 British and French troops have taken part in a wargame in Germany designed to show how NATO territory could be defended against an attack."
-    },
-    {
       "id": "feed-11rki1d",
       "title": "Starlink back to 'the level ⁠we need' in Ukraine, Zelenskyy says",
       "source": "Sky News",
@@ -1902,6 +1892,16 @@
       "publishedAt": "2026-10-21T21:00:01.000Z",
       "category": "science",
       "summary": "Apes in study more likely to choose treats linked to sound of peers having fun, suggesting emotions influence learning Orangutans base their food choices on whether others appear to be having a good time, research suggests. Scientists studying captive oranguta"
+    },
+    {
+      "id": "feed-1na9m9l",
+      "title": "Do people become less creative as they get older? Research makes surprising discovery",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/oct/21/do-people-become-less-creative-as-they-get-older-research",
+      "publishedAt": "2026-10-21T18:00:53.000Z",
+      "category": "science",
+      "summary": "Study pitting preschoolers against adults mostly in their 20s finds fear of failure and anxiety hamper the grownups Ask a five-year-old to paint a picture and they will almost instinctively reach for the brush, but ask an adult to do the same and they will oft"
     }
   ]
 }
