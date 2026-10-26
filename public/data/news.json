@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T01:18:33.533Z",
-  "generatedAt": "2026-10-26T01:18:33.533Z",
+  "updatedAt": "2026-10-26T02:02:41.919Z",
+  "generatedAt": "2026-10-26T02:02:41.919Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,64 @@
   ],
   "articles": [
     {
-      "id": "feed-1uhyo3x",
-      "title": "Brazil runoff live updates: Lula prepares to speak after historic victory over Flávio Bolsonaro",
+      "id": "feed-1v2xpw3",
+      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o",
+      "publishedAt": "2026-10-26T02:01:29.000Z",
+      "category": "uk",
+      "summary": "An amber wind warning has now expired after severe weather sweeps across the UK."
+    },
+    {
+      "id": "feed-144pix9",
+      "title": "Brazil runoff live updates: Flávio Bolsonaro calls for election results to be ‘annulled’ after historic loss to Lula",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "publishedAt": "2026-10-26T01:12:25.000Z",
+      "publishedAt": "2026-10-26T01:59:13.000Z",
       "category": "world",
       "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local "
+    },
+    {
+      "id": "feed-yhkf0m",
+      "title": "Australia politics live: Haines’s first words after waking were of concern for staff and bystanders; parliament hears emotional tributes to MP",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+      "publishedAt": "2026-10-26T01:44:38.000Z",
+      "category": "world",
+      "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absol"
+    },
+    {
+      "id": "feed-12e72e1",
+      "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro",
+      "publishedAt": "2026-10-26T01:40:39.000Z",
+      "category": "uk",
+      "summary": "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him."
+    },
+    {
+      "id": "feed-1qyjwae",
+      "title": "Ukraine war briefing: Trilateral peace talks with Russia to restart, says Zelenskyy",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/26/ukraine-war-briefing-trilateral-us-ukraine-russia-talks-restart-november",
+      "publishedAt": "2026-10-26T01:27:47.000Z",
+      "category": "uk",
+      "summary": "Ukraine will not discuss limits to its armed forces or enforced neutrality at November meeting, president says. What we know on day 1,706 A trilateral meeting between Kyiv, Washington and Moscow will take place in November aiming to restart stalled Russia-Ukra"
+    },
+    {
+      "id": "feed-wtuzs7",
+      "title": "What is the Budget and what could be in it?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+      "publishedAt": "2026-10-26T01:23:04.000Z",
+      "category": "business",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
     },
     {
       "id": "feed-1t8lol8",
@@ -122,16 +172,6 @@
       "publishedAt": "2026-10-26T01:07:05.000Z",
       "category": "world",
       "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
-    },
-    {
-      "id": "feed-1xzywh9",
-      "title": "Australia politics live: Steggall calls Helen Haines ‘matriarch of crossbench’ as parliament hears emotional tributes to MP",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "publishedAt": "2026-10-26T01:04:59.000Z",
-      "category": "world",
-      "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absol"
     },
     {
       "id": "feed-cezbvu",
@@ -171,7 +211,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
       "publishedAt": "2026-10-26T00:48:07.000Z",
       "category": "world",
-      "summary": "Angus Taylor and Barnaby Joyce reject calls for change in parliamentary practice to cool political debate Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese has led tribut"
+      "summary": "Angus Taylor and Barnaby Joyce reject calls for change in parliamentary practice to cool political debate Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Helen Haines’s first words afte"
     },
     {
       "id": "feed-8os6uw",
@@ -302,16 +342,6 @@
       "publishedAt": "2026-10-25T22:30:13.000Z",
       "category": "uk",
       "summary": "Downing Street will allocate a further £432m in this week’s budget, bringing total funding for finding a ‘lasting solution’ to nearly £900m Andy Burnham is to double spending on ending rough sleeping to almost £900m by the end of the current parliament, as he "
-    },
-    {
-      "id": "feed-1v2xpw3",
-      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o",
-      "publishedAt": "2026-10-25T22:24:16.000Z",
-      "category": "uk",
-      "summary": "An amber wind warning has now expired after severe weather sweeps across the UK."
     },
     {
       "id": "feed-efyfv5",
@@ -562,16 +592,6 @@
       "publishedAt": "2026-10-25T19:14:27.000Z",
       "category": "world",
       "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze."
-    },
-    {
-      "id": "feed-mhs4yn",
-      "title": "US south-west braces for more storms after enduring days of rain and flooding",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
-      "publishedAt": "2026-10-25T19:02:51.000Z",
-      "category": "uk",
-      "summary": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week Another round of heavy showers and thunderstorms were expected to hit the south-west US on Sunday after the region endured days of rain that forced evacu"
     },
     {
       "id": "feed-4ytj00",
@@ -1224,16 +1244,6 @@
       "summary": "Brazilians are going to the polls today to elect a president in a run-off vote that is being closely watched around the world."
     },
     {
-      "id": "feed-6jrtrl",
-      "title": "'An IRA boss wanted me dead - my best mate was killed beside me'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cjzxlnrpp30zo",
-      "publishedAt": "2026-10-24T23:04:40.000Z",
-      "category": "uk",
-      "summary": "The survivor of a notorious knife murder speaks of his guilt over the way the attack unfolded and the failure to catch the killers."
-    },
-    {
       "id": "feed-16uav35",
       "title": "The bitter row over military service that could shape Israel's future",
       "source": "BBC News",
@@ -1350,7 +1360,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095",
       "publishedAt": "2026-10-24T13:29:00.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "The Starlink satellite system is back to operating at the speed Ukraine needs after slowing down for more than a week, damaging Kyiv's ability to defend itself from Russian attacks, Ukraine's President Volodymyr Zelenskyy said."
     },
     {
@@ -1892,16 +1902,6 @@
       "publishedAt": "2026-10-21T04:49:00.000Z",
       "category": "technology",
       "summary": "Exceeding a key global climate target is now \"imminent and unavoidable\", United Nations (UN) scientists have warned."
-    },
-    {
-      "id": "feed-1o4g26t",
-      "title": "Tech Life",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl",
-      "publishedAt": "2026-10-20T19:45:00.000Z",
-      "category": "technology",
-      "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
     }
   ]
 }
