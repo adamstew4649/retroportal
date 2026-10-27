@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T23:19:38.218Z",
+  "updatedAt": "2026-10-27T23:52:42.060Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,20 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-1krxbf7",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T23:41:23.000Z",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them."
+    },
+    {
+      "id": "feed-1d1xes",
+      "title": "Watch: 'No clear winner' in Israel election - what happens now?",
+      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T23:27:13.000Z",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner."
+    },
+    {
       "id": "feed-o3wsdv",
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
       "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
       "source": "BBC News",
       "publishedAt": "2026-10-27T22:11:08.000Z",
       "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
-    },
-    {
-      "id": "feed-y31n9v",
-      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T21:12:39.000Z",
-      "summary": "The three brothers were found guilty of drugging and raping several women over the course of decades."
     },
     {
       "id": "feed-1yfrn2c",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T12:46:39.000Z",
       "summary": "Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty."
-    },
-    {
-      "id": "feed-10e9x5f",
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T11:44:54.000Z",
-      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
     }
   ]
 }

@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T23:19:38.216Z",
+  "updatedAt": "2026-10-27T23:52:42.059Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1fxe93n",
+      "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T23:35:11.000Z",
+      "summary": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal."
+    },
     {
       "id": "feed-j3dl1p",
       "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T06:39:13.000Z",
       "summary": "Caitlin Andrew hated birdwatching as a child but found a passion for it in her 20s."
-    },
-    {
-      "id": "feed-1jorhd2",
-      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T06:33:11.000Z",
-      "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks."
     }
   ]
 }
