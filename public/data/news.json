@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T08:06:50.364Z",
-  "generatedAt": "2026-10-27T08:06:50.364Z",
+  "updatedAt": "2026-10-27T09:05:23.769Z",
+  "generatedAt": "2026-10-27T09:05:23.769Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 6
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,106 @@
   ],
   "articles": [
     {
+      "id": "feed-wt11n2",
+      "title": "GPS detour leads Alabama driver to save Georgia family from house fire",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/georgia-family-house-fire",
+      "publishedAt": "2026-10-27T09:00:07.000Z",
+      "category": "world",
+      "summary": "Casey Sparks inadvertently ended up in Lyerly, Georgia, where he noticed burning home and helped to save family An Alabama driver’s unintended, GPS-directed detour in Georgia positioned him to help save a couple and a dozen children in their care from a fire t"
+    },
+    {
+      "id": "feed-j5m8oy",
+      "title": "HSBC profits surge 32%, sparking fresh calls for bank taxes in the budget – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
+      "publishedAt": "2026-10-27T08:56:54.000Z",
+      "category": "uk",
+      "summary": "Rolling coverage of the latest economic and financial news UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises The 6% drop in HSBC’s share price this morning has made rather a dent in the FTSE 100 share index. The ‘Footsie’ "
+    },
+    {
+      "id": "feed-rrh5jm",
+      "title": "South Africa v Australia: third men’s cricket Test, day one – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/27/south-africa-v-australia-third-test-day-one-cricket-newlands-cape-town-live-updates",
+      "publishedAt": "2026-10-27T08:56:28.000Z",
+      "category": "uk",
+      "summary": "Updates from the final match of the series at Newlands Any thoughts? Get in touch with an email Among the Australia’s four changes for this Test, there’s still no proven replacement opener for Usman Khawaja, who has been on media street lately with his book co"
+    },
+    {
+      "id": "feed-1k2hbvr",
+      "title": "Russia launches 280 drones at Ukraine as local ceasefire begins in Oleshky – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+      "publishedAt": "2026-10-27T08:55:22.000Z",
+      "category": "uk",
+      "summary": "Volodymyr Zelenskyy says 16 ballistic missiles were also launched overnight despite localised truce in Russian-occupied town Russia and Ukraine have started a localised ceasefire to allow for ⁠a humanitarian operation to begin in the Russian-occupied town of O"
+    },
+    {
+      "id": "feed-ovqwd",
+      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
+      "publishedAt": "2026-10-27T08:53:59.000Z",
+      "category": "uk",
+      "summary": "The BBC understands the government will also freeze fuel duty again in the Budget."
+    },
+    {
+      "id": "feed-3i6c4k",
+      "title": "Albanese concedes $6m golf club grant in his electorate was not to contain ‘raw sewage’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-admits-6m-marrickville-golf-club-grant-not-to-fix-raw-sewage",
+      "publishedAt": "2026-10-27T08:52:27.000Z",
+      "category": "world",
+      "summary": "Grant part of $560m invitation-only scheme transparency advocates say largely funded projects in Labor-held seats Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese has ad"
+    },
+    {
+      "id": "feed-1x48bcv",
+      "title": "Israel election live: polls open in most consequential vote in country’s history",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "publishedAt": "2026-10-27T08:48:57.000Z",
+      "category": "uk",
+      "summary": "Most polling shows prime minister Benjamin Netanyahu’s coalition will lose its majority, with Gadi Eisenkot the leading opposition contender What you need to know about Israel’s election Across Israel , voting is now under way. Here are some of the latest imag"
+    },
+    {
+      "id": "feed-1w0fihs",
+      "title": "Why it could take time for a new Israeli government to form",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no",
+      "publishedAt": "2026-10-27T08:37:30.000Z",
+      "category": "world",
+      "summary": "Israel faces what many view as one of the most pivotal elections in the country's history."
+    },
+    {
+      "id": "feed-9hl8pc",
+      "title": "Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
+      "publishedAt": "2026-10-27T08:03:20.000Z",
+      "category": "world",
+      "summary": "Senator Fatima Payman also criticises former colleagues over lack of staffing given to her office Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese has promised a “swift "
+    },
+    {
+      "id": "feed-nqs919",
+      "title": "Poundland close to collapse as new directors head for exit",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/poundland-close-to-collapse-as-new-directors-head-for-exit-13604265",
+      "publishedAt": "2026-10-27T08:03:00.000Z",
+      "category": "uk",
+      "summary": "The directors recruited to steer Poundland through its emergency sale process less than two weeks ago are on the brink of resigning, heightening the risk that one of Britain's biggest discount retailers will collapse within days, risking thousands of job losse"
+    },
+    {
       "id": "feed-i0t7la",
       "title": "Truce begins in Ukraine city where residents ate weeds to survive",
       "source": "BBC News",
@@ -114,14 +214,44 @@
       "summary": "The ceasefire in Oleshky, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians."
     },
     {
-      "id": "feed-rrh5jm",
-      "title": "South Africa v Australia: third men’s cricket Test, day one – live",
+      "id": "feed-1oqqbqx",
+      "title": "The One About Matthew Perry review – the star of one of TV’s biggest ever shows gets a loving tribute",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/27/south-africa-v-australia-third-test-day-one-cricket-newlands-cape-town-live-updates",
-      "publishedAt": "2026-10-27T07:55:40.000Z",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/27/the-one-about-matthew-perry-review-netflix-documentary-friends",
+      "publishedAt": "2026-10-27T08:01:05.000Z",
       "category": "uk",
-      "summary": "Updates from the final match of the series at Newlands First ball in Cape Town is 10.30am local/7.30pm AEDT/8.30am GMT Any thoughts? Get in touch with an email Australia are expected to make at least a couple of changes. Martin Pegan looked closer at who might"
+      "summary": "This intimate, warm, thoughtful three-parter about the Friends actor speaks to his friends, family and ex-girlfriends – and their adoration for him is overwhelming “God, you can do whatever you want to me, just please make me famous.” So prayed Matthew Perry w"
+    },
+    {
+      "id": "feed-1kpltp1",
+      "title": "Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay",
+      "publishedAt": "2026-10-27T08:00:06.000Z",
+      "category": "uk",
+      "summary": "The England captain spoke movingly on night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming flavour. There was a lovely moment at London’s Palladium theatre, with the"
+    },
+    {
+      "id": "feed-s7n7uh",
+      "title": "Admit it: the English love affair with European food has grown stale – we need a native cuisine we can be proud of | Lewis Bassett",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/english-european-food-native-dishes",
+      "publishedAt": "2026-10-27T08:00:05.000Z",
+      "category": "uk",
+      "summary": "It’s boring to see aioli, burrata and fresh pasta on menus everywhere. Especially when we have salad cream, custard tarts and stuffed chine No discerning dinner party host in England would dream of serving their guests a traditional English ham. You might find"
+    },
+    {
+      "id": "feed-1bzuujn",
+      "title": "‘The wind goes in all directions’: Fleetwood prepare wet welcome for Arsenal at Highbury",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/27/the-wind-goes-in-all-directions-fleetwood-prepare-wet-welcome-for-arsenal-at-highbury",
+      "publishedAt": "2026-10-27T08:00:05.000Z",
+      "category": "uk",
+      "summary": "The Premier League champions may have bigger fish to fry but can expect a feisty reception from League Two strugglers in the Carabao Cup The headlines around Fleetwood Town are rarely about what happens on the pitch. Noteworthy elements include Jamie Vardy’s c"
     },
     {
       "id": "feed-glzaip",
@@ -132,26 +262,6 @@
       "publishedAt": "2026-10-27T07:51:57.000Z",
       "category": "uk",
       "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review."
-    },
-    {
-      "id": "feed-1x48bcv",
-      "title": "Israel election live: polls open in most consequential vote in country’s history",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "publishedAt": "2026-10-27T07:50:24.000Z",
-      "category": "uk",
-      "summary": "Most polling shows prime minister Benjamin Netanyahu’s coalition will lose its majority, with Gadi Eisenkot the leading opposition contender What you need to know about Israel’s election Across Israel , voting is now under way, with most polling places open un"
-    },
-    {
-      "id": "feed-j5m8oy",
-      "title": "HSBC profits surge 32%, sparking fresh calls for bank taxes in the budget – business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
-      "publishedAt": "2026-10-27T07:45:59.000Z",
-      "category": "uk",
-      "summary": "Rolling coverage of the latest economic and financial news UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises HSBC was also quizzed about the impact of last week’s Google Cloud outage . CFO Pam Kaur says: “We do apologise t"
     },
     {
       "id": "feed-1ldsqll",
@@ -172,6 +282,16 @@
       "publishedAt": "2026-10-27T07:15:08.000Z",
       "category": "world",
       "summary": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\"."
+    },
+    {
+      "id": "feed-iyq9rl",
+      "title": "Burnham in danger of sleepwalking into climate disaster, say campaigners",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/oct/27/burnham-sleepwalking-climate-disaster-campaigners",
+      "publishedAt": "2026-10-27T07:00:06.000Z",
+      "category": "uk",
+      "summary": "Letter to PM argues series of wrong choices on North Sea oil, Heathrow, EVs and heat pumps will scupper net zero plans Andy Burnham will “sleepwalk” into climate disaster if he fails to get a grip on a series of important policies whose combined impact could s"
     },
     {
       "id": "feed-1oxq90f",
@@ -224,6 +344,16 @@
       "summary": "From roarsome motorists to indoor beaches, these fascinating images blur fact and fiction – and are available to buy in the Magnum store Continue reading..."
     },
     {
+      "id": "feed-10uygl7",
+      "title": "UK government met 137 businesses over AI datacentres – but no environmental groups",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+      "publishedAt": "2026-10-27T07:00:04.000Z",
+      "category": "uk",
+      "summary": "Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expansion plans The UK’s policy on datacentres and AI was developed without any meetings with environmental groups, an investigation has found. Th"
+    },
+    {
       "id": "feed-8eopg3",
       "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
       "source": "The Guardian",
@@ -242,26 +372,6 @@
       "publishedAt": "2026-10-27T07:00:04.000Z",
       "category": "uk",
       "summary": "In a West End theatre, a young actor hears a disembodied voice coaching his singing. It’s the start of an icky ghost-on-human romance This ghost story set in a West End theatre is creakier than the old wooden floorboards on stage. It’s a gender reversal of Pha"
-    },
-    {
-      "id": "feed-10uygl7",
-      "title": "UK government met 137 businesses over AI datacentres – but no environmental groups",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
-      "publishedAt": "2026-10-27T07:00:04.000Z",
-      "category": "world",
-      "summary": "Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expansion plans The UK’s policy on datacentres and AI was developed without any meetings with environmental groups, an investigation has found. Th"
-    },
-    {
-      "id": "feed-ovqwd",
-      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
-      "publishedAt": "2026-10-27T06:49:19.000Z",
-      "category": "uk",
-      "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
     },
     {
       "id": "feed-oklh8k",
@@ -344,16 +454,6 @@
       "summary": "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes."
     },
     {
-      "id": "feed-15nmoaq",
-      "title": "TV tonight: incredible photos of the ‘Black Is Beautiful’ movement",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/27/tv-tonight-incredible-photos-of-the-black-is-beautiful-movement",
-      "publishedAt": "2026-10-27T06:20:03.000Z",
-      "category": "uk",
-      "summary": "This brilliant film follows photographer Kwame Brathwaite and his stunning archive. Plus: unseen Only Fools and Horses gems. Here’s what to watch this evening 10pm, BBC Four “Every photo in this film was taken by Kwame Brathwaite or is of Kwame Brathwaite,” st"
-    },
-    {
       "id": "feed-rrhgnu",
       "title": "Will the Budget pass Burnham's Makerfield test?",
       "source": "BBC News",
@@ -364,8 +464,8 @@
       "summary": "People in the prime minister's constituency say rising costs are squeezing household finances."
     },
     {
-      "id": "feed-otkt8h",
-      "title": "Budget hopes for struggling first-time buyers",
+      "id": "feed-568ef7",
+      "title": "First-time buyers hoping for help from the Budget",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c317kpqv4njno",
@@ -384,16 +484,6 @@
       "summary": "Ahead of the Budget, residents tell BBC Radio Surrey their experiences of the cost-of living crisis."
     },
     {
-      "id": "feed-3i6c4k",
-      "title": "Albanese concedes $6m golf club grant in his electorate was not to contain ‘raw sewage’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-admits-6m-marrickville-golf-club-grant-not-to-fix-raw-sewage",
-      "publishedAt": "2026-10-27T06:08:01.000Z",
-      "category": "world",
-      "summary": "Grant part of $560m invitation-only scheme transparency advocates say largely funded projects in Labor-held seats Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese has ad"
-    },
-    {
       "id": "feed-iu3sl7",
       "title": "Donald Trump's biggest economic problem looks strangely familiar",
       "source": "BBC News",
@@ -404,24 +494,24 @@
       "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden."
     },
     {
-      "id": "feed-9ylq8l",
-      "title": "Landowners could scupper free Land Registry access plans, campaigners warn",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/27/landowners-could-scupper-free-land-registry-access-plans-campaigners-warn",
-      "publishedAt": "2026-10-27T06:00:04.000Z",
-      "category": "uk",
-      "summary": "Proposed lifting of paywall would reveal who owns vast majority of land in England and Wales Plans by the government to give the public free access for the first time to information on who owns England’s land are at risk of being scuppered by landowners, campa"
-    },
-    {
       "id": "feed-vbvahc",
       "title": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
       "publishedAt": "2026-10-27T06:00:04.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Binbag-wielding volunteers clear encampment used by thugs to intimidate opponents of deposed government Student List cleaned up at Serbia’s parliamentary elections. So it was only fitting that the morning after a night of raucous celebrations, the movement’s s"
+    },
+    {
+      "id": "feed-9ylq8l",
+      "title": "Landowners could scupper free Land Registry access plans, campaigners warn",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/landowners-could-scupper-free-land-registry-access-plans-campaigners-warn",
+      "publishedAt": "2026-10-27T06:00:04.000Z",
+      "category": "world",
+      "summary": "Proposed lifting of paywall would reveal who owns vast majority of land in England and Wales Plans by the government to give the public free access for the first time to information on who owns England’s land are at risk of being scuppered by landowners, campa"
     },
     {
       "id": "feed-2duo0m",
@@ -430,18 +520,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/cities/2026/oct/27/shoppers-praise-oxford-street-pedestrianisation",
       "publishedAt": "2026-10-27T06:00:04.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Many punters say inconvenience of bus rerouting is small price to pay for more space, but not everyone is happy To the east of Oxford Circus, there is chaos. A steady stream of red London buses swing round the last junction before the newly pedestrianised Oxfo"
-    },
-    {
-      "id": "feed-1omab4z",
-      "title": "My advice for Burnham’s first budget? Hit the banks – and hit them hard | Polly Toynbee",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/andy-burnham-budget-banks-billions-prime-minister",
-      "publishedAt": "2026-10-27T06:00:03.000Z",
-      "category": "uk",
-      "summary": "Bankers have barely begun to repay the billions they cost the country after 2008. In this PM they may have met their match Vibes matter. We live by how we feel – an idea that orthodox economics gets wrong and Andy Burnham’s first budget looks set to get right."
     },
     {
       "id": "feed-p8y4il",
@@ -450,18 +530,28 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/27/king-charles-apology-slavery-commonwealth-caribbean",
       "publishedAt": "2026-10-27T06:00:03.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Campaigners say tour could hasten Charles’s removal as head of state unless he does more to confront monarchy’s historic role in slave trade King Charles’s upcoming Caribbean tour could accelerate moves to remove him as head of state in several countries unles"
     },
     {
-      "id": "feed-wtb3j5",
-      "title": "Fritters and chocolate cake: Thomasina Miers’ recipes for cooking with pumpkin",
+      "id": "feed-1omab4z",
+      "title": "My advice for Burnham’s first budget? Hit the banks – and hit them hard | Polly Toynbee",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/food/2026/oct/27/pumpkin-recipes-carrot-fritters-green-relish-chocolate-cake-thomasina-miers",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/andy-burnham-budget-banks-billions-prime-minister",
       "publishedAt": "2026-10-27T06:00:03.000Z",
-      "category": "uk",
-      "summary": "Quick, simple finger food that children will love for Halloween: pumpkin and carrot fritters with a chilli-coriander relish, and pumpkin baked into a dark chocolate slice It would be lazy to write, with a rueful shake of the head, that Halloween gets bigger ev"
+      "category": "business",
+      "summary": "Bankers have barely begun to repay the billions they cost the country after 2008. In this PM they may have met their match Vibes matter. We live by how we feel – an idea that orthodox economics gets wrong and Andy Burnham’s first budget looks set to get right."
+    },
+    {
+      "id": "feed-1sqcpsy",
+      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o",
+      "publishedAt": "2026-10-27T05:45:08.000Z",
+      "category": "world",
+      "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead."
     },
     {
       "id": "feed-15uk8qr",
@@ -484,16 +574,6 @@
       "summary": "Many of the papers consider what will be in the Budget and praise Harry Kane for his Ballon d'Or win."
     },
     {
-      "id": "feed-9hl8pc",
-      "title": "Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
-      "publishedAt": "2026-10-27T05:19:39.000Z",
-      "category": "world",
-      "summary": "Senator Fatima Payman also criticises former colleagues over lack of staffing given to her office Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese has promised a “swift "
-    },
-    {
       "id": "feed-svgtg0",
       "title": "Labor condemns One Nation cartoons depicting Penny Wong being murdered as Hanson says videos ‘not going anywhere’",
       "source": "The Guardian",
@@ -511,7 +591,7 @@
       "url": "https://www.theguardian.com/us-news/video/2026/oct/27/what-did-elizabeth-holmes-actually-do-video",
       "publishedAt": "2026-10-27T05:12:29.000Z",
       "category": "business",
-      "summary": "Elizabeth Holmes’ story is at the centre of what’s now being hailed as one of the best documentaries ever made, You Can See Everything. Ahead of the film’s Australian release next month, Guardian Australia’s Achol Arok gets you up to speed Continue reading..."
+      "summary": "Elizabeth Holmes’ story is at the centre of what’s now being hailed as one of the best documentaries ever made, You Can See Everything. But who is Elizabeth Holmes, and how did this famed med-tech scammer become the centre of a cultural phenomenon? Guardian Au"
     },
     {
       "id": "feed-6b7zpz",
@@ -530,7 +610,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
       "publishedAt": "2026-10-27T05:00:04.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s"
     },
     {
@@ -542,6 +622,16 @@
       "publishedAt": "2026-10-27T05:00:04.000Z",
       "category": "science",
       "summary": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guise For a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than other children. My paren"
+    },
+    {
+      "id": "feed-1lweya9",
+      "title": "Perimenopause is everywhere. How do you know if you’re in it? – podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/27/perimenopause-how-do-you-know-if-youre-in-it-podcast",
+      "publishedAt": "2026-10-27T05:00:03.000Z",
+      "category": "science",
+      "summary": "Perimenopause has become a hot topic, with celebrities sharing their experiences and doctors offering tips and advice online. But despite the benefits of growing awareness, a rising number of women are now encountering misinformation about treatments such as H"
     },
     {
       "id": "feed-7e77jo",
@@ -684,16 +774,6 @@
       "summary": "Louisa says her experience of dealing with household bills after her husband John died left her feeling \"frustrated and angry\"."
     },
     {
-      "id": "feed-kdpbl9",
-      "title": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
-      "publishedAt": "2026-10-27T00:31:37.000Z",
-      "category": "world",
-      "summary": "Newsom accuses Trump of ‘assault on democracy’ as DoJ claims 20,000 registered voters in state are non-citizens A US federal appeals court rejected the Trump administration’s move to block California from counting the ballots of 20,000 registered voters that t"
-    },
-    {
       "id": "feed-z8x5jq",
       "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
       "source": "BBC News",
@@ -710,7 +790,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
       "publishedAt": "2026-10-27T00:01:02.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-called hostile environment for immigration, according to research. T"
     },
     {
@@ -754,8 +834,8 @@
       "summary": "Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London."
     },
     {
-      "id": "feed-12fkyw8",
-      "title": "Chris Mason: Burnham faces crunch decisions and tricky trade-offs in his next 100 days",
+      "id": "feed-1nxnav0",
+      "title": "Chris Mason: Burnham faces crunch decisions in his next 100 days",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c317k85r5lglo",
@@ -792,6 +872,16 @@
       "publishedAt": "2026-10-26T21:31:53.000Z",
       "category": "world",
       "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising."
+    },
+    {
+      "id": "feed-82jc93",
+      "title": "Business Daily",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8grq",
+      "publishedAt": "2026-10-26T21:30:00.000Z",
+      "category": "business",
+      "summary": "After decades of ultra-cheap money, the cost of borrowing in Japan is rising"
     },
     {
       "id": "feed-pnywdi",
@@ -850,7 +940,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
       "publishedAt": "2026-10-26T19:15:37.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "Company says small number of devices affected by display glitch after posts appear on Reddit and social media Owners of the new foldable iPhone are reporting cracks in the device’s screen, as Apple confirmed an issue with a “small number” of units. Reports of "
     },
     {
@@ -964,16 +1054,6 @@
       "summary": "The Pope is recovering well from cancer surgery and his trip to South America will go ahead as planned next month, the Vatican has said."
     },
     {
-      "id": "feed-ijhkk6",
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko",
-      "publishedAt": "2026-10-26T17:00:09.000Z",
-      "category": "world",
-      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border."
-    },
-    {
       "id": "feed-1n54luu",
       "title": "Why Melania Trump's ceasefire will be lifeline for besieged Ukrainians in Oleshky",
       "source": "Sky News",
@@ -982,16 +1062,6 @@
       "publishedAt": "2026-10-26T16:34:00.000Z",
       "category": "world",
       "summary": "👉Listen to This Is Why on your podcast app👈"
-    },
-    {
-      "id": "feed-di00jj",
-      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o",
-      "publishedAt": "2026-10-26T16:31:09.000Z",
-      "category": "world",
-      "summary": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded."
     },
     {
       "id": "feed-k52yag",
@@ -1012,16 +1082,6 @@
       "publishedAt": "2026-10-26T16:27:17.000Z",
       "category": "world",
       "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
-    },
-    {
-      "id": "feed-bhnvzc",
-      "title": "Anthropic files for potentially record-breaking stock market valuation in key test for AI industry",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
-      "publishedAt": "2026-10-26T16:22:28.000Z",
-      "category": "technology",
-      "summary": "Market debut of firm behind Claude chatbot will be one of largest in US history, a test of AI boom’s financial viability Anthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history. The company’s float o"
     },
     {
       "id": "feed-4yk6pk",
@@ -1052,16 +1112,6 @@
       "publishedAt": "2026-10-26T15:46:31.000Z",
       "category": "world",
       "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
-    },
-    {
-      "id": "feed-nm9xyk",
-      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o",
-      "publishedAt": "2026-10-26T15:45:30.000Z",
-      "category": "world",
-      "summary": "The incident happened on Saturday night, close to an American football stadium where a game had just been played."
     },
     {
       "id": "feed-tgoyk",
@@ -1144,16 +1194,6 @@
       "summary": "As all facets of our lives are optimized, the suffix has become inescapable - and experts predict it’s around to stay Maxxing is not a new concept. Dungeons and Dragons players have been “min-maxing” character stats for years; Will Smith was maxin’ and relaxin"
     },
     {
-      "id": "feed-181bv2x",
-      "title": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
-      "publishedAt": "2026-10-26T12:00:41.000Z",
-      "category": "technology",
-      "summary": "Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California locals Locals in a rural area of California were recently startled to see dazzlingly bright light shining down from nearby mountains at n"
-    },
-    {
       "id": "feed-fzyto0",
       "title": "Peta releases video showing experiments on infant monkeys at University of Washington",
       "source": "The Guardian",
@@ -1162,6 +1202,16 @@
       "publishedAt": "2026-10-26T12:00:41.000Z",
       "category": "science",
       "summary": "Animal-rights group released video footage that shows distressed baby macaques undergoing lab experiments Footage released by the animal-rights group Peta reveals, for the first time, filmed experiments at the University of Washington’s National Primate Resear"
+    },
+    {
+      "id": "feed-181bv2x",
+      "title": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
+      "publishedAt": "2026-10-26T12:00:41.000Z",
+      "category": "science",
+      "summary": "Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California locals Locals in a rural area of California were recently startled to see dazzlingly bright light shining down from nearby mountains at n"
     },
     {
       "id": "feed-1iirhd0",
@@ -1254,24 +1304,24 @@
       "summary": "North Korean howitzer guns have been seen close to the border with South Korea - at a time when tensions between the two nations are high."
     },
     {
-      "id": "feed-1jzof5e",
-      "title": "London's Oxford Street pedestrianised in 'truly momentous occasion for capital'",
+      "id": "feed-ppkeu",
+      "title": "Senior doctors to strike for two days in November",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/londons-oxford-street-pedestrianised-in-truly-momentous-occasion-for-capital-13603905",
-      "publishedAt": "2026-10-26T08:33:00.000Z",
+      "url": "https://news.sky.com/story/senior-doctors-in-england-to-strike-for-two-days-in-november-13603895",
+      "publishedAt": "2026-10-26T08:12:00.000Z",
       "category": "uk",
-      "summary": "London's Oxford Street is now traffic-free, with mayor Sadiq Khan hailing it \"a truly momentous occasion for the capital\"."
+      "summary": "Senior doctors in England plan to go on strike for two days in November over pay, the British Medical Association (BMA) has said."
     },
     {
-      "id": "feed-3s5uvb",
-      "title": "Can you solve it? A magical melody from the Mozart of math",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/2026/oct/26/can-you-solve-it-a-magical-melody-from-the-mozart-of-math",
-      "publishedAt": "2026-10-26T07:10:24.000Z",
-      "category": "science",
-      "summary": "Terence Tao teaser time UPDATE: Read the solutions here Today’s puzzle is set by Terence Tao, who may be the world’s most famous mathematician. Tao, aged 51, has been a global phenomenon since the age of ten, when he became the youngest competitor at the Inter"
+      "id": "feed-1vi78a1",
+      "title": "Two men killed in multi-vehicle crash",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/two-men-killed-in-multi-vehicle-crash-in-bathgate-13603896",
+      "publishedAt": "2026-10-26T08:12:00.000Z",
+      "category": "uk",
+      "summary": "Two men have died in a multi-vehicle collision in West Lothian."
     },
     {
       "id": "feed-1bp1i74",
@@ -1554,16 +1604,6 @@
       "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
     },
     {
-      "id": "feed-su3azd",
-      "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
-      "publishedAt": "2026-10-23T18:48:48.000Z",
-      "category": "technology",
-      "summary": "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’ Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence t"
-    },
-    {
       "id": "feed-hrxzuo",
       "title": "A farewell to BioWare, maker of some of the best games of the 21st century | Lucy James",
       "source": "The Guardian",
@@ -1592,16 +1632,6 @@
       "publishedAt": "2026-10-23T12:00:25.000Z",
       "category": "technology",
       "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems."
-    },
-    {
-      "id": "feed-1mdibij",
-      "title": "Volvo Cars in share price crash as 2,500 job cuts follow sales slump",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/volvo-cars-in-share-price-crash-as-2500-job-cuts-follow-sales-slump-13602644",
-      "publishedAt": "2026-10-23T10:40:00.000Z",
-      "category": "business",
-      "summary": "Volvo Cars has revealed a further 2,500 job cuts amid a slump in sales that has seen its share price crash to record lows."
     },
     {
       "id": "feed-iomof7",
@@ -1652,26 +1682,6 @@
       "publishedAt": "2026-10-23T06:01:00.000Z",
       "category": "technology",
       "summary": "Plans for rolling out weight-loss drug Mounjaro are \"unambitious\" and will reach a \"woefully small number of people\", according to MPs."
-    },
-    {
-      "id": "feed-z3zmbe",
-      "title": "Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking",
-      "publishedAt": "2026-10-23T06:00:01.000Z",
-      "category": "technology",
-      "summary": "Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Apple’s biggest and beefiest smartwatch it gets the best kind of spec up"
-    },
-    {
-      "id": "feed-y1j9rf",
-      "title": "How citizen science is tracking changes in shorelines around the world",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/2026/oct/23/how-citizen-science-is-tracking-changes-in-shorelines-around-the-world",
-      "publishedAt": "2026-10-23T05:00:01.000Z",
-      "category": "science",
-      "summary": "An app and a camera phone are all that’s needed at more than 200 spots to help researchers monitor coastal areas The shoreline changes with the weather. Tracking these changes over time is a labour-intensive task, and an army of citizen scientists with camera "
     },
     {
       "id": "feed-q2j6ii",
@@ -1832,6 +1842,16 @@
       "publishedAt": "2026-10-20T19:45:00.000Z",
       "category": "technology",
       "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
+    },
+    {
+      "id": "feed-da61ea",
+      "title": "‘These risks are real’: the threat of AI bioweapons - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video",
+      "publishedAt": "2026-10-20T12:14:42.000Z",
+      "category": "science",
+      "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom"
     },
     {
       "id": "feed-smkkty",
