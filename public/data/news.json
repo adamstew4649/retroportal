@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T02:58:58.931Z",
-  "generatedAt": "2026-10-27T02:58:58.931Z",
+  "updatedAt": "2026-10-27T03:25:51.520Z",
+  "generatedAt": "2026-10-27T03:25:51.520Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "sky-technology",
@@ -104,6 +104,26 @@
   ],
   "articles": [
     {
+      "id": "feed-1jo9oih",
+      "title": "Australian politics live: Albanese mulls duress alarms for MPs; former ABC news director’s payout revealed",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "publishedAt": "2026-10-27T03:13:30.000Z",
+      "category": "world",
+      "summary": "Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines , who was injured after an a"
+    },
+    {
+      "id": "feed-6b7zpz",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo",
+      "publishedAt": "2026-10-27T03:10:55.000Z",
+      "category": "world",
+      "summary": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game."
+    },
+    {
       "id": "feed-12r9n0p",
       "title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
       "source": "The Guardian",
@@ -114,14 +134,24 @@
       "summary": "US military says the restrictions on the electric vehicles at Kadena airbase also apply to delivery drivers and taxis One of America’s biggest overseas military bases has banned vehicles made by the Chinese electric vehicle maker BYD over security concerns, th"
     },
     {
-      "id": "feed-1jo9oih",
-      "title": "Australian politics live: Albanese mulls duress alarms for MPs; former ABC news director’s payout revealed",
+      "id": "feed-1d65e1o",
+      "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
+      "publishedAt": "2026-10-27T02:40:17.000Z",
+      "category": "world",
+      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said."
+    },
+    {
+      "id": "feed-1izvrev",
+      "title": "Beau Lamarre-Condon tells jury he wanted to report deaths but friend encouraged him to dispose of bodies",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "publishedAt": "2026-10-27T02:29:52.000Z",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/27/beau-lamarre-condon-claims-friend-lied-to-police-first-statement-to-trial-ntwnfb",
+      "publishedAt": "2026-10-27T02:18:46.000Z",
       "category": "world",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines ,"
+      "summary": "NSW police officer accused of murdering Jesse Baird and Luke Davies tells court he wanted to do ‘right thing’ by their families Follow our Australian politics live blog for latest updates Get our breaking news email , free app or daily news podcast Beau Lamarr"
     },
     {
       "id": "feed-10e9x5f",
@@ -960,7 +990,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o",
       "publishedAt": "2026-10-26T14:54:40.000Z",
-      "category": "world",
+      "category": "science",
       "summary": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist."
     },
     {
@@ -1002,16 +1032,6 @@
       "publishedAt": "2026-10-26T14:27:32.000Z",
       "category": "world",
       "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola."
-    },
-    {
-      "id": "feed-1uouofd",
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo",
-      "publishedAt": "2026-10-26T14:16:09.000Z",
-      "category": "world",
-      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle."
     },
     {
       "id": "feed-o47z4f",
@@ -1222,16 +1242,6 @@
       "publishedAt": "2026-10-26T08:33:00.000Z",
       "category": "uk",
       "summary": "London's Oxford Street is now traffic-free, with mayor Sadiq Khan hailing it \"a truly momentous occasion for the capital\"."
-    },
-    {
-      "id": "feed-1mng1zu",
-      "title": "Three men arrested in shootout after deadly attack on church in Jordan",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/three-men-arrested-in-shootout-after-deadly-attack-on-church-in-jordan-13603900",
-      "publishedAt": "2026-10-26T08:27:00.000Z",
-      "category": "world",
-      "summary": "Three men have been arrested after a deadly attack on a church in Jordan last week."
     },
     {
       "id": "feed-1bp1i74",
@@ -1892,16 +1902,6 @@
       "publishedAt": "2026-10-20T19:45:00.000Z",
       "category": "technology",
       "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
-    },
-    {
-      "id": "feed-da61ea",
-      "title": "‘These risks are real’: the threat of AI bioweapons - video",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video",
-      "publishedAt": "2026-10-20T12:14:42.000Z",
-      "category": "science",
-      "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom"
     }
   ]
 }
