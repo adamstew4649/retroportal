@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T16:06:33.901Z",
-  "generatedAt": "2026-10-27T16:06:33.901Z",
+  "updatedAt": "2026-10-27T17:07:49.501Z",
+  "generatedAt": "2026-10-27T17:07:49.501Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,186 @@
   ],
   "articles": [
     {
+      "id": "feed-h1iimo",
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o",
+      "publishedAt": "2026-10-27T17:00:51.000Z",
+      "category": "world",
+      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu."
+    },
+    {
+      "id": "feed-erjw5r",
+      "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko",
+      "publishedAt": "2026-10-27T17:00:31.000Z",
+      "category": "uk",
+      "summary": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday."
+    },
+    {
+      "id": "feed-x80kph",
+      "title": "Doctor performs first telerobotic surgery in US, removing prostate from 35 miles away",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/first-telerobotic-surgery",
+      "publishedAt": "2026-10-27T16:54:45.000Z",
+      "category": "world",
+      "summary": "The patient was at a facility in Minneola, Florida, while the surgeon operated remotely from another facility A Florida surgeon has performed the first telerobotic operation between two US hospitals, removing the prostate of a man with cancer from 35 miles awa"
+    },
+    {
+      "id": "feed-1fi5t79",
+      "title": "High turnout as Israel goes to the polls in most consequential election in its history – live updates",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "publishedAt": "2026-10-27T16:52:15.000Z",
+      "category": "uk",
+      "summary": "By early afternoon almost 45% of voters had cast their ballot What you need to know about Israel’s election Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living ab"
+    },
+    {
+      "id": "feed-1a08jn1",
+      "title": "Tiny zebra-striped bee in West a 'huge surprise'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o",
+      "publishedAt": "2026-10-27T16:50:13.000Z",
+      "category": "science",
+      "summary": "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes."
+    },
+    {
+      "id": "feed-1oyu3mu",
+      "title": "New weather warning as third storm hits Scotland",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo",
+      "publishedAt": "2026-10-27T16:49:10.000Z",
+      "category": "science",
+      "summary": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend."
+    },
+    {
+      "id": "feed-54t1jg",
+      "title": "Britain issues costliest five-year debt since 2008 in run-up to budget – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
+      "publishedAt": "2026-10-27T16:46:32.000Z",
+      "category": "business",
+      "summary": "Rolling coverage of the latest economic and financial news UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises The 6% drop in HSBC’s share price this morning has made rather a dent in the FTSE 100 share index. The ‘Footsie’ "
+    },
+    {
+      "id": "feed-rkiqoh",
+      "title": "‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "publishedAt": "2026-10-27T16:46:23.000Z",
+      "category": "uk",
+      "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. The Guardian’s Latin America corrrespondent Tom Phillips answered your questions on wh"
+    },
+    {
+      "id": "feed-17fm8tk",
+      "title": "Trump travels to Texas to support Ken Paxton as another state official endorses James Talarico – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+      "publishedAt": "2026-10-27T16:44:49.000Z",
+      "category": "uk",
+      "summary": "President says he will respect midterm election results ‘if they’re honest’; Texas chief justice of supreme court endorses Democrat James Talarico in Senate race Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speak"
+    },
+    {
+      "id": "feed-xtzkzx",
+      "title": "Sardinian restaurants ban families from using phones at the table",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/27/sardinian-restaurants-bans-families-from-using-phones",
+      "publishedAt": "2026-10-27T16:43:05.000Z",
+      "category": "uk",
+      "summary": "Fifteen establishments join trial scheme to encourage parents and children to talk while dining out A group of restaurants in Sardinia are banning families from using smartphones and other devices at the table in a quest to encourage conversation. The initiati"
+    },
+    {
+      "id": "feed-1x40q59",
+      "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – as it happened",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
+      "publishedAt": "2026-10-27T16:42:51.000Z",
+      "category": "world",
+      "summary": "Greens say Labour has ‘no respect for young people’ amid reports chancellor will pause equalisation of minimum wage for under-21s with that paid to older workers Jonathan Reynolds , the business secretary, has not contested reports saying that, in the budget t"
+    },
+    {
+      "id": "feed-16per8",
+      "title": "MPs and MSP detained by Israel and barred from entering West Bank",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o",
+      "publishedAt": "2026-10-27T16:34:44.000Z",
+      "category": "uk",
+      "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces."
+    },
+    {
+      "id": "feed-1cnmj5j",
+      "title": "Flávio Bolsonaro rumoured to have fled Brazil after presidential election loss",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "publishedAt": "2026-10-27T16:24:15.000Z",
+      "category": "uk",
+      "summary": "Authorities demanded he hand over his passport after loss to Lula but far-right senator remains unaccounted for The far-right senator Flávio Bolsonaro has not been seen since Monday and missed a Tuesday-morning deadline to hand his passport to the federal poli"
+    },
+    {
+      "id": "feed-10ijxuj",
+      "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+      "publishedAt": "2026-10-27T16:23:32.000Z",
+      "category": "world",
+      "summary": "Alexander Stubb and Jonas Gahr Støre held ‘substantive’ talk with Russian president on peace negotiations, but faced sceptical reactions from some European leaders Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “tes"
+    },
+    {
+      "id": "feed-1q3msq7",
+      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o",
+      "publishedAt": "2026-10-27T16:20:22.000Z",
+      "category": "world",
+      "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
+    },
+    {
+      "id": "feed-1fjlll1",
+      "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo",
+      "publishedAt": "2026-10-27T16:11:35.000Z",
+      "category": "world",
+      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\"."
+    },
+    {
+      "id": "feed-qhbsa4",
+      "title": "Nanotyrannus skeleton auctioned for $47.3m in New York",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o",
+      "publishedAt": "2026-10-27T16:11:27.000Z",
+      "category": "world",
+      "summary": "The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view."
+    },
+    {
+      "id": "feed-k9ygaa",
+      "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
+      "publishedAt": "2026-10-27T16:03:09.000Z",
+      "category": "uk",
+      "summary": "Frontline near Russian-occupied city in southern Ukraine quiet for first time in years ahead of planned evacuation Europe live – latest updates A local ceasefire in a southern Ukrainian city under Russian occupation appeared to be holding on Tuesday, with both"
+    },
+    {
       "id": "feed-1aesseq",
       "title": "Funeral assault dad arrested after court no-show",
       "source": "BBC News",
@@ -114,44 +294,34 @@
       "summary": "Gye Worthy is arrested after failing to appear for sentencing over an attack at his son's funeral."
     },
     {
-      "id": "feed-evvwk5",
-      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
+      "id": "feed-zlwdw2",
+      "title": "Football Daily | Harry Kane completes his arc from Orient loanee to Ballon d’Or winner",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-      "publishedAt": "2026-10-27T15:59:32.000Z",
-      "category": "world",
-      "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips is answering your questions no"
-    },
-    {
-      "id": "feed-g9qkme",
-      "title": "Trump and Rubio head to Texas to stump for Ken Paxton as midterms campaign enters final week – US politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-      "publishedAt": "2026-10-27T15:58:03.000Z",
+      "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-football-daily-newsletter",
+      "publishedAt": "2026-10-27T16:02:35.000Z",
       "category": "uk",
-      "summary": "President and secretary of state to flaunt oil tanker filled with Venezuelan crude bound for Texas refineries Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speaking to reporters on the tarmac before departing for "
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Perusing the records we could find of Leyton Orient’s 4-0 shellacking of Sheffield Wednesday on a cold January afternoon in 2011 at Brisbane Road, Football Daily could find little or no indication that the yo"
     },
     {
-      "id": "feed-rrh5jm",
-      "title": "South Africa v Australia: third men’s cricket Test, day one – live",
+      "id": "feed-1fjztyu",
+      "title": "‘I was so sick’: is running a marathon while on a GLP-1 a bad idea?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/wellness/2026/oct/27/can-you-run-marathon-glp-1s",
+      "publishedAt": "2026-10-27T16:00:35.000Z",
+      "category": "uk",
+      "summary": "As the weight-loss drugs become more common, some runners find the side-effects challenging. Here’s what experts say Women: was your autoimmune condition misdiagnosed? Keri M, a marathoner in her 50s, knew the race would be terrible. This feeling couldn’t be c"
+    },
+    {
+      "id": "feed-11cpn45",
+      "title": "Starc strikes back as Australia dismiss South Africa for 329 on day one of third Test – as it happened",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/27/south-africa-v-australia-third-test-day-one-cricket-newlands-cape-town-live-updates",
-      "publishedAt": "2026-10-27T15:55:09.000Z",
+      "publishedAt": "2026-10-27T15:59:03.000Z",
       "category": "uk",
-      "summary": "Updates from the final match of the series at Newlands Get The Spin cricket newsletter | And you can mail Rob Among the Australia’s four changes for this Test, there’s still no proven replacement opener for Usman Khawaja, who has been on media street lately wi"
-    },
-    {
-      "id": "feed-r85tbv",
-      "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-      "publishedAt": "2026-10-27T15:52:20.000Z",
-      "category": "uk",
-      "summary": "Alexander Stubb and Jonas Gahr Støre held ‘substantive’ talk with Russian president on peace negotiations, but faced sceptical reactions from some European leaders Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “tes"
+      "summary": "Mitchell Starc took six-for as Australia recovered to dismiss South Africa out for 329 on a topsy-turvy day Among the Australia’s four changes for this Test, there’s still no proven replacement opener for Usman Khawaja, who has been on media street lately with"
     },
     {
       "id": "feed-1d3s4r5",
@@ -174,24 +344,14 @@
       "summary": "It has been 40 years since a Welsh man topped the UK charts. Now a little-known singer has done it again, with the help of the year’s biggest earworm Name: The Babydoll trend. Age: Older than you think. Continue reading..."
     },
     {
-      "id": "feed-1fi5t79",
-      "title": "High turnout as Israel goes to the polls in most consequential election in its history – live updates",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "publishedAt": "2026-10-27T15:43:12.000Z",
-      "category": "uk",
-      "summary": "By early afternoon almost 45% of voters had cast their ballot What you need to know about Israel’s election Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living ab"
-    },
-    {
-      "id": "feed-54t1jg",
-      "title": "Britain issues costliest five-year debt since 2008 in run-up to budget – business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
-      "publishedAt": "2026-10-27T15:39:34.000Z",
-      "category": "business",
-      "summary": "Rolling coverage of the latest economic and financial news UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises The 6% drop in HSBC’s share price this morning has made rather a dent in the FTSE 100 share index. The ‘Footsie’ "
+      "id": "feed-ieruc9",
+      "title": "West warns of famine risk in Sudan as civil war grinds on",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo",
+      "publishedAt": "2026-10-27T15:41:46.000Z",
+      "category": "world",
+      "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis."
     },
     {
       "id": "feed-1g5z3y8",
@@ -204,16 +364,6 @@
       "summary": "Jennifer Shuford is expected to leave her post after midterm elections ‘to spend more time with my family’ The deputy director and chief medical officer of the Centers for Disease Control and Prevention (CDC) will resign after six months on the job, according "
     },
     {
-      "id": "feed-1uwq9kk",
-      "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
-      "publishedAt": "2026-10-27T15:34:13.000Z",
-      "category": "uk",
-      "summary": "Greens say Labour has ‘no respect for young people’ amid reports chancellor will pause equalisation of minimum wage for under-21s with that paid to older workers Jonathan Reynolds , the business secretary, has not contested reports saying that, in the budget t"
-    },
-    {
       "id": "feed-ijobwq",
       "title": "Scotland's recycling rates at five-year low. How is your area doing?",
       "source": "BBC News",
@@ -222,16 +372,6 @@
       "publishedAt": "2026-10-27T15:32:40.000Z",
       "category": "science",
       "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year."
-    },
-    {
-      "id": "feed-1q3msq7",
-      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o",
-      "publishedAt": "2026-10-27T15:31:07.000Z",
-      "category": "world",
-      "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
     },
     {
       "id": "feed-1afo8q2",
@@ -282,6 +422,16 @@
       "publishedAt": "2026-10-27T15:13:24.000Z",
       "category": "world",
       "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out."
+    },
+    {
+      "id": "feed-17r78bv",
+      "title": "Council rejects rollercoaster overlooking homes",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm0j05eq3y45o",
+      "publishedAt": "2026-10-27T15:11:03.000Z",
+      "category": "uk",
+      "summary": "The prototype rollercoaster is being built by a fairground firm but towers over nearby houses."
     },
     {
       "id": "feed-1jsn7cw",
@@ -344,16 +494,6 @@
       "summary": "Royal festival hall, London Pianist Tamara Stefanovich gave the world premiere of Mark Simpson’s fearless and uncompromising new concerto, with Edward Gardner and the London Philharmonic mostly keeping up ‘Restless and impassioned.” “Very fast.” “Explosive, wi"
     },
     {
-      "id": "feed-1oyu3mu",
-      "title": "New weather warning as third storm hits Scotland",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo",
-      "publishedAt": "2026-10-27T14:47:08.000Z",
-      "category": "science",
-      "summary": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend."
-    },
-    {
       "id": "feed-131m97s",
       "title": "How the beauty industry is boosting High Streets",
       "source": "BBC News",
@@ -364,23 +504,13 @@
       "summary": "Marie Camara believes beauty and personal care businesses play a key role in supporting high streets."
     },
     {
-      "id": "feed-bmvy43",
-      "title": "Elizabeth Holmes mania: how the buzziest film of the year has resurrected a gut-twisting TV drama",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/27/elizabeth-holmes-documentary-mania-you-can-see-everything-the-dropout",
-      "publishedAt": "2026-10-27T14:34:55.000Z",
-      "category": "uk",
-      "summary": "The Theranos fraudster is the subject of Nathan Fielder’s mind-bending You Can See Everything documentary. It is now driving audiences to watch Disney/Hulu’s 2022 series, The Dropout – and they’re seeing it in a whole new light There are surprise smash hits, a"
-    },
-    {
       "id": "feed-1766lm1",
       "title": "Shabana Mahmood urged to grant visa to former Weather Underground activist",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/oct/27/judith-clark-shabana-mahmood-visa-weather-underground",
       "publishedAt": "2026-10-27T14:34:45.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Home Office refused entry to Judith Clark, 77, invited by RSC to speak about restorative justice after her time in prison Human rights activists and celebrities including the lawyer Helena Kennedy, the actor Harriet Walter and the theatre director Phyllida Llo"
     },
     {
@@ -402,16 +532,6 @@
       "publishedAt": "2026-10-27T14:28:16.000Z",
       "category": "uk",
       "summary": "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her."
-    },
-    {
-      "id": "feed-1cjndtn",
-      "title": "Arise, Sir Harry? Downing Street hints at Kane knighthood after Ballon d’Or win",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-andy-burnham-knighthood-ballon-dor-win",
-      "publishedAt": "2026-10-27T14:25:29.000Z",
-      "category": "uk",
-      "summary": "Andy Burnham sends congratulations to England captain Bayern player is first Englishman to win award since 2001 Downing Street has hinted that Harry Kane deserves a knighthood, praising the footballer’s “extraordinary achievement” as the first English winner o"
     },
     {
       "id": "feed-1jtkkji",
@@ -494,16 +614,6 @@
       "summary": "The prime minister’s disapproval rating increases to 56%, the equal highest in Essential polls since he took the job in 2022 Get our daily political email , free app or daily news podcast One Nation’s primary vote is back on par with Labor in the latest Guardi"
     },
     {
-      "id": "feed-16per8",
-      "title": "MPs and MSP detained by Israel and barred from entering West Bank",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o",
-      "publishedAt": "2026-10-27T13:58:49.000Z",
-      "category": "uk",
-      "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces."
-    },
-    {
       "id": "feed-4islea",
       "title": "Illinois man arrested after allegedly sending suspicious powder to Congress members using his return address",
       "source": "The Guardian",
@@ -554,16 +664,6 @@
       "summary": "Klevi Pirjani, 38, and 35-year-old Nivalda Pirjani, murdered their baby, Miguel in 2024."
     },
     {
-      "id": "feed-1hjs8te",
-      "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o",
-      "publishedAt": "2026-10-27T13:23:32.000Z",
-      "category": "world",
-      "summary": "The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view."
-    },
-    {
       "id": "feed-a7sto5",
       "title": "Man serving life sentence for murder escapes Tennessee prison, slipping through fence, officials say",
       "source": "The Guardian",
@@ -572,16 +672,6 @@
       "publishedAt": "2026-10-27T13:20:52.000Z",
       "category": "world",
       "summary": "Security footage shows Jacob Morley escaping in his prison uniform, investigators describe Sign up for the Breaking News US newsletter email Tennessee authorities on Tuesday were still searching for a convicted murderer who, investigators say, escaped a state "
-    },
-    {
-      "id": "feed-1hutvkl",
-      "title": "First Thing: Trump targets midterm legitimacy with lawsuits and a cash bounty",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/first-thing-trump-targets-midterm-legitimacy-with-lawsuits-and-a-cash-bounty",
-      "publishedAt": "2026-10-27T13:20:32.000Z",
-      "category": "world",
-      "summary": "US president in unprecedented offer of $1m reward for reports of voter fraud as DoJ acts against states. Plus, everything you need to know about Israel’s crucial election Good morning. The Trump administration’s assault on the legitimacy of the midterm electio"
     },
     {
       "id": "feed-184hy27",
@@ -634,16 +724,6 @@
       "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
     },
     {
-      "id": "feed-1qo9zl1",
-      "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko",
-      "publishedAt": "2026-10-27T12:50:14.000Z",
-      "category": "uk",
-      "summary": "Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday."
-    },
-    {
       "id": "feed-1j7vnai",
       "title": "Ex-Britain First leader arrested in HMO attacks investigation",
       "source": "BBC News",
@@ -672,16 +752,6 @@
       "publishedAt": "2026-10-27T12:25:14.000Z",
       "category": "world",
       "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence."
-    },
-    {
-      "id": "feed-1xq8jyf",
-      "title": "‘Are you waiting for me to be attacked?’ Fatima Payman slams PM over staffing",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
-      "publishedAt": "2026-10-27T12:18:15.000Z",
-      "category": "world",
-      "summary": "Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese has promised a “swift governme"
     },
     {
       "id": "feed-qfvckq",
@@ -752,16 +822,6 @@
       "publishedAt": "2026-10-27T11:23:19.000Z",
       "category": "world",
       "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation."
-    },
-    {
-      "id": "feed-h1iimo",
-      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o",
-      "publishedAt": "2026-10-27T11:11:33.000Z",
-      "category": "world",
-      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu."
     },
     {
       "id": "feed-4yczkr",
@@ -900,7 +960,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
       "publishedAt": "2026-10-27T09:41:15.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Business secretary says focus for November summit will be trade and youth mobility, but talks will also include ‘future options for relationship’ UK politics live – latest updates British officials have begun discussions with the EU about a long-term relations"
     },
     {
@@ -1042,16 +1102,6 @@
       "publishedAt": "2026-10-27T06:21:38.000Z",
       "category": "uk",
       "summary": "About 40 fans of A Court of Thorns and Roses series celebrated at a \"lock-in\" event in Carrickfergus."
-    },
-    {
-      "id": "feed-1a08jn1",
-      "title": "Tiny zebra-striped bee in West a 'huge surprise'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o",
-      "publishedAt": "2026-10-27T06:20:58.000Z",
-      "category": "science",
-      "summary": "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes."
     },
     {
       "id": "feed-rrhgnu",
@@ -1210,7 +1260,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
       "publishedAt": "2026-10-27T04:43:56.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year."
     },
     {
@@ -1242,26 +1292,6 @@
       "publishedAt": "2026-10-27T02:56:00.000Z",
       "category": "world",
       "summary": "The number of Ebola cases in the Democratic Republic of Congo (DRC) has surpassed 10,000, government data showed, as fears that the epidemic could spread to more African countries grow."
-    },
-    {
-      "id": "feed-xex3ct",
-      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
-      "publishedAt": "2026-10-27T02:40:17.000Z",
-      "category": "world",
-      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said."
-    },
-    {
-      "id": "feed-v1782j",
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o",
-      "publishedAt": "2026-10-27T01:46:38.000Z",
-      "category": "world",
-      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
     },
     {
       "id": "feed-a3iwxt",
@@ -1470,7 +1500,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/senior-sudanese-commanders-sanctioned-after-being-implicated-in-rape-campaign-says-uk-government-13603953",
       "publishedAt": "2026-10-26T11:27:00.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Senior Sudanese commanders allegedly implicated in a campaign of rape during the country's conflict have been sanctioned by the UK government."
     },
     {
@@ -1872,16 +1902,6 @@
       "publishedAt": "2026-10-19T20:04:00.000Z",
       "category": "technology",
       "summary": "Japan launched a spacecraft towards Mars in a ground-breaking mission to bring back samples from the largest of the planet's two moons."
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
