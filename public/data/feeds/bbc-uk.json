@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T03:25:51.513Z",
+  "updatedAt": "2026-10-27T03:59:02.753Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1sycc97",
+      "title": "Sharp rise in sales of essential goods after government call to stock up",
+      "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T03:48:21.000Z",
+      "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks."
+    },
     {
       "id": "feed-ovqwd",
       "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-26T16:55:02.000Z",
       "summary": "Second Lt Max George, 26, died during a training exercise on Salisbury Plain, an inquest is told."
-    },
-    {
-      "id": "feed-glzaip",
-      "title": "Independent review announced into murder of student Henry Nowak",
-      "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T16:15:16.000Z",
-      "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review."
     }
   ]
 }
