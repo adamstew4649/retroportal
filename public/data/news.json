@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T15:10:43.171Z",
-  "generatedAt": "2026-10-27T15:10:43.171Z",
+  "updatedAt": "2026-10-27T16:06:33.901Z",
+  "generatedAt": "2026-10-27T16:06:33.901Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "sky-technology",
@@ -104,6 +104,206 @@
   ],
   "articles": [
     {
+      "id": "feed-1aesseq",
+      "title": "Funeral assault dad arrested after court no-show",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqj9k8r00829o",
+      "publishedAt": "2026-10-27T16:02:57.000Z",
+      "category": "uk",
+      "summary": "Gye Worthy is arrested after failing to appear for sentencing over an attack at his son's funeral."
+    },
+    {
+      "id": "feed-evvwk5",
+      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "publishedAt": "2026-10-27T15:59:32.000Z",
+      "category": "world",
+      "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips is answering your questions no"
+    },
+    {
+      "id": "feed-g9qkme",
+      "title": "Trump and Rubio head to Texas to stump for Ken Paxton as midterms campaign enters final week – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+      "publishedAt": "2026-10-27T15:58:03.000Z",
+      "category": "uk",
+      "summary": "President and secretary of state to flaunt oil tanker filled with Venezuelan crude bound for Texas refineries Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speaking to reporters on the tarmac before departing for "
+    },
+    {
+      "id": "feed-rrh5jm",
+      "title": "South Africa v Australia: third men’s cricket Test, day one – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/27/south-africa-v-australia-third-test-day-one-cricket-newlands-cape-town-live-updates",
+      "publishedAt": "2026-10-27T15:55:09.000Z",
+      "category": "uk",
+      "summary": "Updates from the final match of the series at Newlands Get The Spin cricket newsletter | And you can mail Rob Among the Australia’s four changes for this Test, there’s still no proven replacement opener for Usman Khawaja, who has been on media street lately wi"
+    },
+    {
+      "id": "feed-r85tbv",
+      "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+      "publishedAt": "2026-10-27T15:52:20.000Z",
+      "category": "uk",
+      "summary": "Alexander Stubb and Jonas Gahr Støre held ‘substantive’ talk with Russian president on peace negotiations, but faced sceptical reactions from some European leaders Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “tes"
+    },
+    {
+      "id": "feed-1d3s4r5",
+      "title": "Bottled water and tinned food sales surge after UK government issues emergency stockpile advice",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/society/2026/oct/27/bottled-water-and-tinned-food-sales-surge-after-uk-government-issues-emergency-stockpile-advice",
+      "publishedAt": "2026-10-27T15:49:17.000Z",
+      "category": "uk",
+      "summary": "Retailers also report jump in purchases of wind-up radios and torches to deal with extreme weather and cyber-attacks Sales of tinned foods, bottled water, wind-up radios and torches have surged after the UK government advised households to prepare for emergenc"
+    },
+    {
+      "id": "feed-18dv8bl",
+      "title": "The Babydoll phenomenon: how Jamie Miller’s song got the world dancing – and put Wales back on top",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/oct/27/babydoll-phenomenon-jamie-miller-song-got-world-dancing-put-wales-back-on-top",
+      "publishedAt": "2026-10-27T15:46:48.000Z",
+      "category": "uk",
+      "summary": "It has been 40 years since a Welsh man topped the UK charts. Now a little-known singer has done it again, with the help of the year’s biggest earworm Name: The Babydoll trend. Age: Older than you think. Continue reading..."
+    },
+    {
+      "id": "feed-1fi5t79",
+      "title": "High turnout as Israel goes to the polls in most consequential election in its history – live updates",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "publishedAt": "2026-10-27T15:43:12.000Z",
+      "category": "uk",
+      "summary": "By early afternoon almost 45% of voters had cast their ballot What you need to know about Israel’s election Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living ab"
+    },
+    {
+      "id": "feed-54t1jg",
+      "title": "Britain issues costliest five-year debt since 2008 in run-up to budget – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
+      "publishedAt": "2026-10-27T15:39:34.000Z",
+      "category": "business",
+      "summary": "Rolling coverage of the latest economic and financial news UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises The 6% drop in HSBC’s share price this morning has made rather a dent in the FTSE 100 share index. The ‘Footsie’ "
+    },
+    {
+      "id": "feed-1g5z3y8",
+      "title": "Trump-appointed CDC deputy director to resign after six months on the job",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/cdc-deputy-director-resigns-jennifer-shuford",
+      "publishedAt": "2026-10-27T15:39:32.000Z",
+      "category": "world",
+      "summary": "Jennifer Shuford is expected to leave her post after midterm elections ‘to spend more time with my family’ The deputy director and chief medical officer of the Centers for Disease Control and Prevention (CDC) will resign after six months on the job, according "
+    },
+    {
+      "id": "feed-1uwq9kk",
+      "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
+      "publishedAt": "2026-10-27T15:34:13.000Z",
+      "category": "uk",
+      "summary": "Greens say Labour has ‘no respect for young people’ amid reports chancellor will pause equalisation of minimum wage for under-21s with that paid to older workers Jonathan Reynolds , the business secretary, has not contested reports saying that, in the budget t"
+    },
+    {
+      "id": "feed-ijobwq",
+      "title": "Scotland's recycling rates at five-year low. How is your area doing?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo",
+      "publishedAt": "2026-10-27T15:32:40.000Z",
+      "category": "science",
+      "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year."
+    },
+    {
+      "id": "feed-1q3msq7",
+      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o",
+      "publishedAt": "2026-10-27T15:31:07.000Z",
+      "category": "world",
+      "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
+    },
+    {
+      "id": "feed-1afo8q2",
+      "title": "What's happening to our rubbish?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c9ly02pj4kdjo",
+      "publishedAt": "2026-10-27T15:30:50.000Z",
+      "category": "science",
+      "summary": "As Scotland's recycling rate falls to its lowest level in five years, Kevin Keane looks at what happens to our rubbish."
+    },
+    {
+      "id": "feed-nyqo6x",
+      "title": "Woman’s world ‘tilted on axis’ on learning husband invited men to sexually assault her, court told",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/woman-husband-invited-men-to-sexually-assault-her-court-told",
+      "publishedAt": "2026-10-27T15:29:51.000Z",
+      "category": "uk",
+      "summary": "Four men on trial charged with sexually assaulting Joanne Young while she was sedated, restrained and blindfolded A woman’s world was “tilted on its axis” when she discovered that for years her former husband had been drugging her and inviting men into their f"
+    },
+    {
+      "id": "feed-1nsm5c3",
+      "title": "‘We did everything wrong!’ The tragedy of the hit-free band behind Blondie’s Hanging on the Telephone",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/oct/27/the-nerves-blondie-hanging-on-the-telephone-hit-free",
+      "publishedAt": "2026-10-27T15:25:55.000Z",
+      "category": "uk",
+      "summary": "They gigged wildly, helped other groups to fame and their songwriting brilliance gave Blondie a signature track. Could a deathbed wish now see the Nerves finally making it big? The Nerves should have had it all. Formed in 1974 and gifted with earworm melodies,"
+    },
+    {
+      "id": "feed-1bs5616",
+      "title": "Anthropic accelerates – for the rest of us, the speed of growth spells precarity",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/global/2026/oct/26/anthropic-accelerates-ai",
+      "publishedAt": "2026-10-27T15:15:20.000Z",
+      "category": "technology",
+      "summary": "The AI industry is still defined by a careening intensity that’s taking the world’s finances along for the ride This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here . Today in tech, we’re di"
+    },
+    {
+      "id": "feed-i0t7la",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
+      "publishedAt": "2026-10-27T15:13:24.000Z",
+      "category": "world",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out."
+    },
+    {
+      "id": "feed-1jsn7cw",
+      "title": "Perimenopause is everywhere. How do you know if you’re in it? - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video",
+      "publishedAt": "2026-10-27T15:08:29.000Z",
+      "category": "uk",
+      "summary": "Perimenopause has become a hot topic, with celebrities sharing their experiences and doctors offering tips and advice online. But despite the benefits of growing awareness, a rising number of women are now encountering misinformation about treatments such as H"
+    },
+    {
+      "id": "feed-xoxl4e",
+      "title": "The Master Builder review – false swagger and queasy infidelity propel Ibsen’s big-drop drama",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/oct/27/the-master-builder-review-arcola-theatre-david-hicks",
+      "publishedAt": "2026-10-27T15:03:07.000Z",
+      "category": "uk",
+      "summary": "Arcola theatre, London David Edgar’s translation grounds Ibsen’s otherworldly play about a middle-aged architect’s fall from power, but its flaws are too loud to ignore This outing of Henrik Ibsen’s play, translated by playwright David Edgar, is reassuring aft"
+    },
+    {
       "id": "feed-du7ur5",
       "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
       "source": "BBC News",
@@ -114,64 +314,34 @@
       "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
     },
     {
-      "id": "feed-1uwq9kk",
-      "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – UK politics live",
+      "id": "feed-1ngccxn",
+      "title": "Elon Musk says he has ‘cyber psychosis’. Do you too? | Arwa Mahdawi",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
-      "publishedAt": "2026-10-27T14:56:50.000Z",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/elon-musk-cyber-psychosis-ai-tech",
+      "publishedAt": "2026-10-27T15:01:14.000Z",
       "category": "uk",
-      "summary": "Greens say Labour has ‘no respect for young people’ amid reports chancellor will pause equalisation of minimum wage for under-21s with that paid to older workers Jonathan Reynolds , the business secretary, has not contested reports saying that, in the budget t"
+      "summary": "Whether using chatbots for childcare or taking up smoking, a new affliction is sweeping through the tech world. Here are the signs In the least surprising news you’ll hear all week, Elon Musk has said he’s not entirely right in the head. “I’ve got a little bit"
     },
     {
-      "id": "feed-rrh5jm",
-      "title": "South Africa v Australia: third men’s cricket Test, day one – live",
+      "id": "feed-1idfzz2",
+      "title": "Oriel College urged to cancel student group’s event with Jason Arday accuser",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/27/south-africa-v-australia-third-test-day-one-cricket-newlands-cape-town-live-updates",
-      "publishedAt": "2026-10-27T14:56:38.000Z",
+      "url": "https://www.theguardian.com/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event",
+      "publishedAt": "2026-10-27T15:00:34.000Z",
       "category": "uk",
-      "summary": "Updates from the final match of the series at Newlands Get The Spin cricket newsletter | And you can mail Rob Among the Australia’s four changes for this Test, there’s still no proven replacement opener for Usman Khawaja, who has been on media street lately wi"
+      "summary": "Student supporters of Reform UK at Oxford college have organised evening with Nathan Cofnas discussing DEI The University of Oxford’s Oriel College has been urged to cancel an event featuring Jason Arday’s accuser Nathan Cofnas that has been organised by stude"
     },
     {
-      "id": "feed-1fi5t79",
-      "title": "High turnout as Israel goes to the polls in most consequential election in its history – live updates",
+      "id": "feed-4u847o",
+      "title": "LPO/Gardner review – Mark Simpson’s piano concerto leaves its audience panting",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "publishedAt": "2026-10-27T14:56:22.000Z",
+      "url": "https://www.theguardian.com/music/2026/oct/27/lpo-gardner-review-mark-simpson-piano-concerto-tamara-stefanovich",
+      "publishedAt": "2026-10-27T14:55:05.000Z",
       "category": "uk",
-      "summary": "By early afternoon almost 45% of voters had cast their ballot What you need to know about Israel’s election Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living ab"
-    },
-    {
-      "id": "feed-6gdo4",
-      "title": "Norway’s PM defends rare call with Putin on Ukraine despite doubts among European leaders – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-      "publishedAt": "2026-10-27T14:53:21.000Z",
-      "category": "uk",
-      "summary": "Jonas Gahr Støre says he and Finland’s Alexander Stubb had ‘substantive’ discussion with Russian president on behalf of their two countries only Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “testing us and testing"
-    },
-    {
-      "id": "feed-54t1jg",
-      "title": "Britain issues costliest five-year debt since 2008 in run-up to budget – business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
-      "publishedAt": "2026-10-27T14:52:54.000Z",
-      "category": "business",
-      "summary": "Rolling coverage of the latest economic and financial news UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises The 6% drop in HSBC’s share price this morning has made rather a dent in the FTSE 100 share index. The ‘Footsie’ "
-    },
-    {
-      "id": "feed-g9qkme",
-      "title": "Trump and Rubio head to Texas to stump for Ken Paxton as midterms campaign enters final week – US politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-      "publishedAt": "2026-10-27T14:52:16.000Z",
-      "category": "uk",
-      "summary": "President and secretary of state to flaunt oil tanker filled with Venezuelan crude bound for Texas refineries Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speaking to reporters on the tarmac before departing for "
+      "summary": "Royal festival hall, London Pianist Tamara Stefanovich gave the world premiere of Mark Simpson’s fearless and uncompromising new concerto, with Edward Gardner and the London Philharmonic mostly keeping up ‘Restless and impassioned.” “Very fast.” “Explosive, wi"
     },
     {
       "id": "feed-1oyu3mu",
@@ -224,8 +394,8 @@
       "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie."
     },
     {
-      "id": "feed-11sdous",
-      "title": "Men abused woman advertised by husband, court told",
+      "id": "feed-1rx1id9",
+      "title": "Men abused woman after her husband drugged and advertised her online, court told",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo",
@@ -254,33 +424,13 @@
       "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year."
     },
     {
-      "id": "feed-1g5z3y8",
-      "title": "Trump-appointed CDC deputy director to resign after six months on the job",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/cdc-deputy-director-resigns-jennifer-shuford",
-      "publishedAt": "2026-10-27T14:17:19.000Z",
-      "category": "world",
-      "summary": "Jennifer Shuford is expected to leave her post after midterm elections ‘to spend more time with my family’ The deputy director and chief medical officer of the Centers for Disease Control and Prevention (CDC) will resign after six months on the job, according "
-    },
-    {
-      "id": "feed-1u8ngfu",
-      "title": "UK government to give £15m to anti-misogyny fund amid ‘manosphere’ concerns",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/2026/oct/27/uk-government-to-give-15m-to-anti-misogyny-fund-amid-manosphere-concerns",
-      "publishedAt": "2026-10-27T14:15:50.000Z",
-      "category": "uk",
-      "summary": "Misogyny prevention fund to help tackle sexism at work, school and in public places across UK • UK politics live – latest updates The chancellor will give £15m to a dedicated fund to tackle misogyny in workplaces, schools and public places amid concerns in gov"
-    },
-    {
       "id": "feed-mhzkcp",
       "title": "‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
       "publishedAt": "2026-10-27T14:08:41.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbuster Elon Musk has released an AI-generated rival to Christopher Nolan’s The Odyssey after pledging to make a version “true to the art of Homer”. Hav"
     },
     {
@@ -300,7 +450,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/oct/27/how-has-andy-burnham-used-his-first-100-days-in-power",
       "publishedAt": "2026-10-27T14:04:23.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "From ‘everyday fixes’, party management and communications to long-term plans for care and pensions, the PM’s six key acts so far UK politics live – latest updates Andy Burnham arrived in Downing Street promising to transform the way Britain works, restore hop"
     },
     {
@@ -310,18 +460,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/28/are-seed-oils-unhealthy-scientific-evidence",
       "publishedAt": "2026-10-27T14:00:37.000Z",
-      "category": "uk",
+      "category": "science",
       "summary": "Randomised trials of omega-6s do not show an increase in inflammation caused by the fatty acid Read more in the Antiviral series If you’ve been online lately, you’ve probably been bombarded with the discourse about seed oils. Once a completely innocuous food t"
-    },
-    {
-      "id": "feed-1y11arv",
-      "title": "‘How on earth is this man not sweating?’ Director Brett Morgen’s painstaking 10-year remaser Bowie’s ‘greatest filmed performance’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/music/2026/oct/27/david-bowie-stage-isolar-brett-morgen-interview-film-arena",
-      "publishedAt": "2026-10-27T14:00:36.000Z",
-      "category": "uk",
-      "summary": "Moonage Daydream director Brett Morgan has turned lost footage of two 1978 concerts into an arena spectacular. ‘You can feel the danger and excitement’, he says • ‘Lost’ 1978 David Bowie tour film to play arenas in 2027, remastered by Moonage Daydream director"
     },
     {
       "id": "feed-1ygfjra",
@@ -342,26 +482,6 @@
       "publishedAt": "2026-10-27T14:00:36.000Z",
       "category": "world",
       "summary": "Investigation recommends government changes legislation so staff assessing people for home support packages can correct the outcome Get our breaking news email , free app or daily news podcast The Greens leader, David Shoebridge, has used a scathing report fro"
-    },
-    {
-      "id": "feed-1nm6ll5",
-      "title": "Fresh isn’t always best: six easy ways to make better pasta, according to Julia Busuttil Nishimura",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/food/ng-interactive/2026/oct/28/better-pasta-six-easy-tips-julia-busuttil-nishimura-simple-pleasures",
-      "publishedAt": "2026-10-27T14:00:35.000Z",
-      "category": "uk",
-      "summary": "The Australian cookbook author shares her simple but effective techniques to improve your midweek pasta – and why you should be generous with olive oil and salt Pasta is a well-loved staple in the kitchen. It’s something that many of us fall back on when we do"
-    },
-    {
-      "id": "feed-154ufyg",
-      "title": "In Gaza, no privacy, no peace: this is what our lives look like a year after the ‘ceasefire’ | Akram al-Sourani",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/27/gaza-peace-lives-year-ceasefire-water",
-      "publishedAt": "2026-10-27T14:00:34.000Z",
-      "category": "uk",
-      "summary": "I look at myself and my neighbours queueing for water, and dream of a lost normality. We are now strangers even to ourselves Every morning, I look at myself and my neighbours standing in the queue for water, and remember how each of us once had a life of our o"
     },
     {
       "id": "feed-1do5wje",
@@ -394,14 +514,14 @@
       "summary": "Matthew Unglesbee admitted to sending the letters to four unidentified politicians, officials say An Illinois man accused of sending letters containing suspicious white powder to four members of Congress has been arrested after he allegedly wrote his own name "
     },
     {
-      "id": "feed-18cd10h",
-      "title": "Cut spending on ‘fairytale’ carbon capture plans, campaigners urge chancellor",
+      "id": "feed-ub7a7s",
+      "title": "UK spending on ‘fairytale’ carbon capture tech is a national embarrassment, chancellor told",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget",
       "publishedAt": "2026-10-27T13:28:00.000Z",
-      "category": "world",
-      "summary": "Chris Packham says £24bn scheme is ‘national embarrassment’ and joins calls for more funding to help households lower bills Campaigners are calling on the chancellor to cut the government’s £24bn spending plans for “fairytale” carbon capture technologies in fa"
+      "category": "business",
+      "summary": "Chris Packham says £24bn earmarked for projects with ‘ludicrously uncertain results’ should be redirected to help lower bills and cut emissions Campaigners are calling on the chancellor to cut the government’s £24bn spending plans for “fairytale” carbon captur"
     },
     {
       "id": "feed-1xpkfkz",
@@ -464,16 +584,6 @@
       "summary": "US president in unprecedented offer of $1m reward for reports of voter fraud as DoJ acts against states. Plus, everything you need to know about Israel’s crucial election Good morning. The Trump administration’s assault on the legitimacy of the midterm electio"
     },
     {
-      "id": "feed-1fuphf",
-      "title": "Protests in Haiti, voting in Israel and a full moon: photos of the day – Tuesday",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/gallery/2026/oct/27/protests-haiti-voting-israel-full-moon-photos-of-the-day-tuesday",
-      "publishedAt": "2026-10-27T13:14:23.000Z",
-      "category": "uk",
-      "summary": "The Guardian’s picture editors select photographs from around the world Continue reading..."
-    },
-    {
       "id": "feed-184hy27",
       "title": "Regular spaceplane flights planned in project",
       "source": "BBC News",
@@ -494,26 +604,6 @@
       "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget."
     },
     {
-      "id": "feed-1uukk2p",
-      "title": "Donnarumma’s Manchester City mistakes are normal, insists Maresca",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-city-chelsea-liverpool-carabao-cup",
-      "publishedAt": "2026-10-27T13:05:23.000Z",
-      "category": "uk",
-      "summary": "Goalkeeper gets manager’s backing after errors Five players were granted three days off after Saturday • This story will update through the day Continue reading..."
-    },
-    {
-      "id": "feed-1p10049",
-      "title": "Elon Musk’s AI Odyssey review – the dullest, most pointless riposte possible to Christopher Nolan’s brilliant epic",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
-      "publishedAt": "2026-10-27T13:01:46.000Z",
-      "category": "uk",
-      "summary": "It is hardly a shock that Grok AI’s interpretation of Homer is as meaningless as a laptop screensaver. The only surprise would be if Musk accepted defeat graciously. Which he won’t Think back. Do you remember when Elon Musk, in a weird online tantrum, and with"
-    },
-    {
       "id": "feed-1ivrdn6",
       "title": "Boy, 14, denies murdering teenage girl whose body was found in park",
       "source": "BBC News",
@@ -522,6 +612,16 @@
       "publishedAt": "2026-10-27T13:01:20.000Z",
       "category": "uk",
       "summary": "Lilly Jones was found in woodlands in south Wales, two days after she had been reported missing."
+    },
+    {
+      "id": "feed-11miyot",
+      "title": "Defeated Brazilian presidential candidate 'ordered to hand over passports'",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/flavio-bolsonaro-defeated-brazilian-presidential-candidate-ordered-to-hand-over-passports-13604365",
+      "publishedAt": "2026-10-27T13:01:00.000Z",
+      "category": "world",
+      "summary": "Flavio Bolsonaro, Brazil's defeated presidential election candidate, has said that he is being stopped from leaving the country, claiming police ordered him to surrender his passports on the orders of a top judge."
     },
     {
       "id": "feed-4lrkjg",
@@ -574,16 +674,6 @@
       "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence."
     },
     {
-      "id": "feed-ijobwq",
-      "title": "Scotland's recycling rates at five-year low. How is your area doing?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo",
-      "publishedAt": "2026-10-27T12:22:49.000Z",
-      "category": "science",
-      "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year."
-    },
-    {
       "id": "feed-1xq8jyf",
       "title": "‘Are you waiting for me to be attacked?’ Fatima Payman slams PM over staffing",
       "source": "The Guardian",
@@ -602,6 +692,16 @@
       "publishedAt": "2026-10-27T12:05:16.000Z",
       "category": "business",
       "summary": "Luke Anstee has been saving for three years but says rising living costs make home ownership harder."
+    },
+    {
+      "id": "feed-1mfx1j6",
+      "title": "At least 62 killed and thousands displaced in gunmen attack in Nigeria",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/at-least-62-killed-and-thousands-displaced-in-gunmen-attack-in-northern-nigeria-13604353",
+      "publishedAt": "2026-10-27T12:02:00.000Z",
+      "category": "world",
+      "summary": "At least 62 people have been killed after an attack in northeastern Nigeria, the country's emergency agency said."
     },
     {
       "id": "feed-1ra44g5",
@@ -624,16 +724,6 @@
       "summary": "Video appears to show Mao Zedong called a ‘dictator’ Dongpeng and Mengniu end deals with the player Kylian Mbappé has apologised after the Real Madrid forward was dropped by major Chinese brands for apparently joking about Mao Zedong in a video that has gone v"
     },
     {
-      "id": "feed-i0t7la",
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
-      "publishedAt": "2026-10-27T11:53:57.000Z",
-      "category": "world",
-      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out."
-    },
-    {
       "id": "feed-10e9x5f",
       "title": "Ex-FBI chief James Comey faces federal charges for third time",
       "source": "BBC News",
@@ -642,16 +732,6 @@
       "publishedAt": "2026-10-27T11:44:54.000Z",
       "category": "world",
       "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
-    },
-    {
-      "id": "feed-e8931y",
-      "title": "Warrant for dad of A66 teen over funeral assault",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqj9k8r00829o",
-      "publishedAt": "2026-10-27T11:36:45.000Z",
-      "category": "uk",
-      "summary": "Gye Worthy fails to appear in court after attacking a celebrant at the funeral of his son."
     },
     {
       "id": "feed-ge9spq",
@@ -832,16 +912,6 @@
       "publishedAt": "2026-10-27T09:37:55.000Z",
       "category": "technology",
       "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device."
-    },
-    {
-      "id": "feed-g4hjo4",
-      "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
-      "publishedAt": "2026-10-27T09:30:30.000Z",
-      "category": "world",
-      "summary": "Two sportspeople have been executed in the past month and at least six more face the same fate, says activist group Fears are growing for more Iranian athletes facing execution after mountain climber Ali-Sina Mostafavi became the latest in a string to be kille"
     },
     {
       "id": "feed-1065syk",
@@ -1194,16 +1264,6 @@
       "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
     },
     {
-      "id": "feed-z8x5jq",
-      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o",
-      "publishedAt": "2026-10-27T00:31:11.000Z",
-      "category": "world",
-      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being."
-    },
-    {
       "id": "feed-a3iwxt",
       "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
       "source": "The Guardian",
@@ -1244,14 +1304,14 @@
       "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information."
     },
     {
-      "id": "feed-1vuqca9",
-      "title": "iPhone Duo owners report cracks in Apple’s first foldable handset",
+      "id": "feed-28fgma",
+      "title": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
-      "publishedAt": "2026-10-26T19:15:37.000Z",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+      "publishedAt": "2026-10-26T18:44:31.000Z",
       "category": "technology",
-      "summary": "Company says small number of devices affected by display glitch after posts appear on Reddit and social media Owners of the new foldable iPhone are reporting cracks in the device’s screen, as Apple confirmed an issue with a “small number” of units. Reports of "
+      "summary": "Tech company offers buyouts in an effort to reduce costs amid the rising use of AI, according to reports Microsoft announced that it would offer buyouts to 60,000 employees in an effort to reduce costs amid the rising use of artificial intelligence, according "
     },
     {
       "id": "feed-2jk8ad",
@@ -1404,26 +1464,6 @@
       "summary": "Animal-rights group released video footage that shows distressed baby macaques undergoing lab experiments Footage released by the animal-rights group Peta reveals, for the first time, filmed experiments at the University of Washington’s National Primate Resear"
     },
     {
-      "id": "feed-1iirhd0",
-      "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
-      "publishedAt": "2026-10-26T11:30:40.000Z",
-      "category": "technology",
-      "summary": "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Australians should prepar"
-    },
-    {
-      "id": "feed-a7prn8",
-      "title": "Stunning photos capture October's Hunter's Moon around the world",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o",
-      "publishedAt": "2026-10-26T11:27:39.000Z",
-      "category": "science",
-      "summary": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend."
-    },
-    {
       "id": "feed-d4kwhp",
       "title": "UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
       "source": "Sky News",
@@ -1454,16 +1494,6 @@
       "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April."
     },
     {
-      "id": "feed-iynrva",
-      "title": "North Korean howitzer guns spotted close to border with South Korea",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea-as-tensions-remain-high-13603924",
-      "publishedAt": "2026-10-26T10:05:00.000Z",
-      "category": "world",
-      "summary": "North Korean howitzer guns have been seen close to the border with South Korea - at a time when tensions between the two nations are high."
-    },
-    {
       "id": "feed-1fsv50d",
       "title": "Debate unfolds over removal of mummified Egyptian remains from two museums",
       "source": "Sky News",
@@ -1472,6 +1502,16 @@
       "publishedAt": "2026-10-26T09:48:00.000Z",
       "category": "uk",
       "summary": "The removal of mummified Egyptian remains from display at two Glasgow museums has sparked a lively debate - is it \"woke madness\" or the decent and \"ethical\" thing to do?"
+    },
+    {
+      "id": "feed-3s5uvb",
+      "title": "Can you solve it? A magical melody from the Mozart of math",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/oct/26/can-you-solve-it-a-magical-melody-from-the-mozart-of-math",
+      "publishedAt": "2026-10-26T07:10:24.000Z",
+      "category": "science",
+      "summary": "Terence Tao teaser time UPDATE: Read the solutions here Today’s puzzle is set by Terence Tao, who may be the world’s most famous mathematician. Tao, aged 51, has been a global phenomenon since the age of ten, when he became the youngest competitor at the Inter"
     },
     {
       "id": "feed-1k8j6a1",
@@ -1792,16 +1832,6 @@
       "publishedAt": "2026-10-21T23:03:16.000Z",
       "category": "science",
       "summary": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but declined to elaborate Investors were paying close attention to Tesla ’s third-quarter earnings call on Wednesday afternoon, after chief exe"
-    },
-    {
-      "id": "feed-1l7l465",
-      "title": "Orangutans prefer food associated with sounds of laughter, study suggests",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study",
-      "publishedAt": "2026-10-21T21:00:01.000Z",
-      "category": "science",
-      "summary": "Apes in study more likely to choose treats linked to sound of peers having fun, suggesting emotions influence learning Orangutans base their food choices on whether others appear to be having a good time, research suggests. Scientists studying captive oranguta"
     },
     {
       "id": "feed-1og8bq4",
