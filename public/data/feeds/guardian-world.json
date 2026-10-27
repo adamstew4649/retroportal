@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T22:25:38.271Z",
+  "updatedAt": "2026-10-27T22:56:30.881Z",
   "feed": {
     "title": "World news | The Guardian",
     "url": "https://www.theguardian.com/world/rss",
@@ -8,20 +8,52 @@
   },
   "articles": [
     {
+      "id": "feed-6do7u4",
+      "title": "Grand jury declines to indict ex-White House staffer who testified about January 6",
+      "link": "https://www.theguardian.com/us-news/2026/oct/27/cassidy-hutchinson-doj-indictment-trump",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-27T22:40:27.000Z",
+      "summary": "Cassidy Hutchinson had implicated Donald Trump in US Capitol attack during testimony before House committee The justice department on Tuesday failed to secure a grand jury indictment against a former White House staffer who provided dramatic but disputed testi"
+    },
+    {
       "id": "feed-3akv8k",
       "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; Labor says One Nation should justify Bluey ‘satire’",
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-10-27T22:10:59.000Z",
+      "publishedAt": "2026-10-27T22:40:17.000Z",
       "summary": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia”"
     },
     {
-      "id": "feed-1sl4skm",
-      "title": "Israel election live: exit polls project no clear winner, as anti-Netanyahu bloc leads but Likud remains biggest party",
+      "id": "feed-1eytokd",
+      "title": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-27T22:39:07.000Z",
+      "summary": "Trump says ‘I actually thought [oil] would go up two or three time higher, and I was still willing to [go to war with Iran]’ Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speaking to reporters on the tarmac before"
+    },
+    {
+      "id": "feed-1n5dks5",
+      "title": "Chancellor targets cost of living crisis in budget for a ‘difficult moment’",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-27T22:34:33.000Z",
+      "summary": "Healey hopes to give ‘hope for the future’ but only modest policies are expected with important decisions deferred John Healey has acknowledged the UK faces a “difficult moment” but insisted he would put the country on a better path as he delivers his first bu"
+    },
+    {
+      "id": "feed-1xwpis4",
+      "title": "Israel election live: setback for Netanyahu as exit polls show strong opposition",
       "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
       "source": "The Guardian",
-      "publishedAt": "2026-10-27T22:08:28.000Z",
-      "summary": "Israel’s major TV stations project majority of Israelis have voted against Netanyahu’s coalition, but his Likud party has emerged as largest party Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Across Israel , voting i"
+      "publishedAt": "2026-10-27T22:33:05.000Z",
+      "summary": "Eisenkot still short of coalition, with Palestinian parties showing biggest gain Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Across Israel , voting is now under way. Here are some of the latest images being sent to "
+    },
+    {
+      "id": "feed-efxm7c",
+      "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+      "link": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-27T22:30:45.000Z",
+      "summary": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds AI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposabl"
     },
     {
       "id": "feed-1xykc15",
@@ -30,14 +62,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-10-27T22:03:00.000Z",
       "summary": "Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the lef"
-    },
-    {
-      "id": "feed-1eytokd",
-      "title": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-27T22:01:36.000Z",
-      "summary": "Trump says ‘I actually thought [oil] would go up two or three time higher, and I was still willing to [go to war with Iran]’ Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speaking to reporters on the tarmac before"
     },
     {
       "id": "feed-1f49hjs",
@@ -64,14 +88,6 @@
       "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather events Sweeping cuts to the premier US climate agency under Donald Trump have severely hampered the country’s capacity t"
     },
     {
-      "id": "feed-1hxgttk",
-      "title": "JD Vance steps up extreme attacks on Democratic Senate candidate Abdul El-Sayed",
-      "link": "https://www.theguardian.com/us-news/2026/oct/27/jd-vance-el-sayed-attacks",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-27T21:30:59.000Z",
-      "summary": "Vice-president tries to link El-Sayed to Paris protests and claims he would lead rioters in ‘burning down’ Detroit JD Vance has escalated his inflammatory attacks on Abdul El-Sayed, the Democratic candidate for US Senate in Michigan who has faced an onslaught "
-    },
-    {
       "id": "feed-1ibqvlw",
       "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
       "link": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
@@ -96,8 +112,8 @@
       "summary": "Tightly fought election saw record turnout as incumbent mayor ran against her rival Brad Bradford The mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares for frequent transit riders after she was elected to a decis"
     },
     {
-      "id": "feed-yt9oyx",
-      "title": "Unpaid carers say chancellor’s plan to scrap allowance cliff edge falls short",
+      "id": "feed-nbya3x",
+      "title": "Change to carer’s allowance cliff-edge rule is not enough, victims say",
       "link": "https://www.theguardian.com/society/2026/oct/27/unpaid-carers-chancellor-plan-scrap-allowance-cliff-edge-falls-short-budget",
       "source": "The Guardian",
       "publishedAt": "2026-10-27T19:48:53.000Z",
@@ -118,22 +134,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-10-27T19:24:29.000Z",
       "summary": "Two men charged under National Security Act were directed by handler believed to have been working for Iranian intelligence, court told A group of men were directed to drive vans loaded with petrol to Fairford RAF base by a handler known as Ali, who police bel"
-    },
-    {
-      "id": "feed-nfhxi4",
-      "title": "Rosebank oilfield would not breach UK emission targets, say government insiders",
-      "link": "https://www.theguardian.com/environment/2026/oct/27/rosebank-oilfield-north-sea-uk-emissions-targets-insiders",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-27T19:17:55.000Z",
-      "summary": "Emissions from exported oil would not count against carbon budget, insiders say – reasoning likely to draw dismay from climate campaigners The giant Rosebank oilfield can be approved without breaching the UK’s emission targets, according to government insiders"
-    },
-    {
-      "id": "feed-1vyphtk",
-      "title": "Parents inflicted fatal physical and sexual abuse on their baby, Warwick court hears",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/27/parents-inflicted-fatal-physical-and-sexual-abuse-their-baby-warwick-court-hears",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-27T19:05:57.000Z",
-      "summary": "Michal Stasiak and Kinga Wydrzynska pleaded not guilty to 11 counts relating to death of 13-month-old Isabella Stasiak A 13-month-old girl was subjected to physical and sexual abuse at the hands of her parents before she was fatally injured by her mother, a co"
     },
     {
       "id": "feed-k9ygaa",
