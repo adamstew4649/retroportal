@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T01:13:20.725Z",
-  "generatedAt": "2026-10-27T01:13:20.725Z",
+  "updatedAt": "2026-10-27T02:01:09.657Z",
+  "generatedAt": "2026-10-27T02:01:09.657Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "id": "bbc-world",
@@ -104,24 +104,94 @@
   ],
   "articles": [
     {
-      "id": "feed-1uz11fp",
-      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "id": "feed-ovqwd",
+      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
-      "publishedAt": "2026-10-27T01:10:22.000Z",
+      "publishedAt": "2026-10-27T01:57:48.000Z",
       "category": "uk",
       "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
     },
     {
-      "id": "feed-1iiklau",
-      "title": "Politics live: Labor says Payman linking Haines-style attack to staffing allocation ‘outrageous’; first Aukus nuclear sub for Australia revealed",
+      "id": "feed-1rk6jba",
+      "title": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+      "publishedAt": "2026-10-27T01:55:40.000Z",
+      "category": "uk",
+      "summary": "President delivers familiar address to rally attendees and faces more protesters; NAACP denounces remarks from Trump and other Republicans in Michigan Senate race What are the US midterm elections and why do they matter? Sign up for Breaking News US email In a"
+    },
+    {
+      "id": "feed-1e0uyz3",
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo",
+      "publishedAt": "2026-10-27T01:48:04.000Z",
+      "category": "technology",
+      "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device."
+    },
+    {
+      "id": "feed-zm8v1e",
+      "title": "Australian politics live: UN condemns Labor and Coalition blocking bill to ban shackling pregnant women; texting triple-zero trial begins",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "publishedAt": "2026-10-27T01:00:11.000Z",
+      "publishedAt": "2026-10-27T01:36:52.000Z",
       "category": "world",
       "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines ,"
+    },
+    {
+      "id": "feed-hkeagv",
+      "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+      "publishedAt": "2026-10-27T01:30:27.000Z",
+      "category": "uk",
+      "summary": "Zelenskyy says ballistic missiles hit crowded areas with no military facilities nearby; truce comes amid reports of growing humanitarian crisis. What we know on day 1,707 Russian strikes on Kyiv killed one person and wounded eight , with mayor Vitali Klitschko"
+    },
+    {
+      "id": "feed-1ts5xg1",
+      "title": "Trump administration asks Washington to set aside hundreds of ballots from suspected noncitizen voters",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
+      "publishedAt": "2026-10-27T01:26:57.000Z",
+      "category": "world",
+      "summary": "This is the latest sign of the administration’s attempts to challenge states with competitive midterm races that could determine control of Congress The Trump administration on Monday asked Washington state to set aside any ballots received from more than 400 "
+    },
+    {
+      "id": "feed-egq1mj",
+      "title": "My husband's death was hard enough - then came the admin",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g19vvmp59o",
+      "publishedAt": "2026-10-27T01:26:18.000Z",
+      "category": "uk",
+      "summary": "Louisa says her experience of dealing with household bills after her husband John died left her feeling \"frustrated and angry\"."
+    },
+    {
+      "id": "feed-qoixa1",
+      "title": "Meghan, Duchess of Sussex, to co-host Junior MasterChef Australia: ‘It was an easy yes’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/meghan-duchess-of-sussex-junior-masterchef-australia-it-ntwnfb",
+      "publishedAt": "2026-10-27T01:08:40.000Z",
+      "category": "uk",
+      "summary": "After Meghan appeared on MasterChef Australia this year, co-host Poh Ling Yeow says being reunited with the Duchess on the children’s version ‘will be a real treat’ The Duchess of Sussex is set to co-host Junior MasterChef Australia, the children’s version of "
+    },
+    {
+      "id": "feed-yj1lve",
+      "title": "The Papers: 'England's golden boy' Kane and 'Time to pay fair'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dw6rn024vo",
+      "publishedAt": "2026-10-27T01:00:02.000Z",
+      "category": "uk",
+      "summary": "Many of the papers consider what will be in the Budget and praise Harry Kane for his Ballon d'Or win."
     },
     {
       "id": "feed-kdpbl9",
@@ -130,18 +200,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
       "publishedAt": "2026-10-27T00:31:37.000Z",
-      "category": "world",
-      "summary": "Newsom accuses Trump of ‘assault on democracy’ as DoJ claims 20,000 registered voters in state are non-citizens A US federal appeals court rejected the Trump administration’s move to block California from counting the ballots of 20,000 registered voters that t"
-    },
-    {
-      "id": "feed-1rk6jba",
-      "title": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-      "publishedAt": "2026-10-27T00:31:19.000Z",
       "category": "uk",
-      "summary": "President delivers familiar address to rally attendees and faces more protesters; NAACP denounces remarks from Trump and other Republicans in Michigan Senate race What are the US midterm elections and why do they matter? Sign up for Breaking News US email In a"
+      "summary": "Newsom accuses Trump of ‘assault on democracy’ as DoJ claims 20,000 registered voters in state are non-citizens A US federal appeals court rejected the Trump administration’s move to block California from counting the ballots of 20,000 registered voters that t"
     },
     {
       "id": "feed-1s1hc8e",
@@ -314,16 +374,6 @@
       "summary": "Controversial mechanism that hit unpaid carers with huge penalties to be scrapped following Guardian investigation The controversial rule that led to unpaid carers being punished with penalties amounting to thousands of pounds is to be abolished, the Guardian "
     },
     {
-      "id": "feed-1eoxa3e",
-      "title": "Trump dangles $1m reward for reporting voter fraud in past or upcoming elections",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud",
-      "publishedAt": "2026-10-26T22:23:40.000Z",
-      "category": "world",
-      "summary": "President’s comments come ahead of November midterm elections and follow his claims of widespread voter fraud Donald Trump has announced a $1m reward for reports of voter fraud in past elections and the upcoming midterm elections, with payment contingent on th"
-    },
-    {
       "id": "feed-t2851u",
       "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
       "source": "The Guardian",
@@ -430,7 +480,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
       "publishedAt": "2026-10-26T20:17:16.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Activists say struggle must go on until their ‘maximum’ demands are met over teacher shortages and building repairs French children should continue to barricade their schools and take part in street protests, a student union said on Monday after the government"
     },
     {
@@ -560,18 +610,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
       "publishedAt": "2026-10-26T18:44:31.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Tech company offers buyouts in an effort to reduce costs amid the rising use of AI, according to reports Microsoft announced that it would offer buyouts to 60,000 employees in an effort to reduce costs amid the rising use of artificial intelligence, according "
-    },
-    {
-      "id": "feed-10lejwo",
-      "title": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
-      "publishedAt": "2026-10-26T18:42:11.000Z",
-      "category": "uk",
-      "summary": "The actor appeared in the cult 1960s show as well as many of the films but also worked as a writer Walter Koenig, the actor known for playing Pavel Chekov throughout the Star Trek franchise, has died, his representative confirmed to the Hollywood Reporter . He"
     },
     {
       "id": "feed-13zs8q4",
@@ -774,8 +814,8 @@
       "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
     },
     {
-      "id": "feed-k9anrs",
-      "title": "Anthropic files for potentially record-breaking $1.5tn stock market valuation in key test for AI industry",
+      "id": "feed-bhnvzc",
+      "title": "Anthropic files for potentially record-breaking stock market valuation in key test for AI industry",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
@@ -864,16 +904,6 @@
       "summary": "Application made for group claim seeking compensation for companies for alleged overcharging on customer card payments Visa and Mastercard are being threatened with a potential £5bn lawsuit for allegedly stifling competition and charging UK businesses excessiv"
     },
     {
-      "id": "feed-myekn9",
-      "title": "Russell Brand asked assistant for female fan phone numbers, court hears",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwly02l45ny3o",
-      "publishedAt": "2026-10-26T14:57:11.000Z",
-      "category": "uk",
-      "summary": "Helen Berger said she left her job working for Brand after she became \"sick of him.\""
-    },
-    {
       "id": "feed-tgoyk",
       "title": "Part of Antarctica named after former BBC science correspondent",
       "source": "BBC News",
@@ -930,7 +960,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo",
       "publishedAt": "2026-10-26T14:16:09.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle."
     },
     {
@@ -1182,16 +1212,6 @@
       "publishedAt": "2026-10-26T08:27:00.000Z",
       "category": "world",
       "summary": "Three men have been arrested after a deadly attack on a church in Jordan last week."
-    },
-    {
-      "id": "feed-ppkeu",
-      "title": "Senior doctors to strike for two days in November",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/senior-doctors-in-england-to-strike-for-two-days-in-november-13603895",
-      "publishedAt": "2026-10-26T08:12:00.000Z",
-      "category": "uk",
-      "summary": "Senior doctors in England plan to go on strike for two days in November over pay, the British Medical Association (BMA) has said."
     },
     {
       "id": "feed-1bp1i74",
@@ -1462,16 +1482,6 @@
       "publishedAt": "2026-10-25T07:00:56.000Z",
       "category": "technology",
       "summary": "‘Session cookies’ are a primary target for hackers letting them hijack and use your accounts You’ve had a busy morning of life admin, logging into various accounts to check balances and make payments. At the end of a productive few hours you close your laptop "
-    },
-    {
-      "id": "feed-sg33wd",
-      "title": "Budget 2026: No more fat to trim for 'squeezed middle'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel54940qno",
-      "publishedAt": "2026-10-25T06:21:23.000Z",
-      "category": "business",
-      "summary": "As the chancellor finalises his first Budget, how are the \"squeezed middle\" feeling about costs?"
     },
     {
       "id": "feed-zc29wl",
@@ -1802,16 +1812,6 @@
       "publishedAt": "2026-10-22T09:00:59.000Z",
       "category": "science",
       "summary": "The Cali Fund, set up to raise $1bn a year for biodiversity from drug companies, remains near empty Big pharmaceutical companies have been accused of “free-riding on nature”, after a landmark biodiversity fund that invites businesses to put some of their profi"
-    },
-    {
-      "id": "feed-5d1l2l",
-      "title": "UK working to identify exposure after global cyber-security warning",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
-      "publishedAt": "2026-10-22T08:23:42.000Z",
-      "category": "technology",
-      "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
     },
     {
       "id": "feed-gyt2z0",
