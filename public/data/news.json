@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T19:11:50.366Z",
-  "generatedAt": "2026-10-27T19:11:50.366Z",
+  "updatedAt": "2026-10-27T19:58:02.539Z",
+  "generatedAt": "2026-10-27T19:58:02.539Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "id": "bbc-world",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "sky-technology",
@@ -104,6 +104,116 @@
   ],
   "articles": [
     {
+      "id": "feed-17fm8tk",
+      "title": "Trump travels to Texas to support Ken Paxton as another state official endorses James Talarico – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+      "publishedAt": "2026-10-27T19:41:32.000Z",
+      "category": "uk",
+      "summary": "President says he will respect midterm election results ‘if they’re honest’; Texas chief justice of supreme court endorses Democrat James Talarico in Senate race Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speak"
+    },
+    {
+      "id": "feed-6a5p15",
+      "title": "Israel election live: polls closing soon after historic turnout in vote set to decide Netanyahu’s future",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "publishedAt": "2026-10-27T19:41:27.000Z",
+      "category": "uk",
+      "summary": "Polls to close at 10pm local time after prime minister’s bid to extend voting hours is denied by central election committee What you need to know about Israel’s election Across Israel , voting is now under way. Here are some of the latest images being sent to "
+    },
+    {
+      "id": "feed-78aqz1",
+      "title": "Fleetwood Town v Arsenal: Carabao Cup fourth round – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
+      "publishedAt": "2026-10-27T19:34:07.000Z",
+      "category": "uk",
+      "summary": "⚽ League Cup updates from the 8pm GMT kick-off ⚽ Cod Army welcome Gunners to Highbury | Mail Niall Here’s the Fleetwood head coach, Matt Lawlor: “We’ve had to make changes, with the champions in town. But we’ve got a plan with substitutions to manage the game."
+    },
+    {
+      "id": "feed-1nvxjyy",
+      "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo",
+      "publishedAt": "2026-10-27T19:30:37.000Z",
+      "category": "world",
+      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
+    },
+    {
+      "id": "feed-alqhdz",
+      "title": "Why this British plumber prefers working in Poland",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/ckq6nqqlj8nro",
+      "publishedAt": "2026-10-27T19:25:04.000Z",
+      "category": "business",
+      "summary": "Poland is now achieving formidable economic growth rates and fast rising living standards"
+    },
+    {
+      "id": "feed-rgquc4",
+      "title": "RAF Fairford plot ‘coordinated by handler working on behalf of Iran’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford",
+      "publishedAt": "2026-10-27T19:24:29.000Z",
+      "category": "uk",
+      "summary": "Two men charged under National Security Act were directed by handler believed to have been working for Iranian intelligence, court told A group of men were directed to drive vans loaded with petrol to Fairford RAF base by a handler known as Ali, who police bel"
+    },
+    {
+      "id": "feed-hkqs7y",
+      "title": "How much is the minimum wage?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro",
+      "publishedAt": "2026-10-27T19:23:14.000Z",
+      "category": "business",
+      "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?"
+    },
+    {
+      "id": "feed-1c3nl2r",
+      "title": "More cats abandoned 'due to rising costs'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxwzzewpz1o",
+      "publishedAt": "2026-10-27T19:22:39.000Z",
+      "category": "business",
+      "summary": "The shelter has seen a \"huge increase\" in the number of cats it has taken in, compared to last year."
+    },
+    {
+      "id": "feed-nfhxi4",
+      "title": "Rosebank oilfield would not breach UK emission targets, say government insiders",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/oct/27/rosebank-oilfield-north-sea-uk-emissions-targets-insiders",
+      "publishedAt": "2026-10-27T19:17:55.000Z",
+      "category": "uk",
+      "summary": "Emissions from exported oil would not count against carbon budget, insiders say – reasoning likely to draw dismay from climate campaigners The giant Rosebank oilfield can be approved without breaching the UK’s emission targets, according to government insiders"
+    },
+    {
+      "id": "feed-5gqa06",
+      "title": "England’s Nations Championship plans hit by Pepper and Van Rensburg double blow",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/27/england-nations-championship-guy-pepper-benhard-van-rensburg-injury-rugby-union",
+      "publishedAt": "2026-10-27T19:09:54.000Z",
+      "category": "uk",
+      "summary": "Bath flanker Pepper injured ankle at Gloucester on Friday Bristol’s Van Rensburg advised to rest after two concussions England’s head coach, Steve Borthwick, said he will be monitoring this weekend’s domestic Prem games with some trepidation. Already he has lo"
+    },
+    {
+      "id": "feed-1vyphtk",
+      "title": "Parents inflicted fatal physical and sexual abuse on their baby, Warwick court hears",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/parents-inflicted-fatal-physical-and-sexual-abuse-their-baby-warwick-court-hears",
+      "publishedAt": "2026-10-27T19:05:57.000Z",
+      "category": "uk",
+      "summary": "Michal Stasiak and Kinga Wydrzynska pleaded not guilty to 11 counts relating to death of 13-month-old Isabella Stasiak A 13-month-old girl was subjected to physical and sexual abuse at the hands of her parents before she was fatally injured by her mother, a co"
+    },
+    {
       "id": "feed-pd7tf2",
       "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
       "source": "BBC News",
@@ -112,26 +222,6 @@
       "publishedAt": "2026-10-27T19:01:16.000Z",
       "category": "world",
       "summary": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state."
-    },
-    {
-      "id": "feed-17fm8tk",
-      "title": "Trump travels to Texas to support Ken Paxton as another state official endorses James Talarico – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-      "publishedAt": "2026-10-27T18:58:11.000Z",
-      "category": "uk",
-      "summary": "President says he will respect midterm election results ‘if they’re honest’; Texas chief justice of supreme court endorses Democrat James Talarico in Senate race Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speak"
-    },
-    {
-      "id": "feed-78aqz1",
-      "title": "Fleetwood Town v Arsenal: Carabao Cup fourth round – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
-      "publishedAt": "2026-10-27T18:56:09.000Z",
-      "category": "uk",
-      "summary": "⚽ League Cup updates from the 8pm GMT kick-off ⚽ Cod Army welcome Gunners to Highbury | Mail Niall Some essential pre-match reading here from Will Unwin, our man on the Fylde coast tonight. Some Arsenal fans spent years pining for one more game at Highbury Sta"
     },
     {
       "id": "feed-846nvz",
@@ -144,14 +234,14 @@
       "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
     },
     {
-      "id": "feed-lh4pta",
-      "title": "Israel election live: Netanyahu’s bid to extend voting hours denied by central elections committee",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "publishedAt": "2026-10-27T18:45:22.000Z",
-      "category": "uk",
-      "summary": "Polls to close at 10pm local time as latest figures show highest turnout on record in pivotal Israeli election What you need to know about Israel’s election Across Israel , voting is now under way. Here are some of the latest images being sent to us over the n"
+      "id": "feed-8fvqvy",
+      "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo",
+      "publishedAt": "2026-10-27T18:43:41.000Z",
+      "category": "world",
+      "summary": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money."
     },
     {
       "id": "feed-zd1ys8",
@@ -340,7 +430,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
       "publishedAt": "2026-10-27T17:43:02.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Frontline near Russian-occupied city in southern Ukraine quiet for first time in years ahead of planned evacuation A local ceasefire in a southern Ukrainian city under Russian occupation appeared to be holding on Tuesday, with both sides ceasing drone attacks "
     },
     {
@@ -350,7 +440,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/27/the-chancellors-pet-pufins-have-an-important-role-but-they-need-more-scrutiny",
       "publishedAt": "2026-10-27T17:41:03.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "A regulator to keep the National Wealth Fund and the British Business Bank on mission is starting to look essential Two winners in the budget are known already. They are the National Wealth Fund and the British Business Bank, state-funded investment bodies tha"
     },
     {
@@ -374,23 +464,13 @@
       "summary": "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her."
     },
     {
-      "id": "feed-vb7scy",
-      "title": "Tom Skerritt obituary",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary",
-      "publishedAt": "2026-10-27T17:30:03.000Z",
-      "category": "uk",
-      "summary": "US actor who often played authority figures and was admired for his film roles in Alien, Top Gun and A River Runs Through It The lean, rugged US actor Tom Skerritt, who has died aged 93, was described by one screenwriter as “a character actor trapped in a lead"
-    },
-    {
       "id": "feed-1obozrt",
       "title": "Schrödinger’s racism, Nige’s latest wheeze to dodge his associates’ bigotry | John Crace",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
       "publishedAt": "2026-10-27T17:29:26.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "We are apparently to believe Raheem Kassam calling Kemi a ‘Nigerian scammer’ was racist and not racist at the same time Back to the future. Some of us can remember the days when the key to surviving a nuclear war was to kneel down under the kitchen table and k"
     },
     {
@@ -400,7 +480,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps",
       "publishedAt": "2026-10-27T17:28:33.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Government-backed Warm Home Loans scheme to help households cut energy bills by hundreds of pounds Households across the UK can now cut their energy bills by hundreds of pounds a year at no upfront cost by applying for interest-free or “low-interest” loans to "
     },
     {
@@ -422,6 +502,16 @@
       "publishedAt": "2026-10-27T17:20:40.000Z",
       "category": "uk",
       "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
+    },
+    {
+      "id": "feed-31amdz",
+      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo",
+      "publishedAt": "2026-10-27T17:11:27.000Z",
+      "category": "world",
+      "summary": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong."
     },
     {
       "id": "feed-scyxl6",
@@ -484,16 +574,6 @@
       "summary": "Home of wealthy developer Stephen Cloobeck searched in connection to sexual misconduct inquiry into Swalwell Federal law enforcement agents searched a home in suburban Los Angeles early on Tuesday as part of an investigation into Eric Swalwell , who resigned f"
     },
     {
-      "id": "feed-1d2mo82",
-      "title": "UK's nuclear submarines in 'unusual' deployment",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/three-of-uks-four-nuclear-submarines-out-at-sea-13604455",
-      "publishedAt": "2026-10-27T16:48:00.000Z",
-      "category": "uk",
-      "summary": "​​​​​​​Three of the UK's four nuclear deterrent submarines are out at sea, it is understood."
-    },
-    {
       "id": "feed-rkiqoh",
       "title": "‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions",
       "source": "The Guardian",
@@ -512,16 +592,6 @@
       "publishedAt": "2026-10-27T16:46:03.000Z",
       "category": "uk",
       "summary": "His trial hears statements he gave to police between 2023 and 2025, denying allegations against him."
-    },
-    {
-      "id": "feed-1x40q59",
-      "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
-      "publishedAt": "2026-10-27T16:42:51.000Z",
-      "category": "world",
-      "summary": "Greens say Labour has ‘no respect for young people’ amid reports chancellor will pause equalisation of minimum wage for under-21s with that paid to older workers Jonathan Reynolds , the business secretary, has not contested reports saying that, in the budget t"
     },
     {
       "id": "feed-10ijxuj",
@@ -560,7 +630,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/society/2026/oct/27/bottled-water-and-tinned-food-sales-surge-after-uk-government-issues-emergency-stockpile-advice",
       "publishedAt": "2026-10-27T15:49:17.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Retailers also report jump in purchases of wind-up radios and torches to deal with extreme weather and cyber-attacks Sales of tinned foods, bottled water, wind-up radios and torches have surged after the UK government advised households to prepare for emergenc"
     },
     {
@@ -701,7 +771,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
       "publishedAt": "2026-10-27T14:00:36.000Z",
       "category": "world",
-      "summary": "Liberal-National MP Garth Hamilton says he has ‘witnessed three interactions between cars and people at pre-poll, two accidental’ Get our daily political email , free app or daily news podcast A Liberal-National MP has called for a rethink of pre-poll voting a"
+      "summary": "Liberal-National MP Garth Hamilton says he has ‘witnessed three interactions between cars and people at pre-poll, two accidental’ Get our daily political email , free app or daily news podcast A Coalition MP has called for a rethink of pre-poll voting at feder"
     },
     {
       "id": "feed-p2px6c",
@@ -1084,8 +1154,8 @@
       "summary": "Caitlin Andrew hated birdwatching as a child but found a passion for it in her 20s."
     },
     {
-      "id": "feed-1e4l0wr",
-      "title": "Another major lender profits in billions as higher bank tax expected in budget",
+      "id": "feed-zub8zl",
+      "title": "Another major lender's profits in billions as higher bank tax expected in budget",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/major-lender-hsbcs-profits-up-32-as-higher-bank-tax-expected-in-budget-13604238",
@@ -1112,26 +1182,6 @@
       "publishedAt": "2026-10-27T06:17:44.000Z",
       "category": "business",
       "summary": "People in the prime minister's constituency say rising costs are squeezing household finances."
-    },
-    {
-      "id": "feed-568ef7",
-      "title": "First-time buyers hoping for help from the Budget",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c317kpqv4njno",
-      "publishedAt": "2026-10-27T06:16:08.000Z",
-      "category": "business",
-      "summary": "Aspiring homeowners say rent, rising costs and house prices are delaying plans to buy."
-    },
-    {
-      "id": "feed-1qnlath",
-      "title": "Budget 2026: 'Surrey is a lovely place - but it can be stressful'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xk7klnkwo",
-      "publishedAt": "2026-10-27T06:12:49.000Z",
-      "category": "business",
-      "summary": "Ahead of the Budget, residents tell BBC Radio Surrey their experiences of the cost-of living crisis."
     },
     {
       "id": "feed-iu3sl7",
@@ -1194,16 +1244,6 @@
       "summary": "Elizabeth Holmes’ story is at the centre of what’s now being hailed as one of the best documentaries ever made, You Can See Everything. But who is Elizabeth Holmes, and how did this famed med-tech scammer become the centre of a cultural phenomenon? Guardian Au"
     },
     {
-      "id": "feed-6b7zpz",
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo",
-      "publishedAt": "2026-10-27T05:05:15.000Z",
-      "category": "world",
-      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game."
-    },
-    {
       "id": "feed-spyi1h",
       "title": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
       "source": "The Guardian",
@@ -1262,26 +1302,6 @@
       "publishedAt": "2026-10-27T02:56:00.000Z",
       "category": "world",
       "summary": "The number of Ebola cases in the Democratic Republic of Congo (DRC) has surpassed 10,000, government data showed, as fears that the epidemic could spread to more African countries grow."
-    },
-    {
-      "id": "feed-xex3ct",
-      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
-      "publishedAt": "2026-10-27T02:40:17.000Z",
-      "category": "world",
-      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said."
-    },
-    {
-      "id": "feed-v1782j",
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o",
-      "publishedAt": "2026-10-27T01:46:38.000Z",
-      "category": "world",
-      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
     },
     {
       "id": "feed-a3iwxt",
@@ -1474,6 +1494,16 @@
       "summary": "Animal-rights group released video footage that shows distressed baby macaques undergoing lab experiments Footage released by the animal-rights group Peta reveals, for the first time, filmed experiments at the University of Washington’s National Primate Resear"
     },
     {
+      "id": "feed-d4kwhp",
+      "title": "UK sanctions senior Sudanese commanders 'implicated in rape campaign'",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/senior-sudanese-commanders-sanctioned-after-being-implicated-in-rape-campaign-says-uk-government-13603953",
+      "publishedAt": "2026-10-26T11:27:00.000Z",
+      "category": "world",
+      "summary": "Senior Sudanese commanders allegedly implicated in a campaign of rape during the country's conflict have been sanctioned by the UK government."
+    },
+    {
       "id": "feed-1l3hclz",
       "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
       "source": "BBC News",
@@ -1482,16 +1512,6 @@
       "publishedAt": "2026-10-26T10:48:46.000Z",
       "category": "business",
       "summary": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future."
-    },
-    {
-      "id": "feed-18xkdr8",
-      "title": "Healey to shield low-income pensioners from income tax in the Budget",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o",
-      "publishedAt": "2026-10-26T10:28:12.000Z",
-      "category": "business",
-      "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April."
     },
     {
       "id": "feed-1fsv50d",

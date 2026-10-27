@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T19:11:50.359Z",
+  "updatedAt": "2026-10-27T19:58:02.536Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-1nvxjyy",
+      "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T19:30:37.000Z",
+      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
+    },
+    {
       "id": "feed-pd7tf2",
       "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
       "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo",
       "source": "BBC News",
       "publishedAt": "2026-10-27T19:01:16.000Z",
       "summary": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state."
+    },
+    {
+      "id": "feed-8fvqvy",
+      "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T18:43:41.000Z",
+      "summary": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money."
     },
     {
       "id": "feed-1otncm4",
@@ -30,6 +46,14 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T18:28:23.000Z",
       "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
+    },
+    {
+      "id": "feed-31amdz",
+      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
+      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T17:11:27.000Z",
+      "summary": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong."
     },
     {
       "id": "feed-scyxl6",
@@ -126,30 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T07:22:41.000Z",
       "summary": "It's the first time an English player has lifted the trophy since Michael Owen in 2001."
-    },
-    {
-      "id": "feed-6b7zpz",
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T05:05:15.000Z",
-      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game."
-    },
-    {
-      "id": "feed-xex3ct",
-      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T02:40:17.000Z",
-      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said."
-    },
-    {
-      "id": "feed-v1782j",
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T01:46:38.000Z",
-      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
     }
   ]
 }
