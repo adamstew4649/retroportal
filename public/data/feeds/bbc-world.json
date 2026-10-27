@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T04:26:28.493Z",
+  "updatedAt": "2026-10-27T04:59:28.038Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1nnjyfv",
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T04:43:56.000Z",
+      "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year."
+    },
     {
       "id": "feed-6b7zpz",
       "title": "Jay-Z to perform at Super Bowl half-time show",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-26T14:34:52.000Z",
       "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
-    },
-    {
-      "id": "feed-r51a8t",
-      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T14:27:32.000Z",
-      "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola."
     }
   ]
 }
