@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T03:59:02.761Z",
-  "generatedAt": "2026-10-27T03:59:02.761Z",
+  "updatedAt": "2026-10-27T04:26:28.499Z",
+  "generatedAt": "2026-10-27T04:26:28.499Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,26 @@
   ],
   "articles": [
     {
+      "id": "feed-1ui9wvv",
+      "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
+      "publishedAt": "2026-10-27T04:13:56.000Z",
+      "category": "uk",
+      "summary": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland."
+    },
+    {
+      "id": "feed-cn6n2z",
+      "title": "Australian politics live: Coalition tells Albanese to ‘stop the spin’ on $6m golf grant; Labor promises ‘swift response’ on MP safety",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "publishedAt": "2026-10-27T04:13:53.000Z",
+      "category": "world",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines ,"
+    },
+    {
       "id": "feed-1sycc97",
       "title": "Sharp rise in sales of essential goods after government call to stock up",
       "source": "BBC News",
@@ -112,16 +132,6 @@
       "publishedAt": "2026-10-27T03:48:21.000Z",
       "category": "uk",
       "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks."
-    },
-    {
-      "id": "feed-cn6n2z",
-      "title": "Australian politics live: Coalition tells Albanese to ‘stop the spin’ on $6m golf grant; Labor promises ‘swift response’ on MP safety",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "publishedAt": "2026-10-27T03:39:40.000Z",
-      "category": "world",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines ,"
     },
     {
       "id": "feed-6b7zpz",
@@ -422,16 +432,6 @@
       "publishedAt": "2026-10-26T22:45:35.000Z",
       "category": "world",
       "summary": "Australia’s public debt may be well below that of France but there are lessons to be taken from its economic woes Get our daily political email , free app or daily news podcast The explosion of discontent that led to major protests and violence in France and a"
-    },
-    {
-      "id": "feed-e64heq",
-      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
-      "publishedAt": "2026-10-26T22:43:44.000Z",
-      "category": "uk",
-      "summary": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland."
     },
     {
       "id": "feed-6f3bj4",
@@ -1234,16 +1234,6 @@
       "summary": "North Korean howitzer guns have been seen close to the border with South Korea - at a time when tensions between the two nations are high."
     },
     {
-      "id": "feed-1jzof5e",
-      "title": "London's Oxford Street pedestrianised in 'truly momentous occasion for capital'",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/londons-oxford-street-pedestrianised-in-truly-momentous-occasion-for-capital-13603905",
-      "publishedAt": "2026-10-26T08:33:00.000Z",
-      "category": "uk",
-      "summary": "London's Oxford Street is now traffic-free, with mayor Sadiq Khan hailing it \"a truly momentous occasion for the capital\"."
-    },
-    {
       "id": "feed-1bp1i74",
       "title": "Plans to create a wildflower meadow take shape",
       "source": "BBC News",
@@ -1902,6 +1892,16 @@
       "publishedAt": "2026-10-20T19:45:00.000Z",
       "category": "technology",
       "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
+    },
+    {
+      "id": "feed-da61ea",
+      "title": "‘These risks are real’: the threat of AI bioweapons - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video",
+      "publishedAt": "2026-10-20T12:14:42.000Z",
+      "category": "science",
+      "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom"
     }
   ]
 }
