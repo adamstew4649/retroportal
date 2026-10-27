@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T11:01:20.430Z",
+  "updatedAt": "2026-10-27T11:57:39.281Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
-      "id": "feed-1vwoibg",
-      "title": "Two charged with national security offences over RAF Fairford incident",
+      "id": "feed-4lrkjg",
+      "title": "UK and EU officials to discuss freedom of movement",
+      "link": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T11:29:23.000Z",
+      "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
+    },
+    {
+      "id": "feed-1fqs3up",
+      "title": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
+      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T11:15:53.000Z",
+      "summary": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living."
+    },
+    {
+      "id": "feed-1qo9zl1",
+      "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
       "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko",
       "source": "BBC News",
       "publishedAt": "2026-10-27T10:54:54.000Z",
-      "summary": "One of the men, Mohmed Ahmad Abdulkarim, 24, is accused of assisting Iran's intelligence service."
+      "summary": "Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday."
     },
     {
       "id": "feed-18gk01m",
@@ -38,22 +54,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T10:11:46.000Z",
       "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces."
-    },
-    {
-      "id": "feed-1fqs3up",
-      "title": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
-      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T10:10:31.000Z",
-      "summary": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living."
-    },
-    {
-      "id": "feed-4lrkjg",
-      "title": "UK and EU officials to discuss freedom of movement",
-      "link": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T09:55:56.000Z",
-      "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
     },
     {
       "id": "feed-glzaip",
@@ -104,6 +104,14 @@
       "summary": "About 40 fans of A Court of Thorns and Roses series celebrated at a \"lock-in\" event in Carrickfergus."
     },
     {
+      "id": "feed-1q0en3e",
+      "title": "Boy who stabbed girl at school was radicalised online, says father",
+      "link": "https://www.bbc.co.uk/news/articles/cmj6j950ywp1o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T05:33:25.000Z",
+      "summary": "A father calls for tighter controls on extreme material after his son's attempted murder conviction."
+    },
+    {
       "id": "feed-1nnjyfv",
       "title": "Meghan to co-host Junior MasterChef Australia",
       "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-26T23:03:14.000Z",
       "summary": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking."
-    },
-    {
-      "id": "feed-p0doca",
-      "title": "Keir Starmer's government discussed moving out of 10 Downing Street",
-      "link": "https://www.bbc.co.uk/news/articles/cqd093gk1rjeo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T22:56:01.000Z",
-      "summary": "The building has been described as a \"gloomy, mice-infested, bomb-curtained rabbit warren\"."
     }
   ]
 }

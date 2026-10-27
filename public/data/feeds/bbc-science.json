@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T11:01:20.432Z",
+  "updatedAt": "2026-10-27T11:57:39.283Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
@@ -8,11 +8,27 @@
   },
   "articles": [
     {
-      "id": "feed-1xglyuz",
-      "title": "New weather warnings as third storm set to hit Scotland",
+      "id": "feed-8rldv2",
+      "title": "Scotland's recycling rates fall to lowest level in five years",
+      "link": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T11:33:23.000Z",
+      "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year."
+    },
+    {
+      "id": "feed-8rldv2",
+      "title": "Scotland's recycling rates fall to lowest level in five years",
+      "link": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T11:33:23.000Z",
+      "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year."
+    },
+    {
+      "id": "feed-1oyu3mu",
+      "title": "New weather warning as third storm hits Scotland",
       "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo",
       "source": "BBC News",
-      "publishedAt": "2026-10-27T10:52:30.000Z",
+      "publishedAt": "2026-10-27T11:12:27.000Z",
       "summary": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend."
     },
     {
@@ -128,28 +144,12 @@
       "summary": "Robin Bennett says he created the app after getting frustrated by the amount of rubbish beside roads"
     },
     {
-      "id": "feed-1d0inbg",
-      "title": "The dump detectives on the trail of the fly-tippers",
-      "link": "https://www.bbc.co.uk/news/articles/cqy0ry25y32wo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T06:09:56.000Z",
-      "summary": "The BBC joins environmental enforcement officers as they sift through illegally-dumped waste for clues."
-    },
-    {
       "id": "feed-1e7iarr",
       "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o",
       "source": "BBC News",
       "publishedAt": "2026-10-26T04:41:36.000Z",
       "summary": "An amber wind warning has now expired after severe weather sweeps across the UK."
-    },
-    {
-      "id": "feed-bvlose",
-      "title": "From agriculture to AI-griculture: How tech is changing farming",
-      "link": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T00:13:09.000Z",
-      "summary": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology."
     }
   ]
 }
