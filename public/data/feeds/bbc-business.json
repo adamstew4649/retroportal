@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T07:20:34.536Z",
+  "updatedAt": "2026-10-27T08:06:50.358Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-yxlq65",
+      "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-27T07:15:08.000Z",
+      "summary": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\"."
+    },
     {
       "id": "feed-xkl3be",
       "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-25T23:44:34.000Z",
       "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts."
-    },
-    {
-      "id": "feed-be6x11",
-      "title": "Business Daily",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ggp",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T19:00:00.000Z",
-      "summary": "A Chinese export surge has implications far beyond its borders"
     }
   ]
 }
