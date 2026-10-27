@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T11:57:39.287Z",
-  "generatedAt": "2026-10-27T11:57:39.287Z",
+  "updatedAt": "2026-10-27T12:29:17.643Z",
+  "generatedAt": "2026-10-27T12:29:17.643Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,146 @@
   ],
   "articles": [
     {
+      "id": "feed-1yikwjo",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo",
+      "publishedAt": "2026-10-27T12:28:35.000Z",
+      "category": "world",
+      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
+    },
+    {
+      "id": "feed-8rldv2",
+      "title": "Scotland's recycling rates fall to lowest level in five years",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo",
+      "publishedAt": "2026-10-27T12:22:49.000Z",
+      "category": "science",
+      "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year."
+    },
+    {
+      "id": "feed-1oyu3mu",
+      "title": "New weather warning as third storm hits Scotland",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo",
+      "publishedAt": "2026-10-27T12:20:35.000Z",
+      "category": "science",
+      "summary": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend."
+    },
+    {
+      "id": "feed-1kswq5x",
+      "title": "Tories dismiss PM’s budget ‘everyday fixes’ as little more than ‘cheaper gherkins’, and ‘an insult to families’ – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
+      "publishedAt": "2026-10-27T12:13:50.000Z",
+      "category": "world",
+      "summary": "Removing tariffs on more than 100 products, including gherkins and baked beans, was one of five measures announced this morning before tomorrow’s budget Nigel Farage , the Reform UK leader, has suggested that someone would not be banned from standing as a cand"
+    },
+    {
+      "id": "feed-1ssx6zt",
+      "title": "Britain issues costliest 5-year debt since 2008 in run-up to budget – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
+      "publishedAt": "2026-10-27T12:13:10.000Z",
+      "category": "business",
+      "summary": "Rolling coverage of the latest economic and financial news UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises The 6% drop in HSBC’s share price this morning has made rather a dent in the FTSE 100 share index. The ‘Footsie’ "
+    },
+    {
+      "id": "feed-1x48bcv",
+      "title": "Israel election live: polls open in most consequential vote in country’s history",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "publishedAt": "2026-10-27T12:11:59.000Z",
+      "category": "uk",
+      "summary": "Most polling shows Netanyahu’s coalition will lose its majority; suspected stabbing attempt against Democrats’ leader Yair Golan foiled What you need to know about Israel’s election Across Israel , voting is now under way. Here are some of the latest images be"
+    },
+    {
+      "id": "feed-rrh5jm",
+      "title": "South Africa v Australia: third men’s cricket Test, day one – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/27/south-africa-v-australia-third-test-day-one-cricket-newlands-cape-town-live-updates",
+      "publishedAt": "2026-10-27T12:07:51.000Z",
+      "category": "uk",
+      "summary": "Updates from the final match of the series at Newlands Get The Spin cricket newsletter | And you can mail Rob Among the Australia’s four changes for this Test, there’s still no proven replacement opener for Usman Khawaja, who has been on media street lately wi"
+    },
+    {
+      "id": "feed-p2i6t8",
+      "title": "Police called to Florida soccer game after parents say three-year-old benched for being too good",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/27/florida-soccer-game-three-year-old-boy-benched-police",
+      "publishedAt": "2026-10-27T12:07:25.000Z",
+      "category": "world",
+      "summary": "Organizer says parents were causing disturbance No one arrested or made to leave game in Florida Police were called after a dispute involving the parents of a three-year-old player at a soccer game in Florida over the weekend. The boy’s parents can be heard on"
+    },
+    {
+      "id": "feed-bcil05",
+      "title": "Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+      "publishedAt": "2026-10-27T12:05:49.000Z",
+      "category": "uk",
+      "summary": "Alexander Stubb and Jonas Gahr Støre say they have briefed Volodymyr Zelenskyy after discussion with Russia’s president about next month’s Abu Dhabi peace talks Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “testin"
+    },
+    {
+      "id": "feed-qfvckq",
+      "title": "First-time buyer wary of Budget housing loan scheme",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxwznv4kyyo",
+      "publishedAt": "2026-10-27T12:05:16.000Z",
+      "category": "business",
+      "summary": "Luke Anstee has been saving for three years but says rising living costs make home ownership harder."
+    },
+    {
+      "id": "feed-1cyyal0",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
+      "publishedAt": "2026-10-27T12:02:20.000Z",
+      "category": "world",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
+    },
+    {
+      "id": "feed-gyt6y4",
+      "title": "‘It’s not my pain. There’s a responsibility in that’: Thea Gilmore on writing songs from anonymous confessional voicemails",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/oct/27/thea-gilmore-on-writing-songs-from-anonymous-confessional-voicemails-the-echo-line",
+      "publishedAt": "2026-10-27T12:00:37.000Z",
+      "category": "uk",
+      "summary": "After tiring of writing about herself, the British singer-songwriter asked the public to share stories to inspire her music – and they responded in their thousands ‘This project has changed my whole thinking,” Thea Gilmore says of her new endeavour, The Echo L"
+    },
+    {
+      "id": "feed-1ra44g5",
+      "title": "‘No one saves the planet if it hits their pocket’: UK heat pump installers fear planned subsidy cuts",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/oct/27/heat-pump-installers-fear-planned-subsidy-cuts-uk-budget",
+      "publishedAt": "2026-10-27T11:59:42.000Z",
+      "category": "uk",
+      "summary": "Boiler upgrade scheme, which provides grants of up to £9,000 for sustainable alternatives, expected to be slashed in budget When Bill Tuck first started installing air source heat pumps six years ago, other heating engineers were skeptical the green technology"
+    },
+    {
+      "id": "feed-1da6hr6",
+      "title": "Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
+      "publishedAt": "2026-10-27T11:54:47.000Z",
+      "category": "uk",
+      "summary": "Video appears to show Mao Zedong called a ‘dictator’ Dongpeng and Mengniu end deals with the player Kylian Mbappé has apologised for his “ill-judged” comment about the former Chinese leader Mao Zedong, which has led to brands in China dropping the Real Madrid "
+    },
+    {
       "id": "feed-i0t7la",
       "title": "Truce begins in Ukraine city where residents ate weeds to survive",
       "source": "BBC News",
@@ -112,6 +252,16 @@
       "publishedAt": "2026-10-27T11:53:57.000Z",
       "category": "world",
       "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out."
+    },
+    {
+      "id": "feed-10892pp",
+      "title": "‘I’m still innocent,’ says Comey as Trump calls him a ‘dirty cop’ – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+      "publishedAt": "2026-10-27T11:47:07.000Z",
+      "category": "uk",
+      "summary": "The US justice department is attempting to prosecute the former FBI director for the third time Sign up for the Breaking News US email Three tankers carrying Russian diesel are en route to the United States, with a fourth expected to depart Wednesday, Moscow h"
     },
     {
       "id": "feed-10e9x5f",
@@ -124,36 +274,6 @@
       "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
     },
     {
-      "id": "feed-1kswq5x",
-      "title": "Tories dismiss PM’s budget ‘everyday fixes’ as little more than ‘cheaper gherkins’, and ‘an insult to families’ – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
-      "publishedAt": "2026-10-27T11:42:53.000Z",
-      "category": "uk",
-      "summary": "Removing tariffs on more than 100 products, including gherkins and baked beans, was one of five measures announced this morning before tomorrow’s budget Back to “everyday fixes” (see 9.07am ), and groups representing men have welcomed the news that self-employ"
-    },
-    {
-      "id": "feed-rrh5jm",
-      "title": "South Africa v Australia: third men’s cricket Test, day one – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/27/south-africa-v-australia-third-test-day-one-cricket-newlands-cape-town-live-updates",
-      "publishedAt": "2026-10-27T11:41:52.000Z",
-      "category": "uk",
-      "summary": "Updates from the final match of the series at Newlands Get The Spin cricket newsletter | And you can mail Geoff Among the Australia’s four changes for this Test, there’s still no proven replacement opener for Usman Khawaja, who has been on media street lately "
-    },
-    {
-      "id": "feed-bcil05",
-      "title": "Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-      "publishedAt": "2026-10-27T11:39:26.000Z",
-      "category": "uk",
-      "summary": "Alexander Stubb and Jonas Gahr Støre say they have briefed Volodymyr Zelenskyy after discussion with Russia’s president about next month’s Abu Dhabi peace talks Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “testin"
-    },
-    {
       "id": "feed-1ynuoup",
       "title": "David Squires on … Manchester United’s latest crisis and dirty laundry",
       "source": "The Guardian",
@@ -162,36 +282,6 @@
       "publishedAt": "2026-10-27T11:35:37.000Z",
       "category": "uk",
       "summary": "Our cartoonist on the expected end for Michael Carrick at Old Trafford and what could come next Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading..."
-    },
-    {
-      "id": "feed-8rldv2",
-      "title": "Scotland's recycling rates fall to lowest level in five years",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo",
-      "publishedAt": "2026-10-27T11:33:23.000Z",
-      "category": "science",
-      "summary": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year."
-    },
-    {
-      "id": "feed-1x48bcv",
-      "title": "Israel election live: polls open in most consequential vote in country’s history",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "publishedAt": "2026-10-27T11:33:04.000Z",
-      "category": "uk",
-      "summary": "Most polling shows prime minister Benjamin Netanyahu’s coalition will lose its majority, with Gadi Eisenkot the leading opposition contender What you need to know about Israel’s election Across Israel , voting is now under way. Here are some of the latest imag"
-    },
-    {
-      "id": "feed-j5m8oy",
-      "title": "HSBC profits surge 32%, sparking fresh calls for bank taxes in the budget – business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
-      "publishedAt": "2026-10-27T11:32:37.000Z",
-      "category": "uk",
-      "summary": "Rolling coverage of the latest economic and financial news UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises The 6% drop in HSBC’s share price this morning has made rather a dent in the FTSE 100 share index. The ‘Footsie’ "
     },
     {
       "id": "feed-4lrkjg",
@@ -204,18 +294,18 @@
       "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
     },
     {
-      "id": "feed-10892pp",
-      "title": "‘I’m still innocent,’ says Comey as Trump calls him a ‘dirty cop’ – US politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-      "publishedAt": "2026-10-27T11:24:18.000Z",
+      "id": "feed-ge9spq",
+      "title": "Virgin Atlantic fury as Heathrow forces Delta terminal move",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/virgin-atlantic-fury-as-heathrow-forces-delta-terminal-move-13604337",
+      "publishedAt": "2026-10-27T11:28:00.000Z",
       "category": "uk",
-      "summary": "The US justice department is attempting to prosecute the former FBI director for the third time Sign up for the Breaking News US email Social media feeds are awash with an unprecedented flood of AI -driven disinformation ahead of November’s US midterm election"
+      "summary": "Virgin Atlantic Airways has reacted furiously after Heathrow Airport decided to force its joint venture partner to relocate to another terminal - a move it warned would risk driving fares up for passengers."
     },
     {
-      "id": "feed-1qtiob4",
-      "title": "Netherlands makes U-turn over Eurovision 2027 participation",
+      "id": "feed-1utjg54",
+      "title": "Netherlands pulls out of Eurovision again over Israel participation",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo",
@@ -232,16 +322,6 @@
       "publishedAt": "2026-10-27T11:15:53.000Z",
       "category": "uk",
       "summary": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living."
-    },
-    {
-      "id": "feed-1oyu3mu",
-      "title": "New weather warning as third storm hits Scotland",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo",
-      "publishedAt": "2026-10-27T11:12:27.000Z",
-      "category": "science",
-      "summary": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend."
     },
     {
       "id": "feed-2mydn2",
@@ -394,16 +474,6 @@
       "summary": "As John Healey’s budget decision looms, lender reports 32% rise in profits Business live – latest updates A top executive at HSBC has tried to quash speculation that the bank could move its headquarters out of the UK over tax increases expected to be announced"
     },
     {
-      "id": "feed-13aqehv",
-      "title": "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
-      "publishedAt": "2026-10-27T10:19:13.000Z",
-      "category": "world",
-      "summary": "He allegedly said the funniest \"meme\" about him is the one where they put his face on \"a Chinese dictator\"."
-    },
-    {
       "id": "feed-dggc85",
       "title": "What does Israel's election mean for Gaza and the wider world?",
       "source": "BBC News",
@@ -452,36 +522,6 @@
       "publishedAt": "2026-10-27T10:11:46.000Z",
       "category": "uk",
       "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces."
-    },
-    {
-      "id": "feed-1mq1vgz",
-      "title": "These four elections could change the world in 10 days – Stateside with Kai and Carter",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/video/2026/oct/27/these-four-elections-could-change-the-world-in-10-days-stateside-with-kai-and-carter",
-      "publishedAt": "2026-10-27T10:00:11.000Z",
-      "category": "uk",
-      "summary": "Benjamin Netanyahu is in the fight of his political life. Voters in Israel are heading to the polls on Tuesday to decide an election that could determine whether Netanyahu will remain the country's prime minister (and affect the outcome of the corruption charg"
-    },
-    {
-      "id": "feed-19g39hw",
-      "title": "Houseplant hacks: should plants rest in the dark over winter ?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/27/houseplant-hacks-winter-care",
-      "publishedAt": "2026-10-27T10:00:10.000Z",
-      "category": "uk",
-      "summary": "Some do need a rest to complete their growth cycle, but for others this hack could be stressful The problem Winter plant advice is full of contradictions. Rest your plants; don’t rest your plants. Move them to a cooler spot; keep them warm. One common tip is t"
-    },
-    {
-      "id": "feed-8qejcn",
-      "title": "‘If a person isn’t conscious, they’re not saying yes’: Cynthia Erivo on her searing new film about sexual assault",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie",
-      "publishedAt": "2026-10-27T10:00:09.000Z",
-      "category": "uk",
-      "summary": "In Prima Facie, she plays a rising-star barrister, well versed in defending men accused of sexual violence. Then she is raped by a colleague, and her world implodes. Erivo talks about the potential impact of the film – and how she is navigating her stratospher"
     },
     {
       "id": "feed-vrbq3s",
@@ -604,14 +644,14 @@
       "summary": "Grant part of $560m invitation-only scheme transparency advocates say largely funded projects in Labor-held seats Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese has ad"
     },
     {
-      "id": "feed-2cz3lq",
-      "title": "French football star Mbappe dropped by Chinese brands after 'dictator' remark",
+      "id": "feed-1pkh4of",
+      "title": "Mbappe apologises for 'ill-judged' Mao remark after being dropped by Chinese brands",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/french-football-star-kylian-mbappe-dropped-by-chinese-brands-after-dictator-remark-13604279",
       "publishedAt": "2026-10-27T08:51:00.000Z",
       "category": "world",
-      "summary": "At least three Chinese companies are cutting ties with Kylian Mbappe after he appeared to refer to Mao Zedong, the founder of the People's Republic of China, as a dictator."
+      "summary": "French footballer Kylian Mbappe has apologised for an \"ill-judged\" remark about Mao Zedong after being dropped by Chinese brands."
     },
     {
       "id": "feed-1w0fihs",
@@ -674,16 +714,6 @@
       "summary": "It's the first time an English player has lifted the trophy since Michael Owen in 2001."
     },
     {
-      "id": "feed-8eopg3",
-      "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
-      "publishedAt": "2026-10-27T07:00:04.000Z",
-      "category": "world",
-      "summary": "Italian army removes and defuses 250 explosives encased in ice for more than 100 years after hikers’ sightings A significant cache of unexploded bombs from the first world war emerged this summer from rapidly retreating glaciers in the Dolomites, the Italian a"
-    },
-    {
       "id": "feed-10uygl7",
       "title": "UK government met 137 businesses over AI datacentres – but no environmental groups",
       "source": "The Guardian",
@@ -732,16 +762,6 @@
       "publishedAt": "2026-10-27T06:33:11.000Z",
       "category": "uk",
       "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks."
-    },
-    {
-      "id": "feed-sl6w2l",
-      "title": "Kylian Mbappé dropped by Chinese brands for ‘offending national sentiments’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
-      "publishedAt": "2026-10-27T06:24:28.000Z",
-      "category": "business",
-      "summary": "Video appears to show Mao Zedong called a ‘dictator’ Dongpeng and Mengniu end deals with player Kylian Mbappé has been dropped by two major brands in China after a video circulated online in which the France striker apparently joked about the former leader Mao"
     },
     {
       "id": "feed-pzlpkd",
@@ -1112,16 +1132,6 @@
       "publishedAt": "2026-10-26T19:57:23.000Z",
       "category": "technology",
       "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information."
-    },
-    {
-      "id": "feed-1yikwjo",
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo",
-      "publishedAt": "2026-10-26T19:27:21.000Z",
-      "category": "world",
-      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
     },
     {
       "id": "feed-1vuqca9",
