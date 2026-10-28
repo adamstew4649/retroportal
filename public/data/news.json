@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T03:06:20.990Z",
-  "generatedAt": "2026-10-28T03:06:20.990Z",
+  "updatedAt": "2026-10-28T04:08:18.752Z",
+  "generatedAt": "2026-10-28T04:08:18.752Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "id": "bbc-world",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,24 @@
   ],
   "articles": [
     {
-      "id": "feed-1kvph",
-      "title": "Australian politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; RBA says no recession on way",
+      "id": "feed-1shaw9w",
+      "title": "Australian politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; Liberal MP ejected from question time for swearing",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-      "publishedAt": "2026-10-28T02:59:56.000Z",
+      "publishedAt": "2026-10-28T04:00:31.000Z",
       "category": "world",
       "summary": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia”"
+    },
+    {
+      "id": "feed-1elcxih",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo",
+      "publishedAt": "2026-10-28T03:43:38.000Z",
+      "category": "business",
+      "summary": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\"."
     },
     {
       "id": "feed-w1prnb",
@@ -119,9 +129,29 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "publishedAt": "2026-10-28T02:53:46.000Z",
+      "publishedAt": "2026-10-28T03:41:26.000Z",
       "category": "uk",
-      "summary": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Analysis: R"
+      "summary": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Israel elec"
+    },
+    {
+      "id": "feed-1ew5sk4",
+      "title": "Thick fog to create dangerous driving conditions for UK commuters",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o",
+      "publishedAt": "2026-10-28T03:29:29.000Z",
+      "category": "uk",
+      "summary": "After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week."
+    },
+    {
+      "id": "feed-1dcgmgl",
+      "title": "‘Backdrop for countless local love stories’: Geelong gingko named Victorian tree of the year",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year",
+      "publishedAt": "2026-10-28T03:23:35.000Z",
+      "category": "world",
+      "summary": "National trust of Victoria award celebrates much-loved arboreal icons while calling for protection of green spaces Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast For more than 160 years, "
     },
     {
       "id": "feed-1krxbf7",
@@ -204,16 +234,6 @@
       "summary": "Police condemn the \"reckless and targeted attack\" after the explosive was sent to a Londonderry hotel."
     },
     {
-      "id": "feed-1ew5sk4",
-      "title": "Thick fog to create dangerous driving conditions for UK commuters",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o",
-      "publishedAt": "2026-10-28T01:09:35.000Z",
-      "category": "uk",
-      "summary": "After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week."
-    },
-    {
       "id": "feed-1mb2wj2",
       "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
       "source": "BBC News",
@@ -280,7 +300,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
       "publishedAt": "2026-10-28T00:03:10.000Z",
-      "category": "business",
+      "category": "uk",
       "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
     },
     {
@@ -331,7 +351,7 @@
       "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
       "publishedAt": "2026-10-27T23:57:50.000Z",
       "category": "uk",
-      "summary": "Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing Israeli elections: live updates The big gains made by Palestinian parties in Israel’s general election pose an urgent and fundamental ch"
+      "summary": "Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing Israeli elections: live updates Israel election: what we know so far The big gains made by Palestinian parties in Israel’s general elect"
     },
     {
       "id": "feed-1f8f0v",
@@ -504,14 +524,14 @@
       "summary": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it"
     },
     {
-      "id": "feed-1abwaxh",
-      "title": "Bolsonaro and family to be granted US visas after election loss",
+      "id": "feed-cjgbta",
+      "title": "Bolsonaro has fled to Miami after losing Brazilian election - report",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/bolsonaro-and-family-to-be-granted-us-visas-after-election-loss-state-department-says-13604558",
       "publishedAt": "2026-10-27T21:35:00.000Z",
       "category": "world",
-      "summary": "Brazilian opposition candidate Flavio Bolsonaro and his family will be will issued with US visas following his election loss on Sunday, a state department official has said."
+      "summary": "Flavio Bolsonaro has fled to Florida after losing Brazil's presidential election, according to local media."
     },
     {
       "id": "feed-1is3crb",
@@ -561,7 +581,7 @@
       "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
       "publishedAt": "2026-10-27T20:56:23.000Z",
       "category": "world",
-      "summary": "Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Israel’s election appeared to have de"
+      "summary": "Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel election: what we know so far Rise of Palestinian parties in Knesset will redraw Israel’s political landscape "
     },
     {
       "id": "feed-zd1ys8",
@@ -930,7 +950,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
       "publishedAt": "2026-10-27T15:01:27.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
     },
     {
@@ -1060,7 +1080,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/virgin-atlantic-fury-as-heathrow-forces-delta-terminal-move-13604337",
       "publishedAt": "2026-10-27T11:28:00.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Virgin Atlantic Airways has reacted furiously after Heathrow Airport decided to force its joint venture partner to relocate to another terminal - a move it warned would risk driving fares up for passengers."
     },
     {
@@ -1394,16 +1414,6 @@
       "summary": "Tech firm announces two-part fundraising after Elon Musk warns hundreds of AI startups face collapse Mark Zuckerberg’s Meta has announced plans for $95bn (£71bn) of fundraising to cover its AI expenditure, even as Elon Musk warned that funding for smaller play"
     },
     {
-      "id": "feed-82jc93",
-      "title": "Business Daily",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8grq",
-      "publishedAt": "2026-10-26T21:30:00.000Z",
-      "category": "business",
-      "summary": "After decades of ultra-cheap money, the cost of borrowing in Japan is rising"
-    },
-    {
       "id": "feed-re9r31",
       "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
       "source": "BBC News",
@@ -1482,16 +1492,6 @@
       "publishedAt": "2026-10-26T14:54:40.000Z",
       "category": "science",
       "summary": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist."
-    },
-    {
-      "id": "feed-cac41l",
-      "title": "Macron promises 'concrete measures' over protest demands - amid fears of Halloween unrest",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/macron-promises-concrete-measures-over-protest-demands-amid-fears-of-halloween-unrest-13604048",
-      "publishedAt": "2026-10-26T14:44:00.000Z",
-      "category": "world",
-      "summary": "Emmanuel Macron says his government will unveil \"concrete measures\" in response to the demands of student protesters for more resources in France."
     },
     {
       "id": "feed-sgfiib",
