@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T04:08:18.752Z",
-  "generatedAt": "2026-10-28T04:08:18.752Z",
+  "updatedAt": "2026-10-28T05:07:34.908Z",
+  "generatedAt": "2026-10-28T05:07:34.908Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,84 @@
   ],
   "articles": [
     {
-      "id": "feed-1shaw9w",
-      "title": "Australian politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; Liberal MP ejected from question time for swearing",
+      "id": "feed-1is17nf",
+      "title": "Israel election results live: exit polls point to tie between Netanyahu and Eisenkot blocs",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "publishedAt": "2026-10-28T04:59:38.000Z",
+      "category": "uk",
+      "summary": "Both blocs would fall short of the 61 seats needed to form a government as support for Palestinian parties surges Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Analysis: Rise of Palestinian parties in Kne"
+    },
+    {
+      "id": "feed-l1jqcj",
+      "title": "Australian politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; Coalition MP ejected from question time for swearing",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-      "publishedAt": "2026-10-28T04:00:31.000Z",
+      "publishedAt": "2026-10-28T04:59:10.000Z",
       "category": "world",
       "summary": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia”"
+    },
+    {
+      "id": "feed-1azkbba",
+      "title": "Two key unions turn on Labor, running attack ads and pulling campaign funds a month out from Victorian election",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/unions-turn-on-labor-attack-ads-campaign-funds-victorian-election-exclusive",
+      "publishedAt": "2026-10-28T04:50:29.000Z",
+      "category": "world",
+      "summary": "Exclusive: ASU launches ‘Ben Lied. Labor lies’ ads while ETU diverts money to defending members at royal commission Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Two major unions in Vict"
+    },
+    {
+      "id": "feed-j3dl1p",
+      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o",
+      "publishedAt": "2026-10-28T04:32:36.000Z",
+      "category": "uk",
+      "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
+    },
+    {
+      "id": "feed-pxb7e1",
+      "title": "Erin Patterson to learn fate in appeal against mushroom murders convictions",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/erin-patterson-to-learn-fate-appeal-mushroom-murders-convictions-ntwnfb",
+      "publishedAt": "2026-10-28T04:30:33.000Z",
+      "category": "world",
+      "summary": "Victorian court of appeal to hand down judgment on triple-murderer’s conviction and sentence after her lawyers argued she was denied fair trial Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podc"
+    },
+    {
+      "id": "feed-1favhs3",
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o",
+      "publishedAt": "2026-10-28T04:22:59.000Z",
+      "category": "world",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner."
+    },
+    {
+      "id": "feed-1addzlu",
+      "title": "US embassy worker flown out of UK before police questioning",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/us-air-force-officer-accused-of-possessing-child-abuse-images-was-flown-out-of-the-uk-13604647",
+      "publishedAt": "2026-10-28T04:14:00.000Z",
+      "category": "uk",
+      "summary": "A senior US Air Force officer was flown out of the UK before he could be questioned over allegations that he possessed child sexual abuse images, it has emerged."
+    },
+    {
+      "id": "feed-2rz8cd",
+      "title": "Major Israeli TV networks revise polling projections – as it happened",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "publishedAt": "2026-10-28T04:08:29.000Z",
+      "category": "world",
+      "summary": "This blog had now closed – our live coverage continues here Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living abroad have flown in for the elections, according "
     },
     {
       "id": "feed-1elcxih",
@@ -122,16 +192,6 @@
       "publishedAt": "2026-10-28T03:43:38.000Z",
       "category": "business",
       "summary": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\"."
-    },
-    {
-      "id": "feed-w1prnb",
-      "title": "Israel election live: exit polls point to tie between Netanyahu and Eisenkot opposition blocs",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "publishedAt": "2026-10-28T03:41:26.000Z",
-      "category": "uk",
-      "summary": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Israel elec"
     },
     {
       "id": "feed-1ew5sk4",
@@ -214,16 +274,6 @@
       "summary": "Ukrainian president says Kyiv’s battlefield ⁠position strongest ⁠in some ​time. What we know on day 1,708 Volodymyr Zelenskyy has said Ukrainian forces are retaking territory through a series of offensives , adding Kyiv’s battlefield ⁠position was the stronges"
     },
     {
-      "id": "feed-1ci1zer",
-      "title": "Criminal case against alleged Bondi terrorist delayed amid ‘unprecedented’ investigation",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
-      "publishedAt": "2026-10-28T01:18:39.000Z",
-      "category": "world",
-      "summary": "Naveed Akram, 24, has been charged with 78 offences after allegedly committing a terrorist act. The case has been adjourned until February Follow our Australian politics live blog for latest updates Get our breaking news email , free app or daily news podcast "
-    },
-    {
       "id": "feed-z37l7n",
       "title": "Suspicious package sent to hotel contained explosive device",
       "source": "BBC News",
@@ -254,16 +304,6 @@
       "summary": "Most of the papers focus on the Budget, ahead of its delivery at lunchtime on Wednesday."
     },
     {
-      "id": "feed-1rqhf5z",
-      "title": "‘I use disposable cups’: Chris Minns backflips on takeaway coffee cups after media and business backlash",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/chris-minns-backflips-disposable-coffee-cups-nsw-politics",
-      "publishedAt": "2026-10-28T00:38:27.000Z",
-      "category": "world",
-      "summary": "Legislation requiring mugs to be offered when people drink at cafes to be scrapped, with environment minister stating ‘we need to clear this up’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news "
-    },
-    {
       "id": "feed-5tp57e",
       "title": "Danny Masterson loses appeal against rape conviction after arguing judge was biased against Scientology",
       "source": "The Guardian",
@@ -282,16 +322,6 @@
       "publishedAt": "2026-10-28T00:07:22.000Z",
       "category": "uk",
       "summary": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour. The king arrived"
-    },
-    {
-      "id": "feed-1favhs3",
-      "title": "Watch: What happens now after close vote in Israeli election?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o",
-      "publishedAt": "2026-10-28T00:04:29.000Z",
-      "category": "world",
-      "summary": "Polls have closed in the Israeli election, but there is no clear winner."
     },
     {
       "id": "feed-846nvz",
@@ -464,16 +494,6 @@
       "summary": "Healey hopes to give ‘hope for the future’ but only modest policies are expected with important decisions deferred John Healey has acknowledged the UK faces a “difficult moment” but insisted he would put the country on a better path as he delivers his first bu"
     },
     {
-      "id": "feed-j3dl1p",
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o",
-      "publishedAt": "2026-10-27T22:34:02.000Z",
-      "category": "uk",
-      "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
-    },
-    {
       "id": "feed-efxm7c",
       "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
       "source": "The Guardian",
@@ -572,16 +592,6 @@
       "publishedAt": "2026-10-27T21:09:12.000Z",
       "category": "world",
       "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder."
-    },
-    {
-      "id": "feed-1ibqvlw",
-      "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
-      "publishedAt": "2026-10-27T20:56:23.000Z",
-      "category": "world",
-      "summary": "Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel election: what we know so far Rise of Palestinian parties in Knesset will redraw Israel’s political landscape "
     },
     {
       "id": "feed-zd1ys8",
@@ -1892,16 +1902,6 @@
       "publishedAt": "2026-10-19T20:04:00.000Z",
       "category": "technology",
       "summary": "Japan launched a spacecraft towards Mars in a ground-breaking mission to bring back samples from the largest of the planet's two moons."
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
