@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T17:13:01.681Z",
+  "updatedAt": "2026-10-28T18:05:25.240Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1lwv5d0",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T16:59:47.000Z",
+      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+    },
     {
       "id": "feed-1nh3tv2",
       "title": "Watch: At the scene of Spain's deadly train crash",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T19:30:37.000Z",
       "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
-    },
-    {
-      "id": "feed-1jtkkji",
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T18:28:23.000Z",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
     }
   ]
 }
