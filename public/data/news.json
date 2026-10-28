@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T01:27:28.058Z",
-  "generatedAt": "2026-10-28T01:27:28.058Z",
+  "updatedAt": "2026-10-28T02:12:39.474Z",
+  "generatedAt": "2026-10-28T02:12:39.474Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 5
+      "count": 4
     },
     {
       "id": "bbc-world",
@@ -104,22 +104,12 @@
   ],
   "articles": [
     {
-      "id": "feed-z37l7n",
-      "title": "Suspicious package sent to hotel contained explosive device",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykg0nkll0o",
-      "publishedAt": "2026-10-28T01:16:25.000Z",
-      "category": "uk",
-      "summary": "Police condemn the \"reckless and targeted attack\" after the explosive was sent to a Londonderry hotel."
-    },
-    {
-      "id": "feed-xveax6",
-      "title": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
+      "id": "feed-1mebfcu",
+      "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "publishedAt": "2026-10-28T01:13:44.000Z",
+      "publishedAt": "2026-10-28T01:56:44.000Z",
       "category": "uk",
       "summary": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Analysis: R"
     },
@@ -129,7 +119,7 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-      "publishedAt": "2026-10-28T01:13:32.000Z",
+      "publishedAt": "2026-10-28T01:53:16.000Z",
       "category": "uk",
       "summary": "Trump blasts Biden-era EPA regulations as he campaigns for Ken Paxton in Lubbock Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speaking to reporters on the tarmac before departing for a campaign event in Michigan,"
     },
@@ -139,9 +129,59 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-      "publishedAt": "2026-10-28T01:11:54.000Z",
+      "publishedAt": "2026-10-28T01:49:55.000Z",
       "category": "world",
       "summary": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia”"
+    },
+    {
+      "id": "feed-6jan9",
+      "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+      "publishedAt": "2026-10-28T01:45:27.000Z",
+      "category": "world",
+      "summary": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billions Donald Trump announced his administration is “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-w"
+    },
+    {
+      "id": "feed-vwhwp3",
+      "title": "Mushroom Murders: Melanie Lynskey to star as Erin Patterson in new limited series",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/28/mushroom-murders-melanie-lynskey-erin-patterson-new-paramount-limited-series-ntwnfb",
+      "publishedAt": "2026-10-28T01:42:44.000Z",
+      "category": "uk",
+      "summary": "Emmy-nominated actor is also executive producer of the Paramount+ series, which will dramatise the Australian true crime case The Emmy-nominated New Zealand actor Melanie Lynskey has been cast as triple murderer Erin Patterson in a new limited series titled Mu"
+    },
+    {
+      "id": "feed-cpw2ol",
+      "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/28/ukraine-war-briefing-kyiv-retaking-territory-zelenskyy-says-as-nordic-leaders-urge-putin-to-end-the-conflict",
+      "publishedAt": "2026-10-28T01:39:58.000Z",
+      "category": "uk",
+      "summary": "Ukrainian president says Kyiv’s battlefield ⁠position strongest ⁠in some ​time. What we know on day 1,708 Volodymyr Zelenskyy has said Ukrainian forces are retaking territory through a series of offensives , adding Kyiv’s battlefield ⁠position was the stronges"
+    },
+    {
+      "id": "feed-1ci1zer",
+      "title": "Criminal case against alleged Bondi terrorist delayed amid ‘unprecedented’ investigation",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
+      "publishedAt": "2026-10-28T01:18:39.000Z",
+      "category": "world",
+      "summary": "Naveed Akram, 24, has been charged with 78 offences after allegedly committing a terrorist act. The case has been adjourned until February Follow our Australian politics live blog for latest updates Get our breaking news email , free app or daily news podcast "
+    },
+    {
+      "id": "feed-z37l7n",
+      "title": "Suspicious package sent to hotel contained explosive device",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykg0nkll0o",
+      "publishedAt": "2026-10-28T01:16:25.000Z",
+      "category": "uk",
+      "summary": "Police condemn the \"reckless and targeted attack\" after the explosive was sent to a Londonderry hotel."
     },
     {
       "id": "feed-1ew5sk4",
@@ -191,7 +231,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/28/chris-minns-backflips-disposable-coffee-cups-nsw-politics",
       "publishedAt": "2026-10-28T00:38:27.000Z",
       "category": "world",
-      "summary": "Legislation requiring mugs to be offered when people drink at cafes, to be scrapped with environment minister stating ‘we need to clear this up’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news "
+      "summary": "Legislation requiring mugs to be offered when people drink at cafes to be scrapped, with environment minister stating ‘we need to clear this up’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news "
     },
     {
       "id": "feed-5tp57e",
@@ -290,7 +330,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
       "publishedAt": "2026-10-27T23:52:55.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Discovery comes months after Utah county detectives confirmed that Bundy had killed another Utah girl that year The notorious serial killer Ted Bundy has been found responsible, through DNA evidence, for the murder of a 17-year-old Utah girl who went missing i"
     },
     {
@@ -314,14 +354,14 @@
       "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them."
     },
     {
-      "id": "feed-1d5ir79",
-      "title": "Body of missing California hiker recovered on Mount Whitney",
+      "id": "feed-jvm34e",
+      "title": "Body of missing California hiker covered in snow retrieved on Mount Whitney",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/oct/27/california-missing-hiker-mount-whitney",
       "publishedAt": "2026-10-27T23:39:17.000Z",
       "category": "world",
-      "summary": "Hazardous storm conditions delayed retrieval efforts on mountain that has proved to be a perilous hiking spot The body of a missing California hiker, blanketed in a layer of snow, was recovered on Mount Whitney on Sunday after a blustery storm delayed retrieva"
+      "summary": "Hazardous storm conditions delayed recovery efforts on mountain that has proved to be a perilous hiking spot The body of a missing California hiker, blanketed in a layer of snow, was recovered on Mount Whitney on Sunday after a blustery storm delayed retrieval"
     },
     {
       "id": "feed-1fxe93n",
@@ -332,16 +372,6 @@
       "publishedAt": "2026-10-27T23:35:11.000Z",
       "category": "uk",
       "summary": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal."
-    },
-    {
-      "id": "feed-f78oay",
-      "title": "‘Shameful’: Alex Pretti’s parents accuse Trump officials of shielding son’s killers",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing",
-      "publishedAt": "2026-10-27T23:25:50.000Z",
-      "category": "world",
-      "summary": "Susan and Michael Pretti say they have been ‘ignored and misled’ in quest for justice over son’s killing by US agents The parents of Alex Pretti, the 37-year-old nurse killed by federal immigration agents in Minneapolis earlier this year, accused federal offic"
     },
     {
       "id": "feed-4ief46",
@@ -574,16 +604,6 @@
       "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis."
     },
     {
-      "id": "feed-1r8s26t",
-      "title": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
-      "publishedAt": "2026-10-27T20:23:46.000Z",
-      "category": "world",
-      "summary": "Tightly fought election saw record turnout as incumbent mayor ran against her rival Brad Bradford The mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares for frequent transit riders after she was elected to a decis"
-    },
-    {
       "id": "feed-1f9p0y2",
       "title": "An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur",
       "source": "The Guardian",
@@ -592,16 +612,6 @@
       "publishedAt": "2026-10-27T20:02:34.000Z",
       "category": "uk",
       "summary": "Only Matt Busby and Alex Ferguson have truly succeeded in the Old Trafford hot seat with each casting uneasy shadows Should any football club fit the Great Man theory of history it is Manchester United. In the past 100 years, only Matt Busby and Alex Ferguson "
-    },
-    {
-      "id": "feed-nbya3x",
-      "title": "Change to carer’s allowance cliff-edge rule is not enough, victims say",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/2026/oct/27/unpaid-carers-chancellor-plan-scrap-allowance-cliff-edge-falls-short-budget",
-      "publishedAt": "2026-10-27T19:48:53.000Z",
-      "category": "uk",
-      "summary": "Digital taper system for benefit expected in budget, but those already hit with overpayments will still have to pay “On the surface it sounds really positive – and I really hope that it is,” says unpaid carer Guy Shahar of the government’s decision to abolish "
     },
     {
       "id": "feed-1e75d0g",
@@ -1230,7 +1240,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/major-lender-hsbcs-profits-up-32-as-higher-bank-tax-expected-in-budget-13604238",
       "publishedAt": "2026-10-27T06:38:00.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Another of the UK's biggest banks has posted billions in profits in part thanks to higher interest rates."
     },
     {
