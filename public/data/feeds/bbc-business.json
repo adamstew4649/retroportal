@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T08:18:14.909Z",
+  "updatedAt": "2026-10-28T09:13:06.091Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1lcxgpo",
+      "title": "Octopus Energy boss on standing charges",
+      "link": "https://www.bbc.co.uk/news/videos/cqe9lmgdnz45o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T08:36:45.000Z",
+      "summary": "CEO Greg Jackson spoke to BBC Breakfast after the chancellor announced cuts to gas bills for millions."
+    },
     {
       "id": "feed-1elcxih",
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T09:37:55.000Z",
       "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device."
-    },
-    {
-      "id": "feed-1jorhd2",
-      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T06:33:11.000Z",
-      "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks."
     }
   ]
 }
