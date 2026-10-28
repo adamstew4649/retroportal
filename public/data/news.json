@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T14:18:06.123Z",
-  "generatedAt": "2026-10-28T14:18:06.123Z",
+  "updatedAt": "2026-10-28T15:14:47.277Z",
+  "generatedAt": "2026-10-28T15:14:47.277Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -99,39 +99,69 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/business.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     }
   ],
   "articles": [
+    {
+      "id": "feed-ijamvx",
+      "title": "The one thing the chancellor didn't mention that will affect your pay",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o",
+      "publishedAt": "2026-10-28T15:11:48.000Z",
+      "category": "business",
+      "summary": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years."
+    },
+    {
+      "id": "feed-1wwabcg",
+      "title": "Tommy Robinson guilty of harassing two Daily Mail journalists",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o",
+      "publishedAt": "2026-10-28T15:11:32.000Z",
+      "category": "uk",
+      "summary": "The 43-year-old is convicted after a week-long trial at Southwark Crown Court."
+    },
     {
       "id": "feed-18lpi2l",
       "title": "Budget 2026 live: Healey announces £100 energy payment for millions and rise in bank tax",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
-      "publishedAt": "2026-10-28T14:15:52.000Z",
-      "category": "uk",
+      "publishedAt": "2026-10-28T15:06:21.000Z",
+      "category": "business",
       "summary": "Chancellor also announces tax relief for business founders, and funding to tackle rough sleeping and ‘new deal for datacentres’ Budget 2026: key points at a glance Martin Lewis said that, when he met John Healey this morning, the chancellor said that, having r"
     },
     {
-      "id": "feed-po2yhx",
-      "title": "South Africa v Australia: third men’s cricket Test, day two – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/28/south-africa-v-australia-third-test-day-two-cricket-newlands-cape-town-live-updates",
-      "publishedAt": "2026-10-28T14:15:12.000Z",
-      "category": "uk",
-      "summary": "Updates from the final match of the series at Newlands Any thoughts? Get in touch with an email 2nd over: Australia 5-0 (Renshaw 5, Head 0) All 12 balls so far have been faced by Renshaw, after that sixth-ball single. He carries on as he played in Durban, leav"
+      "id": "feed-mhypkg",
+      "title": "Budget 2026: Key points at a glance",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+      "publishedAt": "2026-10-28T15:04:50.000Z",
+      "category": "business",
+      "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans."
     },
     {
-      "id": "feed-11bi7x3",
-      "title": "Death toll rises to 64 after two trains collide in Spain – latest updates",
+      "id": "feed-jtv8kb",
+      "title": "Income tax: Healey’s budget leaves thresholds frozen again. How much more will you pay?",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-      "publishedAt": "2026-10-28T14:14:04.000Z",
-      "category": "uk",
-      "summary": "Dozens also injured after high-speed train crash in Toledo province Full report from Spain At least 30 people are believed to have died after two high-speed trains collided in the province of Toledo in Spain, with concerns the death toll could be much higher. "
+      "url": "https://www.theguardian.com/money/ng-interactive/2026/oct/28/budget-income-tax-thresholds-frozen-take-home-pay",
+      "publishedAt": "2026-10-28T15:01:13.000Z",
+      "category": "business",
+      "summary": "Tax policy means freezes reduce take-home pay as earnings rise in line with inflation Income tax thresholds are set to remain frozen after John Healey’s first budget as chancellor. One of the biggest tax rises in recent years has happened without a change in t"
+    },
+    {
+      "id": "feed-p9ln85",
+      "title": "‘Light therapy without remortgaging the house’: the best LED face masks – tested",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
+      "publishedAt": "2026-10-28T15:00:52.000Z",
+      "category": "technology",
+      "summary": "They claim to reduce fine lines, blemishes and redness – but which stand up to scrutiny? After consulting dermatologists and putting them to the test, we have crowned a brand new number one • The best anti-ageing creams, serums and treatments LED face masks ar"
     },
     {
       "id": "feed-wajpjg",
@@ -139,9 +169,229 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates",
-      "publishedAt": "2026-10-28T14:10:45.000Z",
+      "publishedAt": "2026-10-28T15:00:37.000Z",
       "category": "uk",
       "summary": "Brand, 51, has been charged with three counts of rape, three counts of sexual assault and one count of attempted indecent assault Content warning: this article contains references to allegations of sexual abuse which some readers might find distressing Winter "
+    },
+    {
+      "id": "feed-uqeq17",
+      "title": "Social media is full of weird video game mashups. Where are they all coming from?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
+      "publishedAt": "2026-10-28T15:00:05.000Z",
+      "category": "uk",
+      "summary": "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry • Don’t get Pushing Buttons delivered to your inbox? Sign up here If your social media algorithms have c"
+    },
+    {
+      "id": "feed-1u0cuco",
+      "title": "‘Les the bare-handed beekeeper asked if he should put them on his face. I said: Sure!’ Holly Lynton’s best photograph",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/28/bees-holly-lynton-best-photograph-bare-handed-odyssey",
+      "publishedAt": "2026-10-28T14:59:15.000Z",
+      "category": "uk",
+      "summary": "‘Les didn’t wear gloves as he needed to be able to feel the bees so he didn’t crush them. He looks like something out of The Odyssey’ The jumping-off point for my Bare Handed series was a bird becoming trapped in the netting around the raspberry bushes in my b"
+    },
+    {
+      "id": "feed-po2yhx",
+      "title": "South Africa v Australia: third men’s cricket Test, day two – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/28/south-africa-v-australia-third-test-day-two-cricket-newlands-cape-town-live-updates",
+      "publishedAt": "2026-10-28T14:59:11.000Z",
+      "category": "uk",
+      "summary": "Updates from the final match of the series at Newlands Any thoughts? Get in touch with an email 2nd over: Australia 5-0 (Renshaw 5, Head 0) All 12 balls so far have been faced by Renshaw, after that sixth-ball single. He carries on as he played in Durban, leav"
+    },
+    {
+      "id": "feed-13ynrqp",
+      "title": "UK growth forecast for 2027 slashed despite Healey’s budget measures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+      "publishedAt": "2026-10-28T14:57:29.000Z",
+      "category": "world",
+      "summary": "OBR outlook for living standards also downgraded as part of impact of Middle East conflict on economy Healey offers £100 payment to households to help navigate ‘global economic storms’ Budget 2026: key points at a glance Budget 2026 live – latest updates Brita"
+    },
+    {
+      "id": "feed-1klyyze",
+      "title": "Death toll rises to 64 with dozens injured after high-speed train collision in Spain – latest updates",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+      "publishedAt": "2026-10-28T14:55:19.000Z",
+      "category": "uk",
+      "summary": "Spanish transport minister suggests an ‘inexplicable’ traffic order preceded the crash Full report from Spain At least 30 people are believed to have died after two high-speed trains collided in the province of Toledo in Spain, with concerns the death toll cou"
+    },
+    {
+      "id": "feed-iyk5ou",
+      "title": "What we know so far about deadly Spain train crash",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
+      "publishedAt": "2026-10-28T14:53:38.000Z",
+      "category": "world",
+      "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid."
+    },
+    {
+      "id": "feed-1r007wy",
+      "title": "How much is the minimum wage going up by?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro",
+      "publishedAt": "2026-10-28T14:53:29.000Z",
+      "category": "business",
+      "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?"
+    },
+    {
+      "id": "feed-1aokw62",
+      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "publishedAt": "2026-10-28T14:52:11.000Z",
+      "category": "world",
+      "summary": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will redraw political lands"
+    },
+    {
+      "id": "feed-ex6xds",
+      "title": "Russell Brand tells court allegations made friends and colleagues turn against him",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo",
+      "publishedAt": "2026-10-28T14:52:07.000Z",
+      "category": "uk",
+      "summary": "The entertainer is giving evidence at his trial on charges including rape and assault, which he denies."
+    },
+    {
+      "id": "feed-1t2mmsx",
+      "title": "Your pay, energy bills and savings: How the Budget affects you",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo",
+      "publishedAt": "2026-10-28T14:50:31.000Z",
+      "category": "business",
+      "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how."
+    },
+    {
+      "id": "feed-s8bw1i",
+      "title": "Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
+      "publishedAt": "2026-10-28T14:41:25.000Z",
+      "category": "world",
+      "summary": "Department of Justice says it intends to appeal as administration tries to keep president’s ally Bill Essayli in office Sign up for the Breaking News US email Robert F Kennedy Jr , the US health secretary, faced backlash on Wednesday for a “wildly racist tirad"
+    },
+    {
+      "id": "feed-1tcf",
+      "title": "Tommy Robinson found guilty of harassing journalists",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/28/tommy-robinson-found-guilty-of-harassing-journalists",
+      "publishedAt": "2026-10-28T14:39:34.000Z",
+      "category": "uk",
+      "summary": "Daily Mail reporters and their families fled homes after far-right activist targeted them over coverage The far-right activist Tommy Robinson has been found guilty of harassing two journalists to the point where it caused them fear of violence. Journalists fro"
+    },
+    {
+      "id": "feed-6jan9",
+      "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+      "publishedAt": "2026-10-28T14:30:29.000Z",
+      "category": "world",
+      "summary": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billions Donald Trump said his administration is “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-warmin"
+    },
+    {
+      "id": "feed-25vzuv",
+      "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+      "publishedAt": "2026-10-28T14:29:34.000Z",
+      "category": "uk",
+      "summary": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40% Deadly Spanish rail collision – latest updates Spain’s high-speed rail network, the most extensive in Europe and the second largest in the world after "
+    },
+    {
+      "id": "feed-1fxrpl8",
+      "title": "Burnham insists 'no confusion at all' over his Brexit position",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqlyejngjenxo",
+      "publishedAt": "2026-10-28T14:29:29.000Z",
+      "category": "uk",
+      "summary": "The prime minister said it was his \"responsibility\" to improve the Brexit deal at a summit in Brussels next month."
+    },
+    {
+      "id": "feed-owaylu",
+      "title": "Israel's election result is messy - here's why",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno",
+      "publishedAt": "2026-10-28T14:26:24.000Z",
+      "category": "world",
+      "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell."
+    },
+    {
+      "id": "feed-1okm9v4",
+      "title": "Legal bid to overturn Drumcree march ban fails",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c674p7v91wx8o",
+      "publishedAt": "2026-10-28T14:24:24.000Z",
+      "category": "uk",
+      "summary": "The High Court in Belfast has rules that Sir Chris Bryant's decision made on 9 October was lawful."
+    },
+    {
+      "id": "feed-l1k2re",
+      "title": "London Broncos to go without £1.3m RFL funding if they enter Super League next year",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/28/london-broncos-to-go-without-13m-rfl-funding-if-they-enter-super-league-next-year",
+      "publishedAt": "2026-10-28T14:22:09.000Z",
+      "category": "uk",
+      "summary": "Rugby Football League set to ratify elevation imminently Partnership with NRL not expected now till 2028 London Broncos have agreed to a condition from the existing 14 Super League clubs that they must relinquish any rights to around £1.3m in central distribut"
+    },
+    {
+      "id": "feed-1vcvd8m",
+      "title": "Tommy Robinson guilty of harassing two journalists",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/tommy-robinson-found-guilty-of-harassing-two-journalists-13604466",
+      "publishedAt": "2026-10-28T14:20:00.000Z",
+      "category": "uk",
+      "summary": "Tommy Robinson has been found guilty of harassing two MailOnline journalists."
+    },
+    {
+      "id": "feed-gn54wl",
+      "title": "JPMorgan Chase faces £100m-plus tax bill from Healey raid",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/jpmorgan-chase-faces-100m-plus-tax-bill-from-healey-raid-13604869",
+      "publishedAt": "2026-10-28T14:18:00.000Z",
+      "category": "business",
+      "summary": "JPMorgan Chase will pay additional taxes of between £100m and £150m as a result of the corporation tax surcharge hike announced by John Healey in his budget on Wednesday - a bill which could renew doubts about the construction of its new London headquarters."
+    },
+    {
+      "id": "feed-1m5rus6",
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "publishedAt": "2026-10-28T14:16:24.000Z",
+      "category": "uk",
+      "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by "
+    },
+    {
+      "id": "feed-12kzu7l",
+      "title": "Racism needs to be understood as a global phenomenon – our humanity depends on it",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/28/racism-global-phenomenon-humanity",
+      "publishedAt": "2026-10-28T14:15:55.000Z",
+      "category": "uk",
+      "summary": "In order to eliminate global racism, we must dismantle the ideological architecture that allows it to thrive worldwide Around the world, racism is fueling a new wave of global unrest. In recent weeks, demonstrations in France turned violent amid mounting frust"
     },
     {
       "id": "feed-1ng53il",
@@ -174,16 +424,6 @@
       "summary": "Billed as the first end-to-end AI-created series on a major streaming service, this Turkish show looks like the result of the prompt ‘make it cinematic’ Just as the world reels from Elon Musk’s AI-powered The Odyssey remake – though “remake” feels rather gener"
     },
     {
-      "id": "feed-s8bw1i",
-      "title": "Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
-      "publishedAt": "2026-10-28T14:00:02.000Z",
-      "category": "world",
-      "summary": "Department of Justice says it intends to appeal as administration tries to keep president’s ally Bill Essayli in office Sign up for the Breaking News US email Flavio Bolsonaro, the son of jailed former Brazilian president Jair Bolsonaro who recently lost the r"
-    },
-    {
       "id": "feed-f9z1bf",
       "title": "Give UK workers right to know colleagues’ pay to prevent disparities, says watchdog",
       "source": "The Guardian",
@@ -192,36 +432,6 @@
       "publishedAt": "2026-10-28T13:58:01.000Z",
       "category": "uk",
       "summary": "EHRC says transparency needed to prevent pay discrimination, particularly against women Workers should have a legal right to know their colleagues’ pay to help prevent pay discrimination, particularly against women, the UK’s human rights watchdog has said. The"
-    },
-    {
-      "id": "feed-1aokw62",
-      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "publishedAt": "2026-10-28T13:55:25.000Z",
-      "category": "world",
-      "summary": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will redraw political lands"
-    },
-    {
-      "id": "feed-1t2mmsx",
-      "title": "Your pay, energy bills and savings: How the Budget affects you",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo",
-      "publishedAt": "2026-10-28T13:51:07.000Z",
-      "category": "business",
-      "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how."
-    },
-    {
-      "id": "feed-mhypkg",
-      "title": "Budget 2026: Key points at a glance",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
-      "publishedAt": "2026-10-28T13:48:29.000Z",
-      "category": "business",
-      "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans."
     },
     {
       "id": "feed-isvy8e",
@@ -244,16 +454,6 @@
       "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador A jet carrying the Brazilian far-right senator Flávio Bolsonaro has landed in Miami, Florida, where the losing candidate in Sunday’s presidential elec"
     },
     {
-      "id": "feed-1fxrpl8",
-      "title": "Burnham insists 'no confusion at all' over his Brexit position",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqlyejngjenxo",
-      "publishedAt": "2026-10-28T13:38:44.000Z",
-      "category": "uk",
-      "summary": "The prime minister said it was his \"responsibility\" to improve the Brexit deal at a summit in Brussels next month."
-    },
-    {
       "id": "feed-1i2cspq",
       "title": "US teen whose father arranged her marriage to Islamic State fighter convicted for weapons training",
       "source": "The Guardian",
@@ -262,16 +462,6 @@
       "publishedAt": "2026-10-28T13:36:39.000Z",
       "category": "world",
       "summary": "‘You try to leave, it is death,’ Halima Salman testified. Her mother and defense attorneys wept after the verdict A New York woman whose father took her to Syria as a teenager and arranged her marriage to an Islamic State fighter was convicted on Tuesday of re"
-    },
-    {
-      "id": "feed-1okm9v4",
-      "title": "Legal bid to overturn Drumcree march ban fails",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c674p7v91wx8o",
-      "publishedAt": "2026-10-28T13:36:27.000Z",
-      "category": "uk",
-      "summary": "The High Court in Belfast has rules that Sir Chris Bryant's decision made on 9 October was lawful."
     },
     {
       "id": "feed-1t43jev",
@@ -314,34 +504,14 @@
       "summary": "US health secretary falsely claims at Mike Rogers rally that Arabs have never won major prizes in science or literature Robert F Kennedy Jr , the US health secretary, faced backlash on Wednesday for a “wildly racist tirade” during a campaign stop in Michigan i"
     },
     {
-      "id": "feed-p4mvvv",
-      "title": "Max Dowman’s Fleetwood fracas leaves him, Arsenal and Arteta red-faced",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/28/max-dowman-fleetwood-red-card-arsenal-mikel-arteta-carabao-cup",
-      "publishedAt": "2026-10-28T13:16:53.000Z",
-      "category": "uk",
-      "summary": "Teenager was maybe harshly sent off in the Carabao Cup tie but his reaction was a mistake he will learn from, while his manager might also have regrets Mikel Arteta’s reaction said it all. As Max Dowman trudged towards the touchline after becoming the youngest"
-    },
-    {
       "id": "feed-190rx1w",
       "title": "Business secretary writes to Poundland owner as administration fears build",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/28/business-secretary-jonathan-reynolds-poundland-owner-gordon-brothers-administration-fears",
       "publishedAt": "2026-10-28T13:16:12.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Jonathan Reynolds has written to Gordon Brothers, which bought retailer for £1 last summer, to ‘establish the facts’ The business secretary has written to the owner of Poundland amid fears that the cut-price retailer could collapse into administration, threate"
-    },
-    {
-      "id": "feed-om8ged",
-      "title": "Russell Brand tells court allegations had devastating impact on him",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo",
-      "publishedAt": "2026-10-28T13:16:10.000Z",
-      "category": "uk",
-      "summary": "The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Court."
     },
     {
       "id": "feed-wky2z",
@@ -354,54 +524,14 @@
       "summary": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\""
     },
     {
-      "id": "feed-bshvlz",
-      "title": "Girls review – a story of friendship amidst extreme misogynist violence",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/stage/2026/oct/28/girls-review-a-story-of-friendship-amidst-extreme-misogynist-violence",
-      "publishedAt": "2026-10-28T13:05:48.000Z",
-      "category": "uk",
-      "summary": "Young Vic, London Recalling Boko Haram’s abduction of schoolgirls in Chibok in 2014, Theresa Ikoko’s fierce and tender play reveals how three teenagers find hope and laughter under the most horrific circumstances Three girls huddle together, playing childish g"
-    },
-    {
       "id": "feed-7wh71b",
       "title": "Mark Carney is celebrated abroad – while consolidating power at home | Shiri Pasternak",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/28/mark-carney-trump-davos",
       "publishedAt": "2026-10-28T13:00:04.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The Canadian prime minister’s reckoning with Trumpism in Davos clashes with his attacks on environmental, Indigenous and labour rights The Canadian prime minister is a hero around the world for his Davos speech that reckoned with a reconfiguration of power in "
-    },
-    {
-      "id": "feed-mmqlbf",
-      "title": "How to turn excess custard into a fruity treat – recipe",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/food/2026/oct/28/how-to-turn-excess-custard-fruity-treat-recipe-zero-waste-cooking",
-      "publishedAt": "2026-10-28T13:00:04.000Z",
-      "category": "uk",
-      "summary": "A fool is absurdly simple – just fruit stirred through custard or yoghurt with. maybe a bit of cream – and you can then add whatever bits and bobs you fancy from the fridge Fool is one of my go-to desserts for two reasons: first, its pure simplicity – it’s lit"
-    },
-    {
-      "id": "feed-swrcdp",
-      "title": "‘You have to believe’: Qwan’tez Stiggers, the New York Jets player who went from delivery driver to the NFL",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/no-helmets-required/2026/oct/28/qwantez-stiggers-new-york-jets-nfl-delivery-driver-football",
-      "publishedAt": "2026-10-28T13:00:03.000Z",
-      "category": "uk",
-      "summary": "When Stiggers’ father died, he dropped out of college to help his mother and 12 siblings. He thought his football dream had ended but made it in the end Qwan’tez Stiggers had only been in college for a few days when his world fell apart. Seven months after the"
-    },
-    {
-      "id": "feed-mdi2t4",
-      "title": "Chocolate chilli tortillas, date sugar bars and dipped figs – upgrade your seasonal treats",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/food/2026/oct/28/chocolate-chilli-tortillas-date-sugar-bars-dipped-figs-upgrade-your-seasonal-treats",
-      "publishedAt": "2026-10-28T13:00:03.000Z",
-      "category": "uk",
-      "summary": "Unexpected flavour combos and luxury versions of old favourites are this month’s cocoa tips Never in a million years did I expect to like chocolate tortillas, and yet here I am recommending this Frankenstein’s monster: M&S’s Dark Chocolate Chilli Tortillas . I"
     },
     {
       "id": "feed-1rfif76",
@@ -464,16 +594,6 @@
       "summary": "A shelter says it has looked after 150 more cats and kittens this summer than last year."
     },
     {
-      "id": "feed-iyk5ou",
-      "title": "What we know so far about deadly Spain train crash",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo",
-      "publishedAt": "2026-10-28T12:14:44.000Z",
-      "category": "world",
-      "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid."
-    },
-    {
       "id": "feed-dcfhlp",
       "title": "Terminally ill mum who can't talk, walk or dress herself refused Pip payment",
       "source": "BBC News",
@@ -524,16 +644,6 @@
       "summary": "A group of suspects charged with maliciously damaging a Scottish golf course owned by US President Donald Trump - an alleged offence prosecutors will argue had a \"terrorist connection\" - will stand trial in 2028."
     },
     {
-      "id": "feed-1sd5wk9",
-      "title": "Both blocs claim upper hand in crucial Israeli election | First Thing",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/first-thing-israeli-election-elon-musk-ai-odyssey",
-      "publishedAt": "2026-10-28T11:33:27.000Z",
-      "category": "world",
-      "summary": "Benjamin Netanyahu vows to form new coalition while opposition bloc leader says result shows prime minister should step down. Plus, a scathing review of Elon Musk’s AI-generated version of The Odyssey Good morning. Israel could be in for weeks of political hag"
-    },
-    {
       "id": "feed-qqvf7i",
       "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
       "source": "BBC News",
@@ -552,16 +662,6 @@
       "publishedAt": "2026-10-28T11:30:01.000Z",
       "category": "technology",
       "summary": "Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400 People in a Mississippi neighborhood, many of whom dislike a nearby power plant central to Elon Musk ’s artificial intelligence am"
-    },
-    {
-      "id": "feed-15b0j6g",
-      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "publishedAt": "2026-10-28T11:21:01.000Z",
-      "category": "world",
-      "summary": "Projections show votes for Palestinian parties surged in a tight contest that saw the highest turnout in decades Israel election – live updates Israel election: what we know so far Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political"
     },
     {
       "id": "feed-7lyn6w",
@@ -664,16 +764,6 @@
       "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
     },
     {
-      "id": "feed-18la5d6",
-      "title": "Plaid demands more cash, but how could the Budget affect Wales?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ex97l1n7yo",
-      "publishedAt": "2026-10-28T10:15:57.000Z",
-      "category": "business",
-      "summary": "Welsh Finance Minister Elin Jones has called for a spending plan that \"finally treats us fairly\"."
-    },
-    {
       "id": "feed-1mc9pkw",
       "title": "Cruise ship left stranded in Cambodia after 'soaring fuel costs'",
       "source": "Sky News",
@@ -682,16 +772,6 @@
       "publishedAt": "2026-10-28T10:05:00.000Z",
       "category": "world",
       "summary": "A luxury cruise ship on a three-year, round-the-world voyage has been forced to suspend the trip in Cambodia due to rising fuel costs, operators have said."
-    },
-    {
-      "id": "feed-1fx7nfv",
-      "title": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
-      "publishedAt": "2026-10-28T10:00:05.000Z",
-      "category": "world",
-      "summary": "Mexican police had said they found Shayna Feinman in Tijuana, raising the hopes of missing Arizonan’s family Arizona authorities say their Mexican counterparts were resoundingly mistaken when they publicly claimed recently that they found alive a woman who was"
     },
     {
       "id": "feed-1hhy4m",
@@ -884,16 +964,6 @@
       "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
     },
     {
-      "id": "feed-1favhs3",
-      "title": "Watch: What happens now after close vote in Israeli election?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o",
-      "publishedAt": "2026-10-28T04:22:59.000Z",
-      "category": "world",
-      "summary": "Polls have closed in the Israeli election, but there is no clear winner."
-    },
-    {
       "id": "feed-1x862mz",
       "title": "UK set for calmer weather - but 'dense' fog may cause disruption",
       "source": "Sky News",
@@ -974,16 +1044,6 @@
       "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population."
     },
     {
-      "id": "feed-1hfc7qj",
-      "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
-      "publishedAt": "2026-10-27T23:07:06.000Z",
-      "category": "business",
-      "summary": "President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’ Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed ha"
-    },
-    {
       "id": "feed-efxm7c",
       "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
       "source": "The Guardian",
@@ -1024,11 +1084,11 @@
       "summary": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it"
     },
     {
-      "id": "feed-px2kig",
+      "id": "feed-1erfm38",
       "title": "Flavio Bolsonaro lands in US after fleeing Brazil following election defeat",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/flavio-bolsonaro-flies-from-us-after-brazil-election-defeat-reports-he-fled-to-miami-13604558",
+      "url": "https://news.sky.com/story/flavio-bolsonaro-lands-in-miami-after-fleeing-brazil-following-election-defeat-13604558",
       "publishedAt": "2026-10-27T21:35:00.000Z",
       "category": "world",
       "summary": "Flavio Bolsonaro and his family have arrived in the US after fleeing Brazil following Sunday's presidential election run-off defeat."
@@ -1132,16 +1192,6 @@
       "publishedAt": "2026-10-27T17:25:29.000Z",
       "category": "uk",
       "summary": "Jayden Long and Eddie Hill died after police failed to adequately escalate a dropped 999 call."
-    },
-    {
-      "id": "feed-4lrkjg",
-      "title": "UK and EU officials to discuss freedom of movement",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo",
-      "publishedAt": "2026-10-27T17:20:40.000Z",
-      "category": "uk",
-      "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
     },
     {
       "id": "feed-31amdz",
@@ -1634,16 +1684,6 @@
       "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts."
     },
     {
-      "id": "feed-uy9374",
-      "title": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
-      "publishedAt": "2026-10-25T14:00:06.000Z",
-      "category": "technology",
-      "summary": "Actor’s storylines in the famous soap will be recut into vertical micro-episodes to be watched on phones – but her fellow cast members say they haven’t been consulted The long-running Australian soap opera Neighbours is being recut with AI into a microdrama de"
-    },
-    {
       "id": "feed-1s7hbt5",
       "title": "Lara Croft is 30! We look at the video game icon’s biggest blunders",
       "source": "The Guardian",
@@ -1712,16 +1752,6 @@
       "publishedAt": "2026-10-24T00:05:45.000Z",
       "category": "technology",
       "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
-    },
-    {
-      "id": "feed-hrxzuo",
-      "title": "A farewell to BioWare, maker of some of the best games of the 21st century | Lucy James",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/games/2026/oct/23/bioware-rpg-games-ea-closure-mass-effect",
-      "publishedAt": "2026-10-23T14:44:48.000Z",
-      "category": "technology",
-      "summary": "The closure of the studio responsible for some of the best games of the 21st century leaves the world of RPGs feeling smaller without the hope of another instalment of the much-loved sci-fi series Earlier this week, EA announced the closure of BioWare, a game "
     },
     {
       "id": "feed-2dgscm",
@@ -1872,26 +1902,6 @@
       "publishedAt": "2026-10-21T04:49:00.000Z",
       "category": "technology",
       "summary": "Exceeding a key global climate target is now \"imminent and unavoidable\", United Nations (UN) scientists have warned."
-    },
-    {
-      "id": "feed-smkkty",
-      "title": "Japan launches mission to Mars to bring back samples from its moon",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/japan-launches-mission-to-mars-to-bring-back-samples-from-one-of-its-moons-13601139",
-      "publishedAt": "2026-10-19T20:04:00.000Z",
-      "category": "technology",
-      "summary": "Japan launched a spacecraft towards Mars in a ground-breaking mission to bring back samples from the largest of the planet's two moons."
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
