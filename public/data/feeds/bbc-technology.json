@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T23:52:42.060Z",
+  "updatedAt": "2026-10-28T00:20:08.781Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-1pzdedn",
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T00:01:10.000Z",
+      "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter."
+    },
     {
       "id": "feed-19p3gr8",
       "title": "Tech Life",
@@ -102,14 +110,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-22T10:17:26.000Z",
       "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet."
-    },
-    {
-      "id": "feed-1vjdvoz",
-      "title": "'500 new vulnerabilities' found in government, says AI minister",
-      "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T10:08:44.000Z",
-      "summary": "'500 new vulnerabilities' found in government, says AI minister"
     },
     {
       "id": "feed-1o4g26t",
