@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T00:20:08.779Z",
+  "updatedAt": "2026-10-28T01:27:28.048Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,12 +8,44 @@
   },
   "articles": [
     {
+      "id": "feed-z37l7n",
+      "title": "Suspicious package sent to hotel contained explosive device",
+      "link": "https://www.bbc.co.uk/news/articles/c6lykg0nkll0o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T01:16:25.000Z",
+      "summary": "Police condemn the \"reckless and targeted attack\" after the explosive was sent to a Londonderry hotel."
+    },
+    {
+      "id": "feed-1ew5sk4",
+      "title": "Thick fog to create dangerous driving conditions for UK commuters",
+      "link": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T01:09:35.000Z",
+      "summary": "After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week."
+    },
+    {
+      "id": "feed-l630k",
+      "title": "The Papers: 'Budget for a difficult moment' and Netanyahu's 'fate in balance'",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7y3dyv382o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T00:42:03.000Z",
+      "summary": "Most of the papers focus on the Budget, ahead of its delivery at lunchtime on Wednesday."
+    },
+    {
       "id": "feed-qqvf7i",
       "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
       "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo",
       "source": "BBC News",
       "publishedAt": "2026-10-28T00:03:05.000Z",
       "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget."
+    },
+    {
+      "id": "feed-x01oav",
+      "title": "NI patient living in 'horrific pain' due to UK-wide drugs shortage",
+      "link": "https://www.bbc.co.uk/news/articles/cr20w5vx39peo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T00:01:03.000Z",
+      "summary": "Jill Kenning says she has been unable to get a drug she uses to manage her condition."
     },
     {
       "id": "feed-1fxe93n",
@@ -96,14 +128,6 @@
       "summary": "The man is asking the High Court to prevent two news organisations from publishing the allegations."
     },
     {
-      "id": "feed-1r1kxn2",
-      "title": "Russell Brand told police he never had non-consensual sex",
-      "link": "https://www.bbc.co.uk/news/articles/cm74p7w4dwpko",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T16:46:03.000Z",
-      "summary": "His trial hears statements he gave to police between 2023 and 2025, denying allegations against him."
-    },
-    {
       "id": "feed-1aesseq",
       "title": "Funeral assault dad arrested after court no-show",
       "link": "https://www.bbc.co.uk/news/articles/cqj9k8r00829o",
@@ -126,30 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T15:01:27.000Z",
       "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
-    },
-    {
-      "id": "feed-10l3i4u",
-      "title": "Parents who killed their baby have sentences increased",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxjjxwl1yo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T13:24:40.000Z",
-      "summary": "Klevi Pirjani, 38, and 35-year-old Nivalda Pirjani, murdered their baby, Miguel in 2024."
-    },
-    {
-      "id": "feed-1j7vnai",
-      "title": "Ex-Britain First leader arrested in HMO attacks investigation",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2wrpr47njo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T12:47:31.000Z",
-      "summary": "Ashlea Simon says she was arrested at Manchester Airport in connection with her identifying HMOs."
-    },
-    {
-      "id": "feed-18gk01m",
-      "title": "More high winds hit parts of UK as Storm Boelo clean-up continues",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T10:30:40.000Z",
-      "summary": "A Met Office weather warning is in place for Scotland and Northern Ireland for much of Tuesday."
     }
   ]
 }
