@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T16:13:51.686Z",
+  "updatedAt": "2026-10-28T17:13:01.679Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-z9mayv",
+      "title": "Chris Mason: Budget felt cautious despite its range of small measures",
+      "link": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T16:52:16.000Z",
+      "summary": "The chancellor has had to grapple with a mix of public finances and household finances being a mess."
+    },
     {
       "id": "feed-1okm9v4",
       "title": "Legal bid to overturn Drumcree march ban fails",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T18:32:54.000Z",
       "summary": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday."
-    },
-    {
-      "id": "feed-1tqijqt",
-      "title": "Police criticised for delay in 999 mountain call response after two young climbers die",
-      "link": "https://www.bbc.co.uk/news/articles/cw20348xyjg2o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T17:25:29.000Z",
-      "summary": "Jayden Long and Eddie Hill died after police failed to adequately escalate a dropped 999 call."
     }
   ]
 }

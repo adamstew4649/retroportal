@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T16:13:51.687Z",
+  "updatedAt": "2026-10-28T17:13:01.681Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1nh3tv2",
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-28T16:45:16.000Z",
+      "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013."
+    },
     {
       "id": "feed-iyk5ou",
       "title": "What we know so far about deadly Spain train crash",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T18:28:23.000Z",
       "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
-    },
-    {
-      "id": "feed-31amdz",
-      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T17:11:27.000Z",
-      "summary": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong."
     }
   ]
 }
