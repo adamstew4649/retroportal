@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T06:05:01.028Z",
+  "updatedAt": "2026-10-29T07:29:45.726Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-ffrbhh",
+      "title": "RAF base chemical contamination worst in UK, report says",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1je3034ko",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T06:13:24.000Z",
+      "summary": "Testing at RAF Upper Heyford finds \"unacceptable\" levels of polyfluoroalkyl substances (PFAS)."
+    },
     {
       "id": "feed-1jfekyz",
       "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T10:30:40.000Z",
       "summary": "A Met Office weather warning is in place for Scotland and Northern Ireland for much of Tuesday."
-    },
-    {
-      "id": "feed-2jk8ad",
-      "title": "Political battle intensifies within Labour over Rosebank oil field",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T18:09:49.000Z",
-      "summary": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans."
     }
   ]
 }

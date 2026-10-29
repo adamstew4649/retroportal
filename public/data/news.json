@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T06:05:01.031Z",
-  "generatedAt": "2026-10-29T06:05:01.031Z",
+  "updatedAt": "2026-10-29T07:29:45.733Z",
+  "generatedAt": "2026-10-29T07:29:45.733Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 7
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -99,19 +99,179 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/business.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     }
   ],
   "articles": [
     {
-      "id": "feed-pturw1",
-      "title": "Liz Truss has brought our divided nation together – in mockery of her | Emma Brockes",
+      "id": "feed-1urcmb2",
+      "title": "Huntingdon train attacker asked man 'do you want to die?', trial hears",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz185z4nno",
+      "publishedAt": "2026-10-29T07:27:33.000Z",
+      "category": "uk",
+      "summary": "Anthony Williams denies 14 counts of attempted murder, including 10 on a train in Cambridgeshire."
+    },
+    {
+      "id": "feed-1fa61l2",
+      "title": "Woman, 19, dies after masked gunmen opened fire outside Brisbane pub",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/liz-truss-new-book-prime-minister-divided-nation",
-      "publishedAt": "2026-10-29T06:00:26.000Z",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/29/woman-19-dies-after-masked-gunmen-opened-fire-outside-brisbane-pub-ntwnfb",
+      "publishedAt": "2026-10-29T07:11:36.000Z",
+      "category": "world",
+      "summary": "Vana-Reese Schuster-Togiatau was injured during a drive-by shooting outside Fitzy’s Loganholme in the city’s south on Saturday Get our breaking news email , free app or daily news podcast A 19-year-old woman who was on a night out with friends has died after a"
+    },
+    {
+      "id": "feed-1bknzz8",
+      "title": "Wicker review – Olivia Colman finds the perfect lover in intriguing folk-horror romance",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance",
+      "publishedAt": "2026-10-29T07:00:26.000Z",
       "category": "uk",
-      "summary": "Though times are hard and days are dark, the former PM’s latest book reminds us of the fun to be had when a figure is so ridiculous but cannot see it In these times of social and political division, it’s worth doing a quick audit of what keeps us together. Whe"
+      "summary": "Colman stars as a depressed and bullied fisherwoman in medieval England. Fortunately, Peter Dinklage’s basketmaker delivers the answer to her dreams – an Alexander Skarsgård made of wicker The spirit of mystery author Shirley Jackson is interestingly revived i"
+    },
+    {
+      "id": "feed-1dgqgsz",
+      "title": "Are You With Me Now? by Hanif Kureishi review – back to basics",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/books/2026/oct/29/are-you-with-me-now-by-hanif-kureishi-review-back-to-basics",
+      "publishedAt": "2026-10-29T07:00:26.000Z",
+      "category": "uk",
+      "summary": "After his catastrophic accident, the rebel writer’s musings on everything from sex chatbots to film stars have become gloriously unleashed Some months after returning home, after a grim year in hospitals in Rome and London, Hanif Kureishi begins to rebel. Not "
+    },
+    {
+      "id": "feed-46cdb5",
+      "title": "Toblerone owner sues British vegan chocolate brand over chunky shape",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/oct/29/toblerone-owner-sues-british-vegan-chocolate-brand-over-chunky-shape",
+      "publishedAt": "2026-10-29T07:00:25.000Z",
+      "category": "uk",
+      "summary": "Catherine’s Originals denies Mondelēz claims in London high court of ‘passing off’ and trademark infringement The owner of Toblerone is taking legal action against a tiny British vegan chocolate brand which it claims has been copying the Swiss chocolate bar’s "
+    },
+    {
+      "id": "feed-1y7thci",
+      "title": "‘Looming stone towers like Maya temples’: a hike through Snowdonia’s slate country",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/travel/2026/oct/29/snowdonia-slate-trail-walk-north-wales",
+      "publishedAt": "2026-10-29T07:00:25.000Z",
+      "category": "uk",
+      "summary": "A new trail in the national park traces the legacy of Welsh industry, while offering some of the UK’s finest riverside and mountain walks The vital moment comes a couple of hours into the walk. I drop down from a tussocky hill towards the village of Y Fron. Th"
+    },
+    {
+      "id": "feed-ozrmxk",
+      "title": "‘Just come in’: 30 years of Maggie’s cancer care centres – in pictures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/29/30-years-of-maggies-centres-in-pictures",
+      "publishedAt": "2026-10-29T07:00:25.000Z",
+      "category": "uk",
+      "summary": "A new photography exhibition marks 30 years of Maggie’s centres , which offer free practical, emotional and social support to people affected by cancer. Inspired by the phrase ‘just come in’ – the ethos at the centre of every Maggie’s – photographer Tabitha Ju"
+    },
+    {
+      "id": "feed-1npxla3",
+      "title": "Lambie scolded by ADF chief over hidden camera revelation – as it happened",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "publishedAt": "2026-10-29T06:58:35.000Z",
+      "category": "world",
+      "summary": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determ"
+    },
+    {
+      "id": "feed-hghmv8",
+      "title": "Chancellor says government has 'moral duty' to help young people out of work",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo",
+      "publishedAt": "2026-10-29T06:56:58.000Z",
+      "category": "uk",
+      "summary": "Chancellor John Healey says any cuts to welfare will be done \"in a Labour way\"."
+    },
+    {
+      "id": "feed-xn7op8",
+      "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "publishedAt": "2026-10-29T06:55:28.000Z",
+      "category": "world",
+      "summary": "With the final count unlikely to shift results significantly, experts say Gadi Eisenkot’s hopes of unseating Benjamin Netanyahu rest on his willingness to work with Palestinian parties Full report: Coalition talks loom in Israel Analysis: Israel’s choice: Neta"
+    },
+    {
+      "id": "feed-y415ns",
+      "title": "Hello Kitty company cuts ties with Japanese spy show after China outcry",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry",
+      "publishedAt": "2026-10-29T06:38:01.000Z",
+      "category": "business",
+      "summary": "Sanrio ends association with Netflix TV drama Vivant after Chinese state media decried portrayal of ruthless Chinese agents as a ‘deliberate smear’ The company behind the successful Hello Kitty franchise has apologised and ended its commercial tie-up with a Ja"
+    },
+    {
+      "id": "feed-1hejtfk",
+      "title": "'We need help for small businesses, not punishment'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwxplv1zo",
+      "publishedAt": "2026-10-29T06:27:28.000Z",
+      "category": "business",
+      "summary": "People in Bilston react to the new Budget set out by Chancellor John Healey."
+    },
+    {
+      "id": "feed-1txw9o4",
+      "title": "Haulier blames fuel prices for diesel theft",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzdwjp03lo",
+      "publishedAt": "2026-10-29T06:17:02.000Z",
+      "category": "business",
+      "summary": "Martin Pinches said someone had stolen 400 litres of diesel from two of his lorries"
+    },
+    {
+      "id": "feed-1k5go8t",
+      "title": "'Super offensive' - We love how we look but AI tried to 'fix' our visible differences",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o",
+      "publishedAt": "2026-10-29T06:13:33.000Z",
+      "category": "uk",
+      "summary": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results."
+    },
+    {
+      "id": "feed-ffrbhh",
+      "title": "RAF base chemical contamination worst in UK, report says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1je3034ko",
+      "publishedAt": "2026-10-29T06:13:24.000Z",
+      "category": "science",
+      "summary": "Testing at RAF Upper Heyford finds \"unacceptable\" levels of polyfluoroalkyl substances (PFAS)."
+    },
+    {
+      "id": "feed-a1hbot",
+      "title": "NHS Western Isles prescribing weight loss drugs at triple the rate of other health boards",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz4g0zgldo",
+      "publishedAt": "2026-10-29T06:13:11.000Z",
+      "category": "uk",
+      "summary": "A new report finds \"significant variation\" between Scotland's health boards prescribing new medicines."
+    },
+    {
+      "id": "feed-1y8yc25",
+      "title": "Mum of critically ill baby denied hospital food as she wasn't breastfeeding",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrdkn4v36po",
+      "publishedAt": "2026-10-29T06:12:07.000Z",
+      "category": "uk",
+      "summary": "Sophie Price had given birth in the same hospital five days earlier but was denied a hot meal."
     },
     {
       "id": "feed-1lnnhgn",
@@ -122,6 +282,16 @@
       "publishedAt": "2026-10-29T06:00:26.000Z",
       "category": "uk",
       "summary": "Exclusive: Backbenchers voice alarm over ‘intolerable position’ faced by Miatta Fahnbulleh over oilfield decision Furious Labour MPs have been lobbying the prime minister and chancellor not to overrule the energy secretary should she decide to block the Roseba"
+    },
+    {
+      "id": "feed-pturw1",
+      "title": "Liz Truss has brought our divided nation together – in mockery of her | Emma Brockes",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/liz-truss-new-book-prime-minister-divided-nation",
+      "publishedAt": "2026-10-29T06:00:26.000Z",
+      "category": "uk",
+      "summary": "Though times are hard and days are dark, the former PM’s latest book reminds us of the fun to be had when a figure is so ridiculous but cannot see it In these times of social and political division, it’s worth doing a quick audit of what keeps us together. Whe"
     },
     {
       "id": "feed-ubw0x2",
@@ -161,7 +331,7 @@
       "url": "https://www.theguardian.com/uk-news/2026/oct/29/montenegro-embassy-pimlico-london-neighbour-sues-council",
       "publishedAt": "2026-10-29T06:00:24.000Z",
       "category": "uk",
-      "summary": "Case in Pimlico is latest instance of tensions between small countries seeking a space in capital and residents It is not a classic neighbour-from-hell dispute, what with the protagonist inviting everyone over for evening drinks and canapés. But the sudden con"
+      "summary": "Exclusive: Case in Pimlico is latest instance of tensions between small countries seeking a space in capital and residents It is not a classic neighbour-from-hell dispute, what with the protagonist inviting everyone over for evening drinks and canapés. But the"
     },
     {
       "id": "feed-105yw8s",
@@ -200,28 +370,8 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo",
       "publishedAt": "2026-10-29T05:57:15.000Z",
-      "category": "technology",
-      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
-    },
-    {
-      "id": "feed-3xlz8c",
-      "title": "Healey promises reduction in welfare bill before next election",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o",
-      "publishedAt": "2026-10-29T05:57:01.000Z",
       "category": "uk",
-      "summary": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget."
-    },
-    {
-      "id": "feed-ef3vyu",
-      "title": "Australian politics live: PM grilled over golf club grant again as five ejected from question time; woman dies after drive-by shooting",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "publishedAt": "2026-10-29T05:41:39.000Z",
-      "category": "world",
-      "summary": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determ"
+      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
     },
     {
       "id": "feed-bofxsr",
@@ -264,16 +414,6 @@
       "summary": "Thursday's papers focus entirely on John Healey's first Budget that included £100 for energy bills and a bank tax."
     },
     {
-      "id": "feed-xn7op8",
-      "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "publishedAt": "2026-10-29T05:25:11.000Z",
-      "category": "world",
-      "summary": "With the final count unlikely to shift results significantly, experts say Gadi Eisenkot’s hopes of unseating Benjamin Netanyahu rest on his willingness to work with Palestinian parties Full report: Coalition talks loom in Israel Analysis: Israel’s choice: Neta"
-    },
-    {
       "id": "feed-1u2g6o7",
       "title": "‘The more you earn, the less you keep’: readers react to the budget",
       "source": "The Guardian",
@@ -300,48 +440,18 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/money/2026/oct/29/john-healey-energy-support-package-budget-explainer",
       "publishedAt": "2026-10-29T05:00:26.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Chancellor’s ‘new course’ includes a £100 one-off payment, low-carbon upgrade loans and an end to standing charges John Healey has unveiled a package of support for households being buffeted by “global economic storms”. “I’m setting a new course to get energy "
     },
     {
-      "id": "feed-dh3snn",
-      "title": "Serbia’s students achieved the impossible. Europe must not fail them now | Srđjan Cvijić",
+      "id": "feed-a9ofml",
+      "title": "‘There has to be a bolder shift’: retail and hospitality businesses assess relief in budget",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/serbias-students-achieved-impossible-europe-must-not-fail-them-now",
-      "publishedAt": "2026-10-29T05:00:26.000Z",
-      "category": "uk",
-      "summary": "Some EU leaders courted the authoritarian Vučić regime – they must offer this reborn democracy a future within the union As polling stations closed across Serbia on Sunday evening, riot police were deploying around the presidency in Belgrade. Many of us feared"
-    },
-    {
-      "id": "feed-6ufg5c",
-      "title": "TV tonight: it’s already time for the year’s first Christmas special",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/29/tv-tonight-its-already-time-for-the-years-first-christmas-special",
-      "publishedAt": "2026-10-29T05:00:26.000Z",
-      "category": "uk",
-      "summary": "Sally Lindsay’s antique-dealing detective is drawn into a festive investigation in Madame Blanc. Plus: Martin Lewis tackles the Budget. Here’s what to watch this evening 9.05pm, Channel 5 Series five of the cosy crime drama. Somebody has murdered the mayor of "
-    },
-    {
-      "id": "feed-xxvd2f",
-      "title": "‘It’s a theatre and we’re pawns’: taking the stand as an expert witness",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/audio/2026/oct/29/science-weekly-sue-black-taking-stand-expert-witness",
-      "publishedAt": "2026-10-29T05:00:26.000Z",
-      "category": "uk",
-      "summary": "As one of the world’s leading forensic anthropologists, Dame Sue Black has acted as an expert witness in a myriad of high-profile criminal cases. Her work has taken her from the lab to active war zones and the aftermath of natural disasters to identify victims"
-    },
-    {
-      "id": "feed-17xzuhd",
-      "title": "How did a fishmonger who starred in an adult movie make Rocky? The film about Sylvester Stallone’s amazing triumph",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/oct/29/rocky-sylvester-stallone-anthony-ippolita",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/29/uk-retail-hospitality-businesses-relief-budget",
       "publishedAt": "2026-10-29T05:00:25.000Z",
-      "category": "uk",
-      "summary": "Belittled for his speech and looks, and so short of cash he had to sell his dog, Stallone managed to write and star in one of the greatest boxing movies ever. How does Anthony Ippolito feel about playing his hero? Fifty years ago this December, cinema’s greate"
+      "category": "business",
+      "summary": "Chancellor cuts business rates for more small businesses and limits rise in minimum wage for younger workers Budget 2026: key points at a glance “It is like letting the tyres down and then handing you a pump,” says James Nye, assessing the relief handed to bus"
     },
     {
       "id": "feed-hemn77",
@@ -350,7 +460,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/29/thames-water-creditors-vote-emergency-loan-cash-runs-low",
       "publishedAt": "2026-10-29T05:00:23.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Campaigners say costly new funds will lead to higher bills, which company denies A group of creditors to troubled Thames Water are poised to vote on whether to grant an emergency £2.4bn loan to keep the company afloat, as campaigners raise concerns it could ad"
     },
     {
@@ -434,8 +544,8 @@
       "summary": "Former US president comes to Georgia to support Jon Ossoff for US Senate and Keisha Lance Bottoms for governor Barack Obama, speaking at a Wednesday campaign rally in suburban Atlanta, offered a closing argument for Democrats in the final week of the midterm e"
     },
     {
-      "id": "feed-asjyrf",
-      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "id": "feed-hvwygu",
+      "title": "Girl injured in wolf attack at wildlife park",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/germany-eight-year-old-girl-seriously-injured-in-wolf-attack-at-wildlife-park-13605151",
@@ -462,16 +572,6 @@
       "publishedAt": "2026-10-29T01:54:47.000Z",
       "category": "world",
       "summary": "Justice department had demanded state segregate and not count ballots from people it claimed were non-citizens A federal judge declined to order California election officials to segregate and not count ballots from people the Trump administration claimed were "
-    },
-    {
-      "id": "feed-1xx8ru0",
-      "title": "Obama mocks Trump’s response to Cheesecake Factory jibe. ‘They mobilized a whole of government response to that joke!’ – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
-      "publishedAt": "2026-10-29T01:53:35.000Z",
-      "category": "world",
-      "summary": "This live blog is now closed. Sign up for the Breaking News US email For months, Mary Peltola’s campaign for Alaska’s Senate seat has denied any connection to a separate campaign launched by a man who, coincidentally, shares the exact same name as Peltola’s Re"
     },
     {
       "id": "feed-1q5ftki",
@@ -504,16 +604,6 @@
       "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs."
     },
     {
-      "id": "feed-1tsj6i6",
-      "title": "Non-profit group leaks data of more than 40,000 homeland security workers",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak",
-      "publishedAt": "2026-10-29T01:25:35.000Z",
-      "category": "world",
-      "summary": "Information released by Distributed Denial of Secrets is the third such government data disclosure in the last month Data identifying more than 41,000 employees and contractors for the US Department of Homeland Security (DHS) was released on Wednesday in an un"
-    },
-    {
       "id": "feed-jir1xv",
       "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
       "source": "BBC News",
@@ -522,26 +612,6 @@
       "publishedAt": "2026-10-29T01:14:01.000Z",
       "category": "world",
       "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”."
-    },
-    {
-      "id": "feed-17a8x2q",
-      "title": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law",
-      "publishedAt": "2026-10-29T00:53:26.000Z",
-      "category": "world",
-      "summary": "The fine – six times the average monthly salary – will apply to people present at violent protests, even if they don’t personally commit violent acts Albania has introduced fines of more than $6,000 for demonstrators who participate in a protest that turns vio"
-    },
-    {
-      "id": "feed-chao1i",
-      "title": "Australian SAS officers knew about unlawful ‘throwdowns’ on dead Afghans, report says",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
-      "publishedAt": "2026-10-29T00:30:25.000Z",
-      "category": "world",
-      "summary": "Nothing done to stop planting weapons on dead Afghans, ADF inspector says, as ‘breakdown of command’ allowed ‘egregious behaviour’ Get our daily political email , free app or daily news podcast Some Australian SAS officers knew that soldiers under their comman"
     },
     {
       "id": "feed-uqqm00",
@@ -562,6 +632,16 @@
       "publishedAt": "2026-10-29T00:17:55.000Z",
       "category": "uk",
       "summary": "A County Londonderry mother says her autistic son, who has turned 18, \"is falling through cracks in the system\"."
+    },
+    {
+      "id": "feed-55u4ri",
+      "title": "Weight-loss jab boom brings needles warning for recyclers",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz45yjyvgo",
+      "publishedAt": "2026-10-29T00:06:12.000Z",
+      "category": "uk",
+      "summary": "Recycling bosses say used needles are increasingly being found among household waste."
     },
     {
       "id": "feed-iuu2cr",
@@ -604,6 +684,16 @@
       "summary": "The Federal Reserve has left interest rates unchanged - despite persistently high inflation and repeated calls from Donald Trump to lower borrowing costs."
     },
     {
+      "id": "feed-10z41vz",
+      "title": "Investors turn on Google owner Alphabet after profit miss, ad slowdown and high spending",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report",
+      "publishedAt": "2026-10-28T23:39:12.000Z",
+      "category": "business",
+      "summary": "Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bn Shares in Google parent Alphabet fell more than 10% in after-hours trading Wednesday, erasing tens of billions of dollars in stock market value from"
+    },
+    {
       "id": "feed-1jfekyz",
       "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
       "source": "BBC News",
@@ -612,36 +702,6 @@
       "publishedAt": "2026-10-28T23:11:59.000Z",
       "category": "science",
       "summary": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand."
-    },
-    {
-      "id": "feed-1k5go8t",
-      "title": "'Super offensive' - We love how we look but AI tried to 'fix' our visible differences",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o",
-      "publishedAt": "2026-10-28T23:02:56.000Z",
-      "category": "uk",
-      "summary": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results."
-    },
-    {
-      "id": "feed-1y8yc25",
-      "title": "Mum of critically ill baby denied hospital food as she wasn't breastfeeding",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrdkn4v36po",
-      "publishedAt": "2026-10-28T23:00:17.000Z",
-      "category": "uk",
-      "summary": "Sophie Price had given birth in the same hospital five days earlier but was denied a hot meal."
-    },
-    {
-      "id": "feed-a1hbot",
-      "title": "NHS Western Isles prescribing weight loss drugs at triple the rate of other health boards",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz4g0zgldo",
-      "publishedAt": "2026-10-28T22:46:44.000Z",
-      "category": "uk",
-      "summary": "A new report finds \"significant variation\" between Scotland's health boards prescribing new medicines."
     },
     {
       "id": "feed-ntzb0g",
@@ -654,6 +714,16 @@
       "summary": "Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48% Microsoft gained billions of dollars in stock market value Wednesday afternoon after it reported better than expected revenue and profit, ju"
     },
     {
+      "id": "feed-4ui7v2",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo",
+      "publishedAt": "2026-10-28T22:08:52.000Z",
+      "category": "world",
+      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked."
+    },
+    {
       "id": "feed-wsg5hg",
       "title": "High-speed train crash kills at least 68 people in Spain",
       "source": "BBC News",
@@ -662,6 +732,16 @@
       "publishedAt": "2026-10-28T21:38:54.000Z",
       "category": "world",
       "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
+    },
+    {
+      "id": "feed-1ihkhtv",
+      "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
+      "publishedAt": "2026-10-28T21:27:33.000Z",
+      "category": "business",
+      "summary": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements between members states just a"
     },
     {
       "id": "feed-mm9es0",
@@ -804,16 +884,6 @@
       "summary": "The chancellor is right to focus on pure affordability, but £100 handouts and delayed decisions won’t shield consumers from the next wave of price hikes Amid the myriad of small measures, virtually everything in John Healey’s budget came back to the cost of en"
     },
     {
-      "id": "feed-1lfxoek",
-      "title": "Healey tells departments to make 1% cuts to fund defence",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o",
-      "publishedAt": "2026-10-28T19:01:34.000Z",
-      "category": "business",
-      "summary": "The reduction in public spending will go towards paying for the Defence Investment Plan."
-    },
-    {
       "id": "feed-11knuub",
       "title": "The Guardian view on Labour’s budget: bold ambitions and welcome first steps | Editorial",
       "source": "The Guardian",
@@ -870,7 +940,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
       "publishedAt": "2026-10-28T18:32:38.000Z",
-      "category": "science",
+      "category": "business",
       "summary": "Russia plans to build own version of US billionaire’s satellite communications to help attack Ukraine Vladimir Putin praised Elon Musk’s genius and said he was in touch with Starlink’s controlling shareholder as Russia develops its own satellite communications"
     },
     {
@@ -884,66 +954,6 @@
       "summary": "The singer is finding genuine joy in life again after a difficult period led to him quitting music."
     },
     {
-      "id": "feed-15ybwnv",
-      "title": "Bills, banks, ‘breathing space’: what was in Burnham’s first budget? - The Latest",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/video/2026/oct/28/bills-banks-breathing-space-what-was-in-burnhams-first-budget-the-latest",
-      "publishedAt": "2026-10-28T18:26:31.000Z",
-      "category": "business",
-      "summary": "In his first budget as chancellor, John Healey has pledged to offer ‘breathing space’ to help Britons navigate ‘global economic storms’. There were a record number of measures, including a one-off £100 energy payment to millions and a rise in the levy on bank "
-    },
-    {
-      "id": "feed-1s2vad0",
-      "title": "He promised fresh hope and delivered doom, but Dr Death’s budget succeeds in doing no harm | John Crace",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
-      "publishedAt": "2026-10-28T18:21:37.000Z",
-      "category": "business",
-      "summary": "Armed with 98 measures, a rictus grin and a decidedly comedy-free speech, the chancellor at least offered us – and Labour – some breathing space It was as if John Healey was taking the Hippocratic oath. First do no harm. For your first budget, this may be no b"
-    },
-    {
-      "id": "feed-8m21sq",
-      "title": "Will Healey’s budget tackle the cost of living? – podcast",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/audio/2026/oct/28/will-healeys-budget-tackle-the-cost-of-living-podcast",
-      "publishedAt": "2026-10-28T18:20:24.000Z",
-      "category": "business",
-      "summary": "John Healey has delivered a ‘steady as she goes’ budget, with help for the cost of living a big theme. The chancellor promised a £100 energy payment for some households, extended the VAT suspension on electricity bills to next July and confirmed the scrapping "
-    },
-    {
-      "id": "feed-15drsbe",
-      "title": "Burnham promised big change – where was it? Instead we got the Martin Lewis budget | Aditya Chakrabortty",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/28/andy-burnham-martin-lewis-budget-john-healey",
-      "publishedAt": "2026-10-28T18:19:15.000Z",
-      "category": "business",
-      "summary": "The financial guru’s fingerprints are all over John Healey’s red book – but Lewis is not a politician. His everyday fixes can’t meet this turbulent moment Was this Andy Burnham’s budget – the bold vision of a new prime minister who burns with a passion to topp"
-    },
-    {
-      "id": "feed-855v8o",
-      "title": "The Budget explained in less than one minute",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/crkg70lnlx9yo",
-      "publishedAt": "2026-10-28T18:17:43.000Z",
-      "category": "business",
-      "summary": "What the Budget means for you in under a minute"
-    },
-    {
-      "id": "feed-to0thf",
-      "title": "Budget 2026: what it means for your wallet, your mortgage and your pay",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-what-it-means-for-you",
-      "publishedAt": "2026-10-28T18:14:08.000Z",
-      "category": "business",
-      "summary": "How the chancellor’s measures on tax, benefits and pensions will affect your personal finances Healey offers £100 payment to households to help navigate ‘global economic storms’ Budget 2026: key points at a glance Budget 2026 calculator: find out if you are be"
-    },
-    {
       "id": "feed-132zolf",
       "title": "Tax thresholds remain unchanged - here's what it means for your pay",
       "source": "BBC News",
@@ -952,16 +962,6 @@
       "publishedAt": "2026-10-28T18:12:24.000Z",
       "category": "business",
       "summary": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years."
-    },
-    {
-      "id": "feed-1g2b5tb",
-      "title": "What you need to know about Your First Home scheme for first-time buyers",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/money/2026/sep/28/first-home-scheme-first-time-buyers-what-you-need-to-know",
-      "publishedAt": "2026-10-28T17:56:21.000Z",
-      "category": "business",
-      "summary": "Chancellor fleshes out details of scheme unveiled last month to help 70,000 households on to the property ladder Budget 2026: key points at a glance Income tax: How much more will you pay? Nils Pratley: Labour’s modest reheat of help to buy is worth a try A ne"
     },
     {
       "id": "feed-42xddc",
@@ -1014,56 +1014,6 @@
       "summary": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people."
     },
     {
-      "id": "feed-h3emn7",
-      "title": "Ben Jennings on John Healey’s ‘breathing room’ budget – cartoon",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/28/ben-jennings-john-healey-breathing-room-budget-cartoon",
-      "publishedAt": "2026-10-28T17:33:50.000Z",
-      "category": "business",
-      "summary": "Continue reading..."
-    },
-    {
-      "id": "feed-190rx1w",
-      "title": "Business secretary writes to Poundland owner as administration fears build",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/28/business-secretary-jonathan-reynolds-poundland-owner-gordon-brothers-administration-fears",
-      "publishedAt": "2026-10-28T17:32:44.000Z",
-      "category": "business",
-      "summary": "Jonathan Reynolds’ team has written to Gordon Brothers, which bought retailer for £1 last summer, to ‘establish the facts’ The business secretary’s team has written to the owner of Poundland amid fears that the cut-price retailer could collapse into administra"
-    },
-    {
-      "id": "feed-25vzuv",
-      "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
-      "publishedAt": "2026-10-28T16:56:46.000Z",
-      "category": "business",
-      "summary": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40% Spain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long been a point of pride in the co"
-    },
-    {
-      "id": "feed-z9mayv",
-      "title": "Chris Mason: Budget felt cautious despite its range of small measures",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo",
-      "publishedAt": "2026-10-28T16:52:16.000Z",
-      "category": "uk",
-      "summary": "The chancellor has had to grapple with a mix of public finances and household finances being a mess."
-    },
-    {
-      "id": "feed-1h23sd2",
-      "title": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
-      "publishedAt": "2026-10-28T16:45:25.000Z",
-      "category": "business",
-      "summary": "Prime minister warns cabinet not to express opinions about future relationship with Brussels before review of options Andy Burnham has warned ministers not to express their opinions about how the government should approach Brexit, as he argued that the Conserv"
-    },
-    {
       "id": "feed-1nh3tv2",
       "title": "Watch: At the scene of Spain's deadly train crash",
       "source": "BBC News",
@@ -1072,46 +1022,6 @@
       "publishedAt": "2026-10-28T16:45:16.000Z",
       "category": "world",
       "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013."
-    },
-    {
-      "id": "feed-hqxgsw",
-      "title": "Labour's 2026 budget in under three minutes – video",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/video/2026/oct/28/labours-2026-budget-in-under-three-minutes-video",
-      "publishedAt": "2026-10-28T16:22:22.000Z",
-      "category": "business",
-      "summary": "In his first budget, the chancellor, John Healey, said 20m households in council tax bands A to D would receive a £100 payment, at a cost of £2.6bn. The VAT cut on electricity bills was extended until July and, as widely expected, fuel duty rises pencilled in "
-    },
-    {
-      "id": "feed-1wwabcg",
-      "title": "Tommy Robinson guilty of harassing two Daily Mail journalists",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o",
-      "publishedAt": "2026-10-28T15:53:16.000Z",
-      "category": "uk",
-      "summary": "The 43-year-old is convicted after a week-long trial at Southwark Crown Court."
-    },
-    {
-      "id": "feed-1urcmb2",
-      "title": "Huntingdon train attacker asked man 'do you want to die?', trial hears",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz185z4nno",
-      "publishedAt": "2026-10-28T15:52:14.000Z",
-      "category": "uk",
-      "summary": "Anthony Williams denies 14 counts of attempted murder, including 10 on a train in Cambridgeshire."
-    },
-    {
-      "id": "feed-1hrrl9w",
-      "title": "‘A pretty grim picture’: outlook for UK living standards slashed despite Healey’s budget",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
-      "publishedAt": "2026-10-28T15:40:42.000Z",
-      "category": "business",
-      "summary": "OBR cautions about Middle East war dragging down growth and triggering a fresh cost of living crisis Healey offers £100 payment to households to help navigate ‘global economic storms’ Budget 2026: key points at a glance Budget 2026 live – latest updates Britis"
     },
     {
       "id": "feed-g75irt",
@@ -1232,6 +1142,16 @@
       "publishedAt": "2026-10-28T11:23:00.000Z",
       "category": "uk",
       "summary": "The Northern Ireland secretary's decision to ban the Drumcree Orange Order parade was lawful, a High Court judge has concluded."
+    },
+    {
+      "id": "feed-10izno0",
+      "title": "Family of woman murdered by ex-partner demand 'action' amid belief death 'should never have happened'",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/family-of-woman-murdered-by-abusive-ex-partner-demand-action-amid-belief-death-should-never-have-happened-13604759",
+      "publishedAt": "2026-10-28T11:13:00.000Z",
+      "category": "uk",
+      "summary": "The family of a mother who was murdered by her abusive ex-partner are demanding \"action, answers and accountability\" amid their belief her death \"should never have happened\"."
     },
     {
       "id": "feed-7lyn6w",
@@ -1362,6 +1282,16 @@
       "publishedAt": "2026-10-28T05:31:55.000Z",
       "category": "technology",
       "summary": "Labor government under pressure to create social media watchdog as new online safety standards bill passes lower house Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast The federal governmen"
+    },
+    {
+      "id": "feed-1x862mz",
+      "title": "UK set for calmer weather - but 'dense' fog may cause disruption",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/uk-weather-a-calmer-forecast-after-successive-storms-but-dense-fog-may-cause-disruption-13604648",
+      "publishedAt": "2026-10-28T04:22:00.000Z",
+      "category": "uk",
+      "summary": "The UK is set for a period of calmer weather after three people died during storms over the weekend - but \"dense\" fog could cause further disruption."
     },
     {
       "id": "feed-1addzlu",
@@ -1744,16 +1674,6 @@
       "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information."
     },
     {
-      "id": "feed-2jk8ad",
-      "title": "Political battle intensifies within Labour over Rosebank oil field",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo",
-      "publishedAt": "2026-10-26T18:09:49.000Z",
-      "category": "science",
-      "summary": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans."
-    },
-    {
       "id": "feed-23dcnz",
       "title": "Did you solve it? A magical melody from the Mozart of math",
       "source": "The Guardian",
@@ -1772,6 +1692,16 @@
       "publishedAt": "2026-10-26T16:27:17.000Z",
       "category": "technology",
       "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
+    },
+    {
+      "id": "feed-4yk6pk",
+      "title": "Microsoft offers 'buyouts' to 60,000 staff including UK workers",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/microsoft-offers-buyouts-to-60000-staff-including-uk-workers-13604076",
+      "publishedAt": "2026-10-26T15:52:00.000Z",
+      "category": "business",
+      "summary": "Microsoft is offering voluntary severance packages to 60,000 of its staff - more than a quarter of its workforce - including some in the UK."
     },
     {
       "id": "feed-1jajlsx",
@@ -1902,6 +1832,76 @@
       "publishedAt": "2026-10-23T12:24:17.000Z",
       "category": "technology",
       "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+    },
+    {
+      "id": "feed-1o1z46r",
+      "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo",
+      "publishedAt": "2026-10-23T12:00:25.000Z",
+      "category": "technology",
+      "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems."
+    },
+    {
+      "id": "feed-jvk9pc",
+      "title": "Can AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research",
+      "publishedAt": "2026-10-23T07:00:03.000Z",
+      "category": "science",
+      "summary": "Take a selfie to see how healthy you are: the idea is enticing and this new research is promising. But so many factors have been ignored The idea that a single selfie could predict how long someone with cancer may live sounds like an incredible breakthrough. A"
+    },
+    {
+      "id": "feed-1jjqjdm",
+      "title": "The £1,000 mistake people are making with new iPhone purchase",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/the-1000-mistake-people-are-making-with-new-iphone-purchase-13602560",
+      "publishedAt": "2026-10-23T06:39:00.000Z",
+      "category": "technology",
+      "summary": "Apple's new iPhone Duo is the company's first foldable device - but at £1,999, it's not cheap."
+    },
+    {
+      "id": "feed-bsaz8g",
+      "title": "Mounjaro rollout on NHS needs 'urgent' boost, say MPs",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/mounjaro-rollout-on-nhs-needs-urgent-boost-say-mps-13602553",
+      "publishedAt": "2026-10-23T06:01:00.000Z",
+      "category": "technology",
+      "summary": "Plans for rolling out weight-loss drug Mounjaro are \"unambitious\" and will reach a \"woefully small number of people\", according to MPs."
+    },
+    {
+      "id": "feed-7si0ve",
+      "title": "Military aircraft to be equipped to fight wildfires",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/military-aircraft-to-be-equipped-to-fight-wildfires-government-says-13602524",
+      "publishedAt": "2026-10-23T01:11:00.000Z",
+      "category": "technology",
+      "summary": "Military aircraft will be equipped to help tackle wildfires, the UK government has announced, after a summer of \"unrelenting\" blazes and sustained hot conditions."
+    },
+    {
+      "id": "feed-icscqg",
+      "title": "Have scientists finally found a way to save the banana from disaster?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster",
+      "publishedAt": "2026-10-22T13:00:05.000Z",
+      "category": "science",
+      "summary": "With the climate crisis and diseases threatening one of the world’s most popular fruits, researchers are hoping a breakthrough in breeding techniques could give the Cavendish banana a certain future Love them or loathe them, bananas are one of the world’s most"
+    },
+    {
+      "id": "feed-1og8bq4",
+      "title": "Vital clues could help predict prostate cancer years in advance",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/vital-clues-could-help-predict-prostate-cancer-years-in-advance-study-suggests-13601915",
+      "publishedAt": "2026-10-21T13:20:00.000Z",
+      "category": "technology",
+      "summary": "Scientists have found clues that could help predict who will develop aggressive prostate cancer many years in advance."
     }
   ]
 }
