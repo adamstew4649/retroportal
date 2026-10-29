@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T09:14:48.599Z",
+  "updatedAt": "2026-10-29T10:13:51.096Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1pl79e",
+      "title": "Water companies' environmental performance 'deteriorates' further - regulators",
+      "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T09:44:46.000Z",
+      "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets."
+    },
     {
       "id": "feed-ffrbhh",
       "title": "RAF base chemical contamination worst in UK, report says",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T10:33:26.000Z",
       "summary": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028."
-    },
-    {
-      "id": "feed-18gk01m",
-      "title": "More high winds hit parts of UK as Storm Boelo clean-up continues",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T10:30:40.000Z",
-      "summary": "A Met Office weather warning is in place for Scotland and Northern Ireland for much of Tuesday."
     }
   ]
 }

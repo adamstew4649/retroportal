@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T09:14:48.597Z",
+  "updatedAt": "2026-10-29T10:13:50.994Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1129r22",
+      "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T09:31:44.000Z",
+      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
+    },
     {
       "id": "feed-1urcmb2",
       "title": "Huntingdon train attacker asked man 'do you want to die?', trial hears",
@@ -22,6 +30,14 @@
       "source": "BBC News",
       "publishedAt": "2026-10-29T06:56:58.000Z",
       "summary": "Chancellor John Healey says any cuts to welfare will be done \"in a Labour way\"."
+    },
+    {
+      "id": "feed-yst194",
+      "title": "Mum goes to Iceland as pilot of daughter's flight",
+      "link": "https://www.bbc.co.uk/news/articles/c9gkv0m1vxmvo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T06:56:52.000Z",
+      "summary": "Marnie Munns says it was \"a huge privilege\" to fly her daughter's school party to Reykjavik."
     },
     {
       "id": "feed-s7dtdm",
@@ -54,14 +70,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-29T06:12:07.000Z",
       "summary": "Sophie Price had given birth in the same hospital five days earlier but was denied a hot meal."
-    },
-    {
-      "id": "feed-137ia1u",
-      "title": "Ofcom outlines ways social media can verify ages of users",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T05:57:15.000Z",
-      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
     },
     {
       "id": "feed-3xlz8c",
@@ -104,8 +112,8 @@
       "summary": "A County Londonderry mother says her son, who has autism and has turned 18, \"is falling through cracks in the system\"."
     },
     {
-      "id": "feed-55u4ri",
-      "title": "Weight-loss jab boom brings needles warning for recyclers",
+      "id": "feed-1ojpj2k",
+      "title": "Weight-loss jabs boom putting recycling centre workers at risk",
       "link": "https://www.bbc.co.uk/news/articles/c98rz45yjyvgo",
       "source": "BBC News",
       "publishedAt": "2026-10-29T00:06:12.000Z",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-28T18:41:42.000Z",
       "summary": "The prime minister has denied speculation from some opposition parties that he will go to the country in spring 2027."
-    },
-    {
-      "id": "feed-18ba7ng",
-      "title": "Babydoll singer says life will 'never be the same again' after UK number one",
-      "link": "https://www.bbc.co.uk/news/articles/c6qjn849ydlno",
-      "source": "BBC News",
-      "publishedAt": "2026-10-28T18:30:13.000Z",
-      "summary": "The singer is finding genuine joy in life again after a difficult period led to him quitting music."
     }
   ]
 }
