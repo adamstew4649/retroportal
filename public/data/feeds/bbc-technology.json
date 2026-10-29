@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T21:07:42.333Z",
+  "updatedAt": "2026-10-29T22:04:02.761Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-3us29c",
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T21:52:13.000Z",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
+    },
     {
       "id": "feed-1129r22",
       "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
@@ -102,14 +110,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T12:24:17.000Z",
       "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
-    },
-    {
-      "id": "feed-1o1z46r",
-      "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T12:00:25.000Z",
-      "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems."
     },
     {
       "id": "feed-1o4g26t",

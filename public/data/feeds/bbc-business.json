@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T21:07:42.335Z",
+  "updatedAt": "2026-10-29T22:04:02.761Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-3us29c",
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T21:52:13.000Z",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
+    },
     {
       "id": "feed-12oe92f",
       "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-29T07:54:33.000Z",
       "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism."
-    },
-    {
-      "id": "feed-hghmv8",
-      "title": "Chancellor says government has 'moral duty' to help young people out of work",
-      "link": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T06:56:58.000Z",
-      "summary": "Chancellor John Healey says any cuts to welfare will be done \"in a Labour way\"."
     }
   ]
 }
