@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T08:20:20.146Z",
-  "generatedAt": "2026-10-29T08:20:20.146Z",
+  "updatedAt": "2026-10-29T09:14:48.604Z",
+  "generatedAt": "2026-10-29T09:14:48.604Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -104,14 +104,34 @@
   ],
   "articles": [
     {
+      "id": "feed-sojo1p",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo",
+      "publishedAt": "2026-10-29T09:06:48.000Z",
+      "category": "world",
+      "summary": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
+    },
+    {
+      "id": "feed-xn7op8",
+      "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "publishedAt": "2026-10-29T09:03:32.000Z",
+      "category": "world",
+      "summary": "With the final count unlikely to shift results significantly, experts say Gadi Eisenkot’s hopes of unseating Benjamin Netanyahu rest on his willingness to work with Palestinian parties Full report: Coalition talks loom in Israel Analysis: Israel’s choice: Neta"
+    },
+    {
       "id": "feed-1nyq9ug",
       "title": "Sri Lanka v England: men’s cricket tri-series one-day international – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/29/sri-lanka-v-england-mens-cricket-tri-series-one-day-international-live",
-      "publishedAt": "2026-10-29T08:17:53.000Z",
+      "publishedAt": "2026-10-29T09:00:54.000Z",
       "category": "uk",
-      "summary": "Updates from the final group match in Lahore Sign up for the Spin 1st over: England 0-0 (Banton 0, Duckett 0) Banton almost edges Asitha’s very first ball to slip, but it falls short. The ground is full only with empty green seats, as the call to prayer rings "
+      "summary": "Updates from the final group match in Lahore Sign up for the Spin | And mail Tanya 1st over: England 0-0 (Banton 0, Duckett 0) Banton almost edges Asitha’s very first ball to slip, but it falls short. The ground is full only with empty green seats, as the call"
     },
     {
       "id": "feed-190juec",
@@ -119,9 +139,49 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/oct/29/south-africa-v-australia-third-test-day-three-cricket-newlands-cape-town-live-updates",
-      "publishedAt": "2026-10-29T08:15:41.000Z",
+      "publishedAt": "2026-10-29T09:00:28.000Z",
       "category": "uk",
-      "summary": "Updates as the Proteas host the series decider at Newlands First ball in Cape Town is 10.30am local/7.30pm AEDT/8.30am GMT Any thoughts? Get in touch with an email South Africa will pin their hopes on bowling with a ball that is only 10 overs old and with Kagi"
+      "summary": "Updates as the Proteas host the series decider at Newlands Any thoughts? Get in touch with an email 93rd over: Australia 338-4 (Inglis 90, Carey 54) Jansen wakes up Carey with a shorter ball. He gets the ball angling into the left-hander before ending the over"
+    },
+    {
+      "id": "feed-kmdmu2",
+      "title": "I Love Boosters review – supercool outlaw women go shoplifting in Boots Riley’s frantic and funny caper",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/oct/29/i-love-boosters-review-boots-riley-shoplifting-satire-is-a-mile-a-minute-melee-of-unadulterated-keraziness",
+      "publishedAt": "2026-10-29T09:00:27.000Z",
+      "category": "uk",
+      "summary": "Demi Moore’s haute-couture maven attracts the attention of a gang of contemporary Robin Hood type clothes robbers in Riley’s fashion biz satire Here is an entertaining, if very exhausting fantasy-caper about the fashion biz from Boots Riley, a madcap mile-a-mi"
+    },
+    {
+      "id": "feed-huktdt",
+      "title": "UK government borrowing costs fall as City welcomes ‘no harm’ budget’ – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/oct/29/healeys-cost-living-support-package-badly-targeted-resolution-foundation-shell-oil-profit-latest-live-updates",
+      "publishedAt": "2026-10-29T08:52:29.000Z",
+      "category": "business",
+      "summary": "Pound steady and gilt yields fall as chancellor ‘navigates first budget without spooking gilt markets,’ experts say The pound is steady and gilt yields dipped, a day after John Healey delivered a cautious set of tax and spending plans in his maiden budget to h"
+    },
+    {
+      "id": "feed-se0zug",
+      "title": "‘Scattergun’ budget will still leave Britons facing higher energy bills, says leading thinktank",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank",
+      "publishedAt": "2026-10-29T08:37:19.000Z",
+      "category": "world",
+      "summary": "Healey’s bid to provide ‘breathing space’ over Iran war gives rich almost as much as poor, says Resolution Foundation Business live – latest updates Budget 2026: what it means for your wallet, your mortgage and your pay John Healey delivered a “scattergun” bud"
+    },
+    {
+      "id": "feed-qqk089",
+      "title": "Healey accused of a ‘complete failure’ to target energy bill support at those most in need – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
+      "publishedAt": "2026-10-29T08:36:09.000Z",
+      "category": "world",
+      "summary": "Resolution Foundation says ‘poorest half of households will gain… just £14 more than the £144 received by the richest half’ Good morning. The day after the budget is often the moment when big initiatives announced by the chancellor the day before with a flouri"
     },
     {
       "id": "feed-16nsz60",
@@ -129,9 +189,39 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/oct/29/readers-react-to-budget-2026",
-      "publishedAt": "2026-10-29T08:12:42.000Z",
+      "publishedAt": "2026-10-29T08:32:35.000Z",
       "category": "uk",
       "summary": "From a young chef and a single father to business owners and a pensioner, Guardian readers reveal how John Healey’s measures will affect them What the budget means for you Louie, 24, a chef living in London, says a lot of people have “written off the idea of e"
+    },
+    {
+      "id": "feed-1uy78by",
+      "title": "One Nation accuses PM of trying to ‘exert undue political influence’ by offering David Farley an extra staffer",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/29/one-nation-accuses-pm-of-trying-to-exert-undue-political-influence-by-offering-david-farley-extra-staffer-ntwnfb",
+      "publishedAt": "2026-10-29T08:26:51.000Z",
+      "category": "world",
+      "summary": "Pauline Hanson says Anthony Albanese made ‘unsolicited’ offer of adviser with $200,000 salary to one of her MPs Get our daily political email , free app or daily news podcast The prime minister, Anthony Albanese, offered the One Nation MP David Farley an addit"
+    },
+    {
+      "id": "feed-b7i6ob",
+      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo",
+      "publishedAt": "2026-10-29T08:23:31.000Z",
+      "category": "world",
+      "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month."
+    },
+    {
+      "id": "feed-1w3y7r4",
+      "title": "Police investigate gang links as woman, 19, dies after drive-by shooting at Brisbane pub",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/29/woman-19-dies-after-masked-gunmen-opened-fire-outside-brisbane-pub-ntwnfb",
+      "publishedAt": "2026-10-29T08:14:40.000Z",
+      "category": "world",
+      "summary": "Vana-Reese Schuster-Togiatau was injured during the shooting outside Fitzy’s Loganholme in the city’s south on Saturday Get our breaking news email , free app or daily news podcast Potential gang involvement in the fatal drive-by shooting of a 19-year-old woma"
     },
     {
       "id": "feed-1dewmj",
@@ -224,6 +314,16 @@
       "summary": "Spurs had an awful start but, after an impressive win at Chelsea, they are suddenly looking up at the table By Opta Analyst In reality, it was only three points. All Tottenham took from their 2-0 win at Chelsea last Saturday evening was a helpful boost in the "
     },
     {
+      "id": "feed-16ife1q",
+      "title": "Post your questions for Charlie Nicholas",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
+      "publishedAt": "2026-10-29T08:00:26.000Z",
+      "category": "uk",
+      "summary": "Is there anything you would like to ask the former Celtic, Arsenal and Scotland forward? Ever wanted to ask Charlie Nicholas a question? Well, this is your chance. Whether you want to know about the season he scored 50 goals for Celtic, or the day he scored bo"
+    },
+    {
       "id": "feed-iyk5ou",
       "title": "What we know so far about deadly Spain train crash",
       "source": "BBC News",
@@ -232,16 +332,6 @@
       "publishedAt": "2026-10-29T07:59:20.000Z",
       "category": "world",
       "summary": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid."
-    },
-    {
-      "id": "feed-xn7op8",
-      "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "publishedAt": "2026-10-29T07:55:16.000Z",
-      "category": "world",
-      "summary": "With the final count unlikely to shift results significantly, experts say Gadi Eisenkot’s hopes of unseating Benjamin Netanyahu rest on his willingness to work with Palestinian parties Full report: Coalition talks loom in Israel Analysis: Israel’s choice: Neta"
     },
     {
       "id": "feed-1oeb1h3",
@@ -262,16 +352,6 @@
       "publishedAt": "2026-10-29T07:54:05.000Z",
       "category": "uk",
       "summary": "Chancellor’s comments come as fiscal watchdog says disability benefits will cost £100bn a year before end of decade Business live – latest updates John Healey had said there will be a reduction in the welfare bill before the next election, with a “tough” appro"
-    },
-    {
-      "id": "feed-1x84bme",
-      "title": "Healey’s £4.4bn cost living support package ‘badly targeted,’ says Resolution Foundation – business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/oct/29/healeys-cost-living-support-package-badly-targeted-resolution-foundation-shell-oil-profit-latest-live-updates",
-      "publishedAt": "2026-10-29T07:51:25.000Z",
-      "category": "business",
-      "summary": "Even families receiving help face higher energy bills than during the last energy price shock, analysis finds Good morning, and welcome to our rolling coverage of business, the financial markets and the world economy. The £4.4bn cost of living support package "
     },
     {
       "id": "feed-1bbw03u",
@@ -302,16 +382,6 @@
       "publishedAt": "2026-10-29T07:22:28.000Z",
       "category": "world",
       "summary": "Richard Norton, 75, went into cardiac arrest in March 2025 after injecting prescribed but unapproved CJC1295 and ipamorelin Get our breaking news email , free app or daily news podcast The death of an Australian actor after injecting unapproved peptides could "
-    },
-    {
-      "id": "feed-1fa61l2",
-      "title": "Woman, 19, dies after masked gunmen opened fire outside Brisbane pub",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/woman-19-dies-after-masked-gunmen-opened-fire-outside-brisbane-pub-ntwnfb",
-      "publishedAt": "2026-10-29T07:11:36.000Z",
-      "category": "world",
-      "summary": "Vana-Reese Schuster-Togiatau was injured during a drive-by shooting outside Fitzy’s Loganholme in the city’s south on Saturday Get our breaking news email , free app or daily news podcast A 19-year-old woman who was on a night out with friends has died after a"
     },
     {
       "id": "feed-1bknzz8",
@@ -424,6 +494,16 @@
       "summary": "Martin Pinches said someone had stolen 400 litres of diesel from two of his lorries"
     },
     {
+      "id": "feed-s7dtdm",
+      "title": "Tower block residents plagued by intruders in scaffolding 'nightmare'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg71pl8kg1o",
+      "publishedAt": "2026-10-29T06:14:27.000Z",
+      "category": "uk",
+      "summary": "Tenants at Archway Heights say scaffolding has been up for more than six years with \"no end in sight\"."
+    },
+    {
       "id": "feed-e4fcf1",
       "title": "'Super offensive' - we love how we look but AI tried to 'fix' our visible differences",
       "source": "BBC News",
@@ -474,24 +554,24 @@
       "summary": "Exclusive: Backbenchers voice alarm over ‘intolerable position’ faced by Miatta Fahnbulleh over oilfield decision Furious Labour MPs have been lobbying the prime minister and chancellor not to overrule the energy secretary should she decide to block the Roseba"
     },
     {
-      "id": "feed-pturw1",
-      "title": "Liz Truss has brought our divided nation together – in mockery of her | Emma Brockes",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/liz-truss-new-book-prime-minister-divided-nation",
-      "publishedAt": "2026-10-29T06:00:26.000Z",
-      "category": "uk",
-      "summary": "Though times are hard and days are dark, the former PM’s latest book reminds us of the fun to be had when a figure is so ridiculous but cannot see it In these times of social and political division, it’s worth doing a quick audit of what keeps us together. Whe"
-    },
-    {
       "id": "feed-ubw0x2",
       "title": "Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international",
       "publishedAt": "2026-10-29T06:00:26.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Survivors tell rights group that serving officers who worked as guards administered electric shocks and beatings Cambodian police and military officers worked as private security guards in scam compounds where thousands were forced to work in the online fraud "
+    },
+    {
+      "id": "feed-pturw1",
+      "title": "Liz Truss has brought our divided nation together – in mockery of her | Emma Brockes",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/liz-truss-new-book-prime-minister-divided-nation",
+      "publishedAt": "2026-10-29T06:00:26.000Z",
+      "category": "business",
+      "summary": "Though times are hard and days are dark, the former PM’s latest book reminds us of the fun to be had when a figure is so ridiculous but cannot see it In these times of social and political division, it’s worth doing a quick audit of what keeps us together. Whe"
     },
     {
       "id": "feed-137ia1u",
@@ -512,16 +592,6 @@
       "publishedAt": "2026-10-29T05:57:01.000Z",
       "category": "uk",
       "summary": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget."
-    },
-    {
-      "id": "feed-bofxsr",
-      "title": "Defence backed claim that social media footage of public servants could invite bullying",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/defence-official-senate-estimates-social-media-public-servants-bullying-ntwnfb",
-      "publishedAt": "2026-10-29T05:35:38.000Z",
-      "category": "world",
-      "summary": "Official’s controversial September request for Senate hearing footage to not be shared on social media has been heavily criticised Get our daily political email , free app or daily news podcast The secretary of the defence department approved a senior official"
     },
     {
       "id": "feed-u49j8t",
@@ -724,8 +794,8 @@
       "summary": "Are you an observant sleuth or a smooth operator? Find out which star you are by answering these questions."
     },
     {
-      "id": "feed-12hfm58",
-      "title": "'My autistic son and I feel abandoned and failed by the system'",
+      "id": "feed-v635er",
+      "title": "Mum says teenage autistic son has been abandoned and falling through cracks in system",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cqj9k8lr1p4po",
@@ -744,8 +814,8 @@
       "summary": "Recycling bosses say used needles are increasingly being found among household waste."
     },
     {
-      "id": "feed-iuu2cr",
-      "title": "Family row over George Michael items up for auction - including Faith guitar",
+      "id": "feed-1qa61jv",
+      "title": "Row over George Michael items up for auction - including Faith guitar",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro",
@@ -841,17 +911,7 @@
       "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
       "publishedAt": "2026-10-28T21:27:33.000Z",
       "category": "business",
-      "summary": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements between members states just a"
-    },
-    {
-      "id": "feed-mm9es0",
-      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o",
-      "publishedAt": "2026-10-28T21:24:41.000Z",
-      "category": "world",
-      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday."
+      "summary": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements between member states just as"
     },
     {
       "id": "feed-12gf63s",
@@ -862,16 +922,6 @@
       "publishedAt": "2026-10-28T21:16:30.000Z",
       "category": "world",
       "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs."
-    },
-    {
-      "id": "feed-1auzkow",
-      "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo",
-      "publishedAt": "2026-10-28T20:53:02.000Z",
-      "category": "world",
-      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale."
     },
     {
       "id": "feed-ljbywy",
@@ -1062,16 +1112,6 @@
       "publishedAt": "2026-10-28T17:47:37.000Z",
       "category": "business",
       "summary": "Here is what you need to know about the payment that millions will receive from January."
-    },
-    {
-      "id": "feed-xz0t8i",
-      "title": "Russell Brand tells trial sexual consent is 'fundamental'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo",
-      "publishedAt": "2026-10-28T17:42:10.000Z",
-      "category": "uk",
-      "summary": "The entertainer gives evidence at his trial on charges including rape and assault, which he denies."
     },
     {
       "id": "feed-g75irt",
@@ -1862,26 +1902,6 @@
       "publishedAt": "2026-10-21T04:49:00.000Z",
       "category": "technology",
       "summary": "Exceeding a key global climate target is now \"imminent and unavoidable\", United Nations (UN) scientists have warned."
-    },
-    {
-      "id": "feed-smkkty",
-      "title": "Japan launches mission to Mars to bring back samples from its moon",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/japan-launches-mission-to-mars-to-bring-back-samples-from-one-of-its-moons-13601139",
-      "publishedAt": "2026-10-19T20:04:00.000Z",
-      "category": "technology",
-      "summary": "Japan launched a spacecraft towards Mars in a ground-breaking mission to bring back samples from the largest of the planet's two moons."
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
