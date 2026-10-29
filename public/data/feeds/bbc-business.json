@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T03:29:56.443Z",
+  "updatedAt": "2026-10-29T04:14:47.063Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1oeb1h3",
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T03:16:19.000Z",
+      "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism."
+    },
     {
       "id": "feed-1o2b1mx",
       "title": "Microsoft profits soar days after announcing thousands of layoffs",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-28T17:47:37.000Z",
       "summary": "Here is what you need to know about the payment that millions will receive from January."
-    },
-    {
-      "id": "feed-mhypkg",
-      "title": "Budget 2026: Key points at a glance",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
-      "source": "BBC News",
-      "publishedAt": "2026-10-28T16:55:27.000Z",
-      "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans."
     }
   ]
 }
