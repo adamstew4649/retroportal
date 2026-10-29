@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T00:31:24.516Z",
+  "updatedAt": "2026-10-29T01:45:01.345Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1o2b1mx",
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T01:27:40.000Z",
+      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs."
+    },
     {
       "id": "feed-1gfktga",
       "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-28T16:55:27.000Z",
       "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans."
-    },
-    {
-      "id": "feed-1t2mmsx",
-      "title": "Your pay, energy bills and savings: How the Budget affects you",
-      "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-28T16:43:35.000Z",
-      "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how."
     }
   ]
 }
