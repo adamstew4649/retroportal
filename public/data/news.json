@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T23:01:13.427Z",
-  "generatedAt": "2026-10-29T23:01:13.427Z",
+  "updatedAt": "2026-10-29T23:56:44.154Z",
+  "generatedAt": "2026-10-29T23:56:44.154Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 8
+      "count": 9
     },
     {
       "id": "sky-technology",
@@ -104,6 +104,86 @@
   ],
   "articles": [
     {
+      "id": "feed-583qy",
+      "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo",
+      "publishedAt": "2026-10-29T23:44:41.000Z",
+      "category": "uk",
+      "summary": "Could the faithfuls finally come good in Thursday's penultimate episode?"
+    },
+    {
+      "id": "feed-13tng0e",
+      "title": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+      "publishedAt": "2026-10-29T23:43:01.000Z",
+      "category": "uk",
+      "summary": "‘This is voter fraud at the highest level,’ president tells rally crowd in South Carolina; Alaska governor orders inquiry into Peltola campaign amid Republican outcry Alaska governor orders investigation into Peltola’s Senate campaign Sign up for the Breaking "
+    },
+    {
+      "id": "feed-i7u1xc",
+      "title": "Crypto worth billions frozen over 'potential security issue'",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/crypto-worth-billions-frozen-over-potential-security-issue-13605627",
+      "publishedAt": "2026-10-29T23:40:00.000Z",
+      "category": "technology",
+      "summary": "Crypto worth billions of dollars has been frozen as a major exchange investigates a \"potential security issue\"."
+    },
+    {
+      "id": "feed-nfbntq",
+      "title": "Erin Patterson appeal live updates: Victorian woman loses bid to overturn triple-murder convictions over deadly mushroom-laced meal",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
+      "publishedAt": "2026-10-29T23:38:18.000Z",
+      "category": "uk",
+      "summary": "Court of appeal ruling on the two appeals from 10am in the high profile Australian mushroom triple-murder case Erin Patterson to learn if she could face retrial or longer jail term Patterson showed no emotion on the video feed as McLeish outlined why her appea"
+    },
+    {
+      "id": "feed-3ikv7s",
+      "title": "Manosphere and online misogyny should be treated as public health issues, say UK experts",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/society/2026/oct/29/manosphere-online-misogyny-public-health-policy-lancet-report",
+      "publishedAt": "2026-10-29T23:30:37.000Z",
+      "category": "uk",
+      "summary": "Report calls for an effort to tackle harms in similar way to obesity and smoking, and stresses need to ‘offer boys something better’ The manosphere and online misogyny should be treated by the government as a public health issue, in the same way as obesity or "
+    },
+    {
+      "id": "feed-anaiz9",
+      "title": "Erin Patterson loses bid to overturn mushroom murder convictions as harsher sentence imposed",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+      "publishedAt": "2026-10-29T23:25:24.000Z",
+      "category": "world",
+      "summary": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly lunch that killed three people Erin Patterson mushroom murders appeal – live updates Get our breaking news email , free app or daily news podcast Erin Patterson has "
+    },
+    {
+      "id": "feed-i2biko",
+      "title": "Polymarket temporarily suspends trading on international platform due to security incident",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
+      "publishedAt": "2026-10-29T23:20:16.000Z",
+      "category": "uk",
+      "summary": "Security incident linked to performance-monitoring tool spurred platform to halt trading for about an hour Polymarket temporarily halted trading on its international platform on Thursday because of a security incident that compromised a third-party provider, t"
+    },
+    {
+      "id": "feed-1gzn2es",
+      "title": "Netanyahu accused of smearing Arab voters to hold on to power",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+      "publishedAt": "2026-10-29T23:14:53.000Z",
+      "category": "uk",
+      "summary": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used forei"
+    },
+    {
       "id": "feed-1qvz23g",
       "title": "What makes this golden eagle chick so important?",
       "source": "BBC News",
@@ -114,24 +194,24 @@
       "summary": "The bird's arrival on a managed grouse moor in southern Scotland is seen as a key moment for the species."
     },
     {
-      "id": "feed-2rl8xb",
-      "title": "Erin Patterson appeal live updates: mushroom murderer to learn fate in retrial bid",
+      "id": "feed-1h3sm27",
+      "title": "More than half of Victorian lawyers use AI – but only a quarter have cut client fees as a result",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
-      "publishedAt": "2026-10-29T22:49:48.000Z",
+      "url": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees",
+      "publishedAt": "2026-10-29T23:00:37.000Z",
       "category": "world",
-      "summary": "Court of appeal is set to rule on the two appeals from 10am in the high profile Australian mushroom triple-murder case Erin Patterson to learn if she could face retrial or longer jail term We’re still waiting outside the Victorian supreme court room where the "
+      "summary": "Research finds 55% of lawyers are using AI in legal practices, up from 37% last year, though efficiency gains aren’t as high as expected Get our breaking news email , free app or daily news podcast More than half of Victoria’s lawyers have reported using AI in"
     },
     {
-      "id": "feed-13tng0e",
-      "title": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
+      "id": "feed-19bzgzi",
+      "title": "George Russell determined not to let disappointing F1 season define career",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
-      "publishedAt": "2026-10-29T22:46:18.000Z",
+      "url": "https://www.theguardian.com/sport/2026/oct/29/george-russell-f1-formula-one-mexico-grand-prix",
+      "publishedAt": "2026-10-29T22:53:06.000Z",
       "category": "uk",
-      "summary": "‘This is voter fraud at the highest level,’ president tells rally crowd in South Carolina; Alaska governor orders inquiry into Peltola campaign amid Republican outcry Alaska governor orders investigation into Peltola’s Senate campaign Sign up for the Breaking "
+      "summary": "28-year-old still believes he will win world title one day Kimi Antonelli misses media duties with ‘viral illness’ George Russell has insisted he will not let his difficult Formula One season define his career and believes he still has plenty of years left to "
     },
     {
       "id": "feed-3us29c",
@@ -151,17 +231,17 @@
       "url": "https://www.theguardian.com/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report",
       "publishedAt": "2026-10-29T22:15:19.000Z",
       "category": "uk",
-      "summary": "A big night for Everton featured a big call from David Moyes and demanded a big performance from his players. With the exception of Jack Grealish, they did not let him down. Fleetwood Town await in the Carabao Cup quarter-final after Everton shattered Newcastl"
+      "summary": "The biggest night in Everton’s season started with a big call from David Moyes and demanded a big performance from his players. With the exception of Jack Grealish , they did not let him down. A quarter-final at Fleetwood Town is their prize after a clinical, "
     },
     {
-      "id": "feed-dz6ziu",
-      "title": "Elimbi Gilbert snatches PSG point to leave Manchester City WCL hopes in balance",
+      "id": "feed-mncxwr",
+      "title": "PSG claim late point after Shaw penalty to hit Manchester City’s WCL top-four hopes",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report",
       "publishedAt": "2026-10-29T22:14:01.000Z",
       "category": "uk",
-      "summary": "Manchester City’s hopes of securing a top-four spot in the Women’s Champions League are looking increasingly slim after a third successive draw dragged out their wait for a first European victory of the season, by virtue of Paris Saint-Germain’s late leveller "
+      "summary": "You cannot miss half a dozen big chances at Women’s Champions League level and expect to get away with it. That is the harsh lesson Manchester City learnt on Thursday against Paris Saint-Germain, who extended the English champions’ wait for their first win in "
     },
     {
       "id": "feed-17axwa7",
@@ -210,7 +290,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture",
       "publishedAt": "2026-10-29T21:23:02.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "E-commerce company posts high cloud computing sales but gives a cautious sales forecast for the fourth quarter Amazon offered a mixed picture of its financial health on Thursday in its quarterly earnings report. The e-commerce company gave a cautious sales for"
     },
     {
@@ -314,14 +394,24 @@
       "summary": "Move comes as Philippines police investigate alleged child sexual abuse images reportedly found at Thomas Markle Sr’s former home The Metropolitan police has referred itself to the police watchdog over potential errors in its handling of a 2019 letter warning "
     },
     {
-      "id": "feed-10x50t7",
-      "title": "Star Trek and X-Men star Sir Patrick Stewart dies",
+      "id": "feed-uxa74o",
+      "title": "'One of the greats' - Star Trek and X-Men star Sir Patrick Stewart dies",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/star-trek-and-x-men-actor-sir-patrick-stewart-dies-13605543",
       "publishedAt": "2026-10-29T19:44:00.000Z",
       "category": "uk",
       "summary": "Star Trek and X-Men actor Sir Patrick Stewart has died after a \"brief and poignant journey\" with Alzheimer's and dementia."
+    },
+    {
+      "id": "feed-1fyid3c",
+      "title": "Australian mother refused appeal against conviction for poisonous mushroom murders",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/australian-mother-refused-appeal-against-conviction-for-poisonous-mushroom-murders-13605537",
+      "publishedAt": "2026-10-29T19:36:00.000Z",
+      "category": "world",
+      "summary": "An Australian woman who murdered three people by serving them beef wellington laced with poisonous mushrooms has been refused a bid to appeal against her convictions."
     },
     {
       "id": "feed-v68iim",
@@ -370,7 +460,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
       "publishedAt": "2026-10-29T19:04:17.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Tankers, tracked by Greenpeace, are first phase of Trump-Putin deal – but there is uncertainty over whether they will unload Seven oil tankers carrying an estimated 288,000 tonnes of Russian diesel are now sailing towards the US, though it is uncertain if the "
     },
     {
@@ -444,23 +534,13 @@
       "summary": "Spain has begun three days of mourning after at least 69 people were killed and more than 100 were injured in a crash between two high-speed trains. The town of Urda has become the site of a major operation, as emergency services continue to search through the"
     },
     {
-      "id": "feed-1bn80nr",
-      "title": "The Guardian view on online harms: Ofcom is failing at its job | Editorial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/the-guardian-view-on-online-harms-ofcom-is-failing-at-its-job",
-      "publishedAt": "2026-10-29T18:25:27.000Z",
-      "category": "uk",
-      "summary": "Expressions of disappointment are not an adequate response to the concerning lack of safety improvements for children on social media One thing is clear following last week’s report from the media regulator, Ofcom: the mammoth task of protecting children from "
-    },
-    {
       "id": "feed-19g1wlb",
       "title": "Hong Kong’s leader apologises for residential fire that killed 168 people",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
       "publishedAt": "2026-10-29T18:14:21.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Blaze was world’s deadliest residential fire since 1980, but some survivors and bereaved families say justice has yet to be served Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last "
     },
     {
@@ -480,7 +560,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/29/hold-your-nose-125bn-subsidy-rolls-royces-engine-justified-budget",
       "publishedAt": "2026-10-29T18:07:27.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The chancellor’s budget giveaway is, unfortunately, a reflection of how life works in the global aerospace business It wasn’t a “nothing” budget for engine-maker Rolls-Royce. The company was handed £1.25bn from public coffers to part-fund the development of a "
     },
     {
@@ -524,16 +604,6 @@
       "summary": "Keira Callaghan says being prepared should be a public health measure, not a privilege, and Chris Rotheram is experiencing prescription anxiety. Plus five more letters in response to the Be Ready campaign The Be Ready campaign may offer sensible advice in prin"
     },
     {
-      "id": "feed-884flx",
-      "title": "Female Lib Dem MP accuses Nigel Farage of shoving her in parliament",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/29/nigel-farage-accused-shoving-female-lib-dem-parliament",
-      "publishedAt": "2026-10-29T17:54:23.000Z",
-      "category": "world",
-      "summary": "Caroline Voaden says Reform UK leader grabbed her by the arm and tried to push past her in incident in May A female Liberal Democrat MP has accused Nigel Farage of shoving her aside at the state opening of parliament after which one of her male colleagues inte"
-    },
-    {
       "id": "feed-q4bvr9",
       "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
       "source": "The Guardian",
@@ -544,26 +614,6 @@
       "summary": "Netanyahu’s claim of interference in election also dismissed by Israeli police and opposition parties Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition Gadi Eisenkot, leader of the Yashar party and Benjamin Netanyahu’s main rival,"
     },
     {
-      "id": "feed-ljjuv7",
-      "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
-      "publishedAt": "2026-10-29T17:49:47.000Z",
-      "category": "world",
-      "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius,"
-    },
-    {
-      "id": "feed-16n7faa",
-      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-      "publishedAt": "2026-10-29T17:46:38.000Z",
-      "category": "world",
-      "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Am"
-    },
-    {
       "id": "feed-11lv6a2",
       "title": "Lib Dems and Reform UK in war of words over alleged shove",
       "source": "BBC News",
@@ -572,16 +622,6 @@
       "publishedAt": "2026-10-29T17:46:15.000Z",
       "category": "uk",
       "summary": "The Lib Dems claim Farage \"attempted to shove\" their South Devon MP but a Reform source accuses the party of \"lying\"."
-    },
-    {
-      "id": "feed-71zl7s",
-      "title": "UK politics: Burnham denies preventing ministers from speaking about plans for closer relationship with EU – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
-      "publishedAt": "2026-10-29T17:30:39.000Z",
-      "category": "world",
-      "summary": "Prime minister wrote to ministers saying he did not want them to ‘advocate for specific options or opine on the likely outcome of the process’ Selling nicotine-free vapes to children under the age of 18 has become illegal from today, the government has said. C"
     },
     {
       "id": "feed-txmwkv",
@@ -1120,7 +1160,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo",
       "publishedAt": "2026-10-29T11:52:55.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget."
     },
     {
@@ -1444,16 +1484,6 @@
       "summary": "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry • Don’t get Pushing Buttons delivered to your inbox? Sign up here If your social media algorithms have c"
     },
     {
-      "id": "feed-gn54wl",
-      "title": "JPMorgan Chase faces £100m-plus tax bill from Healey raid",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/jpmorgan-chase-faces-100m-plus-tax-bill-from-healey-raid-13604869",
-      "publishedAt": "2026-10-28T14:18:00.000Z",
-      "category": "business",
-      "summary": "JPMorgan Chase will pay additional taxes of between £100m and £150m as a result of the corporation tax surcharge hike announced by John Healey in his budget on Wednesday - a bill which could renew doubts about the construction of its new London headquarters."
-    },
-    {
       "id": "feed-1jsngc8",
       "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
       "source": "The Guardian",
@@ -1684,16 +1714,6 @@
       "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device."
     },
     {
-      "id": "feed-10uygl7",
-      "title": "UK government met 137 businesses over AI datacentres – but no environmental groups",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
-      "publishedAt": "2026-10-27T07:00:04.000Z",
-      "category": "technology",
-      "summary": "Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expansion plans The UK’s policy on datacentres and AI was developed without any meetings with environmental groups, an investigation has found. Th"
-    },
-    {
       "id": "feed-15uk8qr",
       "title": "Country diary: Our tiny island is awash with waxcaps | Tim Earl",
       "source": "The Guardian",
@@ -1882,26 +1902,6 @@
       "publishedAt": "2026-10-23T06:39:00.000Z",
       "category": "technology",
       "summary": "Apple's new iPhone Duo is the company's first foldable device - but at £1,999, it's not cheap."
-    },
-    {
-      "id": "feed-bsaz8g",
-      "title": "Mounjaro rollout on NHS needs 'urgent' boost, say MPs",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/mounjaro-rollout-on-nhs-needs-urgent-boost-say-mps-13602553",
-      "publishedAt": "2026-10-23T06:01:00.000Z",
-      "category": "technology",
-      "summary": "Plans for rolling out weight-loss drug Mounjaro are \"unambitious\" and will reach a \"woefully small number of people\", according to MPs."
-    },
-    {
-      "id": "feed-7si0ve",
-      "title": "Military aircraft to be equipped to fight wildfires",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/military-aircraft-to-be-equipped-to-fight-wildfires-government-says-13602524",
-      "publishedAt": "2026-10-23T01:11:00.000Z",
-      "category": "technology",
-      "summary": "Military aircraft will be equipped to help tackle wildfires, the UK government has announced, after a summer of \"unrelenting\" blazes and sustained hot conditions."
     }
   ]
 }
