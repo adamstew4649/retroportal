@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T05:08:59.283Z",
+  "updatedAt": "2026-10-29T06:05:01.028Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-137ia1u",
+      "title": "Ofcom outlines ways social media can verify ages of users",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-29T05:57:15.000Z",
+      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
+    },
     {
       "id": "feed-hi95x5",
       "title": "Details of thousands of US immigration agents leaked in major hack",
@@ -102,14 +110,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-23T12:00:25.000Z",
       "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems."
-    },
-    {
-      "id": "feed-1h6yfq4",
-      "title": "The Indian workers filming their work to train AI",
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-23T08:04:17.000Z",
-      "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI."
     },
     {
       "id": "feed-1o4g26t",
