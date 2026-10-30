@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T16:10:02.554Z",
-  "generatedAt": "2026-10-30T16:10:02.554Z",
+  "updatedAt": "2026-10-30T17:06:09.893Z",
+  "generatedAt": "2026-10-30T17:06:09.893Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,44 @@
   ],
   "articles": [
     {
-      "id": "feed-16vs1mk",
-      "title": "Arteta warns Dowman that top flight is not ‘Disneyland’ after red, Maresca says Donnarumma is droppable, and more – football live",
+      "id": "feed-ibdj1y",
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo",
+      "publishedAt": "2026-10-30T17:00:32.000Z",
+      "category": "world",
+      "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts."
+    },
+    {
+      "id": "feed-14cu0rx",
+      "title": "'No nation left behind' says Burnham after meeting first ministers in Glasgow",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o",
+      "publishedAt": "2026-10-30T16:56:33.000Z",
+      "category": "uk",
+      "summary": "The meeting involved representatives from the UK's four nations to discuss devolving more powers to regions and cities."
+    },
+    {
+      "id": "feed-1yqois1",
+      "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live",
-      "publishedAt": "2026-10-30T16:05:21.000Z",
+      "url": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+      "publishedAt": "2026-10-30T16:49:00.000Z",
       "category": "uk",
-      "summary": "⚽ News and previews heading into the weekend’s action ⚽ Premier League: 10 things to look out for | Mail Andy Dejan Kulusevski returned to competitive action for Tottenham after a 17-month injury layoff to play the last few minutes in the club’s 3-1 home victo"
+      "summary": "Oil giant comes under fire from climate campaigners, as its earnings reach $8.46bn while ‘innocent civilians suffer’ BP’s quarterly profits have been labelled “obscene” after they hit an 18-year high of $8.46bn (£6.3bn), as the war in the Middle East drove up "
+    },
+    {
+      "id": "feed-xwausg",
+      "title": "Gay Halloween: M&S director Kathryn Turner is the ultimate costume idea",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/30/gay-halloween-ms-director-kathryn-turner-is-the-ultimate-costume-idea",
+      "publishedAt": "2026-10-30T16:48:38.000Z",
+      "category": "uk",
+      "summary": "Product development boss at Marks & Spencer inspires niche outfits after her unexpected viral success on social media She is not the mostly likely viral star. But with 310,000 followers on TikTok and 270,000 on Instagram, Marks & Spencer Food’s director of pro"
     },
     {
       "id": "feed-1jsyxz7",
@@ -119,9 +149,119 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-      "publishedAt": "2026-10-30T16:05:02.000Z",
+      "publishedAt": "2026-10-30T16:48:27.000Z",
+      "category": "business",
+      "summary": "Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on record Explainer: How big a deal is this, who did it, and are investments safe? Tell us: have you been affected by the Binance hack? F"
+    },
+    {
+      "id": "feed-16vs1mk",
+      "title": "Arteta warns Dowman that top flight is not ‘Disneyland’ after red, Maresca says Donnarumma is droppable, and more – football live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/30/premier-league-news-carabao-cup-and-wcl-reaction-and-more-football-live",
+      "publishedAt": "2026-10-30T16:44:39.000Z",
       "category": "uk",
-      "summary": "Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on record Explainer: How big a deal is the $6.3bn crypto heist, who did it, and are investments safe? Tell us: have you been affected by "
+      "summary": "⚽ News and previews heading into the weekend’s action ⚽ Premier League: 10 things to look out for | Mail Andy Dejan Kulusevski returned to competitive action for Tottenham after a 17-month injury layoff to play the last few minutes in the club’s 3-1 home victo"
+    },
+    {
+      "id": "feed-52ov5c",
+      "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+      "publishedAt": "2026-10-30T16:35:44.000Z",
+      "category": "uk",
+      "summary": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? Business live – latest updates Th"
+    },
+    {
+      "id": "feed-108c85s",
+      "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
+      "publishedAt": "2026-10-30T16:26:11.000Z",
+      "category": "world",
+      "summary": "But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water."
+    },
+    {
+      "id": "feed-1tsvnfk",
+      "title": "Ex-football chief admits offences linked to woman's drugging and rape by husband",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2q1w9d7x4o",
+      "publishedAt": "2026-10-30T16:21:51.000Z",
+      "category": "uk",
+      "summary": "Karl Lindsay resigned from non-league Taunton Town Football Club in Somerset before he was charged."
+    },
+    {
+      "id": "feed-5rr4x1",
+      "title": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – as it happened",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+      "publishedAt": "2026-10-30T16:21:35.000Z",
+      "category": "world",
+      "summary": "This blog is now closed Downing Street has paid tribute to Patrick Stewart following the actor’s death. At the daily lobby briefing, the PM’s spokesperson gave a comment that was a bit more extensive than the usual No 10 contribution when a great British celeb"
+    },
+    {
+      "id": "feed-g0e5mu",
+      "title": "How do we make new economic ideas a reality? – Aditya Chakrabortty answered your questions",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
+      "publishedAt": "2026-10-30T16:21:29.000Z",
+      "category": "world",
+      "summary": "Guardian columnist, senior economics commentator and host of the new Radical Thinking podcast Aditya Chakrabortty answered your questions on the big ideas around economics, society and democracy, and his new podcast thegreatfatsby asks : Do you think the fact "
+    },
+    {
+      "id": "feed-1ku96y0",
+      "title": "Poundland in peril: how rampant inflation and price wars left £1 stores exposed",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/oct/30/poundland-peril-rampant-inflation-price-wars",
+      "publishedAt": "2026-10-30T16:20:41.000Z",
+      "category": "uk",
+      "summary": "With the chain on the brink of administration, its low-profile US owners face questions about their conduct “It was a very successful and simple proposition,” laments one former Poundland boss. With every product in the shop sold at £1, and the price in its na"
+    },
+    {
+      "id": "feed-1dtbtcc",
+      "title": "Putellas provides mindset change as London City bid to upstage champions",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/30/alexia-putellas-london-city-lionesses-manchester-city-womens-super-league",
+      "publishedAt": "2026-10-30T16:16:24.000Z",
+      "category": "uk",
+      "summary": "Ballon d’Or winner’s move to WSL has transformed the Lionesses on and off the pitch with belief soaring ahead of Manchester City clash As Martin Semmens, the London City Lionesses chief executive, sits down is his office he looks like the cat that got the crea"
+    },
+    {
+      "id": "feed-12zzaml",
+      "title": "FDA again bypasses advisers to remove black-box warnings from menopause treatments",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/fda-remove-warnings-menopause-treatments",
+      "publishedAt": "2026-10-30T16:15:07.000Z",
+      "category": "world",
+      "summary": "Some experts express concern about ‘lack of transparency’ as agency removes warnings on three estrogen patches Three more patches for treating menopause will no longer carry black-box warnings about cardiovascular disease, breast cancer and dementia, officials"
+    },
+    {
+      "id": "feed-1c3w1af",
+      "title": "Bay City Roller can prove top of the pops in fascinating Breeders’ Cup Turf",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/30/bay-city-roller-breeders-cup-turf-horse-racing-tips",
+      "publishedAt": "2026-10-30T16:14:05.000Z",
+      "category": "uk",
+      "summary": "The selection’s excellent second in the Arc de Triomphe is the best form on offer among the European challengers The Turf is the highlight of Saturday’s nine-race Breeders’ Cup card for European fans, with 10 of the 14-strong field trained in the UK, Ireland o"
+    },
+    {
+      "id": "feed-1ms4xyt",
+      "title": "Ceilidh: A New Musical review – a joyous, riotous celebration of Scottish culture gets the audience on its feet",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/oct/30/ceilidh-a-new-musical-review",
+      "publishedAt": "2026-10-30T16:12:45.000Z",
+      "category": "uk",
+      "summary": "Shoreditch town hall, London Scott Gilmour and Claire McKenzie’s audience participation musical gets toes tapping and bodies spinning – even if its story lacks a little depth There’s only one thing you need to know before you dance in a ceilidh, we’re told at "
     },
     {
       "id": "feed-35yjph",
@@ -134,26 +274,6 @@
       "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced."
     },
     {
-      "id": "feed-1tc3lz7",
-      "title": "South Africa all out and set Australia 288 to win decider: third men’s cricket Test, day four – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/30/south-africa-v-australia-third-test-day-four-cricket-newlands-cape-town-live-updates",
-      "publishedAt": "2026-10-30T16:04:40.000Z",
-      "category": "uk",
-      "summary": "Updates from the series decider at Newlands Any thoughts? Get in touch with an email 52nd over: South Africa 151-4 (Breetzke 23, Rickelton 15) There they go! Rickelton gets a ball from Lyon that is not exactly short, but the batter gets back and leans away to "
-    },
-    {
-      "id": "feed-1m7cm84",
-      "title": "Reader Q&A: How can we radically change the way we live? Ask Aditya Chakrabortty",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
-      "publishedAt": "2026-10-30T16:04:13.000Z",
-      "category": "uk",
-      "summary": "Guardian columnist, senior economics commentator and host of the new Radical Thinking podcast Aditya Chakrabortty is answering your questions on the big ideas around economics, society and democracy, and his new podcast Send your questions to conversations@the"
-    },
-    {
       "id": "feed-1tjtc54",
       "title": "Pope Leo votes in US midterms in first known political ballot for any pontiff",
       "source": "The Guardian",
@@ -161,7 +281,17 @@
       "url": "https://www.theguardian.com/world/2026/oct/30/pope-leo-votes-us-midterms-first-political-ballot-pontiff",
       "publishedAt": "2026-10-30T16:01:21.000Z",
       "category": "uk",
-      "summary": "US citizen Leo, who has clashed with Donald Trump over several issues, submitted his vote by post in Chicago Pope Leo has voted in the US midterm elections – the first time a pontiff is known to have cast a ballot in any political election at any time in histo"
+      "summary": "US citizen Leo, who has clashed with Donald Trump over several issues, submits his vote by post in Chicago Pope Leo has voted in the US midterm elections – the first time a sitting pontiff is known to have cast a ballot in any political election at any time in"
+    },
+    {
+      "id": "feed-1e8w247",
+      "title": "I wrote a book about death. Here’s what people really think about dying",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/30/death-grief-loss-book",
+      "publishedAt": "2026-10-30T16:00:17.000Z",
+      "category": "uk",
+      "summary": "In the eight years since my graphic novel on death published, I’ve learned readers of all ages want to talk about loss and preserve their family’s stories Becoming an author in my late 50s was unexpected, the result of my daughter Hallie’s own existential anxi"
     },
     {
       "id": "feed-1m042m9",
@@ -184,16 +314,6 @@
       "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
     },
     {
-      "id": "feed-jkwcyk",
-      "title": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
-      "publishedAt": "2026-10-30T15:59:07.000Z",
-      "category": "uk",
-      "summary": "The prime minister has suggested that he wants a public debate on the UK’s partnership with the EU. Downing Street has paid tribute to Patrick Stewart following the actor’s death. At the daily lobby briefing, the PM’s spokesperson gave a comment that was a bit"
-    },
-    {
       "id": "feed-1majenn",
       "title": "Burnham's Number 10 North goes on multi-million pound hiring spree",
       "source": "BBC News",
@@ -204,8 +324,8 @@
       "summary": "The new government office in Manchester has launched 50 job adverts for roles including a \"rewiring the state deputy director\"."
     },
     {
-      "id": "feed-1jcjxv6",
-      "title": "Prostitution ring jailed after trafficking women from Europe into UK",
+      "id": "feed-t6ob6h",
+      "title": "Men jailed for 'abhorrent' operation trafficking women from Europe into UK for sex work",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmz7x2rwgjjzo",
@@ -254,6 +374,16 @@
       "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
     },
     {
+      "id": "feed-1saf3eu",
+      "title": "‘We are not in Disneyland’: Arteta warns Dowman of Arsenal’s demands",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/30/max-dowman-red-card-suspension-mikel-arteta-arsenal-fleetwood-liverpool-premier-league",
+      "publishedAt": "2026-10-30T15:44:51.000Z",
+      "category": "uk",
+      "summary": "‘We have made these mistakes … you can get punished’ Dowman lost appeal against red card at Fleetwood Mikel Arteta has warned Max Dowman that he “is not in Disneyland” and must learn from his red card against Fleetwood after Arsenal’s appeal against his three-"
+    },
+    {
       "id": "feed-yyaywq",
       "title": "Son in custody after Oberlin professor dad and stepmother shot dead in Ohio",
       "source": "The Guardian",
@@ -262,6 +392,16 @@
       "publishedAt": "2026-10-30T15:42:30.000Z",
       "category": "world",
       "summary": "Daniel Jones held on $3m bail after studio art chair Pipo Nguyen-Duy and Tran Thi Phong found dead at home Oberlin College was shaken on Friday after an award-winning professor of photography who had worked at the Ohio liberal arts college for nearly 30 years "
+    },
+    {
+      "id": "feed-x484cn",
+      "title": "Football Daily | Newcastle’s Jaissle wants to scream while Grealish leaves Moyes speechless",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/30/newcastle-jaissle-grealish-moyes-football-daily-newsletter",
+      "publishedAt": "2026-10-30T15:41:54.000Z",
+      "category": "uk",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! While it is customary for fans of top-flight clubs with delusions of grandeur to cope with Fizzy Cup exits by pretending the competition is beneath them, this is no longer an option that is open to supporters"
     },
     {
       "id": "feed-13w5jq0",
@@ -304,16 +444,6 @@
       "summary": "It influenced The Simpsons and sparked the careers of Eugene Levy, Catherine O’Hara, John Candy and many others. Now this extraordinary Canadian series is finally getting its due SCTV – short for Second City Television – is one of most influential comedy shows"
     },
     {
-      "id": "feed-kgqju3",
-      "title": "Trump reverses decision to cancel Kansas and Iowa rallies before midterms",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/trump-midterm-rallies-kansas-iowa",
-      "publishedAt": "2026-10-30T15:28:49.000Z",
-      "category": "world",
-      "summary": "The president cancelled the events in favor of tele-rallies, as Republicans face a fight to retain control of Congress Donald Trump cancelled, and then promptly uncancelled, two in-person rallies in Kansas and Iowa this weekend as polls suggest US midterm elec"
-    },
-    {
       "id": "feed-1f8zo2p",
       "title": "Big hair with the pre-Raphaelites, 17 Orkney stand-outs and night frights in Derry – the week in art",
       "source": "The Guardian",
@@ -322,6 +452,16 @@
       "publishedAt": "2026-10-30T15:28:37.000Z",
       "category": "uk",
       "summary": "William Morris and the gang collaborate in Cambridge, artists celebrate at Stromness harbour and Halloween haunts Derry – all in your weekly dispatch A Call to Art If you feel you need to see another exhibition about William Morris and the pre-Raphaelites, get"
+    },
+    {
+      "id": "feed-1wxy6t3",
+      "title": "Ex-football club boss admits offences linked to rape of woman",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/ex-football-club-boss-admits-offences-linked-to-rape-of-woman-drugged-by-husband-13605818",
+      "publishedAt": "2026-10-30T15:28:00.000Z",
+      "category": "uk",
+      "summary": "The former chief executive of a non-league football club has admitted offences linked to the rape of a woman who was drugged by her husband."
     },
     {
       "id": "feed-txxif3",
@@ -384,16 +524,6 @@
       "summary": "The opposition can’t win unless they join forces with Arab parties. Benjamin Netanyahu knows this, and will use every ruse to stay in power It’s less an election result than a philosophical puzzle: what happens when a win contains a loss, a loss contains a win"
     },
     {
-      "id": "feed-1hl2ygk",
-      "title": "ExxonMobil and Chevron top estimates for Q3 as Americans feel gas price pain",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/30/exxonmobil-chevron-q3-results",
-      "publishedAt": "2026-10-30T15:12:50.000Z",
-      "category": "world",
-      "summary": "Business is booming for two biggest US oil companies, with both benefiting from higher prices and record production ExxonMobil and Chevron both reported better than expected quarterly results on Friday as the oil majors benefited from higher prices and record "
-    },
-    {
       "id": "feed-1yz5app",
       "title": "Fears for mature Scots Pines burned by huge Highland wildfire",
       "source": "BBC News",
@@ -420,7 +550,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
       "publishedAt": "2026-10-30T15:06:39.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Archaeologists uncover jewellery, cosmetics and coins in cabinet sealed since eruption of Mount Vesuvius in AD79 Fragments of personal objects, from makeup tools and a perfume bottle to coins and a child’s necklace, have been found tucked away in a wooden ward"
     },
     {
@@ -440,7 +570,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/oct/30/cyclist-murder-manchester-simon-richardson-michael-mullins",
       "publishedAt": "2026-10-30T15:05:29.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Simon Richardson knew headteacher Michael Mullins was under his 4×4 as he kept driving in Manchester, jury heard A motorist who drove through give-way markings, collided with a cyclist and then dragged him, trapped under his car, for more than a mile has been "
     },
     {
@@ -470,18 +600,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/thefilter/2026/oct/30/expert-guide-prepare-stockpile-emergency-uk",
       "publishedAt": "2026-10-30T15:00:17.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "UK government guidance says we should be ready for the unexpected, but what’s actually helpful to have at home? We ask the specialists • The best power banks – tested How prepared are you for an emergency? Do you have a few extra tins of beans in the cupboard,"
-    },
-    {
-      "id": "feed-1aoulub",
-      "title": "Dripping with style: what fashion insiders wear in the rain – plus we pick the best raincoats and accessories",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/fashion/2026/oct/30/fashion-autumn-rain-best-raincoats-accessories",
-      "publishedAt": "2026-10-30T15:00:16.000Z",
-      "category": "uk",
-      "summary": "Top tips on how to stay dry and stylish from those who know how. Plus this autumn’s best rain gear, from practical jackets to puddle-proof boots Associate fashion editor for the Guardian Continue reading..."
     },
     {
       "id": "feed-17s1qcu",
@@ -492,26 +612,6 @@
       "publishedAt": "2026-10-30T15:00:16.000Z",
       "category": "technology",
       "summary": "Ghost hunting has changed in recent years due to AI chatbots, and paranormal enthusiasts are concerned Ghost hunting is a tech-heavy pursuit. When Amy Waine and Jarrad Cutting investigate haunted locations, they’re loaded up with software of their own design, "
-    },
-    {
-      "id": "feed-1850z7e",
-      "title": "Andreas Malm condemns UK travel ban as ‘drift into authoritarianism’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/30/andreas-malm-uk-travel-ban-drift-authoritarianism",
-      "publishedAt": "2026-10-30T14:58:20.000Z",
-      "category": "uk",
-      "summary": "Swedish climate academic says he has been ‘kept in the dark’ over Home Office decision to revoke his travel authorisation The Swedish climate academic Andreas Malm has condemned a travel ban imposed on him by the UK government as a “drift into authoritarianism"
-    },
-    {
-      "id": "feed-1w03ppv",
-      "title": "‘There’s a new chapter to write’: Le Bris upbeat as Sunderland eye Coventry reunion",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/30/regis-le-bris-sunderland-coventry-reunion",
-      "publishedAt": "2026-10-30T14:56:32.000Z",
-      "category": "uk",
-      "summary": "European football has stretched resources but the manager insists busy schedule is not something to complain about Twenty seconds of stoppage time remained when Enzo Le Fée picked up the ball and kissed it before taking a corner. As intended, the Frenchman’s p"
     },
     {
       "id": "feed-k51i6n",
@@ -650,7 +750,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/meta-tiktok-and-x-lose-hearing-against-uk-watchdog-over-moderation-data-demands-13605731",
       "publishedAt": "2026-10-30T12:50:00.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Meta, ‌TikTok and X have lost a legal challenge against ‌the UK's regulator over the amount of information it is demanding under new laws."
     },
     {
@@ -662,16 +762,6 @@
       "publishedAt": "2026-10-30T12:49:56.000Z",
       "category": "world",
       "summary": "IISS study questions overreliance on American support and ‘overdependence on expensive, high-end systems’ Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the questionable continued v"
-    },
-    {
-      "id": "feed-1pyk31k",
-      "title": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-      "publishedAt": "2026-10-30T12:48:40.000Z",
-      "category": "technology",
-      "summary": "Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far, and says it will cover losses Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? Business live – latest updates The w"
     },
     {
       "id": "feed-dmvx2h",
@@ -702,16 +792,6 @@
       "publishedAt": "2026-10-30T12:27:28.000Z",
       "category": "world",
       "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history."
-    },
-    {
-      "id": "feed-a2wyku",
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
-      "publishedAt": "2026-10-30T12:25:53.000Z",
-      "category": "world",
-      "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water."
     },
     {
       "id": "feed-1dymray",
@@ -772,16 +852,6 @@
       "publishedAt": "2026-10-30T11:49:00.000Z",
       "category": "world",
       "summary": "Artificial intelligence-powered \"doorbell cameras\" are being tested by a team of international experts in Canada to warn communities about approaching polar bears as climate change increases the risk of dangerous encounters."
-    },
-    {
-      "id": "feed-clvn7v",
-      "title": "BP profits hit 18-year high as Iran war drives up oil refining margins",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
-      "publishedAt": "2026-10-30T11:45:34.000Z",
-      "category": "business",
-      "summary": "Oil giant hails ‘banner quarter’ as earnings reach $8.46bn, prompting anger from climate campaigners BP’s profits have hit their highest level in almost two decades as the war in the Middle East drove up oil and gas prices and led to “significantly higher” tra"
     },
     {
       "id": "feed-1t90kqi",
@@ -1034,23 +1104,13 @@
       "summary": "Grace has autism, and is among those - adults and children - who find the period around Bonfire Night to be highly distressing."
     },
     {
-      "id": "feed-3lzzah",
-      "title": "We went on holiday with our neighbours and swapped families - it tore us apart",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cxddv1vygpvmo",
-      "publishedAt": "2026-10-30T06:21:28.000Z",
-      "category": "uk",
-      "summary": "Rachel Stone tells how her parents swapped partners, the chaos it caused and how she came to forgive them."
-    },
-    {
-      "id": "feed-18kxrju",
-      "title": "Hazardous driving conditions for morning commuters as fog warning issued by Met Office",
+      "id": "feed-1wv8s4w",
+      "title": "Hazardous driving conditions for Friday as fog warning issued by Met Office",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro",
       "publishedAt": "2026-10-30T06:18:35.000Z",
-      "category": "uk",
+      "category": "science",
       "summary": "Foggy conditions likely to bring tricky conditions for the Friday morning commute as severe weather warning issued."
     },
     {
@@ -1064,6 +1124,16 @@
       "summary": "Forward Guernsey believes the allowance is putting pressure on rental prices."
     },
     {
+      "id": "feed-x916nd",
+      "title": "Police investigating Andrew's Balmoral stays with Epstein and Maxwell",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/police-investigating-andrews-balmoral-stays-with-jeffrey-epstein-and-ghislaine-maxwell-13603777",
+      "publishedAt": "2026-10-30T06:14:00.000Z",
+      "category": "uk",
+      "summary": "Police are investigating Andrew Mountbatten-Windsor's stays with Jeffrey Epstein and Ghislaine Maxwell at the Royal Family's private estate in Scotland."
+    },
+    {
       "id": "feed-1bvb6h5",
       "title": "Largest woodland bat survey a 'nice story of AI for good'",
       "source": "BBC News",
@@ -1072,16 +1142,6 @@
       "publishedAt": "2026-10-30T06:10:43.000Z",
       "category": "science",
       "summary": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England."
-    },
-    {
-      "id": "feed-47whq5",
-      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo",
-      "publishedAt": "2026-10-30T06:02:23.000Z",
-      "category": "world",
-      "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government."
     },
     {
       "id": "feed-ctjzcj",
@@ -1132,16 +1192,6 @@
       "publishedAt": "2026-10-30T03:55:00.000Z",
       "category": "uk",
       "summary": "Three people have been killed in a mid-air collision between two helicopters near a small airport in Oregon, police said."
-    },
-    {
-      "id": "feed-1m7ugjs",
-      "title": "California high-speed rail chief quits amid billowing expenses scandal",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/california-high-speed-rail-ian-choudri-resigns",
-      "publishedAt": "2026-10-30T01:37:13.000Z",
-      "category": "business",
-      "summary": "Ian Choudri resigns after report found agency overseeing troubled LA-San Francisco project misused over $600,000 in public funds The chief executive of California’s embattled high-speed rail authority abruptly resigned on Wednesday, over a month after a state "
     },
     {
       "id": "feed-1t6ofmq",
@@ -1334,16 +1384,6 @@
       "summary": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault."
     },
     {
-      "id": "feed-1tn6685",
-      "title": "Lead, mercury and nicotine found in seized fake cosmetics",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/lead-mercury-and-nicotine-found-in-seized-fake-beauty-products-13605394",
-      "publishedAt": "2026-10-29T15:18:00.000Z",
-      "category": "uk",
-      "summary": "Seized counterfeit cosmetics have been found to contain lead, mercury and other potentially harmful substances - and are getting more common."
-    },
-    {
       "id": "feed-148a6ia",
       "title": "Leaflets promoting clinics in illegal Israeli settlements handed out at London medical recruitment event",
       "source": "Sky News",
@@ -1482,16 +1522,6 @@
       "publishedAt": "2026-10-29T09:31:44.000Z",
       "category": "technology",
       "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
-    },
-    {
-      "id": "feed-r1lblg",
-      "title": "North Korea fires ballistic missiles off east coast as tensions with South rise",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/north-korea-fires-ballistic-missiles-off-east-coast-as-tensions-with-south-rise-13605215",
-      "publishedAt": "2026-10-29T08:39:00.000Z",
-      "category": "world",
-      "summary": "North Korea has launched ballistic missiles off its east coast into the Sea of Japan, South Korea said on Thursday, as tensions continued to rise between the two countries."
     },
     {
       "id": "feed-cmtmi",
