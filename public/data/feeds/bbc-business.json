@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T17:59:38.363Z",
+  "updatedAt": "2026-10-30T18:35:55.107Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-bb3eu0",
+      "title": "City of London chief tops UK Black Powerlist",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T18:00:24.000Z",
+      "summary": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year."
+    },
     {
       "id": "feed-27kh9",
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-29T15:48:44.000Z",
       "summary": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model."
-    },
-    {
-      "id": "feed-1e7p6kk",
-      "title": "Bereaved families will not face tax bill over pension delays under new rules",
-      "link": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T15:18:04.000Z",
-      "summary": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault."
     }
   ]
 }
