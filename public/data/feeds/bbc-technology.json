@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T14:19:11.717Z",
+  "updatedAt": "2026-10-30T15:15:26.004Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-b7chc9",
+      "title": "US tech stocks see sharp falls over AI cost concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T15:01:56.000Z",
+      "summary": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
+    },
     {
       "id": "feed-1lw0wht",
       "title": "Google value plunges by $500bn as its own AI search hits ad sales",
@@ -110,14 +118,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-26T19:57:23.000Z",
       "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information."
-    },
-    {
-      "id": "feed-1dwn42x",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-26T16:27:17.000Z",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
     },
     {
       "id": "feed-1o4g26t",
