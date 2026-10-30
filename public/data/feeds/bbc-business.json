@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T00:27:31.855Z",
+  "updatedAt": "2026-10-30T01:30:43.133Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-2pqx2g",
+      "title": "Crypto worth billions frozen after suspected Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T01:20:57.000Z",
+      "summary": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\"."
+    },
     {
       "id": "feed-b410ri",
       "title": "From workshops to the catwalk - why mended clothes are going mainstream",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-29T11:52:55.000Z",
       "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget."
-    },
-    {
-      "id": "feed-1x3cp7f",
-      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T09:30:03.000Z",
-      "summary": "Properties where someone has died in tragic circumstances can have big reductions in price."
     }
   ]
 }
