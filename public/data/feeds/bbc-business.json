@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T23:56:44.150Z",
+  "updatedAt": "2026-10-30T00:27:31.855Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-b410ri",
+      "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T00:00:35.000Z",
+      "summary": "A new generation is embracing eye-catching patching and visible mends."
+    },
     {
       "id": "feed-3us29c",
       "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-29T09:30:03.000Z",
       "summary": "Properties where someone has died in tragic circumstances can have big reductions in price."
-    },
-    {
-      "id": "feed-1oeb1h3",
-      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-      "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T07:54:33.000Z",
-      "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism."
     }
   ]
 }
