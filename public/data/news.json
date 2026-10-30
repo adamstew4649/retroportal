@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T23:26:12.969Z",
-  "generatedAt": "2026-10-30T23:26:12.969Z",
+  "updatedAt": "2026-10-30T23:57:01.897Z",
+  "generatedAt": "2026-10-30T23:57:01.897Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "id": "sky-technology",
@@ -104,6 +104,26 @@
   ],
   "articles": [
     {
+      "id": "feed-14dax5p",
+      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o",
+      "publishedAt": "2026-10-30T23:26:16.000Z",
+      "category": "world",
+      "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years."
+    },
+    {
+      "id": "feed-1006o80",
+      "title": "Red Roses put defeats behind them by crushing USA to extend 35-year streak",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/30/england-return-to-winning-ways-with-comfortable-victory-over-usa",
+      "publishedAt": "2026-10-30T23:22:15.000Z",
+      "category": "uk",
+      "summary": "USA 12-55 England Claudia Moloney-MacDonald runs in four tries England have seen a lot of records crumble around them in this WXV Global Series but the world champions were not going to let a 35-year winning streak go against the USA. The last time the Eagles "
+    },
+    {
       "id": "feed-91y63e",
       "title": "Retired Michigan teacher released from Russian prison believed he would never be freed",
       "source": "The Guardian",
@@ -112,6 +132,16 @@
       "publishedAt": "2026-10-30T23:19:41.000Z",
       "category": "world",
       "summary": "Stephen Hubbard said that only when he was being taken from Moscow to St Petersburg did he believe he was ‘going somewhere’ In his first comments since recently being released from a Russian prison, a retired Michigan teacher said he only believed he would be "
+    },
+    {
+      "id": "feed-8c1acu",
+      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o",
+      "publishedAt": "2026-10-30T23:19:17.000Z",
+      "category": "world",
+      "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky."
     },
     {
       "id": "feed-wfvg0w",
@@ -172,6 +202,16 @@
       "publishedAt": "2026-10-30T22:52:33.000Z",
       "category": "uk",
       "summary": "The second series of the hit series reached its climax on Friday after attracting 15 million viewers."
+    },
+    {
+      "id": "feed-3getm7",
+      "title": "Ebola outbreak kills more than 5,000 people in Democratic Republic of Congo",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/ebola-outbreak-kills-more-than-5000-people-in-democratic-republic-of-congo-13605990",
+      "publishedAt": "2026-10-30T22:47:00.000Z",
+      "category": "world",
+      "summary": "More than 5,000 people have now died from an Ebola outbreak in Democratic Republic of Congo (DRC), according to government data."
     },
     {
       "id": "feed-1gn8lb9",
@@ -484,16 +524,6 @@
       "summary": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year."
     },
     {
-      "id": "feed-1jhrlct",
-      "title": "Twice as many plants and animals sold in wildlife trade as previously thought, says report",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report",
-      "publishedAt": "2026-10-30T18:00:19.000Z",
-      "category": "uk",
-      "summary": "More than 100,000 species are traded globally, whether illegally smuggled, sold as ornaments or in fisheries, timber and fashion industries, study finds The number of plant and animal species in use or sold in the wildlife trade is more than twice as high as p"
-    },
-    {
       "id": "feed-1g0kld",
       "title": "G20 photocall axed after Miliband and other ministers refuse to be pictured with top Russian diplomat",
       "source": "Sky News",
@@ -562,6 +592,16 @@
       "publishedAt": "2026-10-30T17:37:46.000Z",
       "category": "world",
       "summary": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating"
+    },
+    {
+      "id": "feed-vltkru",
+      "title": "Martin Rowson on the UK budget fallout – cartoon",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/30/martin-rowson-uk-budget-fallout-cartoon",
+      "publishedAt": "2026-10-30T17:33:07.000Z",
+      "category": "business",
+      "summary": "Continue reading..."
     },
     {
       "id": "feed-1koyn7a",
@@ -1030,18 +1070,8 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o",
       "publishedAt": "2026-10-30T12:27:28.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history."
-    },
-    {
-      "id": "feed-1dymray",
-      "title": "China denies allegations of spy operation targeting Nvidia CEO",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
-      "publishedAt": "2026-10-30T12:20:04.000Z",
-      "category": "world",
-      "summary": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports."
     },
     {
       "id": "feed-1g5dl6g",
@@ -1204,16 +1234,6 @@
       "summary": "After UK’s hottest summer on record, Ardingly near Haywards Heath is just 19% full – and next-closest reservoir is unusable due to broken treatment works “You can see the water level at Ardingly going down and down. I don’t remember ever seeing it this low,” s"
     },
     {
-      "id": "feed-1ak5v9e",
-      "title": "Andy Burnham admits he would have liked more radical first budget",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare",
-      "publishedAt": "2026-10-30T08:53:00.000Z",
-      "category": "business",
-      "summary": "Prime minister says room for manoeuvre was limited by geopolitical crises and Labour’s 2024 manifesto Andy Burnham has admitted his first budget as prime minister was not as radical as he would have liked because of the economic uncertainty facing the country."
-    },
-    {
       "id": "feed-y1d0mp",
       "title": "Week in wildlife: a fishing anhinga, a northern nutcracker and cuddling seals",
       "source": "The Guardian",
@@ -1242,16 +1262,6 @@
       "publishedAt": "2026-10-30T07:39:00.000Z",
       "category": "business",
       "summary": "Profits at the UK-based oil and gas giant BP have hit an 18-year high, surpassing the level seen during the 2022 energy crisis."
-    },
-    {
-      "id": "feed-12h0xp7",
-      "title": "UK side-hustle tax-free allowance to rise to £3,000 next year",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/30/uk-side-hustle-tax-free-allowance-rise-3000",
-      "publishedAt": "2026-10-30T07:00:47.000Z",
-      "category": "business",
-      "summary": "Up to 1.4 million people could benefit from change to trading allowance announced in budget, with some saving hundreds in tax The amount Britons can earn from a side hustle without paying tax will rise to £3,000 next year in a fillip for those who make extra c"
     },
     {
       "id": "feed-1docp75",
@@ -1464,16 +1474,6 @@
       "summary": "Court documents reveal staff considered ways to ‘get academic community to disavow’ influential US author Meta staff discussed deploying a “whisper strategy” to undermine the influential US academic whose work has inspired a global social media crackdown , acc"
     },
     {
-      "id": "feed-16nfl2p",
-      "title": "FIFA to double Women's World Cup prize money - but it doesn't match men's tournament",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/fifa-to-double-womens-world-cup-prize-money-but-it-doesnt-match-mens-tournament-13605433",
-      "publishedAt": "2026-10-29T16:25:00.000Z",
-      "category": "world",
-      "summary": "FIFA plans to double Women's World Cup prize money next year but will not deliver on Gianni Infantino's ambition to match the cash paid out at the men's tournament, Sky News has learnt."
-    },
-    {
       "id": "feed-s3uw0h",
       "title": "Watchdog investigating Met Police over handling of letter about Meghan's father",
       "source": "Sky News",
@@ -1492,16 +1492,6 @@
       "publishedAt": "2026-10-29T16:06:00.000Z",
       "category": "world",
       "summary": "Shares in Google's parent company Alphabet have suffered their worst-ever day on the US stock market, falling more than 12% and knocking around half a trillion dollars off its value."
-    },
-    {
-      "id": "feed-148a6ia",
-      "title": "Leaflets promoting clinics in illegal Israeli settlements handed out at London medical recruitment event",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/leaflets-promoting-clinics-in-illegal-israeli-settlements-handed-out-at-london-medical-recruitment-event-13605395",
-      "publishedAt": "2026-10-29T15:18:00.000Z",
-      "category": "world",
-      "summary": "Sky News has obtained copies of leaflets promoting medical clinics in illegal Israeli settlements by a company seeking to recruit British Jewish doctors at an event in London"
     },
     {
       "id": "feed-xkasw5",
@@ -1902,6 +1892,16 @@
       "publishedAt": "2026-10-24T02:49:00.000Z",
       "category": "technology",
       "summary": "The UK has pledged to spend £600m to defend the public against threats to health and security from artificial intelligence."
+    },
+    {
+      "id": "feed-10vpoay",
+      "title": "Poundland closer to collapse as it files notice to appoint administrators",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/poundland-closer-to-collapse-as-it-files-notice-to-appoint-administrators-13599206",
+      "publishedAt": "2026-10-14T11:28:00.000Z",
+      "category": "business",
+      "summary": "Poundland has filed notice to appoint administrators, bringing it one step closer to collapse."
     }
   ]
 }
