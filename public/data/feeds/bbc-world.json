@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T19:34:21.135Z",
+  "updatedAt": "2026-10-30T20:24:19.098Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-wbk459",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T20:10:56.000Z",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+    },
     {
       "id": "feed-6gfua9",
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
@@ -22,14 +30,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T17:47:01.000Z",
       "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
-    },
-    {
-      "id": "feed-wbk459",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T17:39:43.000Z",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
     },
     {
       "id": "feed-hzce3f",
