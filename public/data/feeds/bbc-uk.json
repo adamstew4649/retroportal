@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T21:57:39.200Z",
+  "updatedAt": "2026-10-30T22:26:12.191Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-2moyx5",
+      "title": "Celebrity Traitors comes to a climax in nail-biting final",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T22:00:39.000Z",
+      "summary": "The second series of the hit series reached its climax on Friday after attracting 15 million viewers."
+    },
     {
       "id": "feed-7dp6dk",
       "title": "Sir Patrick Stewart remembered as 'Mirfield's finest'",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T14:23:49.000Z",
       "summary": "Sinèad Jackson went to hospital in her wedding dress so her Dad would not miss out on her big day."
-    },
-    {
-      "id": "feed-13kjawq",
-      "title": "Wettest week for two years but still not enough rain to get out of drought",
-      "link": "https://www.bbc.co.uk/weather/articles/cmwyq27lqe9no",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T14:12:04.000Z",
-      "summary": "After above average rainfall in October, reservoirs across England are still very low with much of the country remaining in drought, as Simon King explains."
     }
   ]
 }
