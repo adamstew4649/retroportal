@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T02:32:05.983Z",
-  "generatedAt": "2026-10-30T02:32:05.983Z",
+  "updatedAt": "2026-10-30T03:29:32.511Z",
+  "generatedAt": "2026-10-30T03:29:32.511Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,44 @@
   ],
   "articles": [
     {
-      "id": "feed-2pqx2g",
-      "title": "Crypto worth billions frozen after suspected Binance hack",
+      "id": "feed-su06d1",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
+      "publishedAt": "2026-10-30T03:24:12.000Z",
+      "category": "world",
+      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say."
+    },
+    {
+      "id": "feed-ym2asp",
+      "title": "Binance says crypto worth $6.3bn impacted in suspected hack",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
-      "publishedAt": "2026-10-30T02:18:00.000Z",
+      "publishedAt": "2026-10-30T03:12:53.000Z",
       "category": "technology",
-      "summary": "The firm has not said how much was potentially stolen but some crypto experts have put the figure at over $5bn."
+      "summary": "The firm said roughly $3bn in assets have been frozen and that it will 'cover all losses'."
+    },
+    {
+      "id": "feed-z2tf0m",
+      "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+      "publishedAt": "2026-10-30T02:56:46.000Z",
+      "category": "uk",
+      "summary": "The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping China expelled a record number of officials from the Chinese Communist party (CCP) as it concluded a major pol"
+    },
+    {
+      "id": "feed-8houp8",
+      "title": "Sam Wood makes fresh bail bid over domestic violence charges as court hears of ‘party lifestyle’ and alleged anger issues",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
+      "publishedAt": "2026-10-30T02:47:58.000Z",
+      "category": "world",
+      "summary": "Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast A Queensland court has heard claims that former Bachelor star Sam Wood used drugs and"
     },
     {
       "id": "feed-7ap7wv",
@@ -164,14 +194,14 @@
       "summary": "As many as 8 million people have been affected by food shortages, electricity blackouts and health clinic closures Extreme drought driven by an historic El Niño is affecting as many as 8 million people in Papua New Guinea, causing a cascade of issues from shor"
     },
     {
-      "id": "feed-5tcg13",
-      "title": "Patrick Stewart: the commanding Shakespearian thespian who conquered superhero pop culture",
+      "id": "feed-x88swb",
+      "title": "Patrick Stewart brought gravitas and complexity to the screen, from Star Trek to X-Men",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
       "publishedAt": "2026-10-30T01:25:43.000Z",
       "category": "uk",
-      "summary": "The stage and screen actor brought a unique charismatic force to his Hollywood movie roles, from Star Trek’s Jean-Luc Picard to X-Men’s Professor Charles Xavier Patrick Stewart dies age 86 His life in pictures ‘He stood for the best of us’: William Shatner pay"
+      "summary": "From Jean-Luc Picard to Charles Xavier, the actor’s Shakespearean training – and that sonorous voice – made him a unique charismatic force in Hollywood Patrick Stewart dies age 86 His life in pictures ‘He stood for the best of us’: William Shatner pays tribute"
     },
     {
       "id": "feed-vaeer5",
@@ -330,7 +360,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees",
       "publishedAt": "2026-10-29T23:00:37.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Research finds 55% of lawyers are using AI in legal practices, up from 37% last year, though efficiency gains aren’t as high as expected Get our breaking news email , free app or daily news podcast More than half of Victoria’s lawyers have reported using AI in"
     },
     {
@@ -380,7 +410,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
       "publishedAt": "2026-10-29T22:01:56.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Pentagon says it has referred leak case to justice department for criminal investigation The US defense secretary, Pete Hegseth, has reportedly dismissed Lt Gen Brett Sylvia, a high-ranking army strategist serving on the Pentagon’s joint staff, following alleg"
     },
     {
@@ -431,7 +461,7 @@
       "url": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
       "publishedAt": "2026-10-29T21:02:36.000Z",
       "category": "uk",
-      "summary": "Star Trek: the Next Generation and X-Men actor died at his home after ‘a brief and poignant journey with Alzheimer’s disease and Lewy body dementia’ Patrick Stewart – a life in pictures Patrick Stewart dies aged 86 – latest updates Patrick Stewart, the acclaim"
+      "summary": "Star Trek: the Next Generation and X-Men actor died at his home after ‘a brief and poignant journey with Alzheimer’s disease and Lewy body dementia’ Patrick Stewart – a life in pictures Patrick Stewart: the commanding Shakespearean thespian who conquered super"
     },
     {
       "id": "feed-rx0eh3",
@@ -544,16 +574,6 @@
       "summary": "A court has ruled that an Australian woman who murdered three people by serving them beef wellington laced with poisonous mushrooms can never be released from prison."
     },
     {
-      "id": "feed-v68iim",
-      "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
-      "publishedAt": "2026-10-29T19:32:24.000Z",
-      "category": "world",
-      "summary": "US vice-president writes to top Iranian security official in sign Washington has not abandoned diplomacy Hopes of averting a major new conflagration between Iran and the US soon after Tuesday’s midterm elections could rest on Iran’s response to a personal lett"
-    },
-    {
       "id": "feed-13e3t7j",
       "title": "Watch: Bull on the loose at M6 service station",
       "source": "BBC News",
@@ -662,6 +682,16 @@
       "publishedAt": "2026-10-29T18:05:45.000Z",
       "category": "business",
       "summary": "Continue reading..."
+    },
+    {
+      "id": "feed-1b2qahf",
+      "title": "What are the government's options for reducing welfare spending?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o",
+      "publishedAt": "2026-10-29T17:59:57.000Z",
+      "category": "uk",
+      "summary": "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it."
     },
     {
       "id": "feed-1aabogs",
@@ -1100,7 +1130,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o",
       "publishedAt": "2026-10-29T13:19:24.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Budget forecasts show growth in living standards grinding almost to a halt."
     },
     {
@@ -1122,16 +1152,6 @@
       "publishedAt": "2026-10-29T12:56:58.000Z",
       "category": "science",
       "summary": "The water firm is performing \"significantly below target\" for pollution, the Environment Agency says."
-    },
-    {
-      "id": "feed-su06d1",
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
-      "publishedAt": "2026-10-29T12:49:17.000Z",
-      "category": "world",
-      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say."
     },
     {
       "id": "feed-1esx61a",
@@ -1440,7 +1460,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/us-federal-reserve-holds-interest-rates-ahead-of-possible-bank-of-england-hike-13605142",
       "publishedAt": "2026-10-28T23:51:00.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "The Federal Reserve has left interest rates unchanged - despite persistently high inflation and repeated calls from Donald Trump to lower borrowing costs."
     },
     {
@@ -1614,11 +1634,11 @@
       "summary": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain."
     },
     {
-      "id": "feed-17j2cdh",
+      "id": "feed-19p3gr8",
       "title": "Tech Life",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys",
       "publishedAt": "2026-10-27T20:30:00.000Z",
       "category": "technology",
       "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis."
@@ -1882,26 +1902,6 @@
       "publishedAt": "2026-10-24T00:05:45.000Z",
       "category": "technology",
       "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
-    },
-    {
-      "id": "feed-jvk9pc",
-      "title": "Can AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research",
-      "publishedAt": "2026-10-23T07:00:03.000Z",
-      "category": "science",
-      "summary": "Take a selfie to see how healthy you are: the idea is enticing and this new research is promising. But so many factors have been ignored The idea that a single selfie could predict how long someone with cancer may live sounds like an incredible breakthrough. A"
-    },
-    {
-      "id": "feed-1jjqjdm",
-      "title": "The £1,000 mistake people are making with new iPhone purchase",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/the-1000-mistake-people-are-making-with-new-iphone-purchase-13602560",
-      "publishedAt": "2026-10-23T06:39:00.000Z",
-      "category": "technology",
-      "summary": "Apple's new iPhone Duo is the company's first foldable device - but at £1,999, it's not cheap."
     }
   ]
 }
