@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T20:24:19.098Z",
+  "updatedAt": "2026-10-30T21:02:06.158Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-27kh9",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T20:34:46.000Z",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
+    },
     {
       "id": "feed-wbk459",
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
@@ -22,14 +30,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T18:00:24.000Z",
       "summary": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year."
-    },
-    {
-      "id": "feed-27kh9",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T17:47:01.000Z",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
     },
     {
       "id": "feed-1i7820l",
@@ -112,6 +112,14 @@
       "summary": "Forward Guernsey believes the allowance is putting pressure on rental prices."
     },
     {
+      "id": "feed-1m7cdbo",
+      "title": "How Poundland grew from a market stall to a high street giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-30T06:08:22.000Z",
+      "summary": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse."
+    },
+    {
       "id": "feed-1t6ofmq",
       "title": "From Levi's to Primark - the fashion chains selling mended clothes",
       "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-29T17:15:05.000Z",
       "summary": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans"
-    },
-    {
-      "id": "feed-1l04a91",
-      "title": "Watch: Hundreds queue for city's new Lego store",
-      "link": "https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T17:10:34.000Z",
-      "summary": "Fans queued for hours ahead of the opening of a new Lego Store in Norwich."
     }
   ]
 }
