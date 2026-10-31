@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T02:31:42.649Z",
+  "updatedAt": "2026-10-31T03:29:00.072Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1oiqveb",
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T02:39:25.000Z",
+      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
+    },
     {
       "id": "feed-14mcx2a",
       "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T16:26:11.000Z",
       "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
-    },
-    {
-      "id": "feed-1a2z1x4",
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T15:17:11.000Z",
-      "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists."
     }
   ]
 }
