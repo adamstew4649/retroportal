@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T11:56:59.115Z",
+  "updatedAt": "2026-10-31T12:28:31.704Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,20 @@
   },
   "articles": [
     {
-      "id": "feed-ah9ppk",
-      "title": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
+      "id": "feed-v78zwj",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T12:21:25.000Z",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+    },
+    {
+      "id": "feed-1hnn2ui",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
       "source": "BBC News",
-      "publishedAt": "2026-10-31T11:18:14.000Z",
-      "summary": "Residents were taken out from the devastated city on Friday during a local ceasefire."
+      "publishedAt": "2026-10-31T12:05:04.000Z",
+      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump."
     },
     {
       "id": "feed-1uftngq",
@@ -86,14 +94,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T01:11:43.000Z",
       "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
-    },
-    {
-      "id": "feed-v78zwj",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T00:40:43.000Z",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
     },
     {
       "id": "feed-6gfua9",
