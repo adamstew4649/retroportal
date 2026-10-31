@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T19:11:22.436Z",
+  "updatedAt": "2026-10-31T19:55:43.817Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,36 @@
   },
   "articles": [
     {
+      "id": "feed-1hei4jy",
+      "title": "Clashes erupt between police and protesters in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T19:37:43.000Z",
+      "summary": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services."
+    },
+    {
+      "id": "feed-bgg1mz",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T19:22:26.000Z",
+      "summary": "One evacuated couple says they crossed minefields in Oleshky in a search for food."
+    },
+    {
       "id": "feed-17tcen5",
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
       "source": "BBC News",
       "publishedAt": "2026-10-31T17:53:35.000Z",
       "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
+    },
+    {
+      "id": "feed-e0719w",
+      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T16:55:47.000Z",
+      "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire."
     },
     {
       "id": "feed-1v9duba",
@@ -46,14 +70,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T12:50:45.000Z",
       "summary": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok."
-    },
-    {
-      "id": "feed-v78zwj",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T12:21:25.000Z",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
     },
     {
       "id": "feed-15x3xyi",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T00:16:03.000Z",
       "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out."
-    },
-    {
-      "id": "feed-14dax5p",
-      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
-      "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T23:26:16.000Z",
-      "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years."
-    },
-    {
-      "id": "feed-8c1acu",
-      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-      "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T23:19:17.000Z",
-      "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky."
     }
   ]
 }
