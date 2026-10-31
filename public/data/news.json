@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T16:58:39.657Z",
-  "generatedAt": "2026-10-31T16:58:39.657Z",
+  "updatedAt": "2026-10-31T17:23:07.730Z",
+  "generatedAt": "2026-10-31T17:23:07.730Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,34 @@
   ],
   "articles": [
     {
-      "id": "feed-wfd8p8",
-      "title": "Manchester City v Brighton, Bournemouth v Leeds, and more: clockwatch - live",
+      "id": "feed-9nco0k",
+      "title": "Manchester City 0-1 Brighton, Coventry 3-1 Sunderland and more: clockwatch - live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/oct/31/manchester-city-v-brighton-bournemouth-v-leeds-and-more-clockwatch-live",
-      "publishedAt": "2026-10-31T16:52:37.000Z",
+      "publishedAt": "2026-10-31T17:07:52.000Z",
       "category": "uk",
-      "summary": "⚽ Clockwatch updates on the Saturday 3pm GMT kick-offs ⚽ Chelsea 2-0 Man Utd | Live scores | Table | Mail Tom Nottingham Forest are a strange proposition. Lots of quality players but they’ve only won one Premier League game so far this season. They’ve only con"
+      "summary": "⚽ Brentford 2-0 Forest, Hull 2-2 Ipswich, B’mouth 2-0 Leeds ⚽ Chelsea 2-0 Man Utd | Live scores | Table | Mail Tom Nottingham Forest are a strange proposition. Lots of quality players but they’ve only won one Premier League game so far this season. They’ve onl"
+    },
+    {
+      "id": "feed-r276lv",
+      "title": "Early midterm voting surges with more than 50m ballots cast so far – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies",
+      "publishedAt": "2026-10-31T17:07:33.000Z",
+      "category": "uk",
+      "summary": "This is already nearly five million more votes than the total number of early votes made in the last midterm elections, in 2022 Sign up for the Breaking News US email Located further west than the Hawaiian islands, Unalaska is closer to Beijing, Tokyo and Seou"
+    },
+    {
+      "id": "feed-1cjjn9s",
+      "title": "Tottenham v Crystal Palace: Premier League – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/oct/31/tottenham-v-crystal-palace-premier-league-live",
+      "publishedAt": "2026-10-31T17:02:55.000Z",
+      "category": "uk",
+      "summary": "⚽ Updates on the 5.30pm GMT kick-off in north London ⚽ Football Daily | Premier League table | Email Niall Here are today’s Premier League results so far: Chelsea 2-0 Manchester United Bournemouth 2-0 Leeds Brentford 2-0 Nottm Forest Coventry 3-1 Sunderland Hu"
     },
     {
       "id": "feed-130c8oh",
@@ -124,6 +144,16 @@
       "summary": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in fines Protesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place in Lille and Lyon . C"
     },
     {
+      "id": "feed-glgv0e",
+      "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo",
+      "publishedAt": "2026-10-31T16:49:18.000Z",
+      "category": "uk",
+      "summary": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers."
+    },
+    {
       "id": "feed-163vq5b",
       "title": "Pakistan win tri-series final as Fakhar Zaman century denies Sri Lanka in thrilling chase",
       "source": "The Guardian",
@@ -132,16 +162,6 @@
       "publishedAt": "2026-10-31T16:46:30.000Z",
       "category": "uk",
       "summary": "Fakhar Zaman scores 127 from 99 balls in Lahore Kamindu Mendis’s 131 proves in vain for Sri Lanka This mini-tournament has been a welcome change of pace, carrying more meaning than your bog-standard three-match white-ball slog between two teams. And then there"
-    },
-    {
-      "id": "feed-r276lv",
-      "title": "Early midterm voting surges with more than 50m ballots cast so far – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies",
-      "publishedAt": "2026-10-31T16:41:52.000Z",
-      "category": "uk",
-      "summary": "This is already nearly five million more votes than the total number of early votes made in the last midterm elections, in 2022 Sign up for the Breaking News US email Located further west than the Hawaiian islands, Unalaska is closer to Beijing, Tokyo and Seou"
     },
     {
       "id": "feed-bba7ko",
@@ -364,16 +384,6 @@
       "summary": "There are many explanations for the incumbent president’s win over Flávio Bolsonaro, but analysts – and he – point to reinvention of his social media use Four days before his stunning electoral comeback, Luiz Inácio Lula da Silva, Brazil’s president, got his f"
     },
     {
-      "id": "feed-1babje5",
-      "title": "Australia collapse on final day as Simon Harmer spins South Africa to series win",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/31/south-africa-australia-third-test-match-report",
-      "publishedAt": "2026-10-31T13:34:44.000Z",
-      "category": "uk",
-      "summary": "South Africa regain top spot in Test rankings Harmer takes career-best six for 16 at Newlands At the start of the fifth day in Cape Town, the contest was set up beautifully: 288 for Australia to chase, a day in which to do it, on a surface that had been sporti"
-    },
-    {
       "id": "feed-1bx293w",
       "title": "Starmer says UK must get closer to Europe as US relationship changes",
       "source": "The Guardian",
@@ -402,6 +412,16 @@
       "publishedAt": "2026-10-31T13:28:40.000Z",
       "category": "uk",
       "summary": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders."
+    },
+    {
+      "id": "feed-awwkc3",
+      "title": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo",
+      "publishedAt": "2026-10-31T13:20:39.000Z",
+      "category": "uk",
+      "summary": "Sir Keir warns that \"things will not go back to the way they were\" as he says the US makes it clear it will no longer \"bankroll\" its allies."
     },
     {
       "id": "feed-j6789g",
@@ -542,16 +562,6 @@
       "publishedAt": "2026-10-31T11:00:40.000Z",
       "category": "science",
       "summary": "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a tas"
-    },
-    {
-      "id": "feed-2moyx5",
-      "title": "Celebrity Traitors comes to a climax in nail-biting final",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o",
-      "publishedAt": "2026-10-31T10:54:56.000Z",
-      "category": "uk",
-      "summary": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers."
     },
     {
       "id": "feed-mxzasc",
@@ -804,16 +814,6 @@
       "summary": "BoM predicts hail, damaging winds and possible flash flooding across Victoria, NSW and parts of Queensland into Sunday Get our breaking news email , free app or daily news podcast Storm warnings are in place for multiple capital cities across Australia’s east "
     },
     {
-      "id": "feed-1aikflz",
-      "title": "Eight in 10 homes in London’s poshest postcodes now sell below asking price, Coutts finds",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/money/2026/oct/31/homes-london-poshest-neighbourhoods-sell-below-asking-price-coutts",
-      "publishedAt": "2026-10-31T06:00:37.000Z",
-      "category": "business",
-      "summary": "Sellers in areas such as Belgravia and Mayfair face hundreds of thousands of pounds in losses as property prices fall Eight out of 10 properties in London’s most exclusive neighbourhoods – such as Mayfair, Belgravia and Knightsbridge – now sell below asking pr"
-    },
-    {
       "id": "feed-qjfy8r",
       "title": "Spain train disaster clouds Sánchez chances of re-election",
       "source": "BBC News",
@@ -822,16 +822,6 @@
       "publishedAt": "2026-10-31T05:44:21.000Z",
       "category": "world",
       "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
-    },
-    {
-      "id": "feed-1ejow3e",
-      "title": "The Papers: 'Rush to recover stolen $6bn' and 'War on wind farms'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnp91pzv8o",
-      "publishedAt": "2026-10-31T05:24:22.000Z",
-      "category": "uk",
-      "summary": "The theft of billions of dollars from Binance, the world's largest cryptocurrency exchange, makes Saturday's front pages."
     },
     {
       "id": "feed-iorwv0",
@@ -1610,7 +1600,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428",
       "publishedAt": "2026-10-29T16:06:00.000Z",
-      "category": "technology",
+      "category": "world",
       "summary": "Shares in Google's parent company Alphabet have suffered their worst-ever day on the US stock market, falling more than 12% and knocking around half a trillion dollars off its value."
     },
     {
@@ -1902,6 +1892,16 @@
       "publishedAt": "2026-10-26T13:09:00.000Z",
       "category": "technology",
       "summary": "Artificial intelligence giant Anthropic, the company behind the popular Claude chatbot, has filed papers to sell shares to the public for the first time."
+    },
+    {
+      "id": "feed-10vpoay",
+      "title": "Poundland closer to collapse as it files notice to appoint administrators",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/poundland-closer-to-collapse-as-it-files-notice-to-appoint-administrators-13599206",
+      "publishedAt": "2026-10-14T11:28:00.000Z",
+      "category": "business",
+      "summary": "Poundland has filed notice to appoint administrators, bringing it one step closer to collapse."
     }
   ]
 }
