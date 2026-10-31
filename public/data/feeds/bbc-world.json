@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T08:08:24.358Z",
+  "updatedAt": "2026-10-31T09:02:07.261Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-btyxgf",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T08:49:35.000Z",
+      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
+    },
     {
       "id": "feed-qjfy8r",
       "title": "Spain train disaster clouds Sánchez chances of re-election",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T20:34:46.000Z",
       "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
-    },
-    {
-      "id": "feed-1i7bov8",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T17:07:19.000Z",
-      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
     }
   ]
 }
