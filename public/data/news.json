@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T12:28:31.710Z",
-  "generatedAt": "2026-10-31T12:28:31.710Z",
+  "updatedAt": "2026-10-31T13:18:49.115Z",
+  "generatedAt": "2026-10-31T13:18:49.115Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,124 @@
   ],
   "articles": [
     {
+      "id": "feed-jbimuf",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
+      "publishedAt": "2026-10-31T13:12:46.000Z",
+      "category": "world",
+      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump."
+    },
+    {
+      "id": "feed-1q0jok9",
+      "title": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+      "publishedAt": "2026-10-31T13:09:34.000Z",
+      "category": "world",
+      "summary": "French interior minister, Laurent Nuñez, warned earlier this week of a ‘very high risk of public disorder’ The demonstrations coincide with Halloween, but France’s interior minister, Laurent Nuñez , has warned protesters that covering their faces with costumes"
+    },
+    {
       "id": "feed-qnjn7a",
       "title": "Chelsea v Manchester United: Premier League – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
-      "publishedAt": "2026-10-31T12:22:49.000Z",
+      "publishedAt": "2026-10-31T13:08:55.000Z",
       "category": "uk",
-      "summary": "⚽ Updates on the 12.30pm GMT kick-off in west London ⚽ Football Daily | Goalscorers | Live Scores | Email Scott Xabi Alonso talks to TNT. “We are back in Premier League mode, so it is the most important … today is a big one … [Estevao] is ready … he is needed "
+      "summary": "⚽ Updates on the 12.30pm GMT kick-off in west London ⚽ Football Daily | Goalscorers | Live Scores | Email Scott 3 min: A rare old atmosphere at the Bridge. Saturday lunchtime pints! You see? We have photographic proof. 2 min: A fairly hectic and shapeless star"
+    },
+    {
+      "id": "feed-253ewg",
+      "title": "Pakistan v Sri Lanka: tri-series cricket one-day international final – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/31/pakistan-v-sri-lanka-tri-series-odi-final-live",
+      "publishedAt": "2026-10-31T13:08:51.000Z",
+      "category": "uk",
+      "summary": "Pakistan chasing 326 to win after Sri Lanka make 325-8 Eliminated England beat Sri Lanka | Email Jim 3rd over: Sri Lanka 10-0 (Avishka 6, Kamindu 4) Shaheen, something less than a towel, more like an ironed pocket hankerchief, tucked into his waistband runs in"
+    },
+    {
+      "id": "feed-t61oox",
+      "title": "South Africa v Australia: third men’s cricket Test, day five – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/31/south-africa-v-australia-third-test-day-five-cricket-newlands-cape-town-live-updates",
+      "publishedAt": "2026-10-31T13:07:43.000Z",
+      "category": "uk",
+      "summary": "Updates from the final day of the series at Newlands Any thoughts? Get in touch with an email 3rd over: Australia 14-2 (Head 9, Green 1) Brave of Green to leave the ball outside off. Similar spot to the one that got Marnus, a touch fuller perhaps. He gets movi"
+    },
+    {
+      "id": "feed-pc8pi7",
+      "title": "Affordability, AI and Iran: Americans on the key issues guiding their midterm votes",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/americans-voters-midterm-election-key-issues",
+      "publishedAt": "2026-10-31T13:00:45.000Z",
+      "category": "uk",
+      "summary": "Guardian readers share their concerns and disillusionment with the political climate under Trump as elections loom Millions of Americans will head to the polls on 3 November in elections that will determine control of the Republican-held House of Representativ"
+    },
+    {
+      "id": "feed-kftfzn",
+      "title": "‘We freed Patrick Stewart!’ Star Trek’s Marina Sirtis on breaking in her beloved but very serious co-star",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean",
+      "publishedAt": "2026-10-31T13:00:45.000Z",
+      "category": "uk",
+      "summary": "She was scared of him but soon loosened the Shakespearean up – then watched him give Star Trek depth, even insisting scenes be rewritten for her. Captain Picard’s right-hand woman salutes her fabulous friend I’d been warned about Patrick by friends who’d worke"
+    },
+    {
+      "id": "feed-z6deth",
+      "title": "‘Dark green dust’: the best (and worst) supermarket green teabags, tested and rated",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/thefilter/2026/oct/31/best-worst-supermarket-green-tea-tested-rated-teabags",
+      "publishedAt": "2026-10-31T13:00:43.000Z",
+      "category": "uk",
+      "summary": "Green tea can be a mixed bag – we sipped our way through the supermarket shelves to find the ones worth boiling the kettle for • The best (and worst) supermarket teabags My mother-in-law has a mug that reads: “By replacing your morning coffee with green tea, y"
+    },
+    {
+      "id": "feed-j6789g",
+      "title": "Trump boosted half of US coal plants with taxpayer dollars and ‘free passes to pollute’, report says",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars",
+      "publishedAt": "2026-10-31T13:00:42.000Z",
+      "category": "uk",
+      "summary": "Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptions It’s a good time to be a coal plant in the US. The Trump administration has given support to almost half of the nation’s coal plants, helping them to continu"
+    },
+    {
+      "id": "feed-izy8gf",
+      "title": "Watch: Blood donors get a Halloween fright in Thailand",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o",
+      "publishedAt": "2026-10-31T12:50:45.000Z",
+      "category": "world",
+      "summary": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok."
+    },
+    {
+      "id": "feed-1xwr5b4",
+      "title": "Fallon Sherrock pulls off shock defeat of world darts No 1 Luke Littler in live TV battle",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/oct/31/fallon-sherrock-shock-defeat-luke-littler-darts-live-tv-battle-netflix",
+      "publishedAt": "2026-10-31T12:41:45.000Z",
+      "category": "uk",
+      "summary": "The 15th amateur to challenge Littler in Netflix stream on Friday evening, Sherrock was ‘lost for words’ after winning £501,000 prize The name of the programme was Beat Luke Littler and Fallon Sherrock did just that. On one of the biggest nights of the year fo"
+    },
+    {
+      "id": "feed-1yajaqm",
+      "title": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
+      "publishedAt": "2026-10-31T12:30:06.000Z",
+      "category": "uk",
+      "summary": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progress Calls are growing for major reforms to UN biodiversity summits as countries fail to deliver on their promises to"
     },
     {
       "id": "feed-v78zwj",
@@ -124,16 +234,6 @@
       "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
     },
     {
-      "id": "feed-t61oox",
-      "title": "South Africa v Australia: third men’s cricket Test, day five – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/31/south-africa-v-australia-third-test-day-five-cricket-newlands-cape-town-live-updates",
-      "publishedAt": "2026-10-31T12:20:28.000Z",
-      "category": "uk",
-      "summary": "Updates from the final day of the series at Newlands Any thoughts? Get in touch with an email 3rd over: Australia 14-2 (Head 9, Green 1) Brave of Green to leave the ball outside off. Similar spot to the one that got Marnus, a touch fuller perhaps. He gets movi"
-    },
-    {
       "id": "feed-6yfmk7",
       "title": "Buyout firm TDR Capital strikes €400m deal to buy Lovehoney",
       "source": "Sky News",
@@ -144,34 +244,14 @@
       "summary": "The private equity firm which owns Asda and Britain's biggest pubs operator has agreed a roughly €400m (£334m) takeover of Lovehoney Group, a big player in the fast-growing \"intimate wellness\" industry."
     },
     {
-      "id": "feed-253ewg",
-      "title": "Pakistan v Sri Lanka: tri-series cricket one-day international final – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/31/pakistan-v-sri-lanka-tri-series-odi-final-live",
-      "publishedAt": "2026-10-31T12:18:57.000Z",
-      "category": "uk",
-      "summary": "Updates on the ODI in Lahore. Play starts 8am GMT Eliminated England beat Sri Lanka | Email Tanya 3rd over: Sri Lanka 10-0 (Avishka 6, Kamindu 4) Shaheen, something less than a towel, more like an ironed pocket hankerchief, tucked into his waistband runs in. K"
-    },
-    {
-      "id": "feed-1q0jok9",
-      "title": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-      "publishedAt": "2026-10-31T12:09:22.000Z",
-      "category": "uk",
-      "summary": "French interior minister, Laurent Nuñez, warned earlier this week of a ‘very high risk of public disorder’ Here are some of the latest images from around France: In Paris, two separate marches planned by unions and gilets jaunes through the city centre have be"
-    },
-    {
-      "id": "feed-1hnn2ui",
-      "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
-      "publishedAt": "2026-10-31T12:05:04.000Z",
+      "id": "feed-186dadv",
+      "title": "Man dies and another injured after attack at centre housing migrants",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/man-dies-and-another-injured-after-attack-at-centre-housing-migrants-in-ireland-13606071",
+      "publishedAt": "2026-10-31T12:05:00.000Z",
       "category": "world",
-      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump."
+      "summary": "A man has died following an attack at a centre housing migrants in Ireland."
     },
     {
       "id": "feed-3qt7sk",
@@ -194,16 +274,6 @@
       "summary": "His dashing lead role in Jilly Cooper’s bonkbuster didn’t hurt the actor’s pin-up status, but now, he protests, he’s 43 – and a dad Aidan Turner has a tactical beard. For the last two decades or so, the actor has found himself in roles that have made him a smo"
     },
     {
-      "id": "feed-pvvjey",
-      "title": "‘This is a robust recipe’: the experimental farm bucking the decline in UK birds",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/oct/31/this-is-a-robust-recipe-the-experimental-farm-bucking-the-decline-in-uk-birds",
-      "publishedAt": "2026-10-31T12:00:43.000Z",
-      "category": "uk",
-      "summary": "Allerton Project attracts abundant wildlife and its success can offers clues to reversing the sharp drop in populations Farmer Alastair Leake is standing in a field of sprouting winter wheat, pointing at his experiment. One side was ploughed before planting, w"
-    },
-    {
       "id": "feed-427di7",
       "title": "Jump scares, leather gloves and squeaking moth noises: theatre horror masters on how they make their shows so scary",
       "source": "The Guardian",
@@ -212,6 +282,16 @@
       "publishedAt": "2026-10-31T12:00:43.000Z",
       "category": "uk",
       "summary": "Whether it’s immersive chiller Blackout or the campily scary 2:22: A Ghost Story, ‘tis the season to be scared witless at the theatre. But what’s the secret to making an audience gasp in terror? It was 1am. Total darkness. Locking up a wedding venue, Sam Beech"
+    },
+    {
+      "id": "feed-pvvjey",
+      "title": "‘This is a robust recipe’: the experimental farm bucking the decline in UK birds",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/oct/31/this-is-a-robust-recipe-the-experimental-farm-bucking-the-decline-in-uk-birds",
+      "publishedAt": "2026-10-31T12:00:43.000Z",
+      "category": "uk",
+      "summary": "Allerton Project attracts abundant wildlife and its success can offers clues to reversing the sharp drop in populations Farmer Alastair Leake is standing in a field of sprouting winter wheat, pointing at his experiment. One side was ploughed before planting, w"
     },
     {
       "id": "feed-c1kydz",
@@ -254,64 +334,14 @@
       "summary": "Days away from a national verdict on Trump 2.0, we check in with nine midterm voters across the US and the political spectrum US voters will soon deliver a national verdict on the second presidency of Donald Trump . On 3 November, millions of Americans will vo"
     },
     {
-      "id": "feed-yc3535",
-      "title": "‘A gust of wind blowing back her hair added something special’: Mark McEvoy’s best phone picture",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/mark-mcevoy-best-phone-picture-smoking-girl-outside-shop-doorway",
-      "publishedAt": "2026-10-31T11:00:43.000Z",
-      "category": "uk",
-      "summary": "It was very cold and the young smoker was barelegged, barefoot and wearing a fur coat … How could the photographer resist? This Margate shop is now an ice-cream parlour, but back in 2014 it was a vintage clothes store. Mark McEvoy, who had relocated from Londo"
-    },
-    {
-      "id": "feed-12hfqo3",
-      "title": "Jeremy Nguyen on a very arty pumpkin – cartoon",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/31/jeremy-nguyen-arty-pumpkin-yayoi-kusama-cartoon",
-      "publishedAt": "2026-10-31T11:00:42.000Z",
-      "category": "uk",
-      "summary": "Continue reading..."
-    },
-    {
       "id": "feed-1syry07",
       "title": "Railway engineering work over Christmas will cause 10 days of disruption",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham",
       "publishedAt": "2026-10-31T11:00:41.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "London Paddington and Birmingham New Street stations will shut for five days but most routes will stay open Passengers travelling on some of Great Britain’s busiest railway lines at Christmas have been warned of significant disruption from 10 days of engineeri"
-    },
-    {
-      "id": "feed-1py6bam",
-      "title": "Top Democrats are fighting a billionaire tax in California. Their voters are on the other side |",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/31/california-billionaire-tax-democrats-voters",
-      "publishedAt": "2026-10-31T11:00:41.000Z",
-      "category": "uk",
-      "summary": "The unprecedented measure has enormous potential nationwide. The clash exposes the party’s corporate-progressive divide Midway through this summer, a high-quality poll found that Democrats in California were overwhelmingly in favor of the upcoming ballot measu"
-    },
-    {
-      "id": "feed-yf43fh",
-      "title": "Christopher Capron obituary",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/media/2026/oct/31/christopher-capron-obituary",
-      "publishedAt": "2026-10-31T11:00:41.000Z",
-      "category": "uk",
-      "summary": "‘Ruthlessly impartial’ editor of Panorama and BBC executive who fought for the corporation’s independence during the Thatcher era Christopher Capron, who has died aged 90, was a well-regarded editor of the BBC’s flagship current affairs programme Panorama, and"
-    },
-    {
-      "id": "feed-ozfsm6",
-      "title": "From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter",
-      "publishedAt": "2026-10-31T11:00:40.000Z",
-      "category": "uk",
-      "summary": "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a tas"
     },
     {
       "id": "feed-bf3uz6",
@@ -322,6 +352,16 @@
       "publishedAt": "2026-10-31T11:00:40.000Z",
       "category": "business",
       "summary": "Even modest overpayments can save you a fortune. We look at the best ways to pay off your biggest debt early When Adrian Massey was made redundant from his job as a food developer in 2010, the bill that worried him the most was the mortgage. Just over a decade"
+    },
+    {
+      "id": "feed-ozfsm6",
+      "title": "From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter",
+      "publishedAt": "2026-10-31T11:00:40.000Z",
+      "category": "science",
+      "summary": "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a tas"
     },
     {
       "id": "feed-ozdgql",
@@ -354,16 +394,6 @@
       "summary": "Queues outside shops are a regular sight in the village after influencers posted about its beauty."
     },
     {
-      "id": "feed-1xwr5b4",
-      "title": "Fallon Sherrock pulls off shock defeat of world darts No 1 Luke Littler in live TV battle",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/31/fallon-sherrock-shock-defeat-luke-littler-darts-live-tv-battle-netflix",
-      "publishedAt": "2026-10-31T10:17:37.000Z",
-      "category": "world",
-      "summary": "The 15th amateur to challenge Littler in Netflix stream on Friday evening, Sherrock was ‘lost for words’ after winning £501,000 prize The name of the programme was Beat Luke Littler, and Fallon Sherrock did just that. On one of the biggest nights of the year f"
-    },
-    {
       "id": "feed-ke0ceo",
       "title": "'Significant development' in Leeds murder investigation as man arrested in London",
       "source": "Sky News",
@@ -372,16 +402,6 @@
       "publishedAt": "2026-10-31T10:10:00.000Z",
       "category": "uk",
       "summary": "Police investigating the killing of a 38-year-old man in an apparent group attack have made an arrest in what is being called a \"significant development\"."
-    },
-    {
-      "id": "feed-1yajaqm",
-      "title": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
-      "publishedAt": "2026-10-31T10:01:29.000Z",
-      "category": "business",
-      "summary": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progress Calls are growing for major reforms to UN biodiversity summits as countries fail to deliver on their promises to"
     },
     {
       "id": "feed-le82m4",
@@ -454,8 +474,8 @@
       "summary": "The telecoms giant Virgin Media O2 (VMO2) is to axe thousands of jobs as it slashes its cost base amid investor concerns about its ability to service its £22bn debt mountain."
     },
     {
-      "id": "feed-1uftngq",
-      "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+      "id": "feed-15x3xyi",
+      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo",
@@ -544,8 +564,8 @@
       "summary": "What if someone told you the truth about the economy? For years, UK governments have tried spending more, spending less, cutting red tape, leaving the EU, levelling up, and they have still failed to increase growth per person. So what’s the lesson from the gre"
     },
     {
-      "id": "feed-d7kgrh",
-      "title": "UK has 'no authority' over death of woman shot in US",
+      "id": "feed-1ihdbf5",
+      "title": "UK has 'no authority' over case of woman killed by father in US",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cm9dz48g24yzo",
@@ -972,16 +992,6 @@
       "publishedAt": "2026-10-30T20:44:00.000Z",
       "category": "uk",
       "summary": "A 35-year-old man has been arrested as part of an investigation into suspected terrorism offences on the Shankill Road in Belfast."
-    },
-    {
-      "id": "feed-1e03uu9",
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do",
-      "publishedAt": "2026-10-30T20:41:51.000Z",
-      "category": "world",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
     },
     {
       "id": "feed-27kh9",
@@ -1892,16 +1902,6 @@
       "publishedAt": "2026-10-14T11:28:00.000Z",
       "category": "business",
       "summary": "Poundland has filed notice to appoint administrators, bringing it one step closer to collapse."
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
