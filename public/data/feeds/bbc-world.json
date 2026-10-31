@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T16:23:49.575Z",
+  "updatedAt": "2026-10-31T16:58:39.649Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,20 @@
   },
   "articles": [
     {
+      "id": "feed-1v9duba",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T16:32:08.000Z",
+      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
+    },
+    {
       "id": "feed-17tcen5",
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
       "source": "BBC News",
       "publishedAt": "2026-10-31T15:50:41.000Z",
-      "summary": "Many residents left Oleshky on Friday following a ceasefire brokered by US First Lady Melania Trump."
+      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
     },
     {
       "id": "feed-17chgu2",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T23:19:17.000Z",
       "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky."
-    },
-    {
-      "id": "feed-hzce3f",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T22:11:52.000Z",
-      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
     }
   ]
 }
