@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T17:54:15.723Z",
+  "updatedAt": "2026-10-31T18:22:17.886Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-z77rxm",
+      "title": "Healey risks breaking minimum wage promise for younger workers",
+      "link": "https://www.bbc.co.uk/news/articles/cv369266644lo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T17:26:29.000Z",
+      "summary": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election."
+    },
     {
       "id": "feed-glgv0e",
       "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
@@ -104,14 +112,6 @@
       "summary": "Ballet Cymru's founder reflects on the path that led to 40 years of the professional dance company."
     },
     {
-      "id": "feed-12p0td4",
-      "title": "Toddler heads to US for cancer treatment as family given 'glimmer of hope'",
-      "link": "https://www.bbc.co.uk/news/articles/ckwy4dzp29e8o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T07:06:12.000Z",
-      "summary": "Teddy Sloman was diagnosed with high-risk neuroblastoma, a rare and aggressive childhood cancer."
-    },
-    {
       "id": "feed-6c2ied",
       "title": "How do you navigate Halloween with food allergies?",
       "link": "https://www.bbc.co.uk/news/articles/ckdd8pmr5l64o",
@@ -136,20 +136,20 @@
       "summary": "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK."
     },
     {
-      "id": "feed-s7qxme",
-      "title": "UK could see 10 days without rain after 'wettest week in two years'",
-      "link": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T00:06:31.000Z",
-      "summary": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast."
-    },
-    {
       "id": "feed-1temf7d",
       "title": "When a wedding fell apart, 11 strangers helped create something unforgettable",
       "link": "https://www.bbc.co.uk/news/articles/cx4g1vdyzem6o",
       "source": "BBC News",
       "publishedAt": "2026-10-31T00:05:19.000Z",
       "summary": "Bridget Devaney turned to the internet with a proposal that sounded equal parts hopeful and improbable - come to Ireland and celebrate the wedding that never happened."
+    },
+    {
+      "id": "feed-1nng10t",
+      "title": "Why MPs keep talking about an early election despite Burnham's denials",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T00:00:15.000Z",
+      "summary": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster."
     }
   ]
 }
