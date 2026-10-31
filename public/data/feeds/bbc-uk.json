@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T15:22:42.513Z",
+  "updatedAt": "2026-10-31T15:56:45.349Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1d35ape",
+      "title": "'Greedy' solicitor used fake will-writing invoices to defraud cancer charity out of thousands",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg7zgrzdjzo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T14:59:36.000Z",
+      "summary": "The money paid to Michael Fogg could have been used by Cancer Research UK to pay for 48 biopsies."
+    },
     {
       "id": "feed-7s4f4i",
       "title": "Burnham 'open' to calls for slavery apology but not reparations",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T00:05:19.000Z",
       "summary": "Bridget Devaney turned to the internet with a proposal that sounded equal parts hopeful and improbable - come to Ireland and celebrate the wedding that never happened."
-    },
-    {
-      "id": "feed-1063xlt",
-      "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
-      "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T00:04:06.000Z",
-      "summary": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away."
     }
   ]
 }
