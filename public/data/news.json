@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T04:11:27.211Z",
-  "generatedAt": "2026-10-31T04:11:27.211Z",
+  "updatedAt": "2026-10-31T05:05:14.832Z",
+  "generatedAt": "2026-10-31T05:05:14.832Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -103,6 +103,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "feed-16mdsye",
+      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo",
+      "publishedAt": "2026-10-31T04:32:07.000Z",
+      "category": "world",
+      "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?"
+    },
+    {
+      "id": "feed-1i9a5n3",
+      "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
+      "publishedAt": "2026-10-31T04:27:25.000Z",
+      "category": "uk",
+      "summary": "President Karol Nawrocki seen struggling to gain entry to court building in Warsaw amid long-running row over the court’s legitimacy Riot police were locked in a tense standoff with protesters outside Poland’s constitutional court on Friday night after its top"
+    },
+    {
+      "id": "feed-1lmgdk9",
+      "title": "Luigi Mangione’s lawyers file to dismiss state charges, citing double jeopardy law",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/luigi-mangione-new-york-case",
+      "publishedAt": "2026-10-31T04:09:50.000Z",
+      "category": "uk",
+      "summary": "Mangione pleaded guilty in August in federal case in the killing of UnitedHealthcare executive Brian Thompson Luigi Mangione’s lawyers filed paperwork on Friday once again pushing for dismissal of his state-level case in the killing of UnitedHealthcare executi"
+    },
     {
       "id": "feed-7s4f4i",
       "title": "Burnham 'open' to calls for slavery apology but not reparations",
@@ -242,6 +272,16 @@
       "publishedAt": "2026-10-31T01:27:05.000Z",
       "category": "world",
       "summary": "Countries have been trying to get a global agreement to halt nature decline back on track."
+    },
+    {
+      "id": "feed-3opsqd",
+      "title": "Poland's president turns back from Senegal trip as court chief's ousting sparks crisis",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/polands-president-turns-back-from-senegal-trip-as-court-chiefs-ousting-sparks-crisis-13606013",
+      "publishedAt": "2026-10-31T01:16:00.000Z",
+      "category": "world",
+      "summary": "Riot police were deployed to Poland's Constitutional Tribunal on Friday as hundreds of demonstrators gathered to protest against the suspension of the top court's president by the current pro-European government."
     },
     {
       "id": "feed-12vs8m3",
@@ -474,16 +514,6 @@
       "summary": "More than 5,000 people have now died from an Ebola outbreak in Democratic Republic of Congo (DRC), according to government data."
     },
     {
-      "id": "feed-1gn8lb9",
-      "title": "Teen boy from Ghana chased and fatally shot on way to school in New York City",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/javits-frimpong-fatal-shooting-bronx-new-york",
-      "publishedAt": "2026-10-30T22:43:48.000Z",
-      "category": "world",
-      "summary": "Javits Frimpong, 15, was being bullied at school before he was shot and killed in the Bronx on Thursday, his father says A teenage boy from Ghana was chased down and fatally shot Thursday morning on his way to school in the Bronx. The New York City police depa"
-    },
-    {
       "id": "feed-kwmhx2",
       "title": "Carrick tells players ‘hard truth’ in attempt to turn Manchester United’s season around",
       "source": "The Guardian",
@@ -560,7 +590,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/2026/oct/30/ballon-dor-betting-suspicious-cryptocurrency-investigation",
       "publishedAt": "2026-10-30T21:12:33.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Bets predicted exact top-five men’s finishing order Organiser France Football has contacted police A series of suspicious bets that correctly predicted the exact top-five finishing order of this year’s Ballon d’Or and generated almost $200,000 (£149,000) in wi"
     },
     {
@@ -602,16 +632,6 @@
       "publishedAt": "2026-10-30T20:34:46.000Z",
       "category": "world",
       "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
-    },
-    {
-      "id": "feed-15q574w",
-      "title": "Arteta can take inspiration from George Graham to expunge painful Anfield memories",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/30/mikel-arteta-arsenal-inspiration-george-graham-anfield-liverpool",
-      "publishedAt": "2026-10-30T20:00:23.000Z",
-      "category": "uk",
-      "summary": "Arsenal have not won at Liverpool for 13 league games but Gunners’ win in 1989 remains one of club’s greatest nights Mikel Arteta used a Spanish word to describe what it felt like to be helpless at Anfield while playing for Everton in 2011: bajar . “It’s when "
     },
     {
       "id": "feed-q0yu4s",
@@ -884,16 +904,6 @@
       "summary": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? The world’s largest cryptocurrenc"
     },
     {
-      "id": "feed-btyxgf",
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
-      "publishedAt": "2026-10-30T16:26:11.000Z",
-      "category": "world",
-      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
-    },
-    {
       "id": "feed-1tsvnfk",
       "title": "Ex-football chief admits offences linked to woman's drugging and rape by husband",
       "source": "BBC News",
@@ -942,16 +952,6 @@
       "publishedAt": "2026-10-30T15:57:43.000Z",
       "category": "uk",
       "summary": "The new government office in Manchester has launched 50 job adverts for roles including a \"rewiring the state deputy director\"."
-    },
-    {
-      "id": "feed-xual5q",
-      "title": "Russian society being ‘systematically crushed’ says Novaya Gazeta as newspaper announces closure",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
-      "publishedAt": "2026-10-30T15:52:51.000Z",
-      "category": "world",
-      "summary": "Independent outlet, whose former editor Dmitry Muratov won Nobel prize, cites intolerable pressure from authorities Novaya Gazeta, one of Russia’s best-known independent media outlets, has announced it will permanently close next month. The newspaper, whose fo"
     },
     {
       "id": "feed-1fekwbr",

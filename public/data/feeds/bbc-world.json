@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T04:11:27.120Z",
+  "updatedAt": "2026-10-31T05:05:14.827Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-16mdsye",
+      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T04:32:07.000Z",
+      "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?"
+    },
     {
       "id": "feed-1oiqveb",
       "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T17:00:32.000Z",
       "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts."
-    },
-    {
-      "id": "feed-btyxgf",
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T16:26:11.000Z",
-      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
     }
   ]
 }
