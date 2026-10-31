@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T20:57:14.657Z",
+  "updatedAt": "2026-10-31T21:24:20.152Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-nrillo",
+      "title": "Fireworks and fancy dress bring Derry's 40th Halloween celebrations to close",
+      "link": "https://www.bbc.co.uk/news/articles/cmly095jjnwlo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T21:06:08.000Z",
+      "summary": "Tens of thousands of revellers took to the streets of Londonderry for the city's annual Halloween parade."
+    },
     {
       "id": "feed-z77rxm",
       "title": "Healey risks breaking minimum wage promise for younger workers",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T00:00:15.000Z",
       "summary": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster."
-    },
-    {
-      "id": "feed-13e3t7j",
-      "title": "Watch: Bull on the loose at M6 service station",
-      "link": "https://www.bbc.co.uk/news/videos/cjdx3k5drkwgo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T19:18:50.000Z",
-      "summary": "The bull broke free from its rope in the service station car park before bolting into nearby fields."
     }
   ]
 }
