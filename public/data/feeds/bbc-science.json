@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T21:56:16.814Z",
+  "updatedAt": "2026-10-31T22:22:53.178Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-92ko5c",
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T22:07:56.000Z",
+      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys"
+    },
     {
       "id": "feed-6fnv9s",
       "title": "Bute House protested by environmental campaigners",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-29T12:08:01.000Z",
       "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets."
-    },
-    {
-      "id": "feed-1jfekyz",
-      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-      "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-28T23:11:59.000Z",
-      "summary": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand."
     }
   ]
 }
