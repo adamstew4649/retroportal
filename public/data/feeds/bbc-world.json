@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T05:05:14.827Z",
+  "updatedAt": "2026-10-31T06:00:38.438Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-qjfy8r",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T05:44:21.000Z",
+      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+    },
     {
       "id": "feed-16mdsye",
       "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T17:07:19.000Z",
       "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
-    },
-    {
-      "id": "feed-ibdj1y",
-      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T17:00:32.000Z",
-      "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T05:05:14.832Z",
-  "generatedAt": "2026-10-31T05:05:14.832Z",
+  "updatedAt": "2026-10-31T06:00:38.443Z",
+  "generatedAt": "2026-10-31T06:00:38.443Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 8
+      "count": 9
     },
     {
       "id": "sky-technology",
@@ -103,6 +103,46 @@
     }
   ],
   "articles": [
+    {
+      "id": "feed-qjfy8r",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
+      "publishedAt": "2026-10-31T05:44:21.000Z",
+      "category": "world",
+      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+    },
+    {
+      "id": "feed-1ejow3e",
+      "title": "The Papers: 'Rush to recover stolen $6bn' and 'War on wind farms'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnp91pzv8o",
+      "publishedAt": "2026-10-31T05:24:22.000Z",
+      "category": "uk",
+      "summary": "The theft of billions of dollars from Binance, the world's largest cryptocurrency exchange, makes Saturday's front pages."
+    },
+    {
+      "id": "feed-iorwv0",
+      "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo",
+      "publishedAt": "2026-10-31T05:16:01.000Z",
+      "category": "uk",
+      "summary": "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK."
+    },
+    {
+      "id": "feed-1cshro3",
+      "title": "‘You need the power of all your votes’: Bedouin women secure success for Arab parties in Israeli election",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+      "publishedAt": "2026-10-31T05:00:33.000Z",
+      "category": "uk",
+      "summary": "With 180,000 eligible voters, Bedouin turnout was key in Palestinian-led parties winning unprecedented 19 seats Last year, Umm Khaled Fatoum returned from volunteering in a Jewish-Arab support centre for victims of war to find bulldozers tearing into her son’s"
+    },
     {
       "id": "feed-16mdsye",
       "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
@@ -142,6 +182,16 @@
       "publishedAt": "2026-10-31T03:12:08.000Z",
       "category": "uk",
       "summary": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\"."
+    },
+    {
+      "id": "feed-xzvyas",
+      "title": "Burnham 'open' to slavery apology - as King continues Caribbean tour",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/king-arrives-in-antigua-and-barbuda-as-burnham-open-to-slavery-apology-13606019",
+      "publishedAt": "2026-10-31T03:11:00.000Z",
+      "category": "uk",
+      "summary": "Andy Burnham has said he is \"open\" to calls for Britain to make a formal apology for its role in the slave trade as the King continues his tour of the Caribbean."
     },
     {
       "id": "feed-sk4sxd",
@@ -222,16 +272,6 @@
       "publishedAt": "2026-10-31T02:02:16.000Z",
       "category": "world",
       "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince."
-    },
-    {
-      "id": "feed-1ejow3e",
-      "title": "The Papers: 'Rush to recover stolen $6bn' and 'War on wind farms'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnp91pzv8o",
-      "publishedAt": "2026-10-31T01:54:31.000Z",
-      "category": "uk",
-      "summary": "The theft of billions of dollars from Binance, the world's largest cryptocurrency exchange, makes Saturday's front pages."
     },
     {
       "id": "feed-1clpa6m",
@@ -554,16 +594,6 @@
       "summary": "Financial reparations are not the answer. Working together with our Commonwealth family is the best way to ensure prosperity for us all • Andy Burnham open to calls for formal apology for Britain’s role in slave trade On 28 October 1787, Thomas Clarkson pushed"
     },
     {
-      "id": "feed-1lr1dpz",
-      "title": "Searle makes difference as Leicester battle to Prem top spot at Bristol",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/30/bristol-exeter-prem-rugby-union-match-report",
-      "publishedAt": "2026-10-30T21:46:06.000Z",
-      "category": "uk",
-      "summary": "Bristol 16-22 Leicester Visitors score four tries in error-strewn game In the end there was a relatively clear winner of this straight shootout for top spot in the Prem. Leicester took the spoils in an error-strewn contest between two sides who began the night"
-    },
-    {
       "id": "feed-vnz4eb",
       "title": "Soaring cost of Halloween treats spooks shoppers",
       "source": "BBC News",
@@ -864,16 +894,6 @@
       "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
     },
     {
-      "id": "feed-ibdj1y",
-      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo",
-      "publishedAt": "2026-10-30T17:00:32.000Z",
-      "category": "world",
-      "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts."
-    },
-    {
       "id": "feed-14cu0rx",
       "title": "'No nation left behind' says Burnham after meeting first ministers in Glasgow",
       "source": "BBC News",
@@ -942,16 +962,6 @@
       "publishedAt": "2026-10-30T16:04:55.000Z",
       "category": "uk",
       "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced."
-    },
-    {
-      "id": "feed-1majenn",
-      "title": "Burnham's Number 10 North goes on multi-million pound hiring spree",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqm24pdylmm2o",
-      "publishedAt": "2026-10-30T15:57:43.000Z",
-      "category": "uk",
-      "summary": "The new government office in Manchester has launched 50 job adverts for roles including a \"rewiring the state deputy director\"."
     },
     {
       "id": "feed-1fekwbr",
@@ -1200,7 +1210,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/poundland-bidder-tells-administrator-it-remains-keen-on-rescue-deal-13605702",
       "publishedAt": "2026-10-30T10:10:00.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The Northern Irish company attempting to stage a solvent rescue of Poundland has told the discount retailer's administrator-in-waiting that it remains keen on a deal which could save more than 10,000 jobs."
     },
     {
