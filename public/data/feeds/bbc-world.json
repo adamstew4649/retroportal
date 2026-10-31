@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T09:02:07.261Z",
+  "updatedAt": "2026-10-31T10:00:14.651Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1uftngq",
+      "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-31T09:16:14.000Z",
+      "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed."
+    },
     {
       "id": "feed-btyxgf",
       "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T20:41:51.000Z",
       "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
-    },
-    {
-      "id": "feed-27kh9",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T20:34:46.000Z",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
     }
   ]
 }
