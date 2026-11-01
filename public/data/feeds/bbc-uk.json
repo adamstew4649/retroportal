@@ -1,12 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T10:08:17.503Z",
+  "updatedAt": "2026-11-01T10:59:54.098Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-te1sci",
+      "title": "Reeves says UK's future should be inside the EU",
+      "link": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T10:47:03.000Z",
+      "summary": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\"."
+    },
+    {
+      "id": "feed-1fundp",
+      "title": "Northern Lights dance across UK sky on Halloween night",
+      "link": "https://www.bbc.co.uk/weather/articles/c3pwge119lnvo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T10:16:27.000Z",
+      "summary": "Stargazers across the UK were treated to the vivid colours of the aurora borealis on Saturday night."
+    },
+    {
+      "id": "feed-2ed42c",
+      "title": "Second night of drone disruption at Jersey Airport",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgl4nmp8lyo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T10:09:52.000Z",
+      "summary": "Jersey Airport said it was \"experiencing disruption.... affecting inbound flights as a result of further drone activity\"."
+    },
     {
       "id": "feed-ogfes5",
       "title": "Cambridge scientist dies in Spanish train crash",
@@ -16,12 +40,12 @@
       "summary": "A Spanish research centre has confirmed her death days after she was declared misisng."
     },
     {
-      "id": "feed-2ed42c",
-      "title": "Second night of drone disruption at Jersey Airport",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgl4nmp8lyo",
+      "id": "feed-1cmuiez",
+      "title": "Police tackle 144 Halloween fireworks incidents across Scotland",
+      "link": "https://www.bbc.co.uk/news/articles/c5y439r1k198o",
       "source": "BBC News",
-      "publishedAt": "2026-11-01T08:31:59.000Z",
-      "summary": "Jersey Airport said it was \"experiencing disruption.... affecting inbound flights as a result of further drone activity\"."
+      "publishedAt": "2026-11-01T09:19:23.000Z",
+      "summary": "Officers received 144 fireworks-related calls on Saturday night - down on 160 on 31 October last year."
     },
     {
       "id": "feed-uzriff",
@@ -32,28 +56,12 @@
       "summary": "Eleanor Aldred-Owen died after surgery because an abnormal scan was not flagged."
     },
     {
-      "id": "feed-1707ho1",
-      "title": "Thick fog to create hazardous driving conditions into next week",
-      "link": "https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T06:51:06.000Z",
-      "summary": "England and Wales are most likely to experience the foggy conditions on Sunday, before the threat shifts northwards into next week."
-    },
-    {
       "id": "feed-46qoak",
       "title": "The Papers: 'PM lets down the King' and 'Kenny's secret night at Maya's'",
       "link": "https://www.bbc.co.uk/news/articles/cx4g1y955plgo",
       "source": "BBC News",
       "publishedAt": "2026-11-01T05:29:48.000Z",
       "summary": "Many of Sunday's front pages look at what Andy Burnham's comments on an apology for slavery mean for the King."
-    },
-    {
-      "id": "feed-te1sci",
-      "title": "Reeves says UK's future should be inside the EU",
-      "link": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T02:57:34.000Z",
-      "summary": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\"."
     },
     {
       "id": "feed-1rs59i8",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T12:04:13.000Z",
       "summary": "The man was recovered from the water and airlifted to hospital but was pronounced dead, police say."
-    },
-    {
-      "id": "feed-1sbg6x2",
-      "title": "Man guilty of rape after woman's phone recording",
-      "link": "https://www.bbc.co.uk/news/articles/c6d93p449kngo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T09:05:49.000Z",
-      "summary": "Police said the recording, in which she is heard saying \"no\", provided key evidence."
     }
   ]
 }
