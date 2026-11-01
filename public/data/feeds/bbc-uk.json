@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T17:23:26.968Z",
+  "updatedAt": "2026-11-01T17:54:20.201Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-1g4rmp2",
+      "title": "Karl Bushby 'overwhelmed' at Humber Bridge welcome",
+      "link": "https://www.bbc.co.uk/news/articles/c9146yve236lo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T17:18:16.000Z",
+      "summary": "The British adventurer is due to complete his 31,000-mile challenge in Hull on Monday."
+    },
+    {
       "id": "feed-ogfes5",
       "title": "Cambridge scientist dies in Spanish train crash",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o",
       "source": "BBC News",
       "publishedAt": "2026-11-01T17:05:18.000Z",
       "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked."
+    },
+    {
+      "id": "feed-1yl9ebv",
+      "title": "Thousands of jobs at Virgin Media O2 to be cut",
+      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T16:57:14.000Z",
+      "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands."
     },
     {
       "id": "feed-1c7skd0",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-01T01:37:50.000Z",
       "summary": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix."
-    },
-    {
-      "id": "feed-1daz5tx",
-      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T00:17:05.000Z",
-      "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November."
-    },
-    {
-      "id": "feed-1wxq300",
-      "title": "Who are the real winners of Celebrity Traitors?",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T00:06:01.000Z",
-      "summary": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show."
     }
   ]
 }
