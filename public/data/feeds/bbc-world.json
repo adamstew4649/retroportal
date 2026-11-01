@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T05:30:12.260Z",
+  "updatedAt": "2026-11-01T06:31:04.294Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1dcqrc6",
+      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T06:03:57.000Z",
+      "summary": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress."
+    },
     {
       "id": "feed-1797pep",
       "title": "Shops looted as German cost of living protests turn violent",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T02:39:25.000Z",
       "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
-    },
-    {
-      "id": "feed-14mcx2a",
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T02:12:19.000Z",
-      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
     }
   ]
 }
