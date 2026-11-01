@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T17:54:20.202Z",
+  "updatedAt": "2026-11-01T18:21:58.007Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1p62rda",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T17:56:47.000Z",
+      "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival."
+    },
+    {
+      "id": "feed-1iyuku3",
+      "title": "Lindsay Clancy is back in court - where will her case go next?",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T17:29:08.000Z",
+      "summary": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried."
+    },
     {
       "id": "feed-1lv2xro",
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T16:55:47.000Z",
       "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire."
-    },
-    {
-      "id": "feed-17chgu2",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T15:16:20.000Z",
-      "summary": "Government data shows that more than 10,000 people have contracted the rare virus."
-    },
-    {
-      "id": "feed-hgzjzo",
-      "title": "Ethiopian PM puts ministers through military training",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T14:28:15.000Z",
-      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
     }
   ]
 }
