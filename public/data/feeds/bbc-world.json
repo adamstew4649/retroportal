@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T09:28:19.220Z",
+  "updatedAt": "2026-11-01T10:08:17.505Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1v9duba",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T09:28:06.000Z",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
+    },
     {
       "id": "feed-1797pep",
       "title": "Shops looted as German cost of living protests turn violent",
@@ -56,28 +64,36 @@
       "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary."
     },
     {
+      "id": "feed-6gfua9",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T00:46:12.000Z",
+      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race."
+    },
+    {
+      "id": "feed-62v3kk",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T00:41:24.000Z",
+      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
+    },
+    {
+      "id": "feed-g9b96",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T00:27:33.000Z",
+      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters."
+    },
+    {
       "id": "feed-ppq74c",
       "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
       "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
       "source": "BBC News",
       "publishedAt": "2026-10-31T23:06:13.000Z",
       "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka."
-    },
-    {
-      "id": "feed-1v9duba",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T22:11:45.000Z",
-      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
-    },
-    {
-      "id": "feed-d4zemm",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T21:29:01.000Z",
-      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
     },
     {
       "id": "feed-d4zemm",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T09:16:14.000Z",
       "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed."
-    },
-    {
-      "id": "feed-qjfy8r",
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T05:44:21.000Z",
-      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
-    },
-    {
-      "id": "feed-9tlj0m",
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T02:39:25.000Z",
-      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
     }
   ]
 }
