@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T23:54:18.562Z",
+  "updatedAt": "2026-11-01T00:23:32.369Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-f8evvw",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T00:12:07.000Z",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
+    },
     {
       "id": "feed-ppq74c",
       "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T01:32:33.000Z",
       "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes."
-    },
-    {
-      "id": "feed-1my7onf",
-      "title": "Global nature talks reach deal but money remains an issue",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T01:27:05.000Z",
-      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track."
     }
   ]
 }
