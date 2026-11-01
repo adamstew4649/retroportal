@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T12:28:57.611Z",
-  "generatedAt": "2026-11-01T12:28:57.611Z",
+  "updatedAt": "2026-11-01T13:21:04.579Z",
+  "generatedAt": "2026-11-01T13:21:04.579Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,34 @@
   ],
   "articles": [
     {
+      "id": "feed-1v9duba",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
+      "publishedAt": "2026-11-01T13:11:37.000Z",
+      "category": "world",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
+    },
+    {
       "id": "feed-17fj9m4",
       "title": "Arsenal v Aston Villa, London City Lionesses v Manchester City, and more: Women’s Super League – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/nov/01/arsenal-v-aston-villa-london-city-lionesses-v-manchester-city-and-more-womens-super-league-live",
-      "publishedAt": "2026-11-01T12:25:42.000Z",
+      "publishedAt": "2026-11-01T13:09:04.000Z",
       "category": "uk",
-      "summary": "⚽️ WSL updates with games at 12pm, 2pm and 2.30pm (GMT) ⚽️ Putellas provides mindset change | Mail Luke 12 min: Russo provides an excellent layoff for Foord, on the left of the penalty area as Arsenal are attacking. Foord has clear sight of goal, but hits a we"
+      "summary": "⚽️ Updates with games at 12pm, 2pm and 2.30pm (GMT) ⚽️ United’s Olid demands progress | Mail Luke 12 min: Russo provides an excellent layoff for Foord, on the left of the penalty area as Arsenal are attacking. Foord has clear sight of goal, but hits a weak sho"
+    },
+    {
+      "id": "feed-ogfes5",
+      "title": "Cambridge scientist dies in Spanish train crash",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o",
+      "publishedAt": "2026-11-01T13:06:00.000Z",
+      "category": "uk",
+      "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked."
     },
     {
       "id": "feed-xs72pv",
@@ -119,9 +139,79 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
-      "publishedAt": "2026-11-01T12:20:14.000Z",
+      "publishedAt": "2026-11-01T13:05:11.000Z",
       "category": "uk",
       "summary": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’ At the end of his interview with Kuennsberg, Healey was also asked to comment on a potential apology for Britain’s near-250 years of p"
+    },
+    {
+      "id": "feed-1gwfgg0",
+      "title": "How to make the perfect venison casserole – recipe | Felicity Cloake's How to make the perfect …",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/food/2026/nov/01/how-to-make-the-perfect-venison-casserole-recipe",
+      "publishedAt": "2026-11-01T13:00:14.000Z",
+      "category": "uk",
+      "summary": "Venison casserole is as autumnal as fallen leaves, a glass of red and a fire in the grate. But who makes the best version? Because I don’t eat it very often, I always forget how much I like venison. Or, rather, how much I like it in certain contexts: the natur"
+    },
+    {
+      "id": "feed-flcegn",
+      "title": "Spirit of 1676: remembering the Native American cataclysm of King Philip’s war",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/king-philips-war-anniversary-native-american",
+      "publishedAt": "2026-11-01T13:00:13.000Z",
+      "category": "world",
+      "summary": "The conflict that tore through New England 350 years ago was the bloodiest per capita in colonial or US history Massachusetts is proud of its ties to the American Revolution. From Paul Revere’s Ride to the siege of Boston, the past year-plus has been devoted t"
+    },
+    {
+      "id": "feed-lrbccj",
+      "title": "Jess Cartner-Morley’s November style essentials: fancy flats, sexy knits and a Christmassy pigeon",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/thefilter/2026/nov/01/jess-cartner-morleys-november-style-essentials-2026",
+      "publishedAt": "2026-11-01T13:00:12.000Z",
+      "category": "uk",
+      "summary": "Whether it’s a two-in-one coat or a truly delicious handbag, add some fun to getting dressed during the cold, dark months with our expert’s favourites • The best women’s shoes and boots for autumn The clocks have gone back. The mornings are cold and the evenin"
+    },
+    {
+      "id": "feed-nq2ebc",
+      "title": "The measure slipped into UK budget that could protect spending on children, youth and rough sleeping | Heather Stewart",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-",
+      "publishedAt": "2026-11-01T12:36:48.000Z",
+      "category": "uk",
+      "summary": "PDEL, which will ringfence money for preventive policies, marks a welcome and potentially consequential addition John Healey’s debut budget was far from a blockbuster, but it may come to be remembered for the birth of a plucky new character in the tax and spen"
+    },
+    {
+      "id": "feed-zu0j3v",
+      "title": "The UK’s legal cannabis market is booming – so why can’t this talented artist get any to treat his epilepsy? | Kojo Koram",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/01/uk-legal-cannabis-market-booming-louis-petit-epilepsy",
+      "publishedAt": "2026-11-01T12:33:55.000Z",
+      "category": "uk",
+      "summary": "Companies have rushed to supply the drug as a wellness treatment, but patients with serious illnesses aren’t able to get NHS prescriptions In 2022, a prodigiously talented young artist named Louis Petit was preparing to return to the UK, having been effectivel"
+    },
+    {
+      "id": "feed-vp7qs6",
+      "title": "Ciara Mageean, European 1500m gold medallist with Ireland, dies aged 34",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/01/ciara-mageean-european-1500m-gold-medallist-ireland-dies-age-34",
+      "publishedAt": "2026-11-01T12:31:01.000Z",
+      "category": "uk",
+      "summary": "Mageean won 2024 European 1500m title in Rome Athletics Ireland pays tribute to ‘inspirational figure’ Ireland’s European 1500 metres gold medallist Ciara Mageean has died at the age of 34. Two-time Olympian Mageean, who won the European title in Rome in 2024,"
+    },
+    {
+      "id": "feed-1t6mnzi",
+      "title": "British university scientist died in Spain train crash",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/british-university-scientist-died-in-spain-train-crash-13606613",
+      "publishedAt": "2026-11-01T12:28:00.000Z",
+      "category": "uk",
+      "summary": "A University of Cambridge professor has been named as one of the 69 people killed in the deadly high-speed train crash in Spain."
     },
     {
       "id": "feed-vbjdo1",
@@ -132,16 +222,6 @@
       "publishedAt": "2026-11-01T12:13:50.000Z",
       "category": "science",
       "summary": "Staff at Plymouth's aquarium pay tribute to a sand tiger shark believed to be almost 30 years old."
-    },
-    {
-      "id": "feed-1bm9f2v",
-      "title": "New public spending category PDEL is a welcome and could have big impact | Heather Stewart",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-",
-      "publishedAt": "2026-11-01T12:12:07.000Z",
-      "category": "uk",
-      "summary": "The Preventative Departmental Expenditure Limit will be money ringfenced in the budget for preventive policies John Healey’s debut budget was far from a blockbuster, but it may come to be remembered for the birth of a plucky new character in the tax and spend "
     },
     {
       "id": "feed-5isbha",
@@ -314,44 +394,14 @@
       "summary": "Tonga defeat Samoa 20-18 in raucous atmosphere England exit tournament on points difference Sometimes sport does live up to the hype. Any suggestion that there was little riding on this result was evidently nonsense, when weeks of anticipation evolved into a m"
     },
     {
-      "id": "feed-qja1jx",
-      "title": "‘He’s a force’: Obama answers call to boost Democrats – and rattle Trump",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/barack-obama-midterms-democrats-trump",
-      "publishedAt": "2026-11-01T11:00:10.000Z",
-      "category": "uk",
-      "summary": "Former president has given series of blistering speeches to help candidates in key races – and deployment has proved a hit with party’s progressive wing That could have been awkward. Barack Obama , campaigning for Senate candidate Abdul El-Sayed in Michigan, a"
-    },
-    {
       "id": "feed-1b5yiml",
       "title": "Tommy Robinson conviction leaves far right with leadership void",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/01/tommy-robinson-conviction-leaves-far-right-with-leadership-void",
       "publishedAt": "2026-11-01T11:00:09.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "With heir apparent Danny Tommo also in custody, Robinson’s conviction for harassing journalists is blow to anti-migrant movement The verdict was met with a groan from Tommy Robinson’s supporters, who had sat behind the dock throughout his harassment trial. It "
-    },
-    {
-      "id": "feed-1bpowiu",
-      "title": "This is how we do it: ‘We don’t have penetration – but it’s by far the best sex I’ve ever had’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/this-is-how-we-do-it-best-sex-no-penetration",
-      "publishedAt": "2026-11-01T11:00:09.000Z",
-      "category": "uk",
-      "summary": "Penetrative sex is painful for Nina, but intimacy with Noah is fun, hot and loving • How do you do it? Share the story of your sex life, anonymously The mechanics of how we have sex don’t matter to me. I still feel the same degree of pleasure Continue reading."
-    },
-    {
-      "id": "feed-1sf1v4j",
-      "title": "Tosca review – Axelle Fanyo and Christopher Purves shine in ENO’s reimagined Puccini",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/music/2026/nov/01/tosca-review-axelle-fanyo-christopher-purves",
-      "publishedAt": "2026-11-01T10:48:56.000Z",
-      "category": "uk",
-      "summary": "Coliseum, London A sumptuous score and magnificent singing bring real theatrical electricity, even if the relentless violence and radical reimagining don’t always convince Four years since English National Opera unveiled its previous Tosca (a hyper-stylised af"
     },
     {
       "id": "feed-te1sci",
@@ -392,26 +442,6 @@
       "publishedAt": "2026-11-01T09:55:20.000Z",
       "category": "world",
       "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’ The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made the UK “poorer, weaker and less secure”"
-    },
-    {
-      "id": "feed-ogfes5",
-      "title": "Cambridge scientist dies in Spanish train crash",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o",
-      "publishedAt": "2026-11-01T09:31:06.000Z",
-      "category": "uk",
-      "summary": "A Spanish research centre has confirmed her death days after she was declared misisng."
-    },
-    {
-      "id": "feed-1v9duba",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-      "publishedAt": "2026-11-01T09:28:06.000Z",
-      "category": "world",
-      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
     },
     {
       "id": "feed-1cmuiez",
@@ -541,7 +571,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
       "publishedAt": "2026-11-01T07:00:55.000Z",
       "category": "world",
-      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
+      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down."
     },
     {
       "id": "feed-12w1n7l",
@@ -884,16 +914,6 @@
       "summary": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers."
     },
     {
-      "id": "feed-vzhlv2",
-      "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
-      "publishedAt": "2026-10-31T16:13:17.000Z",
-      "category": "world",
-      "summary": "Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions more Americans going to the polls compared with the last such"
-    },
-    {
       "id": "feed-11psrae",
       "title": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
       "source": "The Guardian",
@@ -952,16 +972,6 @@
       "publishedAt": "2026-10-31T15:10:52.000Z",
       "category": "business",
       "summary": "British Heart Foundation describes ‘exceptionally challenging’ trading after Oxfam’s retail profit reportedly fell 23% amid rise of platforms such as Vinted Profits at some of the UK’s best-known charity shops have plummeted as they face a number of pressures,"
-    },
-    {
-      "id": "feed-zq6i0a",
-      "title": "A world-first focus on long-term outcomes could transform UK government – or create new spending fights",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/31/spending-plan-long-term-focus-uk-government",
-      "publishedAt": "2026-10-31T15:00:46.000Z",
-      "category": "business",
-      "summary": "Tucked away in John Healey’s budget is decision to ringfence preventative projects where future savings outweigh initial cost It merited the briefest of mentions in John Healey’s speech and just one paragraph in the 166-page budget document , but some believe "
     },
     {
       "id": "feed-1d35ape",
@@ -1034,16 +1044,6 @@
       "summary": "Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptions It’s a good time to be a coal plant in the US. The Trump administration has given support to almost half of the nation’s coal plants, helping them to continu"
     },
     {
-      "id": "feed-1yajaqm",
-      "title": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
-      "publishedAt": "2026-10-31T12:30:06.000Z",
-      "category": "business",
-      "summary": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progress Calls are growing for major reforms to UN biodiversity summits as countries fail to deliver on their promises to"
-    },
-    {
       "id": "feed-6yfmk7",
       "title": "Buyout firm TDR Capital strikes €400m deal to buy Lovehoney",
       "source": "Sky News",
@@ -1112,16 +1112,6 @@
       "publishedAt": "2026-10-31T11:00:40.000Z",
       "category": "science",
       "summary": "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a tas"
-    },
-    {
-      "id": "feed-ozdgql",
-      "title": "Streeting says he began stockpiling food weeks ago amid rising threat to UK",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/oct/31/streeting-stockpiling-food-water-weeks-ago-amid-rising-threat-to-uk",
-      "publishedAt": "2026-10-31T10:57:36.000Z",
-      "category": "business",
-      "summary": "Defence secretary says value for money and modernisation key for spending to ‘fight the wars ahead’ The defence secretary, Wes Streeting, says he started stockpiling food and water weeks ago in case of a national emergency, as he talked up the threats to the U"
     },
     {
       "id": "feed-1ppbp42",
@@ -1302,16 +1292,6 @@
       "publishedAt": "2026-10-30T17:41:10.000Z",
       "category": "business",
       "summary": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record."
-    },
-    {
-      "id": "feed-rov73w",
-      "title": "Motorist who dragged cyclist under his car for more than a mile guilty of murder",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/motorist-who-dragged-cyclist-under-his-car-for-more-than-a-mile-guilty-of-murder-13605851",
-      "publishedAt": "2026-10-30T17:25:00.000Z",
-      "category": "uk",
-      "summary": "A motorist has been found guilty of murder after hitting a cyclist and knowingly dragging him for more than a mile under his car."
     },
     {
       "id": "feed-52ov5c",
@@ -1844,11 +1824,11 @@
       "summary": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it"
     },
     {
-      "id": "feed-2vfpui",
+      "id": "feed-19p3gr8",
       "title": "Tech Life",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys",
       "publishedAt": "2026-10-27T20:30:00.000Z",
       "category": "technology",
       "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis."
@@ -1884,16 +1864,6 @@
       "summary": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guise For a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than other children. My paren"
     },
     {
-      "id": "feed-1lweya9",
-      "title": "Perimenopause is everywhere. How do you know if you’re in it? – podcast",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/audio/2026/oct/27/perimenopause-how-do-you-know-if-youre-in-it-podcast",
-      "publishedAt": "2026-10-27T05:00:03.000Z",
-      "category": "science",
-      "summary": "Perimenopause has become a hot topic, with celebrities sharing their experiences and doctors offering tips and advice online. But despite the benefits of growing awareness, a rising number of women are now encountering misinformation about treatments such as H"
-    },
-    {
       "id": "feed-flczog",
       "title": "Users reporting problems with Apple's first foldable iPhone",
       "source": "Sky News",
@@ -1902,6 +1872,26 @@
       "publishedAt": "2026-10-27T03:41:00.000Z",
       "category": "technology",
       "summary": "Owners of Apple's first foldable iPhone have reported problems with the device's screen - just days after the product went on sale."
+    },
+    {
+      "id": "feed-1jajlsx",
+      "title": "Anthropic reveals plans for blockbuster IPO",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/anthropic-reveals-loss-as-it-plans-to-sell-public-shares-for-first-time-13604009",
+      "publishedAt": "2026-10-26T13:09:00.000Z",
+      "category": "technology",
+      "summary": "Artificial intelligence giant Anthropic, the company behind the popular Claude chatbot, has filed papers to sell shares to the public for the first time."
+    },
+    {
+      "id": "feed-aihyai",
+      "title": "Tech Now",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "category": "technology",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
