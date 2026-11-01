@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T06:31:04.292Z",
+  "updatedAt": "2026-11-01T07:43:26.915Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1707ho1",
+      "title": "Thick fog to create hazardous driving conditions into next week",
+      "link": "https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T06:51:06.000Z",
+      "summary": "England and Wales are most likely to experience the foggy conditions on Sunday, before the threat shifts northwards into next week."
+    },
     {
       "id": "feed-46qoak",
       "title": "The Papers: 'PM lets down the King' and 'Kenny's secret night at Maya's'",
@@ -38,14 +46,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-01T01:37:50.000Z",
       "summary": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix."
-    },
-    {
-      "id": "feed-1707ho1",
-      "title": "Thick fog to create hazardous driving conditions into next week",
-      "link": "https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T00:33:04.000Z",
-      "summary": "England and Wales are most likely to experience the foggy conditions on Sunday, before the threat shifts northwards into next week."
     },
     {
       "id": "feed-1daz5tx",
