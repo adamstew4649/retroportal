@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T11:56:47.763Z",
+  "updatedAt": "2026-11-01T12:28:57.603Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-13n3umx",
+      "title": "Sir Tom Jones mentors Cardiff singer to victory on The Voice UK",
+      "link": "https://www.bbc.co.uk/news/articles/c8y56vp10075o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T11:46:17.000Z",
+      "summary": "Cate McHugh was congratulated by her coach Sir Tom Jones after she was crowned winner on Saturday."
+    },
     {
       "id": "feed-2ed42c",
       "title": "Second night of drone disruption at Jersey Airport",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T13:20:39.000Z",
       "summary": "Sir Keir warns that \"things will not go back to the way they were\" as he says the US makes it clear it will no longer \"bankroll\" its allies."
-    },
-    {
-      "id": "feed-hiuhs9",
-      "title": "Motorcyclist dies after falling into sea in cliffside beauty spot crash",
-      "link": "https://www.bbc.co.uk/news/articles/cqm24p57d0p8o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T12:04:13.000Z",
-      "summary": "The man was recovered from the water and airlifted to hospital but was pronounced dead, police say."
     }
   ]
 }
