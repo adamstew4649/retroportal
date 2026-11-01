@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T08:32:02.961Z",
+  "updatedAt": "2026-11-01T09:28:19.221Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-j9e7w9",
+      "title": "Spill from vandalised home oil tank kills 13 birds",
+      "link": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T08:57:56.000Z",
+      "summary": "A number of birds are also injured after the spill from the oil tank earlier this week."
+    },
     {
       "id": "feed-1ppi0hx",
       "title": "Rhino siblings celebrate first birthday with cake",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T06:10:43.000Z",
       "summary": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England."
-    },
-    {
-      "id": "feed-1t6ofmq",
-      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T00:00:35.000Z",
-      "summary": "A new generation is embracing eye-catching patching and visible mends."
     }
   ]
 }
