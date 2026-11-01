@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T04:36:30.761Z",
-  "generatedAt": "2026-11-01T04:36:30.761Z",
+  "updatedAt": "2026-11-01T05:30:12.264Z",
+  "generatedAt": "2026-11-01T05:30:12.264Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,84 @@
   ],
   "articles": [
     {
+      "id": "feed-46qoak",
+      "title": "The Papers: 'PM lets down the King' and 'Kenny's secret night at Maya's'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1y955plgo",
+      "publishedAt": "2026-11-01T05:29:48.000Z",
+      "category": "uk",
+      "summary": "Many of Sunday's front pages look at what Andy Burnham's comments on an apology for slavery mean for the King."
+    },
+    {
       "id": "feed-1lgs0wc",
       "title": "Australia v Wales: Women’s Rugby League World Cup – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/nov/01/australia-vs-wales-womens-rugby-league-world-cup-live-updates",
-      "publishedAt": "2026-11-01T04:21:01.000Z",
+      "publishedAt": "2026-11-01T05:22:03.000Z",
       "category": "uk",
-      "summary": "Updates as the Jillaroos and Wales meet at CommBank Stadium Kick-off time in Sydney is 3.40pm local/4.40am GMT Any thoughts? Get in touch with an email This is the first of a world cup triple-header in Parramatta. After this France and Lebanon wrap up their ca"
+      "summary": "Updates as the Jillaroos and Wales meet at CommBank Stadium Any thoughts? Get in touch with an email And the two teams are out in the glorious spring sunshine. Smiles all round as Australia prepare to fill their boots and Wales soak up the occasion. The Jillar"
+    },
+    {
+      "id": "feed-rubsz6",
+      "title": "Hitler’s Eagle’s Nest retreat was torched in an arson attack. Should it be rebuilt?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/01/hitler-eagles-nest-retreat-arson-attack-should-it-be-rebuilt",
+      "publishedAt": "2026-11-01T05:00:04.000Z",
+      "category": "uk",
+      "summary": "With the far right resurgent in Germany, experts are divided as to whether the dictator’s former mountaintop retreat is better restored or left a ruin One of the last structural relics of Adolf Hitler’s dictatorship was conceived to project indomitable power. "
+    },
+    {
+      "id": "feed-1n3lk8y",
+      "title": "What kind of prepper are you?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/01/what-kind-of-prepper-are-you",
+      "publishedAt": "2026-11-01T05:00:04.000Z",
+      "category": "uk",
+      "summary": "I have been asking friends and family this question all week. The answers reveal precisely how they deal with fear Perhaps, almost seven years later, there are aspects of the Covid lockdown some are nostalgic about, but it’s doubtful the great loo-roll hoardin"
+    },
+    {
+      "id": "feed-cfkhpp",
+      "title": "Are the US midterms going to see a blue wave of Democrats winning seats – or a blue flood?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave",
+      "publishedAt": "2026-11-01T05:00:03.000Z",
+      "category": "uk",
+      "summary": "Donald Trump uttered five words this summer that could seal the Republican party’s fate: ‘Pretend I’m on the ticket’ He spoke admiringly of a senator’s posterior. He baselessly accused a Muslim candidate of being a terrorist . He boasted about his renovations "
+    },
+    {
+      "id": "feed-11jy36n",
+      "title": "Piles of rubbish, power cuts and potholes: anger grows over Johannesburg’s run-down infrastructure",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/01/anger-over-johannesburgs-run-down-infrastructure-elections",
+      "publishedAt": "2026-11-01T05:00:03.000Z",
+      "category": "uk",
+      "summary": "The problems run deep in South Africa’s largest city. Will voters punish the ANC in next week’s local elections? One week before the local elections in South Africa, the pavements and roads of the Johannesburg township Alexandra were filled with piles of rubbi"
+    },
+    {
+      "id": "feed-s625kt",
+      "title": "How to improve your memory: 10 easy, enjoyable expert tips – from reading a book to getting more sleep",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/how-to-improve-your-memory-10-easy-enjoyable-expert-tips-from-reading-a-book-to-getting-more-sleep",
+      "publishedAt": "2026-11-01T05:00:03.000Z",
+      "category": "uk",
+      "summary": "Relying on technology can make us forgetful, but there are some simple ways to sharpen your recall. Memory experts describe the tricks and habits that can help Memory can worsen as we age, but it is often possible to do something about it. Here, memory experts"
+    },
+    {
+      "id": "feed-gmkafh",
+      "title": "The best theatre to stream this month: the Gisèle Pelicot trial becomes an all-star play that ‘just floors you’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/nov/01/the-best-theatre-to-stream-this-month-the-pelicot-trial-ita-music-damien-jalet-arcadia-salt",
+      "publishedAt": "2026-11-01T05:00:02.000Z",
+      "category": "uk",
+      "summary": "An unmissable documentary play, Tom Stoppard’s Arcadia with luminous Isis Hainsworth and ecstatic dance in a Norwegian museum are among November’s highlights Swiss director Milo Rau’s ripped-from-the-headlines approach to theatre has included shows about wars "
     },
     {
       "id": "feed-1v5xbcc",
@@ -122,6 +192,16 @@
       "publishedAt": "2026-11-01T03:56:49.000Z",
       "category": "world",
       "summary": "A public spat has cast Democratic tensions in the spotlight as the close US Senate race draws to a head Abdul El-Sayed, the Democratic nominee for Michigan’s tightly fought US Senate race, wants Democratic congresswoman Haley Stevens to stay away from his camp"
+    },
+    {
+      "id": "feed-u1ve0d",
+      "title": "The King to speak about slavery with 'unflinching honesty'",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/the-king-to-speak-about-slavery-with-unflinching-honesty-13606556",
+      "publishedAt": "2026-11-01T03:07:00.000Z",
+      "category": "uk",
+      "summary": "The King will speak about slavery with \"unflinching honesty\" and \"sincere sorrow\" in a speech to Commonwealth leaders amid increasing pressure for Britain to offer an apology over its role in the transatlantic slave trade."
     },
     {
       "id": "feed-te1sci",
@@ -212,16 +292,6 @@
       "publishedAt": "2026-11-01T01:17:00.000Z",
       "category": "world",
       "summary": "A Yemeni staff member of the UN Human Rights Office has died in Houthi custody after being arbitrarily held for more ​than two years, the UN human rights chief has said."
-    },
-    {
-      "id": "feed-46qoak",
-      "title": "The Papers: 'PM lets down the King' and 'Kenny's secret night at Maya's'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1y955plgo",
-      "publishedAt": "2026-11-01T01:15:10.000Z",
-      "category": "uk",
-      "summary": "Many of Sunday's front pages look at what Andy Burnham's comments on an apology for slavery mean for the King."
     },
     {
       "id": "feed-omfpb2",
@@ -440,28 +510,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/oct/31/man-belfast-charged-possessing-explosives-firearms",
       "publishedAt": "2026-10-31T20:21:08.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "The 35-year-old was charged after police searched properties in Shankill Road and Edwina Street areas A man has been charged under the Explosives Act and Firearms Order after police searched properties in Belfast. The 35-year-old was charged with offences incl"
-    },
-    {
-      "id": "feed-1939ei8",
-      "title": "Mitchell injury blow adds to England’s woes as Northampton sink Gloucester",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/oct/31/northampton-gloucester-prem-rugby-union-match-report",
-      "publishedAt": "2026-10-31T20:05:25.000Z",
-      "category": "uk",
-      "summary": "Northampton 28-14 Gloucester Alex Mitchell limps off with suspected hamstring pull England’s injury headaches are mounting before next Sunday’s autumn opener against Australia with the scrum-half Alex Mitchell a major doubt after limping out of Northampton’s h"
-    },
-    {
-      "id": "feed-12m2oj2",
-      "title": "If Mikel Arteta’s dossier is part of a deliberate strategy, it is a dangerous one for Arsenal | Jonathan Wilson",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/31/mikel-arteta-dossier-arsenal-everton-premier-league",
-      "publishedAt": "2026-10-31T20:00:01.000Z",
-      "category": "uk",
-      "summary": "The manager is not yet in Alex Ferguson and José Mourinho’s league, but his conspiracy theories have reached new levels English football loves the word “dossier”. It doesn’t love dossiers themselves, of course; they’re for nerds – unless, that is, they’re a “s"
     },
     {
       "id": "feed-q422yu",
@@ -480,7 +530,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
       "publishedAt": "2026-10-31T19:17:22.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied city Evacuees from Russian-occupied Oleshky have been reunited with their families after crossing into Ukrainian-held territory on Saturday. The majo"
     },
     {
@@ -492,26 +542,6 @@
       "publishedAt": "2026-10-31T19:00:52.000Z",
       "category": "world",
       "summary": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative community Get our daily political email , free app or daily news podcast The prime minister is facing growing discontent within"
-    },
-    {
-      "id": "feed-1ra15eb",
-      "title": "The moment I knew: He loved to travel, I had a fear of flying. I expected him to skol his beer and wish me well",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/the-moment-i-knew-he-loved-to-travel-i-had-a-fear-of-flying-i-expected-him-to-skol-his-beer-and-wish-me-well",
-      "publishedAt": "2026-10-31T19:00:50.000Z",
-      "category": "uk",
-      "summary": "On Danni Smith’s first date with Kev, she made a few disclosures and expected him to skol his beer and wish her well – but his response surprised her Find more stories from the moment I knew series In September 2023 I’d been divorced for about a year. At 59 I "
-    },
-    {
-      "id": "feed-1tktlx7",
-      "title": "Enzo Maresca rues ‘silly’ errors after Manchester City defeat against Brighton",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/31/enzo-maresca-manchester-city-brighton-premier-league",
-      "publishedAt": "2026-10-31T18:38:43.000Z",
-      "category": "uk",
-      "summary": "Matheus Nunes mistake lets in Yasin Ayari for winner Maresca: ‘We are conceding silly goals that we can avoid’ Enzo Maresca said “silly goals” and individual errors are costing Manchester City after Matheus Nunes’ mistake allowed Yasin Ayari to score Brighton’"
     },
     {
       "id": "feed-1pvzezt",
@@ -1134,16 +1164,6 @@
       "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
     },
     {
-      "id": "feed-1e7codl",
-      "title": "Man arrested as part of probe into suspected terrorism offences in Belfast",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/man-arrested-as-part-of-probe-into-suspected-terrorism-offences-in-belfast-13605947",
-      "publishedAt": "2026-10-30T20:44:00.000Z",
-      "category": "uk",
-      "summary": "A 35-year-old man has been arrested as part of an investigation into suspected terrorism offences on the Shankill Road in Belfast."
-    },
-    {
       "id": "feed-27kh9",
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "source": "BBC News",
@@ -1604,11 +1624,11 @@
       "summary": "E-commerce company posts high cloud computing sales but gives a cautious sales forecast for the fourth quarter Amazon offered a mixed picture of its financial health on Thursday in its quarterly earnings report. The e-commerce company gave a cautious sales for"
     },
     {
-      "id": "feed-f1wnlq",
+      "id": "feed-rx0eh3",
       "title": "BBC Inside Science",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct978j",
       "publishedAt": "2026-10-29T21:00:00.000Z",
       "category": "science",
       "summary": "Time is running out for one of the most ambitious environmental pledges in history."
@@ -1882,26 +1902,6 @@
       "publishedAt": "2026-10-27T15:08:29.000Z",
       "category": "science",
       "summary": "Perimenopause has become a hot topic, with celebrities sharing their experiences and doctors offering tips and advice online. But despite the benefits of growing awareness, a rising number of women are now encountering misinformation about treatments such as H"
-    },
-    {
-      "id": "feed-16qlfzl",
-      "title": "Are seed oils unhealthy? Why are so many influencers speaking out against them? | Gideon Meyerowitz-Katz",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/28/are-seed-oils-unhealthy-scientific-evidence",
-      "publishedAt": "2026-10-27T14:00:37.000Z",
-      "category": "science",
-      "summary": "Randomised trials of omega-6s do not show an increase in inflammation caused by the fatty acid Read more in the Antiviral series If you’ve been online lately, you’ve probably been bombarded with the discourse about seed oils. Once a completely innocuous food t"
-    },
-    {
-      "id": "feed-1uz8t3m",
-      "title": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
-      "publishedAt": "2026-10-27T05:00:04.000Z",
-      "category": "science",
-      "summary": "For decades the idea of eugenics has been taboo. Now it is returning in a new commercial guise For a very long time, I dreamed of being cured. I was born in 1981. I learned to walk early enough, but I stumbled and fell more easily than other children. My paren"
     }
   ]
 }
