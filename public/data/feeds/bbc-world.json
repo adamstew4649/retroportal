@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T19:11:23.706Z",
+  "updatedAt": "2026-11-01T19:57:08.164Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,20 @@
   },
   "articles": [
     {
+      "id": "feed-szs2c8",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T19:48:17.000Z",
+      "summary": "A humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky."
+    },
+    {
       "id": "feed-a1zkq6",
       "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
       "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
       "source": "BBC News",
-      "publishedAt": "2026-11-01T19:06:57.000Z",
-      "summary": "Haley Stevens, a former congresswomen who lost out on the Democratic nomination to Abdul El-Sayed, endorses his opponent days before the vote."
+      "publishedAt": "2026-11-01T19:17:34.000Z",
+      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote."
     },
     {
       "id": "feed-102pozb",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T23:06:13.000Z",
       "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka."
-    },
-    {
-      "id": "feed-d4zemm",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T21:29:01.000Z",
-      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
     }
   ]
 }
