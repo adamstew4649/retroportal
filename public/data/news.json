@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T00:23:32.377Z",
-  "generatedAt": "2026-11-01T00:23:32.377Z",
+  "updatedAt": "2026-11-01T01:36:22.451Z",
+  "generatedAt": "2026-11-01T01:36:22.451Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "id": "sky-technology",
@@ -103,6 +103,56 @@
     }
   ],
   "articles": [
+    {
+      "id": "feed-46qoak",
+      "title": "The Papers: 'PM lets down the King' and 'Kenny's secret night at Maya's'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1y955plgo",
+      "publishedAt": "2026-11-01T01:15:10.000Z",
+      "category": "uk",
+      "summary": "Many of Sunday's front pages look at what Andy Burnham's comments on an apology for slavery mean for the King."
+    },
+    {
+      "id": "feed-omfpb2",
+      "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+      "publishedAt": "2026-11-01T01:14:06.000Z",
+      "category": "uk",
+      "summary": "Prime minister says shake-up is vital to restore tribunal crippled by years of political disputes Poland’s prime minister, Donald Tusk, has vowed to see through a contested overhaul of the country’s constitutional court, declaring that “in certain matters, the"
+    },
+    {
+      "id": "feed-1f4tgsu",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o",
+      "publishedAt": "2026-11-01T00:55:06.000Z",
+      "category": "world",
+      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary."
+    },
+    {
+      "id": "feed-1707ho1",
+      "title": "Thick fog to create hazardous driving conditions into next week",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo",
+      "publishedAt": "2026-11-01T00:33:04.000Z",
+      "category": "uk",
+      "summary": "England and Wales are most likely to experience the foggy conditions on Sunday, before the threat shifts northwards into next week."
+    },
+    {
+      "id": "feed-1q6rc2w",
+      "title": "Japan’s Jimi Halloween, a celebration of all things mundane – in pictures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/01/japan-jimi-halloween-celebration-of-all-things-mundane-tokyo-shibuya-in-pictures",
+      "publishedAt": "2026-11-01T00:32:29.000Z",
+      "category": "uk",
+      "summary": "While Halloween is traditionally a family-oriented holiday and an occasion for children to dress up and go trick-or-treating, a unique spin on spooky season is taking off in Japan. ‘Jimi Halloween’ or ‘Mundane Halloween’ sees adult participants dress up as ord"
+    },
     {
       "id": "feed-1daz5tx",
       "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
@@ -134,6 +184,16 @@
       "summary": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show."
     },
     {
+      "id": "feed-x9lr0r",
+      "title": "Flights disrupted after 'illegal and persistent' drone activity near airport",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/flights-disrupted-after-illegal-and-persistent-drone-activity-near-airport-13606553",
+      "publishedAt": "2026-11-01T00:04:00.000Z",
+      "category": "uk",
+      "summary": "Flights have been disrupted at Jersey Airport due to the unlawful operation of drones in the vicinity on Saturday evening, the airport and the island's chief minister have said."
+    },
+    {
       "id": "feed-19f1wms",
       "title": "Abdul El-Sayed’s campaign disinvites Haley Stevens from events to limit ‘distractions’",
       "source": "The Guardian",
@@ -152,16 +212,6 @@
       "publishedAt": "2026-10-31T23:26:06.000Z",
       "category": "uk",
       "summary": "Mexican star wins unanimous decision over Mbilli Álvarez, 36, regains WBC title after Crawford defeat Read Bryan Armen Graham’s round-by-round report Mexico’s Saúl “Canelo” Álvarez reclaimed the WBC super-middleweight title with a unanimous-decision victory ov"
-    },
-    {
-      "id": "feed-m5r57k",
-      "title": "Breeders’ Cup 2026, day two: Moore’s ‘one bullet’ hits the target in Turf – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/31/breeders-cup-2026-day-two-live",
-      "publishedAt": "2026-10-31T23:25:51.000Z",
-      "category": "uk",
-      "summary": "Benvenuto Cellini and Ryan Moore quickened clear to win the $5m Breeders’ Cup Turf 17.48 Breeders’ Cup Turf Sprint, Grade One, 5½f We’re on to the turf next, and the most obvious barrier to a European clean sweep on the grass in the form of Wesley Ward’s Bacio"
     },
     {
       "id": "feed-1rs59i8",
@@ -202,16 +252,6 @@
       "publishedAt": "2026-10-31T22:56:15.000Z",
       "category": "uk",
       "summary": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour."
-    },
-    {
-      "id": "feed-omfpb2",
-      "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
-      "publishedAt": "2026-10-31T22:43:09.000Z",
-      "category": "uk",
-      "summary": "Prime minister says shake-up is vital to restore tribunal crippled by years of political disputes Poland’s prime minister, Donald Tusk, has vowed to see through a contested overhaul of the country’s constitutional court, declaring that “in certain matters, the"
     },
     {
       "id": "feed-oryc0u",
@@ -294,16 +334,6 @@
       "summary": "Tens of thousands of revellers took to the streets of Londonderry for the city's annual Halloween parade."
     },
     {
-      "id": "feed-1e8or1",
-      "title": "Naderi breaks Aberdeen’s resistance as Rangers reach Premier Sports Cup final",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/31/rangers-aberdeen-scottish-league-cup-semi-final-match-report",
-      "publishedAt": "2026-10-31T20:36:08.000Z",
-      "category": "uk",
-      "summary": "Ryan Naderi’s dramatic late strike broke down Aberdeen’s stubborn resistance to earn Rangers a place in the Premier Sports Cup final. Aberdeen restricted Rangers to one shot on target in a low quality first half, but Derek McInnes’s side picked up the pace aft"
-    },
-    {
       "id": "feed-mjoeys",
       "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
       "source": "The Guardian",
@@ -332,6 +362,16 @@
       "publishedAt": "2026-10-31T20:05:25.000Z",
       "category": "uk",
       "summary": "Northampton 28-14 Gloucester Alex Mitchell limps off with suspected hamstring pull England’s injury headaches are mounting before next Sunday’s autumn opener against Australia with the scrum-half Alex Mitchell a major doubt after limping out of Northampton’s h"
+    },
+    {
+      "id": "feed-12m2oj2",
+      "title": "If Mikel Arteta’s dossier is part of a deliberate strategy, it is a dangerous one for Arsenal | Jonathan Wilson",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/31/mikel-arteta-dossier-arsenal-everton-premier-league",
+      "publishedAt": "2026-10-31T20:00:01.000Z",
+      "category": "uk",
+      "summary": "The manager is not yet in Alex Ferguson and José Mourinho’s league, but his conspiracy theories have reached new levels English football loves the word “dossier”. It doesn’t love dossiers themselves, of course; they’re for nerds – unless, that is, they’re a “s"
     },
     {
       "id": "feed-q422yu",
@@ -374,6 +414,16 @@
       "summary": "On Danni Smith’s first date with Kev, she made a few disclosures and expected him to skol his beer and wish her well – but his response surprised her Find more stories from the moment I knew series In September 2023 I’d been divorced for about a year. At 59 I "
     },
     {
+      "id": "feed-1tktlx7",
+      "title": "Enzo Maresca rues ‘silly’ errors after Manchester City defeat against Brighton",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/31/enzo-maresca-manchester-city-brighton-premier-league",
+      "publishedAt": "2026-10-31T18:38:43.000Z",
+      "category": "uk",
+      "summary": "Matheus Nunes mistake lets in Yasin Ayari for winner Maresca: ‘We are conceding silly goals that we can avoid’ Enzo Maresca said “silly goals” and individual errors are costing Manchester City after Matheus Nunes’ mistake allowed Yasin Ayari to score Brighton’"
+    },
+    {
       "id": "feed-1pvzezt",
       "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
       "source": "The Guardian",
@@ -414,6 +464,16 @@
       "summary": "Legal challenges to Donald Trump’s proposed memorial arch are mounting even as its construction is imminent The legal challenges to Donald Trump ’s proposed memorial arch are mounting, with the District of Columbia and Virginia suing in federal court on Saturd"
     },
     {
+      "id": "feed-1y5bdew",
+      "title": "Manchester United’s capitulation at Chelsea paints picture of a club that barely exists | Barney Ronay",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/oct/31/manchester-united-chelsea-premier-league-michael-carrick",
+      "publishedAt": "2026-10-31T17:54:19.000Z",
+      "category": "uk",
+      "summary": "Michael Carrick is now a little more pre-doomed, pre-sacked, but is miles away from being the actual story On and on and on. And then on just a little bit more it would seem. Manchester United: always crashing in the same Carrick. The obvious question after th"
+    },
+    {
       "id": "feed-17tcen5",
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "source": "BBC News",
@@ -444,16 +504,6 @@
       "summary": "With 180,000 eligible voters, Bedouin turnout was key in Palestinian-led parties winning unprecedented 19 seats Last year, Umm Khaled Fatoun returned from volunteering in a Jewish-Arab support centre for victims of war to find bulldozers tearing into her son’s"
     },
     {
-      "id": "feed-vopap6",
-      "title": "Ayari on target as Brighton stun Manchester City to close gap on leaders",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/31/manchester-city-brighton-premier-league-match-report",
-      "publishedAt": "2026-10-31T16:59:12.000Z",
-      "category": "uk",
-      "summary": "Manchester City have lost two consecutive league games, but no alarm should be sounded. Enzo Maresca’s fast-passing team were defeated on Saturday because Yasin Ayari took one of Brighton’s rare chances, the 11th-minute winner deriving from what appeared a wro"
-    },
-    {
       "id": "feed-e0719w",
       "title": "Emotional reunions with loved ones for Oleshky evacuees",
       "source": "BBC News",
@@ -472,16 +522,6 @@
       "publishedAt": "2026-10-31T16:49:18.000Z",
       "category": "uk",
       "summary": "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers."
-    },
-    {
-      "id": "feed-rkv9fl",
-      "title": "Michael Carrick insists he will still be in charge of Manchester United against Roma",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league",
-      "publishedAt": "2026-10-31T16:43:37.000Z",
-      "category": "uk",
-      "summary": "Defeat against Chelsea extends winless run to nine games Carrick clinging on to job after club’s worst run since 1988 Michael Carrick insisted he would still be in charge when Manchester United face Roma in the Champions League on Tuesday, despite the 2-0 defe"
     },
     {
       "id": "feed-vzhlv2",
@@ -924,16 +964,6 @@
       "summary": "Jane Coates wrote to Cheshire police urging them to gather evidence into Lucy Harrison's killing."
     },
     {
-      "id": "feed-jj5cgm",
-      "title": "The childhood promise that brought professional ballet to a post-industrial town",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vp7xg29ko",
-      "publishedAt": "2026-10-31T07:06:40.000Z",
-      "category": "uk",
-      "summary": "Ballet Cymru's founder reflects on the path that led to 40 years of the professional dance company."
-    },
-    {
       "id": "feed-gy0nkb",
       "title": "Rewilding project aims to restore peatland",
       "source": "BBC News",
@@ -1044,16 +1074,6 @@
       "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince."
     },
     {
-      "id": "feed-1cxc2wv",
-      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o",
-      "publishedAt": "2026-10-31T01:32:33.000Z",
-      "category": "world",
-      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes."
-    },
-    {
       "id": "feed-1my7onf",
       "title": "Global nature talks reach deal but money remains an issue",
       "source": "BBC News",
@@ -1072,16 +1092,6 @@
       "publishedAt": "2026-10-31T00:06:31.000Z",
       "category": "science",
       "summary": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast."
-    },
-    {
-      "id": "feed-1temf7d",
-      "title": "When a wedding fell apart, 11 strangers helped create something unforgettable",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1vdyzem6o",
-      "publishedAt": "2026-10-31T00:05:19.000Z",
-      "category": "uk",
-      "summary": "Bridget Devaney turned to the internet with a proposal that sounded equal parts hopeful and improbable - come to Ireland and celebrate the wedding that never happened."
     },
     {
       "id": "feed-3getm7",
@@ -1300,7 +1310,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/bugattis-ceo-mate-rimac-chases-down-car-thief-then-offers-him-lift-home-13605756",
       "publishedAt": "2026-10-30T14:52:00.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "The head of the luxury car-maker Bugatti has promised to stop leaving his keys in his own car after his £2m model was stolen from a company site in Zagreb."
     },
     {
@@ -1422,16 +1432,6 @@
       "publishedAt": "2026-10-30T10:10:00.000Z",
       "category": "business",
       "summary": "The Northern Irish company attempting to stage a solvent rescue of Poundland has told the discount retailer's administrator-in-waiting that it remains keen on a deal which could save more than 10,000 jobs."
-    },
-    {
-      "id": "feed-1rdpid0",
-      "title": "Three explosive devices found as police detain man and woman",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/three-explosive-devices-found-after-police-called-to-neighbour-row-in-brentwood-13605700",
-      "publishedAt": "2026-10-30T09:59:00.000Z",
-      "category": "uk",
-      "summary": "Police have lifted a cordon after bomb disposal experts dealt with explosive devices found following reports of a disturbance in Essex."
     },
     {
       "id": "feed-1fcuz5t",
