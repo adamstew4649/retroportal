@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T15:56:33.058Z",
+  "updatedAt": "2026-11-01T16:24:37.065Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1c7skd0",
+      "title": "Henry Nowak's family tell of trauma of seeing son handcuffed as he lay dying",
+      "link": "https://www.bbc.co.uk/news/articles/c68xz297kqleo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T16:16:45.000Z",
+      "summary": "His family describe the night police told them of his death, and watching him being handcuffed."
+    },
     {
       "id": "feed-22q5to",
       "title": "Green Party at 'crossroads' after Zionism vote, says former co-leader",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-01T00:06:01.000Z",
       "summary": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show."
-    },
-    {
-      "id": "feed-1x3025t",
-      "title": "Fireworks and fancy dress at Derry's 40th Halloween festival",
-      "link": "https://www.bbc.co.uk/news/articles/cmly095jjnwlo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T21:06:08.000Z",
-      "summary": "Tens of thousands of revellers took to the streets of Londonderry for the city's annual Halloween parade."
     }
   ]
 }
