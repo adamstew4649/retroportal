@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T02:33:57.066Z",
+  "updatedAt": "2026-11-01T03:34:47.766Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-te1sci",
+      "title": "Reeves says UK's future should be inside the EU",
+      "link": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T02:57:34.000Z",
+      "summary": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\"."
+    },
     {
       "id": "feed-2ed42c",
       "title": "Second night of drone disruption at Jersey Airport",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T07:19:00.000Z",
       "summary": "Jane Coates wrote to Cheshire police urging them to gather evidence into Lucy Harrison's killing."
-    },
-    {
-      "id": "feed-8u19bs",
-      "title": "Call for lottery gambling controls after dad's death",
-      "link": "https://www.bbc.co.uk/news/articles/cm79p4q8gn31o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T06:09:25.000Z",
-      "summary": "A coroner says there is a risk of further deaths unless the National Lottery is included in the scheme."
     }
   ]
 }
