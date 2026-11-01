@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T01:36:22.447Z",
+  "updatedAt": "2026-11-01T02:33:57.067Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1797pep",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T01:59:57.000Z",
+      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
+    },
     {
       "id": "feed-1f4tgsu",
       "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-31T02:12:19.000Z",
       "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
-    },
-    {
-      "id": "feed-pl8pnf",
-      "title": "The Indian chef who brought curry to America - then vanished",
-      "link": "https://www.bbc.co.uk/news/articles/crm941n0413o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T02:02:16.000Z",
-      "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince."
     }
   ]
 }

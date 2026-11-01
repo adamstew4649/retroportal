@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T01:36:22.447Z",
+  "updatedAt": "2026-11-01T02:33:57.068Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1797pep",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T01:59:57.000Z",
+      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
+    },
     {
       "id": "feed-vnz4eb",
       "title": "Soaring cost of Halloween treats spooks shoppers",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-29T19:11:10.000Z",
       "summary": "Poundland's bosses are filing a notice of intention to appoint administrators to the business."
-    },
-    {
-      "id": "feed-1ga5k19",
-      "title": "The South West reacts to Budget announcements",
-      "link": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-29T18:07:26.000Z",
-      "summary": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor."
     }
   ]
 }
