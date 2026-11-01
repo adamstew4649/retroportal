@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T22:24:49.344Z",
+  "updatedAt": "2026-11-01T22:56:56.409Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-kj36sc",
+      "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+      "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T22:25:51.000Z",
+      "summary": "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections."
+    },
     {
       "id": "feed-1yl9ebv",
       "title": "Thousands of jobs at Virgin Media O2 to be cut",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T07:45:00.000Z",
       "summary": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade."
-    },
-    {
-      "id": "feed-1docp75",
-      "title": "Who should pay on the first date?",
-      "link": "https://www.bbc.co.uk/news/videos/cmpq0g3g2r8zo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T06:32:25.000Z",
-      "summary": "Yasmin Rufo asks New Yorkers who picks up the bill on a first date, and how much they usually spend."
     }
   ]
 }
