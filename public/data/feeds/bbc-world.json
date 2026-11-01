@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T23:23:26.204Z",
+  "updatedAt": "2026-11-01T23:54:48.887Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1x63d2x",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-01T22:38:24.000Z",
+      "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information."
+    },
     {
       "id": "feed-1cfp97y",
       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-01T00:27:33.000Z",
       "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters."
-    },
-    {
-      "id": "feed-ppq74c",
-      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-31T23:06:13.000Z",
-      "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka."
     }
   ]
 }
