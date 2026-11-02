@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T12:14:06.219Z",
+  "updatedAt": "2026-11-02T13:36:40.589Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,11 +8,19 @@
   },
   "articles": [
     {
+      "id": "feed-1b1w4ny",
+      "title": "Shop freezers in six European countries hit by suspected cyber-attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T13:19:56.000Z",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
+    },
+    {
       "id": "feed-vy476m",
       "title": "Ryanair says it may freeze workers' pay and raise airfares",
       "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o",
       "source": "BBC News",
-      "publishedAt": "2026-11-02T11:27:25.000Z",
+      "publishedAt": "2026-11-02T12:22:10.000Z",
       "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran."
     },
     {
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T16:04:55.000Z",
       "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced."
-    },
-    {
-      "id": "feed-1f6vupw",
-      "title": "What we know about Binance's $6.3bn hack",
-      "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T12:27:28.000Z",
-      "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history."
     }
   ]
 }
