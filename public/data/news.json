@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T00:24:49.563Z",
-  "generatedAt": "2026-11-02T00:24:49.563Z",
+  "updatedAt": "2026-11-02T01:36:12.613Z",
+  "generatedAt": "2026-11-02T01:36:12.613Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "id": "sky-technology",
@@ -104,6 +104,86 @@
   ],
   "articles": [
     {
+      "id": "feed-1x63d2x",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+      "publishedAt": "2026-11-02T01:18:27.000Z",
+      "category": "world",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country."
+    },
+    {
+      "id": "feed-1bu2b1c",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
+      "publishedAt": "2026-11-02T01:15:25.000Z",
+      "category": "technology",
+      "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets."
+    },
+    {
+      "id": "feed-lo8lbk",
+      "title": "Trump praises Haley Stevens while rallying in Iowa in final push before election day – follow live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
+      "publishedAt": "2026-11-02T01:10:19.000Z",
+      "category": "uk",
+      "summary": "At the same time, the president lobbed anti-Muslim insults at Senate nominee Abdul El-Sayed, calling him a ‘jihadist’ Sign up for the Breaking News US email At the end of 2022, the four largest US cities – New York, Los Angeles, Chicago and Houston – all had B"
+    },
+    {
+      "id": "feed-qa4w7m",
+      "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+      "publishedAt": "2026-11-02T01:07:23.000Z",
+      "category": "world",
+      "summary": "President again took aim at progressive Senate candidate and lauded Haley Stevens for endorsing Mike Rogers Donald Trump railed against Democratic US senate hopeful Abdul El-Sayed at a campaign event in Iowa Sunday, repeatedly referring to the Michigan progres"
+    },
+    {
+      "id": "feed-w2h1k2",
+      "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/02/spain-trash-crash-us-citizens-japan-canada-dead",
+      "publishedAt": "2026-11-02T01:06:13.000Z",
+      "category": "world",
+      "summary": "The train disaster, one of Europe’s deadliest rail incidents this century, killed 69 people, including 54 Spaniards Four US citizens and one each from Canada, Japan, Argentina, Mexico, Tunisia and the Czech Republic were among the 69 killed in last week’s high"
+    },
+    {
+      "id": "feed-1nh5sa4",
+      "title": "A&E warning system to flag sick children deteriorating quickly",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go",
+      "publishedAt": "2026-11-02T00:51:24.000Z",
+      "category": "uk",
+      "summary": "The initiative, in England, will help busy staff identify children who are deteriorating quickly as they wait for emergency care."
+    },
+    {
+      "id": "feed-xywccw",
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
+      "publishedAt": "2026-11-02T00:25:12.000Z",
+      "category": "world",
+      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee."
+    },
+    {
+      "id": "feed-758zsj",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o",
+      "publishedAt": "2026-11-02T00:15:30.000Z",
+      "category": "world",
+      "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row."
+    },
+    {
       "id": "feed-17lxicj",
       "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
       "source": "The Guardian",
@@ -112,16 +192,6 @@
       "publishedAt": "2026-11-02T00:12:17.000Z",
       "category": "uk",
       "summary": "Endorsement was met with backlash from the party, condemning Stevens for her ‘betrayal’ Congresswoman Haley Stevens, who lost the Michigan Democratic Senate primary to Abdul El-Sayed, endorsed his Republican rival, Mike Rogers, in an extraordinary rebuke of he"
-    },
-    {
-      "id": "feed-hfshki",
-      "title": "Trump praises Haley Stevens while rallying in Iowa in final push before Election Day - follow live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
-      "publishedAt": "2026-11-02T00:08:41.000Z",
-      "category": "uk",
-      "summary": "At the same time, the president lobbed anti-Muslim insults at Senate nominee Abdul El-Sayed, calling him a ‘jihadist’ Sign up for the Breaking News US email At the end of 2022, the four largest US cities – New York, Los Angeles, Chicago and Houston – all had B"
     },
     {
       "id": "feed-1dimzog",
@@ -204,16 +274,6 @@
       "summary": "Tilt comes after Michelle Landry announced she will not recontest her Queensland seat of Capricornia Get our daily political email , free app or daily news podcast The Nationals leader, Matt Canavan, will run in a lower house Queensland seat at the next federa"
     },
     {
-      "id": "feed-1x63d2x",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
-      "publishedAt": "2026-11-01T22:38:24.000Z",
-      "category": "world",
-      "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information."
-    },
-    {
       "id": "feed-jk2q2l",
       "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
       "source": "The Guardian",
@@ -274,8 +334,8 @@
       "summary": "A Derren Brown-style experiment? A Ghostwatch stunt? Wild rumours have swirled around Bradley Walsh’s Million Pound Shot all week. The hoax has finally been revealed – and its message is terrifying In late October, some canny viewers began to wonder whether th"
     },
     {
-      "id": "feed-1qanwxr",
-      "title": "NFL roundup: Cardinals’ comeback stuns Cowboys; Lamar Jackson’s season could be over",
+      "id": "feed-niyw5v",
+      "title": "NFL roundup: Cowboys and Chiefs suffer late collapses; Lamar Jackson’s season could be over",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/2026/nov/01/nfl-roundup-sunday-football-scores",
@@ -304,14 +364,14 @@
       "summary": "Home Secretary Shabana Mahmood will make a statement on new immigration laws on Monday."
     },
     {
-      "id": "feed-he87ae",
-      "title": "‘We have to tell them to go down’: Iraola responds to Isak penalty denial for Liverpool",
+      "id": "feed-1rijy5y",
+      "title": "Liverpool’s work in progress fizzles out in the face of streetwise champions | Andy Hunter",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/01/andoni-iraola-responds-liverpool-penalty-denial-arsenal-premier-league",
-      "publishedAt": "2026-11-01T21:25:01.000Z",
+      "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-work-in-progress-fizzles-out-arsenal-premier-league",
+      "publishedAt": "2026-11-01T21:20:57.000Z",
       "category": "uk",
-      "summary": "Manager rues two dismissed penalty claims by referee Iraola complains ‘if you don’t go down, you don’t call it’ Andoni Iraola said he will instruct Liverpool players to go down in the box in future after Alexander Isak was denied a penalty during Arsenal’s fir"
+      "summary": "Afternoon began with talk of a title bid, but Arsenal looked more and more comfortable as the second half wore on Andoni Iraola had swatted aside any question that veered in the direction of Liverpool’s title credentials during his press conference on Friday w"
     },
     {
       "id": "feed-1yvet3l",
@@ -392,16 +452,6 @@
       "publishedAt": "2026-11-01T19:36:46.000Z",
       "category": "uk",
       "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people. Dr Marta Shah"
-    },
-    {
-      "id": "feed-ev7h55",
-      "title": "Connecticut senator Chris Murphy hospitalized after stroke",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized",
-      "publishedAt": "2026-11-01T19:27:44.000Z",
-      "category": "world",
-      "summary": "Democratic senator was at his son’s hockey game when he felt a numbness in his arm and was in Johns Hopkins Democratic US Senator Chris Murphy has been hospitalized after suffering a stroke. Murphy, 53, started feeling numbness in his arm while attending a his"
     },
     {
       "id": "feed-ixnqxf",
@@ -582,16 +632,6 @@
       "publishedAt": "2026-11-01T16:57:14.000Z",
       "category": "uk",
       "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands."
-    },
-    {
-      "id": "feed-uubc9a",
-      "title": "Attempted murder probe after petrol bomb thrown at French riot police",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
-      "publishedAt": "2026-11-01T16:24:38.000Z",
-      "category": "world",
-      "summary": "Youth-led protests end with street violence in cities across France, Germany, Switzerland, Portugal and Albania French officials have opened an investigation into the attempted murder of a police officer and Germany’s interior minister has called for harsh pen"
     },
     {
       "id": "feed-22q5to",
@@ -824,16 +864,6 @@
       "summary": "Mayor questions impact on air quality, congestion and jobs as government poised to allow driverless vehicles in capital London’s mayor has called for a cap on the numbers of robotaxis on its streets, with the UK government poised to allow fully driverless vehi"
     },
     {
-      "id": "feed-1cmuiez",
-      "title": "Police tackle 144 Halloween fireworks incidents across Scotland",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c5y439r1k198o",
-      "publishedAt": "2026-11-01T09:19:23.000Z",
-      "category": "uk",
-      "summary": "Officers received 144 fireworks-related calls on Saturday night - down on 160 on 31 October last year."
-    },
-    {
       "id": "feed-j9e7w9",
       "title": "Spill from vandalised home oil tank kills 13 birds",
       "source": "BBC News",
@@ -1022,26 +1052,6 @@
       "publishedAt": "2026-11-01T00:46:12.000Z",
       "category": "world",
       "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race."
-    },
-    {
-      "id": "feed-62v3kk",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo",
-      "publishedAt": "2026-11-01T00:41:24.000Z",
-      "category": "world",
-      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
-    },
-    {
-      "id": "feed-g9b96",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o",
-      "publishedAt": "2026-11-01T00:27:33.000Z",
-      "category": "world",
-      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters."
     },
     {
       "id": "feed-1daz5tx",
@@ -1334,16 +1344,6 @@
       "summary": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year."
     },
     {
-      "id": "feed-1g0kld",
-      "title": "G20 photocall axed after Miliband and other ministers refuse to be pictured with top Russian diplomat",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/g20-photocall-cancelled-after-ed-miliband-and-other-foreign-ministers-refuse-to-be-pictured-with-russias-sergei-lavrov-13605874",
-      "publishedAt": "2026-10-30T18:00:00.000Z",
-      "category": "world",
-      "summary": "A photocall of foreign ministers was cancelled by the US after the UK's Foreign Secretary Ed Miliband and other European counterparts refused to be pictured with Russia's envoy Sergei Lavrov."
-    },
-    {
       "id": "feed-1awym3e",
       "title": "The Guardian view on 50 years of The Selfish Gene: flawed, outdated, yet still a model of truly popular science writing | Editorial",
       "source": "The Guardian",
@@ -1502,16 +1502,6 @@
       "publishedAt": "2026-10-30T11:35:51.000Z",
       "category": "technology",
       "summary": "The Binance hack has thrust cryptocurrencies back into headlines - but what are they and how do they work?"
-    },
-    {
-      "id": "feed-13zlxb7",
-      "title": "Streeting denies 'kicking can down the road' in defence spending row",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o",
-      "publishedAt": "2026-10-30T11:23:38.000Z",
-      "category": "business",
-      "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms."
     },
     {
       "id": "feed-1b4yiy7",
@@ -1812,16 +1802,6 @@
       "publishedAt": "2026-10-28T06:00:04.000Z",
       "category": "science",
       "summary": "Scientists uncover ancient hills and swamps that disappeared as sea levels rose across northern Adriatic Venice is famed for being a floating city, but research shows the land it sits on once lay many miles inland. Dramatic changes in sea level over 10,000 yea"
-    },
-    {
-      "id": "feed-1pzdedn",
-      "title": "'An annoying buzz': The search for stealthier drones",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo",
-      "publishedAt": "2026-10-28T00:01:10.000Z",
-      "category": "technology",
-      "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter."
     },
     {
       "id": "feed-1htpqly",

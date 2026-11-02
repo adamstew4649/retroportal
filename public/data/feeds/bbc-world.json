@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T00:24:49.559Z",
+  "updatedAt": "2026-11-02T01:36:12.607Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,20 +8,36 @@
   },
   "articles": [
     {
+      "id": "feed-1x63d2x",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T01:18:27.000Z",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country."
+    },
+    {
+      "id": "feed-xywccw",
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T00:25:12.000Z",
+      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee."
+    },
+    {
+      "id": "feed-758zsj",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T00:15:30.000Z",
+      "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row."
+    },
+    {
       "id": "feed-7ssdgq",
       "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
       "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
       "source": "BBC News",
       "publishedAt": "2026-11-02T00:02:15.000Z",
       "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat."
-    },
-    {
-      "id": "feed-1x63d2x",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T22:38:24.000Z",
-      "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information."
     },
     {
       "id": "feed-1cfp97y",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-01T00:46:12.000Z",
       "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race."
-    },
-    {
-      "id": "feed-62v3kk",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T00:41:24.000Z",
-      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
-    },
-    {
-      "id": "feed-g9b96",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T00:27:33.000Z",
-      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters."
     }
   ]
 }

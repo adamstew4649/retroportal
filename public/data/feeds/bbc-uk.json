@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T00:24:49.555Z",
+  "updatedAt": "2026-11-02T01:36:12.604Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1nh5sa4",
+      "title": "A&E warning system to flag sick children deteriorating quickly",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T00:51:24.000Z",
+      "summary": "The initiative, in England, will help busy staff identify children who are deteriorating quickly as they wait for emergency care."
+    },
     {
       "id": "feed-1vs72yw",
       "title": "Don't get caught out by new Buy Now Pay Later rules",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-01T10:16:27.000Z",
       "summary": "Stargazers across the UK were treated to the vivid colours of the aurora borealis on Saturday night."
-    },
-    {
-      "id": "feed-1cmuiez",
-      "title": "Police tackle 144 Halloween fireworks incidents across Scotland",
-      "link": "https://www.bbc.co.uk/news/articles/c5y439r1k198o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T09:19:23.000Z",
-      "summary": "Officers received 144 fireworks-related calls on Saturday night - down on 160 on 31 October last year."
     }
   ]
 }
