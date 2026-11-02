@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T20:31:14.875Z",
+  "updatedAt": "2026-11-02T21:29:13.933Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-bclhmv",
+      "title": "Mahmood scraps settlement plans for migrant care workers",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T21:10:12.000Z",
+      "summary": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency."
+    },
     {
       "id": "feed-1x33quv",
       "title": "Two boys arrested after Halloween party stabbings",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-02T10:53:20.000Z",
       "summary": "A report by the Business, Innovation, Science and Trade Committee said decision-making had been characterised by \"inconsistency\"."
-    },
-    {
-      "id": "feed-13ofzrb",
-      "title": "Parents' concerns to trigger urgent checks in A&E",
-      "link": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T08:52:08.000Z",
-      "summary": "Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care."
     }
   ]
 }
