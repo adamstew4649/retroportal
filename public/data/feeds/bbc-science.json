@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T22:08:47.853Z",
+  "updatedAt": "2026-11-02T23:00:52.482Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-n2ij14",
+      "title": "Do the Shetland Isles need Cold War-style military protection?",
+      "link": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T22:45:57.000Z",
+      "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland."
+    },
     {
       "id": "feed-18bgwyl",
       "title": "'New kit' helps battle against bugs",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T06:18:35.000Z",
       "summary": "High pressure is set to bring a long spell of dry weather to the UK doing little to alleviate drought conditions across most of England."
-    },
-    {
-      "id": "feed-1bvb6h5",
-      "title": "Largest woodland bat survey a 'nice story of AI for good'",
-      "link": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T06:10:43.000Z",
-      "summary": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England."
     }
   ]
 }
