@@ -1,12 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T17:43:39.415Z",
+  "updatedAt": "2026-11-02T18:39:28.630Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1qd1u6x",
+      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T18:35:05.000Z",
+      "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine."
+    },
+    {
+      "id": "feed-1hhv5q0",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T18:34:24.000Z",
+      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity."
+    },
+    {
+      "id": "feed-1fym737",
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T18:25:01.000Z",
+      "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges."
+    },
     {
       "id": "feed-znc1b1",
       "title": "Shop freezers in seven European countries hit by cyber-attack",
@@ -46,14 +70,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-02T14:35:38.000Z",
       "summary": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air."
-    },
-    {
-      "id": "feed-15fecma",
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T14:35:01.000Z",
-      "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening."
     },
     {
       "id": "feed-155gd8c",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-02T06:00:54.000Z",
       "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January."
-    },
-    {
-      "id": "feed-1kaixdz",
-      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-      "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T03:58:38.000Z",
-      "summary": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last."
-    },
-    {
-      "id": "feed-wn9sfr",
-      "title": "Democrats have high hopes for midterms - but are the polls right?",
-      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T00:25:12.000Z",
-      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee."
     }
   ]
 }
