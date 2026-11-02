@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T23:00:52.487Z",
-  "generatedAt": "2026-11-02T23:00:52.487Z",
+  "updatedAt": "2026-11-02T23:55:19.262Z",
+  "generatedAt": "2026-11-02T23:55:19.262Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,114 @@
   ],
   "articles": [
     {
-      "id": "feed-eyxnrl",
-      "title": "Trump focuses on Washington DC construction projects on eve of midterm election as Democrats climb in polls – live",
+      "id": "feed-18vgr5w",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
+      "publishedAt": "2026-11-02T23:37:31.000Z",
+      "category": "world",
+      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication."
+    },
+    {
+      "id": "feed-u19ekz",
+      "title": "Red gold from purple flowers: saffron harvest in Kashmir – in pictures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/gallery/2026/nov/03/red-gold-from-purple-flowers-saffron-harvest-in-kashmir-in-pictures",
+      "publishedAt": "2026-11-02T23:37:16.000Z",
+      "category": "uk",
+      "summary": "Kashmiri saffron is one of the world’s most expensive spices. It’s primarily cultivated in the Pampore region of Jammu and Kashmir in India. Often referred to as ‘red gold’ because of its high value, saffron is prized for its rich aroma, distinctive flavour an"
+    },
+    {
+      "id": "feed-1wvfg1z",
+      "title": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
-      "publishedAt": "2026-11-02T22:52:40.000Z",
+      "publishedAt": "2026-11-02T23:35:08.000Z",
       "category": "uk",
-      "summary": "President at reflecting pool in Washington DC to talk about various projects in final appearance before Americans head to polls to vote in crucial midterm election Trump unveils results of $14m reflecting pool makeover in final appeal before midterms Sign up f"
+      "summary": "Ruling was latest judicial rebuke of unprecedented efforts from Trump administration to intervene in elections process of multiple states Sign up for the Breaking News US email The latest and final New York Times and Siena College poll before the midterm elect"
+    },
+    {
+      "id": "feed-19wjoyg",
+      "title": "Five dimensional chess: inside James Talarico’s extraordinary bid to break Texas Democrats’ losing streak",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections",
+      "publishedAt": "2026-11-02T23:32:17.000Z",
+      "category": "uk",
+      "summary": "The Texan could pull off a historic victory in the Lone Star state, which hasn’t elected a Democratic senator since 1988 When a young, untested former school teacher stood up to address a modest gathering of local donors in Austin, the state capital of Texas, "
+    },
+    {
+      "id": "feed-1e0jqek",
+      "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+      "publishedAt": "2026-11-02T23:22:57.000Z",
+      "category": "world",
+      "summary": "Stevens’s decision sparked fierce backlash from members of the party, while Donald Trump praised the sudden switch Democrat Haley Stevens’s shocking last-minute endorsement of Mike Rogers, the Michigan Republican Senate candidate, in the run-up to Tuesday’s mi"
+    },
+    {
+      "id": "feed-10h11ud",
+      "title": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+      "publishedAt": "2026-11-02T23:22:24.000Z",
+      "category": "uk",
+      "summary": "Latest arrests come after DoJ unsuccessfully fought to force state election officials to set aside about 20,000 ballots US midterms – live updates The US Department of Justice (DoJ) in California has charged six more people with alleged voter fraud crimes, an "
+    },
+    {
+      "id": "feed-1ivrsrg",
+      "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+      "publishedAt": "2026-11-02T23:09:57.000Z",
+      "category": "world",
+      "summary": "Justice department had ordered state to segregate and not count 20,000 ballots from people it claims are non-citizens US midterms – live updates The supreme court on Monday ruled against the Trump administration and its attempts to force California election of"
+    },
+    {
+      "id": "feed-q4ls3a",
+      "title": "Apple posts stronger-than-expected revenue in first earnings report for new CEO John Ternus",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+      "publishedAt": "2026-11-02T23:07:49.000Z",
+      "category": "uk",
+      "summary": "Result for the company, which earned $30.71bn and exceeded analysts’ expectations, bucked downward trend for tech firms Apple Inc posted stronger-than-expected revenue in the fiscal third quarter, giving John Ternus, the new CEO, an upbeat start to his tenure,"
+    },
+    {
+      "id": "feed-vu42xz",
+      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o",
+      "publishedAt": "2026-11-02T23:02:01.000Z",
+      "category": "world",
+      "summary": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour."
+    },
+    {
+      "id": "feed-j9cpfy",
+      "title": "I treated Sophie as if she was human. The very next day she betrayed me | Hugh Riminton",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/sophie-ai-chatbot-betrayed-me",
+      "publishedAt": "2026-11-02T23:00:31.000Z",
+      "category": "uk",
+      "summary": "I was intrigued by the level of the new chatbot’s training. If I peppered her with questions, would she have answers? Sophie’s voice is lovely. Warm, direct, intelligent. She’s friendly but not obsequious. She just wants to be helpful. She wasn’t working at th"
+    },
+    {
+      "id": "feed-lg2eo5",
+      "title": "David Bowie's Scottish links celebrated in new exhibition",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy7ljr5grpo",
+      "publishedAt": "2026-11-02T22:52:07.000Z",
+      "category": "uk",
+      "summary": "Hundreds of items from Bowie's personal archive are set to go on display at the V&A in Dundee."
     },
     {
       "id": "feed-n2ij14",
@@ -122,16 +222,6 @@
       "publishedAt": "2026-11-02T22:45:57.000Z",
       "category": "science",
       "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland."
-    },
-    {
-      "id": "feed-1e0jqek",
-      "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
-      "publishedAt": "2026-11-02T22:34:48.000Z",
-      "category": "world",
-      "summary": "Stevens’s decision sparked fierce backlash from members of the party, while Donald Trump praised the sudden switch Democrat Haley Stevens’s shocking last-minute endorsement of Mike Rogers, the Michigan Republican Senate candidate, in the run-up to the election"
     },
     {
       "id": "feed-bclhmv",
@@ -181,7 +271,7 @@
       "url": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
       "publishedAt": "2026-11-02T22:04:11.000Z",
       "category": "uk",
-      "summary": "Jack Grealish will do well to get back into the Everton starting lineup when he returns to the squad – as David Moyes’s side are doing just fine without him. Newcastle were condemned to a second defeat in five days by Moyes’s young team, with a goal from Thier"
+      "summary": "Jack Grealish will do well to get back into the Everton starting lineup when he returns to the squad – as David Moyes’s side are doing just fine without him. Newcastle were condemned to a second defeat in five days by Moyes’s young team, with a second-half goa"
     },
     {
       "id": "feed-z95smn",
@@ -212,26 +302,6 @@
       "publishedAt": "2026-11-02T21:52:26.000Z",
       "category": "uk",
       "summary": "Family of four, two close friends and nanny also died in crash as pilot identified as 55-year-old Jeff Gregory Family members on Monday identified a young Florida pilot as one of nine victims of a plane crash in Palm Beach county that occurred during a heavy t"
-    },
-    {
-      "id": "feed-1umwuxy",
-      "title": "Brexit had 'very significant impact' on UK's ability to control migration'",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/brexit-had-very-significant-impact-on-uks-ability-to-control-migration-mahmood-says-13607300",
-      "publishedAt": "2026-11-02T21:49:00.000Z",
-      "category": "uk",
-      "summary": "Brexit has had a \"very significant impact\" on the UK's ability to manage migration, Shabana Mahmood has told Sky News - but she suggests she can improve the situation in this parliament without returning to free movement."
-    },
-    {
-      "id": "feed-1ci9yxo",
-      "title": "Lindsay Clancy back in court seeking to dismiss murder charges after mistrial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing",
-      "publishedAt": "2026-11-02T21:40:39.000Z",
-      "category": "world",
-      "summary": "Lawyers for Massachusetts mother who killed children argue new trial would violate double jeopardy rules Lindsay Clancy returned to court on Monday in an attempt to dismiss the charges that she murdered her three young children. The hearing Monday was the seco"
     },
     {
       "id": "feed-185xg2n",
@@ -394,16 +464,6 @@
       "summary": "Timber’s shirt pull on Isak was not a penalty on review, and Madueke’s clash with Mac Allister was clearly not violent conduct There was one incident that got everyone talking at the weekend, and that was the decision not to award Liverpool a penalty in their "
     },
     {
-      "id": "feed-18vgr5w",
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
-      "publishedAt": "2026-11-02T19:12:59.000Z",
-      "category": "world",
-      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication."
-    },
-    {
       "id": "feed-1g0lr59",
       "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
       "source": "The Guardian",
@@ -420,48 +480,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
       "publishedAt": "2026-11-02T19:06:40.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Exception for care workers will allow an estimated 280,000 people and their dependants to apply for indefinite leave to remain after five years Shabana Mahmood rowed back on her most hardline plans to make care workers wait 15 years for settlement in the UK, b"
-    },
-    {
-      "id": "feed-acslc2",
-      "title": "Alex Mitchell out of Nations Championship opener in fresh England injury blow",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/02/alex-mitchell-injury-england-nations-championship-australia-wallabies-rugby-union",
-      "publishedAt": "2026-11-02T19:00:13.000Z",
-      "category": "uk",
-      "summary": "Scrum-half out of game against Australia on Sunday Wallabies match followed by New Zealand and Japan The Northampton scrum-half Alex Mitchell has been ruled out of England’s November opener against Australia on Sunday, with Bristol’s Harry Randall and Bath’s B"
-    },
-    {
-      "id": "feed-85dy9c",
-      "title": "The Guardian view on a migration U-turn: it still leaves unfair changes intact | Editorial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/the-guardian-view-on-a-migration-u-turn-it-still-leaves-unfair-changes-intact",
-      "publishedAt": "2026-11-02T18:53:07.000Z",
-      "category": "uk",
-      "summary": "Britain needs migrant workers, yet ministers would make many wait longer for secure settlement because their essential work commands low wages Shabana Mahmood has made a partial retreat on her policy to lengthen the wait for some foreign workers who were soon "
-    },
-    {
-      "id": "feed-xaoz9t",
-      "title": "The Guardian view on Poland’s political turmoil: an ominous portent of bigger battles to come | Editorial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/the-guardian-view-on-polands-political-turmoil-an-ominous-portent-of-bigger-battles-to-come",
-      "publishedAt": "2026-11-02T18:52:32.000Z",
-      "category": "uk",
-      "summary": "Donald Tusk is attempting to restore legitimacy to the country’s constitutional court. In a polarised country and continent, that carries political risks The Polish prime minister, Donald Tusk, must occasionally look towards Budapest and sigh. A landslide vict"
-    },
-    {
-      "id": "feed-r2uwi2",
-      "title": "Why did a Democrat endorse a rival Republican in Michigan? - The Latest",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/video/2026/nov/02/why-did-a-democrat-endorse-a-rival-republican-in-michigan-the-latest",
-      "publishedAt": "2026-11-02T18:51:35.000Z",
-      "category": "uk",
-      "summary": "Democratic congresswoman Haley Stevens has endorsed the Republican candidate for the Senate after a spat with her party’s own candidate in Michigan, Abdul El-Sayed. The endorsement stunned Stevens’ Democrat colleagues, with one calling it a ‘despicable betraya"
     },
     {
       "id": "feed-epc9qu",
@@ -824,16 +844,6 @@
       "summary": "Many treatments are now extending lives but the measure of progress should not end with a scan or a survival curve Two decades ago, a dear friend called me in a trembling voice. Was there hope for his young nephew , whose cancer had spread to the brain? Sadly,"
     },
     {
-      "id": "feed-zinkge",
-      "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko",
-      "publishedAt": "2026-11-02T13:49:19.000Z",
-      "category": "world",
-      "summary": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide."
-    },
-    {
       "id": "feed-ihpa8x",
       "title": "Poundland's former owner offers to invest as minister prepares to meet board",
       "source": "BBC News",
@@ -940,7 +950,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o",
       "publishedAt": "2026-11-02T12:22:10.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran."
     },
     {
@@ -1072,16 +1082,6 @@
       "publishedAt": "2026-11-02T10:00:38.000Z",
       "category": "technology",
       "summary": "We cannot let the billionaire class take unprecedented risks with our future America is a divided country in crisis. Despite the sunny economic forecast coming from the Trump administration, millions of Americans are struggling to find and keep jobs, getting c"
-    },
-    {
-      "id": "feed-p1julr",
-      "title": "‘They assume the man next to me is the owner’: four women doing business in Africa in their own way",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/global-development/2026/nov/02/they-assume-the-man-next-to-me-is-the-owner-four-women-doing-business-in-africa-in-their-own-way",
-      "publishedAt": "2026-11-02T10:00:37.000Z",
-      "category": "business",
-      "summary": "From feeding schoolchildren to recycling tyres, these entrepreneurs are challenging stereotypes while solving social and environmental problems Africa is thought to have a higher proportion of female entrepreneurs than any other continent and yet many still st"
     },
     {
       "id": "feed-1wl7572",

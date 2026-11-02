@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T23:00:52.478Z",
+  "updatedAt": "2026-11-02T23:55:19.253Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-lg2eo5",
+      "title": "David Bowie's Scottish links celebrated in new exhibition",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7ljr5grpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T22:52:07.000Z",
+      "summary": "Hundreds of items from Bowie's personal archive are set to go on display at the V&A in Dundee."
+    },
     {
       "id": "feed-bclhmv",
       "title": "Mahmood scraps settlement plans for migrant care workers",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-02T12:51:10.000Z",
       "summary": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected."
-    },
-    {
-      "id": "feed-vy476m",
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T12:22:10.000Z",
-      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran."
     }
   ]
 }
