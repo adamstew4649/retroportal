@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T01:36:12.604Z",
+  "updatedAt": "2026-11-02T02:37:25.411Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-19pyb5t",
+      "title": "The Papers: 'A family's pain' and 'EU students in return for trade'",
+      "link": "https://www.bbc.co.uk/news/articles/cm79py0q2wqwo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-02T01:59:50.000Z",
+      "summary": "The parents of Henry Nowak speaking for the first time about the moment they learnt he had been murdered leads Monday's Daily Mirror."
+    },
     {
       "id": "feed-1nh5sa4",
       "title": "A&E warning system to flag sick children deteriorating quickly",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-01T10:47:03.000Z",
       "summary": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\"."
-    },
-    {
-      "id": "feed-1fundp",
-      "title": "Northern Lights dance across UK sky on Halloween night",
-      "link": "https://www.bbc.co.uk/weather/articles/c3pwge119lnvo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-01T10:16:27.000Z",
-      "summary": "Stargazers across the UK were treated to the vivid colours of the aurora borealis on Saturday night."
     }
   ]
 }
