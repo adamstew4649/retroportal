@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T19:38:35.266Z",
+  "updatedAt": "2026-11-03T20:30:52.681Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1wrqz2r",
+      "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
+      "link": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T20:05:21.000Z",
+      "summary": "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial."
+    },
     {
       "id": "feed-1ghcj9t",
       "title": "Reform UK councillor charged with rape and sexual assault",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T11:57:19.000Z",
       "summary": "The closure comes following a \"regular review of rides and attractions\", Alton Towers says."
-    },
-    {
-      "id": "feed-kw4vib",
-      "title": "'I never enjoyed exercise at school as I was bullied' says DJ, ahead of 400-mile bike feat",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrm92jdpvo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T11:33:22.000Z",
-      "summary": "Radio host Owain Wyn Evans hopes Children in Need bike challenge will inspire others to 'make a change'."
     }
   ]
 }

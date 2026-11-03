@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T19:38:35.274Z",
-  "generatedAt": "2026-11-03T19:38:35.274Z",
+  "updatedAt": "2026-11-03T20:30:52.688Z",
+  "generatedAt": "2026-11-03T20:30:52.688Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "id": "sky-technology",
@@ -104,12 +104,32 @@
   ],
   "articles": [
     {
+      "id": "feed-14uuion",
+      "title": "US midterm elections 2026 live: Americans go to the polls to decide control of Congress",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+      "publishedAt": "2026-11-03T20:23:30.000Z",
+      "category": "world",
+      "summary": "Voters are casting their ballots across the US in a referendum on Donald Trump’s agenda Sign up for the Breaking News US email What are the races to watch and why do they matter? Midterm elections 2026: what time do the polls close today? It has just gone past"
+    },
+    {
+      "id": "feed-n40hny",
+      "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
+      "publishedAt": "2026-11-03T20:21:14.000Z",
+      "category": "world",
+      "summary": "Legal body handling identification says three latest victims include two Australians and a Japanese citizen Get our breaking news email , free app or daily news podcast Two Australians are among 69 people who died in last week’s high-speed train collision afte"
+    },
+    {
       "id": "feed-jsxg6g",
       "title": "Manchester United v Roma: Champions League – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live",
-      "publishedAt": "2026-11-03T19:26:36.000Z",
+      "publishedAt": "2026-11-03T20:16:33.000Z",
       "category": "uk",
       "summary": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Barcelona v Aston Villa – follow it live ⚽️ Live scores | League phase standings | And email Will Gorton-born Butt on TV and another one on the blog. A big day for east Manchester. Both quite critical of"
     },
@@ -119,19 +139,69 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/nov/03/barcelona-v-aston-villa-champions-league-live",
-      "publishedAt": "2026-11-03T19:23:13.000Z",
+      "publishedAt": "2026-11-03T20:15:54.000Z",
       "category": "uk",
       "summary": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Manchester United v Roma – follow it live ⚽️ Live scores | League phase standings | And email Luke Steven Gerrard and Ally McCoist are on co-commentary duty for TNT Sports alongside Darren Fletcher in Ba"
     },
     {
-      "id": "feed-14uuion",
-      "title": "US midterm elections 2026 live: Americans go to the polls to decide control of Congress",
+      "id": "feed-1wrqz2r",
+      "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo",
+      "publishedAt": "2026-11-03T20:05:21.000Z",
+      "category": "uk",
+      "summary": "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial."
+    },
+    {
+      "id": "feed-tbz9td",
+      "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-      "publishedAt": "2026-11-03T19:13:09.000Z",
+      "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
+      "publishedAt": "2026-11-03T20:00:13.000Z",
       "category": "uk",
-      "summary": "Voters are casting their ballots across the US in a referendum on Donald Trump’s agenda Sign up for the Breaking News US email What are the races to watch and why do they matter? Midterm elections 2026: what time do the polls close today? It has just gone past"
+      "summary": "Agriculture, youth visas and emissions agreements nearly tied up under PM’s plan for a much closer relationship with Brussels The UK-EU food produce deal: what was agreed and will it affect shoppers? Andy Burnham is preparing to announce billions of pounds of "
+    },
+    {
+      "id": "feed-lk26ei",
+      "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
+      "publishedAt": "2026-11-03T19:50:27.000Z",
+      "category": "uk",
+      "summary": "Neil Gehrels Swift Observatory is expected to re-enter Earth’s atmosphere Wednesday, burning up in the process Nasa’s Neil Gehrels Swift Observatory, which has spent two decades studying the most powerful explosions in the cosmos, is expected to re-enter the E"
+    },
+    {
+      "id": "feed-1icqns5",
+      "title": "‘Well-known’ man fails in legal attempt to block Guardian and ITN publishing sexual allegations",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
+      "publishedAt": "2026-11-03T19:48:43.000Z",
+      "category": "uk",
+      "summary": "Anonymity of individual, whose lawyers had sought injunction citing suicide risk, remains in place subject to any appeal A “well-known individual” has failed in his attempt to stop two media organisations from publishing allegations of inappropriate sexual act"
+    },
+    {
+      "id": "feed-1fltmjz",
+      "title": "Convicted murderer who escaped from Tennessee prison captured in Missouri",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/jacob-morley-tennessee-prisoner-capture",
+      "publishedAt": "2026-11-03T19:42:35.000Z",
+      "category": "world",
+      "summary": "Jacob Morley, serving a life sentence for killing a co-worker, slipped through a prison fence last week A man convicted of murder who escaped from a Tennessee prison was recaptured on Tuesday in Missouri after more than a week on the run, authorities said. Jac"
+    },
+    {
+      "id": "feed-1io9qb3",
+      "title": "Man arrested as girl, 17, found in Oregon after disappearing from Utah last year",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/kylie-arellano-missing-found-oregon-utah",
+      "publishedAt": "2026-11-03T19:30:47.000Z",
+      "category": "world",
+      "summary": "500-plus-day search for Kylie Arellano ends as FBI warns of ‘gore groups’ targeting and exploiting children A 17-year-old girl who disappeared last year from Garden City, Utah, has been found in Oregon, and a 39-year-old man has been taken into custody. The re"
     },
     {
       "id": "feed-3i9wxl",
@@ -304,16 +374,6 @@
       "summary": "After a profits dip, the chain’s demerger from its sister food company still makes sense but is unlikely to reveal tons of value Primark brings forward home deliveries plan by two years as profits slide The business logic for demerging Primark from Associated "
     },
     {
-      "id": "feed-1g6wb5g",
-      "title": "‘Well-known individual’ fails in bid for injunction against Guardian and ITN",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
-      "publishedAt": "2026-11-03T17:56:14.000Z",
-      "category": "uk",
-      "summary": "Person’s anonymity remains in place subject to any appeal against high court decision A “well-known individual” has failed in his attempt to stop two media organisations from publishing allegations of inappropriate sexual activities towards young women, the hi"
-    },
-    {
       "id": "feed-1dmgrl1",
       "title": "Seven flights across Europe targeted by suspected bomb threats",
       "source": "BBC News",
@@ -334,26 +394,6 @@
       "summary": "Oklahoma man accused of sending letters with white nonhazardous powder before 2024 and 2026 elections Federal authorities have charged an Oklahoma man with sending hundreds of letters containing nonhazardous white powder to public officials before the 2024 and"
     },
     {
-      "id": "feed-42bo9e",
-      "title": "Britain must have the courage to face its legacy of slavery | Letters",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/03/britain-must-have-the-courage-to-face-its-legacy-of-slavery",
-      "publishedAt": "2026-11-03T17:50:23.000Z",
-      "category": "uk",
-      "summary": "Readers respond to an article by Andy Burnham in which he says that people today can’t be held personally liable for the country’s historical wrongs In his opinion piece ( 30 October ), Andy Burnham argues that British people today cannot be held liable for hi"
-    },
-    {
-      "id": "feed-vlhzu0",
-      "title": "How Oxford University’s Oriel College should handle Nathan Cofnas event | Letter",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/education/2026/nov/03/how-oxford-university-oriel-college-should-handle-nathan-cofnas-event",
-      "publishedAt": "2026-11-03T17:50:19.000Z",
-      "category": "uk",
-      "summary": "Dave Hunter suggests requiring the event to be online and inviting Hope Not Hate to speak on another occasion The question of whether Oriel College, Oxford, should host Nathan Cofnas highlights the double bind for educational institutions created by the freedo"
-    },
-    {
       "id": "feed-n0hhve",
       "title": "UK makes huge aid cuts to Commonwealth nations despite warm words at Chogm summit",
       "source": "The Guardian",
@@ -364,26 +404,6 @@
       "summary": "Nations in the group fare worse than others, with funding for nature projects especially hard hit even as climate crisis intensifies global need The UK government has slashed overseas aid to Commonwealth countries, the Guardian can reveal, in contrast to the w"
     },
     {
-      "id": "feed-vbeedg",
-      "title": "Man who drugged and raped wife found many men ‘whose fantasy is an unconscious woman’, court told",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/man-drugged-and-raped-wife-stockport-men-fantasy-unconscious-woman-court-told",
-      "publishedAt": "2026-11-03T17:47:15.000Z",
-      "category": "world",
-      "summary": "Nine men stand trial in Manchester accused of participating in abuse at couple’s home in Stockport, or encouraging it online The Stockport man who drugged, raped and sexually assaulted his wife personally found a large number of the “many, many men whose fanta"
-    },
-    {
-      "id": "feed-1j783jm",
-      "title": "Pardoned January 6 participant charged over alleged threats to kill federal judges",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/jan-6-rioter-judges-murder-threat",
-      "publishedAt": "2026-11-03T17:45:40.000Z",
-      "category": "world",
-      "summary": "Cleveland Meredith arrested after allegedly posting a call to execute all judges involved in 2021 US Capitol attack trials A man pardoned by Donald Trump for participating in January 6 attack on the US Capitol and threatening to kill the then house speaker, Na"
-    },
-    {
       "id": "feed-12kw2ou",
       "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
       "source": "The Guardian",
@@ -391,7 +411,7 @@
       "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
       "publishedAt": "2026-11-03T17:32:45.000Z",
       "category": "world",
-      "summary": "Unclear if series of incidents affecting two UK departures and a number of Ryanair services among others are connected Europe live – latest updates At least seven planes around Europe were searched or diverted after a series of bomb threats to passenger flight"
+      "summary": "Unclear if series of incidents affecting two UK departures and several Ryanair services, among others, were connected Europe live – latest updates Seven planes across Europe have been searched or diverted after a series of bomb threats were made to passenger f"
     },
     {
       "id": "feed-1kq1yco",
@@ -462,16 +482,6 @@
       "publishedAt": "2026-11-03T17:04:02.000Z",
       "category": "uk",
       "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade."
-    },
-    {
-      "id": "feed-1s2s5a7",
-      "title": "Officials investigate fire at Mississippi police department tied to fatal shooting of Black toddler",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/mississippi-police-department-fire-kohen-wiley",
-      "publishedAt": "2026-11-03T17:02:21.000Z",
-      "category": "world",
-      "summary": "Person arrested after fire at police department where officer who shot and killed one-year-old Kohen Wiley had worked In the early hours of 31 October, a fire broke out at the Senatobia police department in Mississippi, which has been embroiled in controversy "
     },
     {
       "id": "feed-1hgs1bp",
@@ -591,17 +601,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/03/pension-income-retirement-for-17m-private-sector-workers",
       "publishedAt": "2026-11-03T15:24:17.000Z",
       "category": "business",
-      "summary": "Ministers propose new guided retirement scheme to help give savers protection for life Business live – latest updates Millions of private sector workers will be offered a guaranteed pension income for life under new rules designed to help them get the most out"
-    },
-    {
-      "id": "feed-o35lv9",
-      "title": "Americans head to polls in midterm elections seen as referendum on Trump",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
-      "publishedAt": "2026-11-03T15:17:04.000Z",
-      "category": "world",
-      "summary": "Control of the Senate and House of Representatives, both currently held by the Republicans, is at stake US midterm elections 2026: latest updates Americans are heading to the polls today in US midterm elections widely seen as a referendum on Donald Trump’s sec"
+      "summary": "Ministers propose new guided retirement scheme to help give savers protection for life Millions of private sector workers will be offered a guaranteed pension income for life under new rules designed to help them get the most out of their retirement savings. O"
     },
     {
       "id": "feed-vkzme7",
@@ -754,16 +754,6 @@
       "summary": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government Get our breaking news email , free app or daily news podcast Victoria’s public servants union says it will not sup"
     },
     {
-      "id": "feed-1lewpam",
-      "title": "Snowy Hydro 2.0 executives awarded bonuses totalling $751,925 despite cost blowout",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout",
-      "publishedAt": "2026-11-03T14:00:44.000Z",
-      "category": "world",
-      "summary": "Annual reports show NSW renewable company’s CEO opted out of cash bonus, while CSIRO’s chief received an extra $200,000 Get our breaking news email , free app or daily news podcast Executives at the troubled Snowy Hydro company collectively banked bonuses wort"
-    },
-    {
       "id": "feed-1g7hk2i",
       "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
       "source": "BBC News",
@@ -811,7 +801,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans",
       "publishedAt": "2026-11-03T13:34:10.000Z",
       "category": "business",
-      "summary": "Bank to make ‘early settlement’ offers before outcome of legal battle, with those who accept likely to get money before Christmas Business live – latest updates Barclays will this month start offering compensation to tens of thousands of people who claim they "
+      "summary": "Bank to make ‘early settlement’ offers before outcome of legal battle, with those who accept likely to get money before Christmas Barclays will this month start offering compensation to tens of thousands of people who claim they were mis-sold car loans, with s"
     },
     {
       "id": "feed-1dijc5s",
@@ -951,7 +941,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
       "publishedAt": "2026-11-03T11:55:28.000Z",
       "category": "technology",
-      "summary": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’ Business live – latest updates Britain’s most polluting power plant could soon power the country’s largest datacentre under a £20bn deal to build AI infra"
+      "summary": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’ Britain’s most polluting power plant could soon power the country’s largest datacentre under a £20bn deal to build AI infrastructure on the site of the Dr"
     },
     {
       "id": "feed-9x30uv",
@@ -972,16 +962,6 @@
       "publishedAt": "2026-11-03T11:33:33.000Z",
       "category": "world",
       "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
-    },
-    {
-      "id": "feed-kw4vib",
-      "title": "'I never enjoyed exercise at school as I was bullied' says DJ, ahead of 400-mile bike feat",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrm92jdpvo",
-      "publishedAt": "2026-11-03T11:33:22.000Z",
-      "category": "uk",
-      "summary": "Radio host Owain Wyn Evans hopes Children in Need bike challenge will inspire others to 'make a change'."
     },
     {
       "id": "feed-15o48sq",
@@ -1054,16 +1034,6 @@
       "summary": "West Ham have sacked head coach Nuno Espirito Santo after the club won just six out of 13 Championship games this season."
     },
     {
-      "id": "feed-1waehfq",
-      "title": "Spanish footballer dies after on-field collision",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/tenerife-footballer-jesus-de-miguel-30-dies-after-on-field-collision-13607419",
-      "publishedAt": "2026-11-03T10:20:00.000Z",
-      "category": "world",
-      "summary": "Tenerife football player Jesus de Miguel has died after suffering a cardiac arrest following an on-field collision in a match on Monday."
-    },
-    {
       "id": "feed-xjkt4l",
       "title": "Asda appoints former Morrisons boss as chief executive as sales struggle",
       "source": "The Guardian",
@@ -1081,7 +1051,7 @@
       "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
       "publishedAt": "2026-11-03T09:19:21.000Z",
       "category": "business",
-      "summary": "Agreement to ease rules on food imports and exports is expected to come into force in first quarter of 2028 UK politics live – latest updates The EU and the UK have completed their deal to remove Brexit checks on imports and exports of food and animal products"
+      "summary": "Agreement to ease rules on food imports and exports is expected to come into force in first quarter of 2028 The EU and the UK have completed their deal to remove Brexit checks on imports and exports of food and animal products ranging from sausages and cheese "
     },
     {
       "id": "feed-7amfwv",
@@ -1432,16 +1402,6 @@
       "publishedAt": "2026-11-02T15:11:00.000Z",
       "category": "world",
       "summary": "FIFA will give members of its ruling council access to some documents for the first time related to the World Cup sell-off, Sky News understands."
-    },
-    {
-      "id": "feed-1cd9hom",
-      "title": "A job that changed me: I ran observatory tours as a student. An eight-year-old’s question taught me two important lessons",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/03/a-job-that-changed-me-astronomy-guide-black-holes",
-      "publishedAt": "2026-11-02T14:00:43.000Z",
-      "category": "science",
-      "summary": "I thought the explanation I’d given about black holes was family-friendly. But, after what she had said, I had to rethink my examples Read more in the a job that changed me series In the first year of my science degree, I was fortunate to land a job as an astr"
     },
     {
       "id": "feed-6ue9eh",
@@ -1902,6 +1862,46 @@
       "publishedAt": "2026-10-28T18:32:38.000Z",
       "category": "science",
       "summary": "Russia plans to build own version of US billionaire’s satellite communications to help attack Ukraine Vladimir Putin praised Elon Musk’s genius and said he was in touch with Starlink’s controlling shareholder as Russia develops its own satellite communications"
+    },
+    {
+      "id": "feed-uqeq17",
+      "title": "Social media is full of weird video game mashups. Where are they all coming from?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
+      "publishedAt": "2026-10-28T15:00:05.000Z",
+      "category": "technology",
+      "summary": "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry • Don’t get Pushing Buttons delivered to your inbox? Sign up here If your social media algorithms have c"
+    },
+    {
+      "id": "feed-1jsngc8",
+      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "publishedAt": "2026-10-28T09:37:49.000Z",
+      "category": "science",
+      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according"
+    },
+    {
+      "id": "feed-3gvgbo",
+      "title": "‘Ferritin face’: are social media claims about iron deficiency fact – or fiction?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency",
+      "publishedAt": "2026-10-28T08:00:01.000Z",
+      "category": "science",
+      "summary": "Experts say symptoms such as dark circles under the eyes, grey skin, cracked lips and hair loss can be a warning sign – but there are other factors too TikTok is rife with influencers warning of “ferritin face”, a term they use to describe the pallor, dark cir"
+    },
+    {
+      "id": "feed-1htpqly",
+      "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
+      "publishedAt": "2026-10-27T21:40:13.000Z",
+      "category": "science",
+      "summary": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it"
     }
   ]
 }
