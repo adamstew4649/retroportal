@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T20:30:52.688Z",
-  "generatedAt": "2026-11-03T20:30:52.688Z",
+  "updatedAt": "2026-11-03T21:28:06.043Z",
+  "generatedAt": "2026-11-03T21:28:06.043Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,134 @@
   ],
   "articles": [
     {
-      "id": "feed-14uuion",
-      "title": "US midterm elections 2026 live: Americans go to the polls to decide control of Congress",
+      "id": "feed-ftnu5g",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
+      "publishedAt": "2026-11-03T21:19:57.000Z",
+      "category": "world",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
+    },
+    {
+      "id": "feed-3i49jr",
+      "title": "US midterm elections 2026 live: Turnout surges across country as voters decide control of Congress",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-      "publishedAt": "2026-11-03T20:23:30.000Z",
+      "publishedAt": "2026-11-03T21:16:15.000Z",
       "category": "world",
       "summary": "Voters are casting their ballots across the US in a referendum on Donald Trump’s agenda Sign up for the Breaking News US email What are the races to watch and why do they matter? Midterm elections 2026: what time do the polls close today? It has just gone past"
+    },
+    {
+      "id": "feed-jsxg6g",
+      "title": "Manchester United v Roma: Champions League – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live",
+      "publishedAt": "2026-11-03T21:14:57.000Z",
+      "category": "uk",
+      "summary": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Barcelona v Aston Villa – follow it live ⚽️ Live scores | League phase standings | And email Will Gorton-born Butt on TV and another one on the blog. A big day for east Manchester. Both quite critical of"
+    },
+    {
+      "id": "feed-scvb1y",
+      "title": "Barcelona v Aston Villa: Champions League – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/nov/03/barcelona-v-aston-villa-champions-league-live",
+      "publishedAt": "2026-11-03T21:14:19.000Z",
+      "category": "uk",
+      "summary": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Manchester United v Roma – follow it live ⚽️ Live scores | League phase standings | And email Luke Steven Gerrard and Ally McCoist are on co-commentary duty for TNT Sports alongside Darren Fletcher in Ba"
+    },
+    {
+      "id": "feed-cioyh3",
+      "title": "British lawyer Dapo Akande elected to UN top court in big diplomatic win",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/law/2026/nov/03/british-lawyer-dapo-akande-elected-to-un-international-court-of-justice-diplomatic-win",
+      "publishedAt": "2026-11-03T21:09:39.000Z",
+      "category": "uk",
+      "summary": "Akande serving at international court of justice comes a decade after previous British judge failed to get re-elected A British judge has been elected on to the UN’s international court of justice, in a big British diplomatic victory that comes almost 10 years"
+    },
+    {
+      "id": "feed-1o1krpp",
+      "title": "King Charles addresses summit as demands for slavery apology grow",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
+      "publishedAt": "2026-11-03T21:09:21.000Z",
+      "category": "uk",
+      "summary": "Speaking in Antigua, the king did not give explicit support for reparations but said he wanted to ‘address past wrongs’ King Charles has said that deepening his understanding of the horrors of slavery has made him more determined to address the wrongs of the p"
+    },
+    {
+      "id": "feed-c1uiy4",
+      "title": "Minneapolis community leave ‘I Voted’ stickers at Alex Pretti’s memorial site",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/minneapolis-i-voted-stickers-alex-pretti-memorial",
+      "publishedAt": "2026-11-03T21:05:52.000Z",
+      "category": "world",
+      "summary": "Residents are sending a clear message about the violent deportations taking place across the country during this midterm cycle Alex Pretti’s memorial site, which has been covered by flowers and signs for months, now has new pops of color – “I Voted” stickers f"
+    },
+    {
+      "id": "feed-u9xzir",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+      "publishedAt": "2026-11-03T20:53:03.000Z",
+      "category": "uk",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+    },
+    {
+      "id": "feed-1dmgrl1",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
+      "publishedAt": "2026-11-03T20:42:47.000Z",
+      "category": "world",
+      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
+    },
+    {
+      "id": "feed-2xbevc",
+      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno",
+      "publishedAt": "2026-11-03T20:38:38.000Z",
+      "category": "uk",
+      "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade."
+    },
+    {
+      "id": "feed-1ix9wvh",
+      "title": "Spain's transport minister to resign after train crash killed 69 people",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/spains-transport-minister-oscar-puente-to-resign-after-train-crash-killed-69-people-13607610",
+      "publishedAt": "2026-11-03T20:32:00.000Z",
+      "category": "world",
+      "summary": "Spain's transport minister has said he will step down after two deadly train crashes in less than a year."
+    },
+    {
+      "id": "feed-jwus0i",
+      "title": "Google says there’s no way to use Search without using artificial intelligence",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+      "publishedAt": "2026-11-03T20:30:06.000Z",
+      "category": "uk",
+      "summary": "In announcement geared to schools, tech giant showed how entwined AI is with the world’s most popular website Google just acknowledged that you can’t use Google Search without using artificial intelligence . The search giant announced a slate of new AI product"
+    },
+    {
+      "id": "feed-1nyn5h8",
+      "title": "Tech Life",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa",
+      "publishedAt": "2026-11-03T20:30:00.000Z",
+      "category": "technology",
+      "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show."
     },
     {
       "id": "feed-n40hny",
@@ -122,26 +242,6 @@
       "publishedAt": "2026-11-03T20:21:14.000Z",
       "category": "world",
       "summary": "Legal body handling identification says three latest victims include two Australians and a Japanese citizen Get our breaking news email , free app or daily news podcast Two Australians are among 69 people who died in last week’s high-speed train collision afte"
-    },
-    {
-      "id": "feed-jsxg6g",
-      "title": "Manchester United v Roma: Champions League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live",
-      "publishedAt": "2026-11-03T20:16:33.000Z",
-      "category": "uk",
-      "summary": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Barcelona v Aston Villa – follow it live ⚽️ Live scores | League phase standings | And email Will Gorton-born Butt on TV and another one on the blog. A big day for east Manchester. Both quite critical of"
-    },
-    {
-      "id": "feed-scvb1y",
-      "title": "Barcelona v Aston Villa: Champions League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/nov/03/barcelona-v-aston-villa-champions-league-live",
-      "publishedAt": "2026-11-03T20:15:54.000Z",
-      "category": "uk",
-      "summary": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Manchester United v Roma – follow it live ⚽️ Live scores | League phase standings | And email Luke Steven Gerrard and Ally McCoist are on co-commentary duty for TNT Sports alongside Darren Fletcher in Ba"
     },
     {
       "id": "feed-1wrqz2r",
@@ -192,16 +292,6 @@
       "publishedAt": "2026-11-03T19:42:35.000Z",
       "category": "world",
       "summary": "Jacob Morley, serving a life sentence for killing a co-worker, slipped through a prison fence last week A man convicted of murder who escaped from a Tennessee prison was recaptured on Tuesday in Missouri after more than a week on the run, authorities said. Jac"
-    },
-    {
-      "id": "feed-1io9qb3",
-      "title": "Man arrested as girl, 17, found in Oregon after disappearing from Utah last year",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/kylie-arellano-missing-found-oregon-utah",
-      "publishedAt": "2026-11-03T19:30:47.000Z",
-      "category": "world",
-      "summary": "500-plus-day search for Kylie Arellano ends as FBI warns of ‘gore groups’ targeting and exploiting children A 17-year-old girl who disappeared last year from Garden City, Utah, has been found in Oregon, and a 39-year-old man has been taken into custody. The re"
     },
     {
       "id": "feed-3i9wxl",
@@ -350,18 +440,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/nov/03/inquiry-sexual-harassment-claims-lib-dem-peer-chris-rennard",
       "publishedAt": "2026-11-03T18:03:07.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Party leader Ed Davey ‘disappointed and upset’ at decision by independent panel after claims original investigation was flawed The Liberal Democrat peer Chris Rennard has been told there will be no further investigation into sexual harassment allegations made "
-    },
-    {
-      "id": "feed-6oem50",
-      "title": "England’s Fin Smith facing make-or-break fitness test before Australia clash",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/03/alex-mitchell-out-england-nations-championship-campaign-hamstring-injury",
-      "publishedAt": "2026-11-03T18:02:16.000Z",
-      "category": "uk",
-      "summary": "Smith’s calf injury to be tested in training on Wednesday Alex Mitchell ruled out of Nations Championship finals Fin Smith faces a make-or-break training session on Wednesday to prove his fitness for the No 10 jersey in England’s autumn opener against Australi"
     },
     {
       "id": "feed-1j9o5hy",
@@ -370,38 +450,18 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/03/primark-lacks-fizz-approaches-go-it-alone-moment-nils-pratley",
       "publishedAt": "2026-11-03T17:58:35.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "After a profits dip, the chain’s demerger from its sister food company still makes sense but is unlikely to reveal tons of value Primark brings forward home deliveries plan by two years as profits slide The business logic for demerging Primark from Associated "
     },
     {
-      "id": "feed-1dmgrl1",
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "id": "feed-9hgtbd",
+      "title": "Rape accused 'told woman would pretend to be asleep'",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
-      "publishedAt": "2026-11-03T17:56:03.000Z",
-      "category": "world",
-      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
-    },
-    {
-      "id": "feed-ntex6q",
-      "title": "US man charged with mailing hundreds of letters containing powder to officials before midterms",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/charges-powder-letters-midterms",
-      "publishedAt": "2026-11-03T17:50:43.000Z",
-      "category": "world",
-      "summary": "Oklahoma man accused of sending letters with white nonhazardous powder before 2024 and 2026 elections Federal authorities have charged an Oklahoma man with sending hundreds of letters containing nonhazardous white powder to public officials before the 2024 and"
-    },
-    {
-      "id": "feed-n0hhve",
-      "title": "UK makes huge aid cuts to Commonwealth nations despite warm words at Chogm summit",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit",
-      "publishedAt": "2026-11-03T17:49:57.000Z",
-      "category": "world",
-      "summary": "Nations in the group fare worse than others, with funding for nature projects especially hard hit even as climate crisis intensifies global need The UK government has slashed overseas aid to Commonwealth countries, the Guardian can reveal, in contrast to the w"
+      "url": "https://www.bbc.co.uk/news/articles/cm1ex19ejzwqo",
+      "publishedAt": "2026-11-03T17:51:12.000Z",
+      "category": "uk",
+      "summary": "Richard Wilkins, 62, from Swindon, is one of four men on trial at Winchester Crown Court."
     },
     {
       "id": "feed-12kw2ou",
@@ -411,7 +471,7 @@
       "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
       "publishedAt": "2026-11-03T17:32:45.000Z",
       "category": "world",
-      "summary": "Unclear if series of incidents affecting two UK departures and several Ryanair services, among others, were connected Europe live – latest updates Seven planes across Europe have been searched or diverted after a series of bomb threats were made to passenger f"
+      "summary": "Unclear if series of incidents affecting two UK departures and several Ryanair services, among others, were connected Seven planes across Europe have been searched or diverted after a series of bomb threats were made to passenger flights, prompting questions a"
     },
     {
       "id": "feed-1kq1yco",
@@ -472,16 +532,6 @@
       "publishedAt": "2026-11-03T17:07:28.000Z",
       "category": "world",
       "summary": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer."
-    },
-    {
-      "id": "feed-2xbevc",
-      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno",
-      "publishedAt": "2026-11-03T17:04:02.000Z",
-      "category": "uk",
-      "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade."
     },
     {
       "id": "feed-1hgs1bp",
@@ -574,16 +624,6 @@
       "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions."
     },
     {
-      "id": "feed-15m6y03",
-      "title": "Brent crude slides 3% after Trump says US will stop military funding to Israel ‘by end of this year’ – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/nov/03/saudi-oil-company-profits-australian-central-bank-rates-brent-crude-crypto-hack-energy-prices-latest-news-updates",
-      "publishedAt": "2026-11-03T15:38:50.000Z",
-      "category": "business",
-      "summary": "US president tells Fox News he made deal with Netanyahu ‘months ago’ Dearden responded to Snell’s question: It is deeply concerning to see the uncertainty about Poundland’s future. That’s why I, the Secretary of State and the Prime Minister, have been keeping "
-    },
-    {
       "id": "feed-14m7en8",
       "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
       "source": "The Guardian",
@@ -654,6 +694,16 @@
       "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic."
     },
     {
+      "id": "feed-eex4vw",
+      "title": "Andrew Mountbatten-Windsor ordered to give evidence at businessman's fraud trial, Sky News understands",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/andrew-mountbatten-windsor-ordered-to-give-evidence-at-businessmans-fraud-trial-sky-news-understands-13607502",
+      "publishedAt": "2026-11-03T14:51:00.000Z",
+      "category": "uk",
+      "summary": "Andrew Mountbatten-Windsor has been served a summons compelling him to give evidence at a Turkish businessman's fraud trial, Sky News understands."
+    },
+    {
       "id": "feed-jbwvvd",
       "title": "Jury in Russell Brand rape trial begins considering verdicts",
       "source": "BBC News",
@@ -701,7 +751,7 @@
       "url": "https://news.sky.com/story/reform-councillor-charged-with-35-offences-including-rape-13607499",
       "publishedAt": "2026-11-03T14:36:00.000Z",
       "category": "uk",
-      "summary": "A Reform UK councillor has been charged with 35 offences, including 12 counts of rape, the Crown Prosecution Service (CPS) said."
+      "summary": "A Reform UK councillor says he is \"shocked and dismayed\" after being charged with 35 offences, including 12 counts of rape."
     },
     {
       "id": "feed-150mkye",
@@ -902,26 +952,6 @@
       "publishedAt": "2026-11-03T12:09:20.000Z",
       "category": "world",
       "summary": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'."
-    },
-    {
-      "id": "feed-u9xzir",
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-      "publishedAt": "2026-11-03T12:07:59.000Z",
-      "category": "uk",
-      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
-    },
-    {
-      "id": "feed-4rfh9o",
-      "title": "Alton Towers closes World of David Walliams",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dznljndyzo",
-      "publishedAt": "2026-11-03T11:57:19.000Z",
-      "category": "uk",
-      "summary": "The closure comes following a \"regular review of rides and attractions\", Alton Towers says."
     },
     {
       "id": "feed-1celwdr",
@@ -1164,16 +1194,6 @@
       "summary": "The government is launching the first study to measure PFAS in the UK population to understand the risks."
     },
     {
-      "id": "feed-1vi4dm6",
-      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o",
-      "publishedAt": "2026-11-03T07:15:17.000Z",
-      "category": "world",
-      "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country."
-    },
-    {
       "id": "feed-140uz45",
       "title": "AI data centres could undermine UK's emissions goals",
       "source": "BBC News",
@@ -1280,7 +1300,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/british-troops-will-be-allowed-to-fire-back-at-russian-forces-if-attacked-in-mission-13607272",
       "publishedAt": "2026-11-03T01:55:00.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "British troops will be allowed to fire back at Russian forces if attacked as part of a multinational mission to secure any future peace in Ukraine, Western officials have said."
     },
     {
@@ -1322,6 +1342,16 @@
       "publishedAt": "2026-11-02T21:30:00.000Z",
       "category": "business",
       "summary": "We trace the gold supply chain from a mine to a Delhi jeweller"
+    },
+    {
+      "id": "feed-1qj5xc3",
+      "title": "British Gas resumes force-fitting prepay meters months after £112m settlement",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/money/2026/nov/02/british-gas-resume-force-fitting-prepayment-meters-months-after-112m-settlement",
+      "publishedAt": "2026-11-02T20:05:17.000Z",
+      "category": "business",
+      "summary": "Regulators lift block on supplier, enabling it to install meters in homes of people unable to afford energy bills British Gas has resumed force-fitting prepay meters in the homes of people unable to afford their energy bills months after paying the largest set"
     },
     {
       "id": "feed-1jfubzw",
@@ -1572,16 +1602,6 @@
       "publishedAt": "2026-11-01T19:36:46.000Z",
       "category": "science",
       "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people. Dr Marta Shahbazi , 41, an "
-    },
-    {
-      "id": "feed-1md66xg",
-      "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-      "publishedAt": "2026-11-01T18:37:42.000Z",
-      "category": "technology",
-      "summary": "New electricity generating capacity would enable north-east to attract investment for large-scale AI infrastructure National Grid has taken a step towards building Britain’s biggest electricity substation on Teesside, which could supply power to a vast neighbo"
     },
     {
       "id": "feed-92ko5c",
@@ -1882,26 +1902,6 @@
       "publishedAt": "2026-10-28T09:37:49.000Z",
       "category": "science",
       "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according"
-    },
-    {
-      "id": "feed-3gvgbo",
-      "title": "‘Ferritin face’: are social media claims about iron deficiency fact – or fiction?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency",
-      "publishedAt": "2026-10-28T08:00:01.000Z",
-      "category": "science",
-      "summary": "Experts say symptoms such as dark circles under the eyes, grey skin, cracked lips and hair loss can be a warning sign – but there are other factors too TikTok is rife with influencers warning of “ferritin face”, a term they use to describe the pallor, dark cir"
-    },
-    {
-      "id": "feed-1htpqly",
-      "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
-      "publishedAt": "2026-10-27T21:40:13.000Z",
-      "category": "science",
-      "summary": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it"
     }
   ]
 }

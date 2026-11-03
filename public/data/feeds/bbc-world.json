@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T20:30:52.683Z",
+  "updatedAt": "2026-11-03T21:28:06.037Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,11 +8,19 @@
   },
   "articles": [
     {
+      "id": "feed-ftnu5g",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T21:19:57.000Z",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
+    },
+    {
       "id": "feed-1dmgrl1",
       "title": "Seven flights across Europe targeted by suspected bomb threats",
       "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
       "source": "BBC News",
-      "publishedAt": "2026-11-03T17:56:03.000Z",
+      "publishedAt": "2026-11-03T20:42:47.000Z",
       "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
     },
     {
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T07:29:46.000Z",
       "summary": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years."
-    },
-    {
-      "id": "feed-1vi4dm6",
-      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T07:15:17.000Z",
-      "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country."
     }
   ]
 }

@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T20:30:52.683Z",
+  "updatedAt": "2026-11-03T21:28:06.037Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-1nyn5h8",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T20:30:00.000Z",
+      "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show."
+    },
     {
       "id": "feed-m5cvrd",
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-10T01:00:00.000Z",
       "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
-    },
-    {
-      "id": "feed-n6gujr",
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyj",
-      "source": "BBC News",
-      "publishedAt": "2026-10-06T19:30:00.000Z",
-      "summary": "What is a supercomputer for? How does it work? And who gets to use it? We explain all"
     }
   ]
 }
