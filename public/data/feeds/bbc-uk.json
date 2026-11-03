@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T02:35:54.235Z",
+  "updatedAt": "2026-11-03T03:36:28.695Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-gturac",
+      "title": "Dry and chilly start to November after wet but sunny October",
+      "link": "https://www.bbc.co.uk/weather/articles/cr5ynw8np52vo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T02:50:42.000Z",
+      "summary": "Provisional Met Office figures just released show the UK had a warmer, wetter and sunnier October than average but quieter weather has now arrived."
+    },
     {
       "id": "feed-1dp3jzv",
       "title": "Christmas 2026 stamps unveiled by Royal Mail",
@@ -22,6 +30,14 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T02:11:13.000Z",
       "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+    },
+    {
+      "id": "feed-1jsd13t",
+      "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
+      "link": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T01:52:28.000Z",
+      "summary": "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated."
     },
     {
       "id": "feed-1d6vv4f",
@@ -62,14 +78,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-02T20:20:11.000Z",
       "summary": "Two teenage boys, both from Southampton, have been arrested on suspicion of attempted murder."
-    },
-    {
-      "id": "feed-1yl5ub8",
-      "title": "Nowak family say police failed them multiple times",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg0x7rd402o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T19:40:33.000Z",
-      "summary": "The murdered student's family say they feel \"manipulated\" and \"failed\" by Hampshire Police."
     },
     {
       "id": "feed-epc9qu",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-02T15:13:31.000Z",
       "summary": "Police responded to fears about Anthony Williams on a train the day before the attack, jurors hear."
-    },
-    {
-      "id": "feed-10h9h50",
-      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-      "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T14:35:38.000Z",
-      "summary": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air."
     }
   ]
 }
