@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T14:43:31.913Z",
+  "updatedAt": "2026-11-03T15:31:44.876Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-18rlhur",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T14:56:46.000Z",
+      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic."
+    },
     {
       "id": "feed-1g7hk2i",
       "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-02T20:54:44.000Z",
       "summary": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from."
-    },
-    {
-      "id": "feed-1ptisez",
-      "title": "Man guilty of stealing cash from farm owned by South African president",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T20:08:51.000Z",
-      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga."
     }
   ]
 }
