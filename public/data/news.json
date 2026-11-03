@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T10:43:00.053Z",
-  "generatedAt": "2026-11-03T10:43:00.053Z",
+  "updatedAt": "2026-11-03T11:38:11.195Z",
+  "generatedAt": "2026-11-03T11:38:11.195Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "bbc-world",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,44 @@
   ],
   "articles": [
     {
-      "id": "feed-xgxcvu",
-      "title": "Burnham says he has not proposed return to EU freedom of movement – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-      "publishedAt": "2026-11-03T10:40:06.000Z",
+      "id": "feed-16zc69v",
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+      "publishedAt": "2026-11-03T11:33:33.000Z",
       "category": "world",
-      "summary": "The prime minister wants an ‘honest discussion’ about how immigration has changed since Brexit Q: Angela Rayner says she is stocking up on wine. What are you stockpiling? Badenoch replied: Water. Water’s the most important thing. I don’t blame Angela Rayner fo"
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
+    },
+    {
+      "id": "feed-1y0umwd",
+      "title": "UK food supply chain affected by European freezer hacks, cyber chief says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o",
+      "publishedAt": "2026-11-03T11:32:47.000Z",
+      "category": "uk",
+      "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday."
+    },
+    {
+      "id": "feed-1oydnft",
+      "title": "Work finishes at rail junction near power plant",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e0jn07nzdo",
+      "publishedAt": "2026-11-03T11:24:31.000Z",
+      "category": "uk",
+      "summary": "The upgrades were carried out over nine days, Network Rail says."
+    },
+    {
+      "id": "feed-15o48sq",
+      "title": "Proposal for free bus service scrapped",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmrly74wr9n2o",
+      "publishedAt": "2026-11-03T11:21:42.000Z",
+      "category": "business",
+      "summary": "The one-year free bus service pilot was initially put forward as an amendment to next year's budget."
     },
     {
       "id": "feed-1jcey2z",
@@ -119,9 +149,199 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-      "publishedAt": "2026-11-03T10:37:59.000Z",
+      "publishedAt": "2026-11-03T11:20:54.000Z",
+      "category": "uk",
+      "summary": "Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump’s second term Sign up for the Breaking News US email What are the races to watch and why do they matter? Here are some of the key "
+    },
+    {
+      "id": "feed-u9xzir",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+      "publishedAt": "2026-11-03T11:18:17.000Z",
+      "category": "uk",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+    },
+    {
+      "id": "feed-4rfh9o",
+      "title": "Alton Towers closes World of David Walliams",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dznljndyzo",
+      "publishedAt": "2026-11-03T11:17:59.000Z",
+      "category": "uk",
+      "summary": "The closure comes following a \"regular review of rides and attractions\", Alton Towers says."
+    },
+    {
+      "id": "feed-xgxcvu",
+      "title": "Burnham says he has not proposed return to EU freedom of movement – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
+      "publishedAt": "2026-11-03T11:17:48.000Z",
       "category": "world",
-      "summary": "Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump’s second term Sign up for the Breaking News US email What are the races to watch and why do they matter? Voting is taking place to"
+      "summary": "The prime minister wants an ‘honest discussion’ about how immigration has changed since Brexit Q: Do you think the UK should reconsider Commonwealth membership, given other countries just keep asking us for slavery reparations? Badenoch said she did not agree "
+    },
+    {
+      "id": "feed-82with",
+      "title": "Virgin Media O2 to cut thousands of jobs in bid to reduce costs",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/virgin-media-o2-to-cut-thousands-of-jobs-and-halt-planned-upgrades-in-bid-to-reduce-costs-13607411",
+      "publishedAt": "2026-11-03T11:17:00.000Z",
+      "category": "uk",
+      "summary": "Virgin Media ‌O2 (VMO2) is set to cut thousands of jobs, as it looks to save around £300m through \"a reduction in the size of the workforce\"."
+    },
+    {
+      "id": "feed-1waj21j",
+      "title": "'Quiet quitting' could be hitting the economy - here's why",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo",
+      "publishedAt": "2026-11-03T11:15:51.000Z",
+      "category": "uk",
+      "summary": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found."
+    },
+    {
+      "id": "feed-1ryrw1r",
+      "title": "Shabana Mahmood has barely softened her plans – Britain’s immigration regime is now a theatre of cruelty | Owen Jones",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/shabana-mahmood-immigration-theatre-cruelty-labour",
+      "publishedAt": "2026-11-03T11:14:54.000Z",
+      "category": "uk",
+      "summary": "The home secretary’s reforms merely reinforce the lie that migrants are to blame for all of the UK’s problems Five years ago, Shabana Mahmood called for a “ general amnesty ” for undocumented migrants. “That’s not official Labour party policy yet,” she mourned"
+    },
+    {
+      "id": "feed-1gor57i",
+      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko",
+      "publishedAt": "2026-11-03T11:10:37.000Z",
+      "category": "technology",
+      "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo."
+    },
+    {
+      "id": "feed-1o6gxxb",
+      "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+      "publishedAt": "2026-11-03T11:07:31.000Z",
+      "category": "uk",
+      "summary": "Part of the airport where the flight from Heathrow was parked remain closed Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked remain closed and is be"
+    },
+    {
+      "id": "feed-osmb2q",
+      "title": "Juan Atkins built a cybernetic future for music – but invested it with humanity",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/nov/03/juan-atkins-cybernetic-future-detroit-techno",
+      "publishedAt": "2026-11-03T11:06:27.000Z",
+      "category": "uk",
+      "summary": "The Detroit techno pioneer, who has died aged 64 , blended funk and electronics with information-age philosophy to create music of huge power and influence Juan Atkins, the originator of techno who died on 31 October, spent his lifetime translating a fascinati"
+    },
+    {
+      "id": "feed-zpl3kw",
+      "title": "Mahmood refuses to put cost on care worker settlement climbdown",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo",
+      "publishedAt": "2026-11-03T11:03:45.000Z",
+      "category": "uk",
+      "summary": "The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future."
+    },
+    {
+      "id": "feed-3z2vty",
+      "title": "Did Democrats finally find their fight? Jennifer Welch on rage – Stateside with Kai and Carter",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/video/2026/nov/03/jennifer-welch-ive-had-it-podcast",
+      "publishedAt": "2026-11-03T11:00:57.000Z",
+      "category": "uk",
+      "summary": "Jennifer Welch is a Democrat who isn’t afraid to call out her own party. Her podcasts I’ve Had It and IHIP News, which she co-hosts with friend Angie Sullivan, have attracted a loyal fan base that loves to hear them preach something they like call \"fuck you po"
+    },
+    {
+      "id": "feed-1nwz0nr",
+      "title": "Ghost Town review – the phantoms and lost souls haunting a Japanese city after the 2011 earthquake",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/nov/03/ghost-town-review-the-phantoms-and-lost-souls-haunting-a-japanese-city-after-the-2011-earthquake",
+      "publishedAt": "2026-11-03T11:00:57.000Z",
+      "category": "uk",
+      "summary": "Katharine Round’s documentary puts cameras in taxis where drivers and fares reflect on the disaster’s impact and talk of crowds of spectres and disappearing passengers In a manner similar to Ryūsuke Hamaguchi’s Drive My Car, in which journeying lulls passenger"
+    },
+    {
+      "id": "feed-142luen",
+      "title": "Trump’s midterm campaign has distilled his vile message | Sidney Blumenthal",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/trump-midterm-message-republicans",
+      "publishedAt": "2026-11-03T11:00:56.000Z",
+      "category": "uk",
+      "summary": "The president has spewed vulgar and hateful rhetoric even as he reveals his disdain for his followers Far from veering off his track, Trump in his ceaselessly vile midterm campaign statements has attained an optimal level of Trumpism. He has distilled the raw "
+    },
+    {
+      "id": "feed-mnsayd",
+      "title": "Quail’s eggs, Diet Coke and being thin – the 'common list' for 2026 has landed | Zoe Williams",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/quails-eggs-diet-coke-and-being-thin-the-common-list-for-2026-has-landed",
+      "publishedAt": "2026-11-03T11:00:55.000Z",
+      "category": "uk",
+      "summary": "Nicky Haslam has released his annual tea towel ranking ordinariness. I almost admire his chutzpah Nicky Haslam has produced his list of things that are common for 2026: Diet Coke and being thin; beards and quails’ eggs; the word “nuanced”; the phrase “no-brain"
+    },
+    {
+      "id": "feed-13ta2c",
+      "title": "DUP leader 'very sorry' Carla Lockhart has quit the party",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw8j7x4zzo",
+      "publishedAt": "2026-11-03T10:58:01.000Z",
+      "category": "uk",
+      "summary": "Gavin Robinson said the party and the Upper Bann MP agreed on the sentiment but not the strategy of sanctioning Sinn Féin."
+    },
+    {
+      "id": "feed-15n5716",
+      "title": "David Squires on … Mikel Arteta’s view that football is not Disneyland",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/picture/2026/nov/03/david-squires-on-mikel-arteta-football-not-disneyland",
+      "publishedAt": "2026-11-03T10:57:42.000Z",
+      "category": "uk",
+      "summary": "Our cartoonist on whether the Arsenal manager is right about the game not being an entertainment industry Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading..."
+    },
+    {
+      "id": "feed-1celwdr",
+      "title": "Drivers may get compensation offers before car finance saga ends",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po",
+      "publishedAt": "2026-11-03T10:56:12.000Z",
+      "category": "business",
+      "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair."
+    },
+    {
+      "id": "feed-1r9oc1z",
+      "title": "Boulders dropped off coast to disrupt deep fishing",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o",
+      "publishedAt": "2026-11-03T10:53:09.000Z",
+      "category": "science",
+      "summary": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels."
+    },
+    {
+      "id": "feed-m0fqs",
+      "title": "‘I am deeply sorry’: Craig Silvey pens 9,000-word apology for child exploitation material offences",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-child-porn-offences-ntwnfb",
+      "publishedAt": "2026-11-03T10:47:41.000Z",
+      "category": "world",
+      "summary": "The children’s author claims he experienced trauma in childhood as he begins seven-month sentence for possessing depraved material Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast The disgraced best-se"
     },
     {
       "id": "feed-1sjuqwv",
@@ -131,27 +351,17 @@
       "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
       "publishedAt": "2026-11-03T10:37:57.000Z",
       "category": "world",
-      "summary": "Volodymyr Zelenskyy says attack in Komyshuvakha was ‘vile’ and shows Russia does not want to de-escalate Russia has bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 29 ​people, with 48 still missing, as a wave of"
+      "summary": "Volodymyr Zelenskyy says attack in Komyshuvakha was ‘vile’ and shows Putin does not want to de-escalate Russia has bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 29 ​people, with 48 still missing, as a wave of "
     },
     {
-      "id": "feed-16zc69v",
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
-      "publishedAt": "2026-11-03T10:37:13.000Z",
-      "category": "world",
-      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
-    },
-    {
-      "id": "feed-1op9ch5",
-      "title": "Warsaw Modlin airport closed after bomb threat reported on London flight – Europe live",
+      "id": "feed-1u0r7vh",
+      "title": "Primark to launch home service ‘by end of 2027’; Saudi state oil company reports jump in profits despite attacks – business live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-      "publishedAt": "2026-11-03T10:33:59.000Z",
-      "category": "world",
-      "summary": "Danish media are reporting that a separate threat was also reported in relation to an SAS flight from Copenhagen to Warsaw Back to Poland briefly, Danish media are reporting that a separate threat was also reported in relation to an SAS flight from Copenhagen "
+      "url": "https://www.theguardian.com/business/live/2026/nov/03/saudi-oil-company-profits-australian-central-bank-rates-brent-crude-crypto-hack-energy-prices-latest-news-updates",
+      "publishedAt": "2026-11-03T10:34:57.000Z",
+      "category": "uk",
+      "summary": "Primark home delivery service to come before the chain is spun off from Associated British Foods; stock markets fall as oil prices rise again Love it or hate it, the 2026 John Lewis Christmas advert is here – and it’s Kristin Scott Thomas v Pickles the evil AI"
     },
     {
       "id": "feed-1dijc5s",
@@ -164,14 +374,14 @@
       "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury."
     },
     {
-      "id": "feed-m0fqs",
-      "title": "‘I am deeply sorry’: Craig Silvey pens 9,000-word apology for child exploitation material offences",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-child-porn-offences-ntwnfb",
-      "publishedAt": "2026-11-03T10:18:29.000Z",
+      "id": "feed-1waehfq",
+      "title": "Spanish footballer dies after on-field collision",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/tenerife-footballer-jesus-de-miguel-30-dies-after-on-field-collision-13607419",
+      "publishedAt": "2026-11-03T10:20:00.000Z",
       "category": "world",
-      "summary": "The children’s author says he experienced trauma in childhood as he begins seven-month sentence for possessing depraved material Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast The disgraced best-sell"
+      "summary": "Tenerife football player Jesus de Miguel has died after an on-field collision in a match on Monday, his club have announced."
     },
     {
       "id": "feed-3mx735",
@@ -274,36 +484,6 @@
       "summary": "The best presents don’t always come from a shop. From DIY decorations to gifts for the garden, here’s how to craft something special in 2026 • Don’t get the Filter delivered to your inbox? Sign up here It’s never too early for Christmas if you are making the p"
     },
     {
-      "id": "feed-u9xzir",
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-      "publishedAt": "2026-11-03T09:55:47.000Z",
-      "category": "uk",
-      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
-    },
-    {
-      "id": "feed-1u0r7vh",
-      "title": "Primark to launch home service ‘by end of 2027’; Saudi state oil company reports jump in profits despite attacks – business live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/nov/03/saudi-oil-company-profits-australian-central-bank-rates-brent-crude-crypto-hack-energy-prices-latest-news-updates",
-      "publishedAt": "2026-11-03T09:54:25.000Z",
-      "category": "uk",
-      "summary": "Primark home delivery service to come before the chain is spun off from Associated British Foods; stock markets fall as oil prices rise again Garry White , chief investment commentator at the US investment bank Raymond James , said that Primark will need a dis"
-    },
-    {
-      "id": "feed-1celwdr",
-      "title": "Drivers may get compensation offers before car finance saga ends",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po",
-      "publishedAt": "2026-11-03T09:45:39.000Z",
-      "category": "business",
-      "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair."
-    },
-    {
       "id": "feed-xjkt4l",
       "title": "Asda appoints former Morrisons boss as chief executive as sales struggle",
       "source": "The Guardian",
@@ -312,46 +492,6 @@
       "publishedAt": "2026-11-03T09:44:08.000Z",
       "category": "uk",
       "summary": "David Potts to take over immediately as executive chair Allan Leighton steps back to non-executive strategic role Business live – latest updates Asda has appointed David Potts, the 69-year-old former boss of Morrisons, as its chief executive with immediate eff"
-    },
-    {
-      "id": "feed-wu7anq",
-      "title": "West Ham turn to Scott Parker after sacking Nuno Espírito Santo as head coach",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
-      "publishedAt": "2026-11-03T09:43:49.000Z",
-      "category": "uk",
-      "summary": "West Ham intent on instant return to Premier League Nuno took over from Graham Potter in September 2025 West Ham are poised to appoint Scott Parker as their manager after firing Nuno Espírito Santo. Parker has been out of work since leaving Burnley last season"
-    },
-    {
-      "id": "feed-nxnnfa",
-      "title": "UK also affected by cyber-attack which hit European supermarket fridges",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o",
-      "publishedAt": "2026-11-03T09:43:44.000Z",
-      "category": "uk",
-      "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday."
-    },
-    {
-      "id": "feed-1uqiqk2",
-      "title": "Mahmood refuses to detail cost of revised settlement plans",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo",
-      "publishedAt": "2026-11-03T09:31:25.000Z",
-      "category": "uk",
-      "summary": "The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future."
-    },
-    {
-      "id": "feed-412t3c",
-      "title": "Champagne, cocaine and some very long walks: when pedestrianism ruled the sporting world",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/03/pedestrianism-long-distance-walking-edward-payson-weston",
-      "publishedAt": "2026-11-03T09:30:43.000Z",
-      "category": "uk",
-      "summary": "Crowds once flocked to see ambling athletes pull off amazing feats of stamina. Edward Payson Weston was chief among them More than $1.4bn has been staked on prediction markets for this week’s US midterm elections, according to CNN . Though a lot of people are "
     },
     {
       "id": "feed-1dosqn7",
@@ -370,18 +510,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/03/mogging-crowned-collins-word-of-the-year",
       "publishedAt": "2026-11-03T09:25:09.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Bodybuilding slang referring to making someone else look inferior beat entries concerning AI and climate crisis Mogging – meaning to outperform or outshine someone or something – has been named Collins’s word of the year 2026. Announcing the winner in an artic"
-    },
-    {
-      "id": "feed-31k6aq",
-      "title": "The 2026 John Lewis Christmas advert is here – and it’s Kristin Scott Thomas v Pickles the evil AI overlord puppy!",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/03/john-lewis-christmas-advert-2026-kristin-scott-thomas-pickles-ai-dog",
-      "publishedAt": "2026-11-03T09:21:33.000Z",
-      "category": "uk",
-      "summary": "This year’s festive special looks forward to the time when chatbots reign supreme and humans prepare to be stamped out for ever. What a treat! John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt The John Lewis Christmas advert"
     },
     {
       "id": "feed-vub2mc",
@@ -390,18 +520,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
       "publishedAt": "2026-11-03T09:19:21.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Agreement to ease rules on food imports and exports is expected to come into force in first quarter of 2028 UK politics live – latest updates The EU and the UK have completed their deal to remove Brexit checks on imports and exports of food and animal products"
-    },
-    {
-      "id": "feed-120xkdg",
-      "title": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
-      "publishedAt": "2026-11-03T09:13:33.000Z",
-      "category": "uk",
-      "summary": "Forward had cardiac arrest and was taken to hospital He was struck in the chest when challenging for ball The Tenerife striker Jesús de Miguel has died following a collision with Andorra goalkeeper Jesús Owono during a match in Spain’s second division. Tenerif"
     },
     {
       "id": "feed-7amfwv",
@@ -411,17 +531,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo",
       "publishedAt": "2026-11-03T09:09:18.000Z",
       "category": "world",
-      "summary": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match."
-    },
-    {
-      "id": "feed-13ta2c",
-      "title": "DUP leader 'very sorry' Carla Lockhart has quit the party",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw8j7x4zzo",
-      "publishedAt": "2026-11-03T09:04:42.000Z",
-      "category": "uk",
-      "summary": "Gavin Robinson said the party and the Upper Bann MP agreed on the sentiment but not the strategy of sanctioning Sinn Féin."
+      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match."
     },
     {
       "id": "feed-sbftg2",
@@ -430,7 +540,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
       "publishedAt": "2026-11-03T09:01:19.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expected Business live – latest updates Apple has warned of an “unprecedented” rise in memory chip prices, as it battles with datacentres to lay its hands on su"
     },
     {
@@ -504,6 +614,16 @@
       "summary": "About 400 staff affected by closure at both Mater’s Brisbane and Springfield hospitals, with financial sustainability of pathology business a factor Get our breaking news email , free app or daily news podcast In-house pathology services at one of Queensland’s"
     },
     {
+      "id": "feed-18mw7t5",
+      "title": "Plans revealed for AI data centre at former power station in North Yorkshire",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/plans-announced-for-ai-data-centre-at-drax-site-in-north-yorkshire-13607386",
+      "publishedAt": "2026-11-03T08:07:00.000Z",
+      "category": "uk",
+      "summary": "Energy giant Drax has announced plans to build an AI data centre on 4.5 hectares of land at its North Yorkshire site."
+    },
+    {
       "id": "feed-srh3ty",
       "title": "Major test for Australia's social media ban begins in High Court",
       "source": "BBC News",
@@ -572,16 +692,6 @@
       "publishedAt": "2026-11-03T07:15:17.000Z",
       "category": "world",
       "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country."
-    },
-    {
-      "id": "feed-8nkms3",
-      "title": "Apple unsure when more foldable iPhones will be available after selling out",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko",
-      "publishedAt": "2026-11-03T07:03:03.000Z",
-      "category": "technology",
-      "summary": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile."
     },
     {
       "id": "feed-o35lv9",
@@ -684,6 +794,16 @@
       "summary": "Hundreds of items from Bowie's personal archive are set to go on display at the V&A in Dundee."
     },
     {
+      "id": "feed-1mit8ju",
+      "title": "I was told I was too young to have cancer - it had spread by the time I was diagnosed",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwgp04e50o",
+      "publishedAt": "2026-11-03T06:08:18.000Z",
+      "category": "uk",
+      "summary": "Beth Jenkins' cancer was initially missed after told she was \"too young\" to have the disease."
+    },
+    {
       "id": "feed-n2ij14",
       "title": "Do the Shetland Isles need Cold War-style military protection?",
       "source": "BBC News",
@@ -742,26 +862,6 @@
       "publishedAt": "2026-11-03T05:48:25.000Z",
       "category": "uk",
       "summary": "Police say the 68-year-old is not currently a suspect in other cold cases."
-    },
-    {
-      "id": "feed-sir6au",
-      "title": "Work finishes on key Sizewell C rail junction",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e0jn07nzdo",
-      "publishedAt": "2026-11-03T05:47:52.000Z",
-      "category": "uk",
-      "summary": "The upgrades were carried out over nine days, Network Rail says."
-    },
-    {
-      "id": "feed-1r9oc1z",
-      "title": "Boulders dropped off coast to disrupt deep fishing",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o",
-      "publishedAt": "2026-11-03T05:44:42.000Z",
-      "category": "science",
-      "summary": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels."
     },
     {
       "id": "feed-10hlzon",
@@ -840,7 +940,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro",
       "publishedAt": "2026-11-03T02:27:50.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The annual Christmas collection of five stamps feature scenes from the Nativity."
     },
     {
@@ -854,16 +954,6 @@
       "summary": "British troops will be allowed to fire back at Russian forces if attacked as part of a multinational mission to secure any future peace in Ukraine, Western officials have said."
     },
     {
-      "id": "feed-1jsd13t",
-      "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo",
-      "publishedAt": "2026-11-03T01:52:28.000Z",
-      "category": "uk",
-      "summary": "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated."
-    },
-    {
       "id": "feed-ats44x",
       "title": "Prepare for cyber attacks or face empty shelves, businesses told",
       "source": "Sky News",
@@ -872,16 +962,6 @@
       "publishedAt": "2026-11-03T01:00:00.000Z",
       "category": "uk",
       "summary": "Artificial intelligence is \"helping to industrialise cyber attacks\" and is \"highly likely\" to be used in attacks on Britain's critical national infrastructure by 2028, the National Cyber Security Centre (NCSC) has warned."
-    },
-    {
-      "id": "feed-1pges9y",
-      "title": "PM plans debt reset for Commonwealth nations as slavery apology talks begin",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo",
-      "publishedAt": "2026-11-03T00:26:04.000Z",
-      "category": "uk",
-      "summary": "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year."
     },
     {
       "id": "feed-1x41zo3",
@@ -1274,16 +1354,6 @@
       "summary": "The government is to hold an urgent meeting with Poundland bosses amid growing recriminations over the discount retailer's ownership."
     },
     {
-      "id": "feed-cm9mc8",
-      "title": "Man jailed for life after dragging headteacher to his death under his car",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/simon-richardson-jailed-for-life-after-fatally-dragging-head-teacher-michael-mullins-to-his-death-under-his-car-13607015",
-      "publishedAt": "2026-11-02T10:35:00.000Z",
-      "category": "uk",
-      "summary": "A man who hit a cyclist and knowingly dragged him for more than a mile under his car has been sentenced to at least 25 years in prison for the murder."
-    },
-    {
       "id": "feed-1dti5kf",
       "title": "Palantir AI tech unused or little used by 29 NHS trusts said to be benefiting from it",
       "source": "The Guardian",
@@ -1344,16 +1414,6 @@
       "summary": "Sacha Dench, known as the \"human swan\", welcomes new laws banning the sale of lead ammunition."
     },
     {
-      "id": "feed-1rnnhnq",
-      "title": "Christmas shoebox appeal launches to help children",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cv98zr5wxp21o",
-      "publishedAt": "2026-11-02T06:21:09.000Z",
-      "category": "business",
-      "summary": "A gift-filled shoebox campaign launched for children who would otherwise go without this Christmas."
-    },
-    {
       "id": "feed-wpd9xt",
       "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
       "source": "The Guardian",
@@ -1382,16 +1442,6 @@
       "publishedAt": "2026-11-02T00:01:25.000Z",
       "category": "science",
       "summary": "UN-backed report finds even temporary rises above Paris agreement target could cause harm to glaciers and polar ice sheets Earth’s icy regions face such dangerous melting that global heating should be brought back below 1C after an inevitable period of oversho"
-    },
-    {
-      "id": "feed-1vs72yw",
-      "title": "Don't get caught out by new Buy Now Pay Later rules",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go",
-      "publishedAt": "2026-11-01T23:34:49.000Z",
-      "category": "business",
-      "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it."
     },
     {
       "id": "feed-qenn2j",
@@ -1552,16 +1602,6 @@
       "publishedAt": "2026-10-31T14:39:00.000Z",
       "category": "technology",
       "summary": "Around 90% of stolen cryptocurrency assets following a hack on a major exchange has been replenished, according to Binance."
-    },
-    {
-      "id": "feed-6yfmk7",
-      "title": "Buyout firm TDR Capital strikes €400m deal to buy Lovehoney",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/buyout-firm-tdr-capital-strikes-400m-deal-to-buy-lovehoney-13606074",
-      "publishedAt": "2026-10-31T12:20:00.000Z",
-      "category": "business",
-      "summary": "The private equity firm which owns Asda and Britain's biggest pubs operator has agreed a roughly €400m (£334m) takeover of Lovehoney Group, a big player in the fast-growing \"intimate wellness\" industry."
     },
     {
       "id": "feed-ozfsm6",
@@ -1742,16 +1782,6 @@
       "publishedAt": "2026-10-29T16:25:54.000Z",
       "category": "science",
       "summary": "As one of the world’s leading forensic anthropologists, Dame Sue Black has acted as an expert witness in a myriad of high-profile criminal cases. Her work has taken her from the lab to active war zones and the aftermath of natural disasters to identify victims"
-    },
-    {
-      "id": "feed-19dlf8g",
-      "title": "'Manosphere' as bad as tobacco for public health, report warns",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/manosphere-content-poses-danger-to-public-similar-to-tobacco-report-warns-13605324",
-      "publishedAt": "2026-10-29T12:57:00.000Z",
-      "category": "technology",
-      "summary": "Social media \"manosphere\" communities should be treated as a public health issue, a new report says - comparing them to the tobacco industry."
     },
     {
       "id": "feed-98ppye",
