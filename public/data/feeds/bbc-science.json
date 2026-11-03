@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T00:26:52.828Z",
+  "updatedAt": "2026-11-03T01:32:40.605Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1o5hdgo",
+      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T00:41:36.000Z",
+      "summary": "The men and women who rummage through commercial bins to take clothes and other items."
+    },
     {
       "id": "feed-n2ij14",
       "title": "Do the Shetland Isles need Cold War-style military protection?",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T15:06:05.000Z",
       "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact."
-    },
-    {
-      "id": "feed-14o493n",
-      "title": "Dry weather for most of the UK for next ten days",
-      "link": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T06:18:35.000Z",
-      "summary": "High pressure is set to bring a long spell of dry weather to the UK doing little to alleviate drought conditions across most of England."
     }
   ]
 }
