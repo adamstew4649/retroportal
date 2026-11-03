@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T09:42:50.334Z",
+  "updatedAt": "2026-11-03T10:43:00.047Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,20 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-u9xzir",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T09:55:47.000Z",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+    },
+    {
+      "id": "feed-nxnnfa",
+      "title": "UK also affected by cyber-attack which hit European supermarket fridges",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T09:43:44.000Z",
+      "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday."
+    },
+    {
       "id": "feed-1uqiqk2",
       "title": "Mahmood refuses to detail cost of revised settlement plans",
       "link": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo",
       "source": "BBC News",
       "publishedAt": "2026-11-03T09:31:25.000Z",
       "summary": "The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future."
-    },
-    {
-      "id": "feed-u9xzir",
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T09:14:07.000Z",
-      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
     },
     {
       "id": "feed-13ta2c",
@@ -54,6 +62,14 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T06:33:25.000Z",
       "summary": "The pop star on new music, The Traitors, and what really went down at James Acaster's banishment."
+    },
+    {
+      "id": "feed-1avwi12",
+      "title": "Police admit unlawful home entry and assault of couple",
+      "link": "https://www.bbc.co.uk/news/articles/cqrky5ne752eo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T06:11:40.000Z",
+      "summary": "Andrew and Sabrina Fearn's trial was stopped when police admitted its actions were unlawful."
     },
     {
       "id": "feed-lg2eo5",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T00:26:04.000Z",
       "summary": "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year."
-    },
-    {
-      "id": "feed-1x33quv",
-      "title": "Two boys arrested after Halloween party stabbings",
-      "link": "https://www.bbc.co.uk/news/articles/cked3j229j43o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T20:20:11.000Z",
-      "summary": "Two teenage boys, both from Southampton, have been arrested on suspicion of attempted murder."
-    },
-    {
-      "id": "feed-epc9qu",
-      "title": "What are the planned changes to immigration rules?",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly052pdx4no",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T18:49:43.000Z",
-      "summary": "The home secretary sets out plans to change requirements for permanent settlement in the UK."
     }
   ]
 }
