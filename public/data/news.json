@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T01:32:40.610Z",
-  "generatedAt": "2026-11-03T01:32:40.610Z",
+  "updatedAt": "2026-11-03T02:35:54.242Z",
+  "generatedAt": "2026-11-03T02:35:54.242Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,84 @@
   ],
   "articles": [
     {
+      "id": "feed-1dp3jzv",
+      "title": "Christmas 2026 stamps unveiled by Royal Mail",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro",
+      "publishedAt": "2026-11-03T02:27:50.000Z",
+      "category": "uk",
+      "summary": "The annual Christmas collection of five stamps feature scenes from the Nativity."
+    },
+    {
       "id": "feed-1wvfg1z",
       "title": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
-      "publishedAt": "2026-11-03T01:24:24.000Z",
+      "publishedAt": "2026-11-03T02:23:54.000Z",
       "category": "uk",
       "summary": "Ruling was latest judicial rebuke of unprecedented efforts from Trump administration to intervene in elections process of multiple states Supreme court rules against Trump over bid to force California to set aside ballots Sign up for the Breaking News US email"
+    },
+    {
+      "id": "feed-3yqc3r",
+      "title": "RBA interest rates live: Reserve Bank of Australia meeting today before cash rate decision and announcement – latest news",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+      "publishedAt": "2026-11-03T02:12:10.000Z",
+      "category": "world",
+      "summary": "Reserve Bank is expected to raise interest rates to an 18-year high on Tuesday, the fifth hike this year Use our loan calculator to check how a rate rise may affect you Get our breaking news email , free app or daily news podcast How would your mortgage change"
+    },
+    {
+      "id": "feed-u9xzir",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+      "publishedAt": "2026-11-03T02:11:13.000Z",
+      "category": "uk",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+    },
+    {
+      "id": "feed-12yogmc",
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo",
+      "publishedAt": "2026-11-03T01:57:46.000Z",
+      "category": "world",
+      "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down."
+    },
+    {
+      "id": "feed-185xg2n",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+      "publishedAt": "2026-11-03T01:56:27.000Z",
+      "category": "world",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
+    },
+    {
+      "id": "feed-1w457f5",
+      "title": "British troops will be allowed to fire at Russian forces if attacked during multinational mission",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/british-troops-will-be-allowed-to-fire-back-at-russian-forces-if-attacked-in-mission-13607272",
+      "publishedAt": "2026-11-03T01:55:00.000Z",
+      "category": "uk",
+      "summary": "British troops will be allowed to fire back at Russian forces if attacked as part of a multinational mission to secure any future peace in Ukraine, Western officials have said."
+    },
+    {
+      "id": "feed-zg3onu",
+      "title": "‘Men know they won’t face consequences’: rise of street sex work in Tokyo is fuelling calls for change",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/03/tokyo-sex-industry-street-workers-on-rise",
+      "publishedAt": "2026-11-03T01:52:44.000Z",
+      "category": "uk",
+      "summary": "The boom in international tourism has fuelled a new phenomenon of women soliciting on the streets of Tokyo’s Kabukicho night-time district Kabukicho is not known as “sleepless town” for nothing. The bustling centre of Tokyo’s night-time economy is a magnet for"
     },
     {
       "id": "feed-1e8hqho",
@@ -144,8 +214,8 @@
       "summary": "Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night Get our breaking news email , free app or daily news podcast A man and boy have been arrested after a One Nation volunteer was allegedly attacked"
     },
     {
-      "id": "feed-ucb26v",
-      "title": "AI 'highly likely' to be used in attack on Britain's infrastructure",
+      "id": "feed-ats44x",
+      "title": "Prepare for cyber attacks or face empty shelves, businesses told",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/ai-highly-likely-to-be-used-in-attack-on-britains-infrastructure-ncsc-warns-13607264",
@@ -191,7 +261,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb",
       "publishedAt": "2026-11-03T00:30:57.000Z",
       "category": "world",
-      "summary": "Jones, a former radio broadcaster, has pleaded not guilty to 21 charges of indecent assault and sexual touching The Sydney Morning Herald’s chief investigative reporter, Kate McClymont, has told a Sydney court the alleged victims of Alan Jones she interviewed "
+      "summary": "Jones, a former radio broadcaster, has pleaded not guilty to 21 charges of indecent assault and sexual touching Get our breaking news email , free app or daily news podcast The Sydney Morning Herald’s chief investigative reporter, Kate McClymont, has told a Sy"
     },
     {
       "id": "feed-8nkms3",
@@ -454,16 +524,6 @@
       "summary": "Family of four, two close friends and nanny also died in crash as pilot identified as 55-year-old Jeff Gregory Family members on Monday identified a young Florida pilot as one of nine victims of a plane crash in Palm Beach county that occurred during a heavy t"
     },
     {
-      "id": "feed-185xg2n",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
-      "publishedAt": "2026-11-02T21:10:04.000Z",
-      "category": "world",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
-    },
-    {
       "id": "feed-1uxsb73",
       "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
       "source": "BBC News",
@@ -530,7 +590,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
       "publishedAt": "2026-11-02T20:00:27.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to "
     },
     {
@@ -581,7 +641,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
       "publishedAt": "2026-11-02T19:07:40.000Z",
       "category": "world",
-      "summary": "After a second apparent cyber-attack in as many weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , "
+      "summary": "After a second apparent cyber-attack in weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their th"
     },
     {
       "id": "feed-8f3l1o",
@@ -760,7 +820,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
       "publishedAt": "2026-11-02T17:14:23.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war. Brent crude, the international benchmark, droppe"
     },
     {
@@ -864,16 +924,6 @@
       "summary": "‘Giving Lara Croft pistols meant we could show off her acrobatics. And when she goes to Peru, we threw in a T rex!’ I joined Core Design in the summer of 1994 and met Toby Gard, who showed me his concept sketches for Tomb Raider. He’d already come up with the "
     },
     {
-      "id": "feed-nizk1t",
-      "title": "Man who stabbed 10 on train said 'I am the baddest', court hears",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/man-who-stabbed-10-people-on-train-said-i-am-the-baddest-court-hears-13607139",
-      "publishedAt": "2026-11-02T14:37:00.000Z",
-      "category": "uk",
-      "summary": "A man who stabbed 10 people on a train said \"I am the baddest, no-one is as bad as me\" as he paced up and down on a different train the day before, a court has heard."
-    },
-    {
       "id": "feed-10h9h50",
       "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
       "source": "BBC News",
@@ -934,16 +984,6 @@
       "summary": "Greenpeace says it has formed an underwater barrier with boulders in the North Sea to prevent \"destructive fishing\" in an area created to protect porpoises."
     },
     {
-      "id": "feed-yu8s24",
-      "title": "Former transport minister used phone while driving",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k0mj222p4o",
-      "publishedAt": "2026-11-02T13:26:40.000Z",
-      "category": "uk",
-      "summary": "The former Tory government transport minister says he \"deeply regrets\" his actions."
-    },
-    {
       "id": "feed-wqrkdj",
       "title": "Greenpeace activists create ‘boulder barrier’ in North Sea to deter industrial fishing",
       "source": "The Guardian",
@@ -952,16 +992,6 @@
       "publishedAt": "2026-11-02T13:10:08.000Z",
       "category": "business",
       "summary": "Action taken to prevent bottom trawling in the marine protected area and conserve porpoise populations Greenpeace activists have dropped boulders in the North Sea to snag the dragnets of industrial trawlers fishing in a marine protected area. Activists onboard"
-    },
-    {
-      "id": "feed-1hrbiws",
-      "title": "Man caught in car with £14k of drugs as a lamb ate chips in the back seat avoids jail",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmyrnwylwzo",
-      "publishedAt": "2026-11-02T13:05:15.000Z",
-      "category": "uk",
-      "summary": "Police officers found the animal in the back seat of John McNeil's car on the M74 in Glasgow."
     },
     {
       "id": "feed-1mf9m6a",
@@ -1112,16 +1142,6 @@
       "publishedAt": "2026-11-02T10:19:46.000Z",
       "category": "technology",
       "summary": "Exclusive: Gap between NHS claim and trusts’ comments described as ‘very misleading’ by senior health official More than two dozen hospital trusts the NHS claims have benefited from Palantir’s medical data platform are not using all or most of the AI-powered t"
-    },
-    {
-      "id": "feed-1m7icj0",
-      "title": "'Manipulated in our darkest hour': Family of Henry Nowak say police failed them",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/manipulated-in-our-darkest-hour-family-of-murdered-student-henry-nowak-say-police-failed-them-13606996",
-      "publishedAt": "2026-11-02T10:03:00.000Z",
-      "category": "uk",
-      "summary": "The family of murdered student Henry Nowak say they have been \"failed multiple times\" by the police response to the 18-year-old's death."
     },
     {
       "id": "feed-1u4p07d",
@@ -1454,23 +1474,13 @@
       "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November."
     },
     {
-      "id": "feed-1aixzot",
-      "title": "Judge dismisses Trump's Wall Street Journal lawsuit",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/judge-dismisses-trumps-wall-street-journal-lawsuit-13606496",
-      "publishedAt": "2026-10-31T21:17:00.000Z",
-      "category": "world",
-      "summary": "A US judge has dismissed President Donald Trump's lawsuit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein."
-    },
-    {
       "id": "feed-1adg8ng",
       "title": "Majority of funds stolen in cryptocurrency hack replenished, Binance says",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/majority-of-funds-stolen-in-cryptocurrency-hack-replenished-binance-says-13606152",
       "publishedAt": "2026-10-31T14:39:00.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Around 90% of stolen cryptocurrency assets following a hack on a major exchange has been replenished, according to Binance."
     },
     {
