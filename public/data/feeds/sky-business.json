@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T07:57:52.530Z",
+  "updatedAt": "2026-11-03T08:48:49.806Z",
   "feed": {
     "title": "Business News - Markets reports and financial news from Sky",
     "url": "https://feeds.skynews.com/feeds/rss/business.xml",
     "link": "https://news.sky.com/business"
   },
   "articles": [
+    {
+      "id": "feed-ats44x",
+      "title": "Prepare for cyber attacks or face empty shelves, businesses told",
+      "link": "https://news.sky.com/story/ai-highly-likely-to-be-used-in-attack-on-britains-infrastructure-ncsc-warns-13607264",
+      "source": "Sky News",
+      "publishedAt": "2026-11-03T01:00:00.000Z",
+      "summary": "Artificial intelligence is \"helping to industrialise cyber attacks\" and is \"highly likely\" to be used in attacks on Britain's critical national infrastructure by 2028, the National Cyber Security Centre (NCSC) has warned."
+    },
     {
       "id": "feed-kigmla",
       "title": "Water chiefs lash out at Ofwat governance reforms",
@@ -78,14 +86,6 @@
       "source": "Sky News",
       "publishedAt": "2026-10-30T10:10:00.000Z",
       "summary": "The Northern Irish company attempting to stage a solvent rescue of Poundland has told the discount retailer's administrator-in-waiting that it remains keen on a deal which could save more than 10,000 jobs."
-    },
-    {
-      "id": "feed-ccxz69",
-      "title": "BP profits hit 18-year high as another bank makes billions",
-      "link": "https://news.sky.com/story/bp-profits-hit-18-year-high-as-natwest-the-latest-bank-to-make-billions-13605666",
-      "source": "Sky News",
-      "publishedAt": "2026-10-30T07:39:00.000Z",
-      "summary": "Profits at the UK-based oil and gas giant BP have hit an 18-year high, surpassing the level seen during the 2022 energy crisis."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T07:57:52.531Z",
-  "generatedAt": "2026-11-03T07:57:52.531Z",
+  "updatedAt": "2026-11-03T08:48:49.809Z",
+  "generatedAt": "2026-11-03T08:48:49.809Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 8
+      "count": 10
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,134 @@
   ],
   "articles": [
     {
-      "id": "feed-15d7k63",
-      "title": "Australia's social media ban 'ill thought out', High Court told in legal challenge",
+      "id": "feed-8o3zfq",
+      "title": "Saudi state oil company reports jump in profits despite attacks; Australian central bank lifts rates – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/nov/03/saudi-oil-company-profits-australian-central-bank-rates-brent-crude-crypto-hack-energy-prices-latest-news-updates",
+      "publishedAt": "2026-11-03T08:40:12.000Z",
+      "category": "uk",
+      "summary": "Iran war reduces Aramco’s output but this has been offset by higher oil prices Virgin Media O2 is to cut thousands of UK jobs in an £800m cost-cutting drive as the telecommunications company aims to tackle its £22bn debt pile. VMO2, which is jointly owned by t"
+    },
+    {
+      "id": "feed-1jcey2z",
+      "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+      "publishedAt": "2026-11-03T08:39:02.000Z",
+      "category": "world",
+      "summary": "Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump’s second term Sign up for the Breaking News US email What are the races to watch and why do they matter? It’s Tuesday 3 November, "
+    },
+    {
+      "id": "feed-ztik3r",
+      "title": "Australia seeks to change visa deal with UK after influx of Britons",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/australia-seeks-to-change-visa-deal-uk",
+      "publishedAt": "2026-11-03T08:36:41.000Z",
+      "category": "world",
+      "summary": "Australia says easing of rules has led to surge in British visitor numbers, putting pressure on local workforce The Australian prime minister, Anthony Albanese, has told Andy Burnham he is looking at changing rules for British backpackers in Australia, after a"
+    },
+    {
+      "id": "feed-1e8hqho",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
+      "publishedAt": "2026-11-03T08:33:20.000Z",
+      "category": "world",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist."
+    },
+    {
+      "id": "feed-1dosqn7",
+      "title": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
+      "publishedAt": "2026-11-03T08:21:45.000Z",
+      "category": "world",
+      "summary": "Up to 25% of 16,000 workforce could go as telecoms group says it will increase use of AI in areas including customer service Business live – latest updates Virgin Media O2 is to cut thousands of jobs in an £800m cost-cutting drive as the telecommunications com"
+    },
+    {
+      "id": "feed-1klspux",
+      "title": "Henry Nowak ‘would have hated’ riots after his murder, says family",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/henry-nowak-would-have-hated-riots-after-his-murder-his-says-family",
+      "publishedAt": "2026-11-03T08:14:25.000Z",
+      "category": "uk",
+      "summary": "Parents of teenager stabbed in Southampton last year hit out at political ‘game’ played with son’s murder Henry Nowak’s family said he “would have hated” the riots that followed his death as they accused some politicians of playing a “game” with their son’s mu"
+    },
+    {
+      "id": "feed-141pita",
+      "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+      "publishedAt": "2026-11-03T08:13:46.000Z",
+      "category": "uk",
+      "summary": "Strikes on eve of US midterms reportedly target surface-to-air missiles being used against US assets The ⁠US launched limited strikes on ​Iran’s Qeshm Island late on Monday, hours after the vice-president, JD Vance, said he was optimistic that diplomatic effor"
+    },
+    {
+      "id": "feed-1if4lel",
+      "title": "John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt",
+      "publishedAt": "2026-11-03T08:12:44.000Z",
+      "category": "uk",
+      "summary": "Company tugs at heartstrings with Pickles the talking toy dog as it celebrates 20 years of blockbuster festive ads John Lewis has turned to a celebrity best known for playing aristocrats to put a playful but rather upmarket spin on the countdown to Christmas w"
+    },
+    {
+      "id": "feed-qlj1so",
+      "title": "Major Queensland hospital to close pathology labs amid potential formaldehyde exposure investigation",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/major-queensland-hospital-to-close-pathology-labs-amid-potential-formaldehyde-exposure-investigation",
+      "publishedAt": "2026-11-03T08:11:08.000Z",
+      "category": "world",
+      "summary": "About 400 staff affected by closure at both Mater’s Brisbane and Springfield hospitals, with financial sustainability of pathology business a factor Get our breaking news email , free app or daily news podcast In-house pathology services at one of Queensland’s"
+    },
+    {
+      "id": "feed-1eopn96",
+      "title": "Honouring the departed: All Souls’ Day observed in India and Bangladesh – in pictures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/society/gallery/2026/nov/03/honouring-the-departed-all-souls-day-observed-in-india-and-bangladesh-in-pictures",
+      "publishedAt": "2026-11-03T08:04:05.000Z",
+      "category": "uk",
+      "summary": "Devotees gather in Dhaka, Bangladesh, and across India to observe All Souls’ Day, dedicated to remembering and honouring the dead. The occasion brings together members of the Christian community to offer prayers for departed loved ones and reflect on life, dea"
+    },
+    {
+      "id": "feed-164t12t",
+      "title": "From the US midterms to the hard right in Britain, empathy has become a dirty word in politics | John Harris",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/us-midterms-hard-right-britain-empathy-politics",
+      "publishedAt": "2026-11-03T08:00:42.000Z",
+      "category": "uk",
+      "summary": "Around the world, virtues such as compassion and kindness are gathering dust, like old hymn books in a long-deserted church Towards the end of the summer, the Tory-Reform defector Robert Jenrick authored an op-ed piece for the Daily Telegraph about the seeming"
+    },
+    {
+      "id": "feed-1xife2y",
+      "title": "Law behind Bonfire Night among records sent from parliament to National Archives",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/law-behind-bonfire-night-among-records-sent-from-parliament-to-national-archives",
+      "publishedAt": "2026-11-03T08:00:41.000Z",
+      "category": "uk",
+      "summary": "Collection gems include 1605 Thanksgiving Act passed after Guy Fawkes’s failure and the longest act in the archives As Bonfire Night approaches and firework displays light up the UK, in a file on a shelf in the labyrinthine National Archives can be found a fla"
+    },
+    {
+      "id": "feed-srh3ty",
+      "title": "Major test for Australia's social media ban begins in High Court",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
       "publishedAt": "2026-11-03T07:53:38.000Z",
       "category": "world",
-      "summary": "Lawyers for Reddit and a digital rights group argued the world-leading policy robbed children of their right to free communication."
+      "summary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication."
     },
     {
       "id": "feed-u9xzir",
@@ -221,7 +341,7 @@
       "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
       "publishedAt": "2026-11-03T07:00:43.000Z",
       "category": "uk",
-      "summary": "Control of the Senate and House of Representatives, both currently held by the Republicans, is at stake Americans are heading to the polls today in US midterm elections widely seen as a referendum on Donald Trump’s second presidency and a chance for opponents "
+      "summary": "Control of the Senate and House of Representatives, both currently held by the Republicans, is at stake US midterm elections 2026: latest updates Americans are heading to the polls today in US midterm elections widely seen as a referendum on Donald Trump’s sec"
     },
     {
       "id": "feed-1e2igyu",
@@ -344,16 +464,6 @@
       "summary": "The pop star on new music, The Traitors, and what really went down at James Acaster's banishment."
     },
     {
-      "id": "feed-1kwsbfe",
-      "title": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
-      "publishedAt": "2026-11-03T06:29:19.000Z",
-      "category": "uk",
-      "summary": "Iranian state media reported the sound of explosions on the island in the strait of Hormuz, coming on the eve of crucial US midterms The ⁠US launched limited strikes on ​Iran’s Qeshm Island late on Monday, ⁠according to reports in US media, hours after vice-pr"
-    },
-    {
       "id": "feed-140uz45",
       "title": "AI data centres could undermine UK's emissions goals",
       "source": "BBC News",
@@ -362,26 +472,6 @@
       "publishedAt": "2026-11-03T06:27:17.000Z",
       "category": "science",
       "summary": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs."
-    },
-    {
-      "id": "feed-1e8hqho",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
-      "publishedAt": "2026-11-03T06:22:29.000Z",
-      "category": "world",
-      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist."
-    },
-    {
-      "id": "feed-oekway",
-      "title": "TV tonight: Aidan Gillen stars in a twisty Irish crime caper",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/03/tv-tonight-aidan-gillen-stars-in-a-twisty-irish-caper",
-      "publishedAt": "2026-11-03T06:15:39.000Z",
-      "category": "uk",
-      "summary": "A nurse with a drug habit is tempted by a gangster’s money in Tall Tales and Murder. Plus: an inside look at Burnham’s first 100 days. Here’s what to watch this evening 10.40pm, BBC One This breezy Irish crime caper is directed by Chris Addison and stars the e"
     },
     {
       "id": "feed-flsle2",
@@ -424,16 +514,6 @@
       "summary": "The family of Holly Newton, stabbed to death at 15, is told the law will change after their campaigning."
     },
     {
-      "id": "feed-gs9a4w",
-      "title": "Judge pauses Alan Jones indecent assault trial so former broadcaster can watch Melbourne Cup",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb",
-      "publishedAt": "2026-11-03T06:05:00.000Z",
-      "category": "world",
-      "summary": "Jones, a former radio broadcaster, has pleaded not guilty to 21 charges of indecent assault and sexual touching Get our breaking news email , free app or daily news podcast The evidence of a star reporter whose investigation led to charges against Alan Jones w"
-    },
-    {
       "id": "feed-1fbo0nc",
       "title": "Scientists detect signals at the smallest scale ever explored",
       "source": "BBC News",
@@ -444,54 +524,14 @@
       "summary": "Researchers have detected signals from the smallest distances ever probed."
     },
     {
-      "id": "feed-1c48vp0",
-      "title": "‘Our aim is that children are protected’: besieged West Bank school fortifies its defences against settler violence",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/03/our-aim-is-that-children-are-protected-besieged-west-bank-school-fortifies-its-defences-against-settler-violence",
-      "publishedAt": "2026-11-03T06:00:41.000Z",
-      "category": "uk",
-      "summary": "After deaths of five students at hands of Israeli settlers in last academic year, al-Mughayyir’s teachers and pupils are on high alert This year, parents in al-Mughayyir had to be persuaded to send their children back to school. Israeli settlers had killed fiv"
-    },
-    {
-      "id": "feed-r9buec",
-      "title": "Farm workers are falling sick in a Kenyan horticultural town. Were they poisoned by pesticides?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/03/farm-workers-falling-sick-kenya-horticultural-town-timau-pesticides",
-      "publishedAt": "2026-11-03T06:00:41.000Z",
-      "category": "uk",
-      "summary": "Timau’s industry has provided local Kenyans with an economic lifeline. But now, many believe it has made them seriously ill When Reuben Muriki fainted while doing a chore in the compound of his home near the horticultural town of Timau in central Kenya several"
-    },
-    {
-      "id": "feed-1tyakgd",
-      "title": "José Pizarro’s recipe for mussels with cider, chorizo and apple",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/food/2026/nov/03/mussels-cider-chorizo-apple-recipe-jose-pizarro",
-      "publishedAt": "2026-11-03T06:00:41.000Z",
-      "category": "uk",
-      "summary": "Northern Spain on a plate: mussels with cider, apple and chorizo Whenever I cook mussels, my mind goes straight to Galicia. Some of the best I’ve ever eaten have come from the waters around O Grove, a place I return to whenever I can, and one of my favourite r"
-    },
-    {
       "id": "feed-jd223t",
       "title": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search",
       "publishedAt": "2026-11-03T06:00:40.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedings A senior crown prosecutor acting in a high court case cited an imaginary legal precedent in an error that has sparked fresh concern"
-    },
-    {
-      "id": "feed-x3qwz1",
-      "title": "Widening inequality, stagnant pay – Britain urgently needs Labour’s hard-won workers’ rights | Polly Toynbee",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/inequality-stagnant-pay-britain-labour-workers-rights-british-social-attitudes-survey-kemi-badenoch",
-      "publishedAt": "2026-11-03T06:00:40.000Z",
-      "category": "uk",
-      "summary": "The British Social Attitudes survey reveals record levels of dissatisfaction. But still Kemi Badenoch and the business lobby want to take us backwards Britain is unhappier at work than since records began. The British Social Attitudes survey , the nation’s lon"
     },
     {
       "id": "feed-yukbte",
@@ -554,16 +594,6 @@
       "summary": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels."
     },
     {
-      "id": "feed-1fbx3au",
-      "title": "Peacock found in couple’s Brisbane bathroom leads to creative bid to reunite bird with tattoo artist",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/nov/03/hex-the-peacock-found-in-brisbane-bathroom",
-      "publishedAt": "2026-11-03T05:32:30.000Z",
-      "category": "world",
-      "summary": "Geoff and Delwyn Ballantyne went out for an evening coffee. When they returned they found Hex admiring himself in the mirror Get our breaking news email , free app or daily news podcast A peacock that seemingly fell hopelessly in love with himself in a bathroo"
-    },
-    {
       "id": "feed-10hlzon",
       "title": "The Papers: Mahmood's 'Duty of care' or 'climbdown' and 'The new cold war'",
       "source": "BBC News",
@@ -582,6 +612,16 @@
       "publishedAt": "2026-11-03T05:00:43.000Z",
       "category": "world",
       "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him."
+    },
+    {
+      "id": "feed-ti8rrq",
+      "title": "How a scientist went from hero to traitor in a US water crisis – podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/audio/2026/nov/03/us-flint-water-crisis-dr-siddhartha-roy-podcast",
+      "publishedAt": "2026-11-03T05:00:40.000Z",
+      "category": "science",
+      "summary": "When the water in Flint, Michigan, became contaminated with dangerous levels of lead, Dr Siddhartha Roy, then a third year PhD student, was part of the team of scientists who publicly contradicted state and federal claims that it was safe. He became a local he"
     },
     {
       "id": "feed-dh6vy6",
@@ -704,16 +744,6 @@
       "summary": "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated."
     },
     {
-      "id": "feed-379dm7",
-      "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-      "publishedAt": "2026-11-03T01:13:52.000Z",
-      "category": "world",
-      "summary": "Ukrainian president Zelenskyy says attack on aid hub was ‘vile’ and shows Russia does not want to de-escalate Russia on Monday bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 26 ​people, Ukrainian president Volo"
-    },
-    {
       "id": "feed-ats44x",
       "title": "Prepare for cyber attacks or face empty shelves, businesses told",
       "source": "Sky News",
@@ -722,16 +752,6 @@
       "publishedAt": "2026-11-03T01:00:00.000Z",
       "category": "uk",
       "summary": "Artificial intelligence is \"helping to industrialise cyber attacks\" and is \"highly likely\" to be used in attacks on Britain's critical national infrastructure by 2028, the National Cyber Security Centre (NCSC) has warned."
-    },
-    {
-      "id": "feed-1ivrsrg",
-      "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
-      "publishedAt": "2026-11-03T00:50:37.000Z",
-      "category": "world",
-      "summary": "Justice department had ordered state to segregate and not count 20,000 ballots from people it claims are non-citizens US midterms – live updates The supreme court on Monday ruled against the Trump administration and its attempts to force California election of"
     },
     {
       "id": "feed-1d6vv4f",
@@ -780,18 +800,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
       "publishedAt": "2026-11-03T00:01:32.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals AI-powered malicious software is “highly likely” to be used in hacking attacks against the UK’s power stations, airports and hospitals by 2028,"
-    },
-    {
-      "id": "feed-1if4lel",
-      "title": "John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt",
-      "publishedAt": "2026-11-03T00:01:32.000Z",
-      "category": "business",
-      "summary": "Company tugs at heartstrings with Pickles the talking toy dog as it celebrates 20 years of blockbuster festive ads John Lewis has turned to a celebrity best known for playing aristocrats to put a playful but rather upmarket spin on the countdown to Christmas w"
     },
     {
       "id": "feed-cr5tih",
@@ -810,7 +820,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
       "publishedAt": "2026-11-02T23:07:49.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "Result for the company, which earned $30.71bn and exceeded analysts’ expectations, bucked downward trend for tech firms Apple Inc posted stronger-than-expected revenue in the fiscal third quarter, giving John Ternus, the new CEO, an upbeat start to his tenure,"
     },
     {
@@ -1054,6 +1064,16 @@
       "summary": "‘Giving Lara Croft pistols meant we could show off her acrobatics. And when she goes to Peru, we threw in a T rex!’ I joined Core Design in the summer of 1994 and met Toby Gard, who showed me his concept sketches for Tomb Raider. He’d already come up with the "
     },
     {
+      "id": "feed-nizk1t",
+      "title": "Man who stabbed 10 on train said 'I am the baddest', court hears",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/man-who-stabbed-10-people-on-train-said-i-am-the-baddest-court-hears-13607139",
+      "publishedAt": "2026-11-02T14:37:00.000Z",
+      "category": "uk",
+      "summary": "A man who stabbed 10 people on a train said \"I am the baddest, no-one is as bad as me\" as he paced up and down on a different train the day before, a court has heard."
+    },
+    {
       "id": "feed-1h2ja8u",
       "title": "Chinese cigarettes and Bolivian beer: the Amazonian town transformed by a rampant mining boom",
       "source": "The Guardian",
@@ -1214,6 +1234,16 @@
       "summary": "Exclusive: Gap between NHS claim and trusts’ comments described as ‘very misleading’ by senior health official More than two dozen hospital trusts the NHS claims have benefited from Palantir’s medical data platform are not using all or most of the AI-powered t"
     },
     {
+      "id": "feed-1m7icj0",
+      "title": "'Manipulated in our darkest hour': Family of Henry Nowak say police failed them",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/manipulated-in-our-darkest-hour-family-of-murdered-student-henry-nowak-say-police-failed-them-13606996",
+      "publishedAt": "2026-11-02T10:03:00.000Z",
+      "category": "uk",
+      "summary": "The family of murdered student Henry Nowak say they have been \"failed multiple times\" by the police response to the 18-year-old's death."
+    },
+    {
       "id": "feed-1u4p07d",
       "title": "It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer",
       "source": "The Guardian",
@@ -1332,6 +1362,16 @@
       "publishedAt": "2026-11-01T18:53:25.000Z",
       "category": "technology",
       "summary": "Cryptocurrency exchange has begun to allow withdrawals after theft believed to have come from North Korea Investors have pulled $3.6bn (£2.7bn) in funds from the cryptocurrency exchange Binance as it recovers from a record hack in which billions were stolen fr"
+    },
+    {
+      "id": "feed-1md66xg",
+      "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+      "publishedAt": "2026-11-01T18:37:42.000Z",
+      "category": "technology",
+      "summary": "New electricity generating capacity would enable north-east to attract investment for large-scale AI infrastructure National Grid has taken a step towards building Britain’s biggest electricity substation on Teesside, which could supply power to a vast neighbo"
     },
     {
       "id": "feed-92ko5c",
@@ -1524,16 +1564,6 @@
       "summary": "A man has died following an attack at a centre housing migrants in Ireland."
     },
     {
-      "id": "feed-c1kydz",
-      "title": "Is AI your new wingman? How chatbots are transforming dating",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
-      "publishedAt": "2026-10-31T12:00:42.000Z",
-      "category": "technology",
-      "summary": "Almost 40% of British singles have used AI for romantic advice, from writing messages to assessing potential partners After Sam’s ex joked that her sister found him ugly, he turned to AI. Google Gemini had a look at the photo and politely disagreed. AI has bee"
-    },
-    {
       "id": "feed-ozfsm6",
       "title": "From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe",
       "source": "The Guardian",
@@ -1582,16 +1612,6 @@
       "publishedAt": "2026-10-30T20:34:46.000Z",
       "category": "technology",
       "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
-    },
-    {
-      "id": "feed-q0yu4s",
-      "title": "I read Anthropic's 92-page risk factor document, so you don't have to – video explainer",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer",
-      "publishedAt": "2026-10-30T19:57:13.000Z",
-      "category": "technology",
-      "summary": "Anthropic, the creator of Claude, filed to go public on the US stock market on 26 October. The company's filing statement contains a 92-page risk factor document in which it acknowledges the dangers that AI poses to society and human beings, and factors that c"
     },
     {
       "id": "feed-1awym3e",
@@ -1714,16 +1734,6 @@
       "summary": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade."
     },
     {
-      "id": "feed-ccxz69",
-      "title": "BP profits hit 18-year high as another bank makes billions",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/bp-profits-hit-18-year-high-as-natwest-the-latest-bank-to-make-billions-13605666",
-      "publishedAt": "2026-10-30T07:39:00.000Z",
-      "category": "business",
-      "summary": "Profits at the UK-based oil and gas giant BP have hit an 18-year high, surpassing the level seen during the 2022 energy crisis."
-    },
-    {
       "id": "feed-prp3yg",
       "title": "Crypto industry suffers 'largest bank heist in human history'",
       "source": "Sky News",
@@ -1732,16 +1742,6 @@
       "publishedAt": "2026-10-29T23:40:00.000Z",
       "category": "technology",
       "summary": "Cryptocurrency worth more than $6.3bn (£4.7bn) has been stolen from a major exchange - with one industry insider telling Sky News it is \"the largest bank heist in human history\"."
-    },
-    {
-      "id": "feed-1n95sjn",
-      "title": "Migrating seabirds face a surprising problem: jet lag",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
-      "publishedAt": "2026-10-29T18:00:27.000Z",
-      "category": "science",
-      "summary": "Oxford study shows Manx shearwaters get lost when their body clocks get out of sync Seabirds returning from foraging trips can be thrown hundreds of miles off course by a form of jet lag that arises when their body clocks get out of sync with local time, resea"
     },
     {
       "id": "feed-q4pca",
@@ -1772,16 +1772,6 @@
       "publishedAt": "2026-10-29T11:00:30.000Z",
       "category": "technology",
       "summary": "Liquid Static Studio; PC You take on the role of flight attendant in this clever and absorbing retro-style game that veers from daft horror spoof to genuinely disturbing There was always something creepy about the job-simulator genre. All those mindless automa"
-    },
-    {
-      "id": "feed-172wgnw",
-      "title": "Astronauts step out of the ISS for spacewalk – watch live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
-      "publishedAt": "2026-10-29T10:37:14.000Z",
-      "category": "science",
-      "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading..."
     },
     {
       "id": "feed-1129r22",
@@ -1842,6 +1832,16 @@
       "publishedAt": "2026-10-28T08:00:01.000Z",
       "category": "science",
       "summary": "Experts say symptoms such as dark circles under the eyes, grey skin, cracked lips and hair loss can be a warning sign – but there are other factors too TikTok is rife with influencers warning of “ferritin face”, a term they use to describe the pallor, dark cir"
+    },
+    {
+      "id": "feed-1htpqly",
+      "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
+      "publishedAt": "2026-10-27T21:40:13.000Z",
+      "category": "science",
+      "summary": "Sale makes ‘Jodi’, a smaller relative of T rex, the ‘second most valuable dinosaur ever sold at auction’, Sotheby’s says A rare skeleton of a Nanotyrannus, a smaller relative of the Tyrannosaurus rex, sold at auction in New York this week for $47.3m, making it"
     },
     {
       "id": "feed-19p3gr8",
