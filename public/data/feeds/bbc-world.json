@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T11:38:11.187Z",
+  "updatedAt": "2026-11-03T12:42:01.434Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1fp341x",
+      "title": "US urges Venezuela to release remaining political prisoners",
+      "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T12:09:20.000Z",
+      "summary": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'."
+    },
+    {
+      "id": "feed-9x30uv",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T11:51:08.000Z",
+      "summary": "The two aircraft crashed just metres from the ground after trying to land at the same spot."
+    },
     {
       "id": "feed-16zc69v",
       "title": "US strikes Iranian island ahead of midterm elections",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-02T19:49:22.000Z",
       "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities."
-    },
-    {
-      "id": "feed-1fym737",
-      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T18:25:01.000Z",
-      "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges."
-    },
-    {
-      "id": "feed-znc1b1",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-02T17:38:11.000Z",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
     }
   ]
 }
