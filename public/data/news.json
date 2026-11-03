@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T08:48:49.809Z",
-  "generatedAt": "2026-11-03T08:48:49.809Z",
+  "updatedAt": "2026-11-03T09:42:50.348Z",
+  "generatedAt": "2026-11-03T09:42:50.348Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,64 @@
   ],
   "articles": [
     {
-      "id": "feed-8o3zfq",
-      "title": "Saudi state oil company reports jump in profits despite attacks; Australian central bank lifts rates – business live",
+      "id": "feed-1uqiqk2",
+      "title": "Mahmood refuses to detail cost of revised settlement plans",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo",
+      "publishedAt": "2026-11-03T09:31:25.000Z",
+      "category": "uk",
+      "summary": "The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future."
+    },
+    {
+      "id": "feed-yglp2i",
+      "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro",
+      "publishedAt": "2026-11-03T09:29:32.000Z",
+      "category": "world",
+      "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him."
+    },
+    {
+      "id": "feed-1dosqn7",
+      "title": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
+      "publishedAt": "2026-11-03T09:29:11.000Z",
+      "category": "world",
+      "summary": "Up to 25% of 16,000 workforce could go as telecoms group says it will increase use of AI in areas including customer service Business live – latest updates Virgin Media O2 is to cut thousands of jobs in an £800m cost-cutting drive as the telecommunications com"
+    },
+    {
+      "id": "feed-1u0r7vh",
+      "title": "Primark to launch home service ‘by end of 2027’; Saudi state oil company reports jump in profits despite attacks – business live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/live/2026/nov/03/saudi-oil-company-profits-australian-central-bank-rates-brent-crude-crypto-hack-energy-prices-latest-news-updates",
-      "publishedAt": "2026-11-03T08:40:12.000Z",
+      "publishedAt": "2026-11-03T09:25:20.000Z",
       "category": "uk",
-      "summary": "Iran war reduces Aramco’s output but this has been offset by higher oil prices Virgin Media O2 is to cut thousands of UK jobs in an £800m cost-cutting drive as the telecommunications company aims to tackle its £22bn debt pile. VMO2, which is jointly owned by t"
+      "summary": "Primark home delivery service to come before the chain is spun off from Associated British Foods; stock markets fall as oil prices rise again Garry White , chief investment commentator at the US investment bank Raymond James , said that Primark will need a dis"
+    },
+    {
+      "id": "feed-1pm1bjs",
+      "title": "‘Mogging’ crowned Collins word of the year",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/mogging-crowned-collins-word-of-the-year",
+      "publishedAt": "2026-11-03T09:25:09.000Z",
+      "category": "uk",
+      "summary": "Bodybuilding slang referring to making someone else look inferior was among entries concerning AI and climate crisis Mogging – meaning to outperform or outshine someone or something – has been named Collins’s word of the year 2026. Announcing the winner in an "
+    },
+    {
+      "id": "feed-31k6aq",
+      "title": "The 2026 John Lewis Christmas advert is here – and it’s Kristin Scott Thomas v Pickles the evil AI overlord puppy!",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/03/john-lewis-christmas-advert-2026-kristin-scott-thomas-pickles-ai-dog",
+      "publishedAt": "2026-11-03T09:21:33.000Z",
+      "category": "uk",
+      "summary": "This year’s festive special looks forward to the time when chatbots reign supreme and humans prepare to be stamped out for ever. What a treat! The John Lewis Christmas advert no longer lands with the same thud as old. Once it prompted full media saturation and"
     },
     {
       "id": "feed-1jcey2z",
@@ -119,9 +169,139 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-      "publishedAt": "2026-11-03T08:39:02.000Z",
+      "publishedAt": "2026-11-03T09:19:56.000Z",
       "category": "world",
-      "summary": "Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump’s second term Sign up for the Breaking News US email What are the races to watch and why do they matter? It’s Tuesday 3 November, "
+      "summary": "Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump’s second term Sign up for the Breaking News US email What are the races to watch and why do they matter? The US Congress has two c"
+    },
+    {
+      "id": "feed-11dhemm",
+      "title": "Deal finalised to remove Brexit checks on food and animal products",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
+      "publishedAt": "2026-11-03T09:19:21.000Z",
+      "category": "uk",
+      "summary": "Agreement to ease rules on food imports and exports is now expected to come into force in first quarter of 2028 UK politics live – latest updates The EU and the UK have completed their deal to remove Brexit checks on imports and exports of food and animal prod"
+    },
+    {
+      "id": "feed-u9xzir",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+      "publishedAt": "2026-11-03T09:14:07.000Z",
+      "category": "uk",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+    },
+    {
+      "id": "feed-120xkdg",
+      "title": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
+      "publishedAt": "2026-11-03T09:13:33.000Z",
+      "category": "uk",
+      "summary": "Forward had cardiac arrest and was taken to hospital He was struck in the chest when challenging for ball The Tenerife forward Jesús de Miguel has died as a result of injuries sustained in a collision with the Andorra goalkeeper Jesús Owono in their second div"
+    },
+    {
+      "id": "feed-xgxcvu",
+      "title": "Burnham says he has not proposed return to EU freedom of movement – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
+      "publishedAt": "2026-11-03T09:11:17.000Z",
+      "category": "world",
+      "summary": "The prime minister wants an ‘honest discussion’ about how immigration has changed since Brexit Good morning. In a Today programme interview broadcast this morning at 8.10am, Shabana Mahmood , the home secretary, ended by saying this about her plans to tighten "
+    },
+    {
+      "id": "feed-7amfwv",
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo",
+      "publishedAt": "2026-11-03T09:09:18.000Z",
+      "category": "world",
+      "summary": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match."
+    },
+    {
+      "id": "feed-j8ezwa",
+      "title": "Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+      "publishedAt": "2026-11-03T09:08:12.000Z",
+      "category": "world",
+      "summary": "Merz said the German push to increase defence spending was triggered by Zelenskyy and Trump’s meeting last year Before arriving in Berlin, Ukraine’s Zelenskyy condemned Russia’s overnight attacks on critical infrastructure across the country, which he said wer"
+    },
+    {
+      "id": "feed-13ta2c",
+      "title": "DUP leader 'very sorry' Carla Lockhart has quit the party",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw8j7x4zzo",
+      "publishedAt": "2026-11-03T09:04:42.000Z",
+      "category": "uk",
+      "summary": "Gavin Robinson said the party and the Upper Bann MP agreed on the sentiment but not the strategy of sanctioning Sinn Féin."
+    },
+    {
+      "id": "feed-1wiwipf",
+      "title": "West Ham sack Nuno Espírito Santo as head coach with club eighth in Championship",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
+      "publishedAt": "2026-11-03T09:02:06.000Z",
+      "category": "uk",
+      "summary": "West Ham intent on instant return to Premier League Nuno took over from Graham Potter in September 2025 West Ham have sacked Nuno Espírito Santo after a disappointing run of form. The club kept faith with the head coach after last season’s relegation from the "
+    },
+    {
+      "id": "feed-sbftg2",
+      "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+      "publishedAt": "2026-11-03T09:01:19.000Z",
+      "category": "uk",
+      "summary": "iPhone maker’s says decision to raise prices has offset some of impact, as revenues are stronger than expected Business live – latest updates Apple has warned of an “unprecedented” rise in memory chip prices, as it battles with datacentres to lay its hands on "
+    },
+    {
+      "id": "feed-18y9okq",
+      "title": "Citizen Kim by Jonathan Van Meter review – Kardashian under the microscope",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/books/2026/nov/03/citizen-kim-by-jonathan-van-meter-review-kardashian-under-the-microscope",
+      "publishedAt": "2026-11-03T09:00:43.000Z",
+      "category": "uk",
+      "summary": "The author gets a backstage pass to the personal life of the world’s most famous woman – but what do we really learn? The magazine writer Jonathan Van Meter profiles very famous people for extremely glossy publications. He was responsible for the notorious 199"
+    },
+    {
+      "id": "feed-1n6o9f3",
+      "title": "Manipulation review – preposterous Da Vinci Code-esque thriller like being trapped in a Ferrero Rocher ad",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/nov/03/manipulation-review-preposterous-da-vinci-code-thriller-david-balda",
+      "publishedAt": "2026-11-03T09:00:43.000Z",
+      "category": "uk",
+      "summary": "Conspiracies and espionage abound as a secret society’s young initiate is sent to infiltrate the Catholic church for inexplicable reasons. Who knows what’s going on? With its candle-lit occult settings and ersatz Europudding of performers all speaking English,"
+    },
+    {
+      "id": "feed-1buk34d",
+      "title": "Poundland owner Gordon Brothers defends ownership record",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/poundland-owner-gordon-brothers-defends-ownership-record-13607399",
+      "publishedAt": "2026-11-03T09:00:00.000Z",
+      "category": "business",
+      "summary": "Poundland's controlling shareholder has told the government it stands by its stewardship record even as it faces mounting pressure over the crisis which has left the discount retailer on the brink of administration."
+    },
+    {
+      "id": "feed-1trtsy3",
+      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o",
+      "publishedAt": "2026-11-03T08:57:20.000Z",
+      "category": "science",
+      "summary": "A watchdog has criticised the lack of progress made by organisations in tackling climate change."
     },
     {
       "id": "feed-ztik3r",
@@ -131,7 +311,7 @@
       "url": "https://www.theguardian.com/uk-news/2026/nov/03/australia-seeks-to-change-visa-deal-uk",
       "publishedAt": "2026-11-03T08:36:41.000Z",
       "category": "world",
-      "summary": "Australia says easing of rules has led to surge in British visitor numbers, putting pressure on local workforce The Australian prime minister, Anthony Albanese, has told Andy Burnham he is looking at changing rules for British backpackers in Australia, after a"
+      "summary": "Australia says easing of rules has led to surge in British visitor numbers, putting pressure on local workforce UK politics live – latest updates The Australian prime minister, Anthony Albanese, has told Andy Burnham he is looking at changing rules for British"
     },
     {
       "id": "feed-1e8hqho",
@@ -142,16 +322,6 @@
       "publishedAt": "2026-11-03T08:33:20.000Z",
       "category": "world",
       "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist."
-    },
-    {
-      "id": "feed-1dosqn7",
-      "title": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
-      "publishedAt": "2026-11-03T08:21:45.000Z",
-      "category": "world",
-      "summary": "Up to 25% of 16,000 workforce could go as telecoms group says it will increase use of AI in areas including customer service Business live – latest updates Virgin Media O2 is to cut thousands of jobs in an £800m cost-cutting drive as the telecommunications com"
     },
     {
       "id": "feed-1klspux",
@@ -232,16 +402,6 @@
       "publishedAt": "2026-11-03T07:53:38.000Z",
       "category": "world",
       "summary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication."
-    },
-    {
-      "id": "feed-u9xzir",
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-      "publishedAt": "2026-11-03T07:53:03.000Z",
-      "category": "uk",
-      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
     },
     {
       "id": "feed-1o5hdgo",
@@ -344,84 +504,14 @@
       "summary": "Control of the Senate and House of Representatives, both currently held by the Republicans, is at stake US midterm elections 2026: latest updates Americans are heading to the polls today in US midterm elections widely seen as a referendum on Donald Trump’s sec"
     },
     {
-      "id": "feed-1e2igyu",
-      "title": "Lords of Serendipity by Randy Boyagoda review – a campus satire for this moment of crisis",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/books/2026/nov/03/lords-of-serendipity-by-randy-boyagoda-review-a-campus-satire-for-this-moment-of-crisis",
-      "publishedAt": "2026-11-03T07:00:43.000Z",
-      "category": "uk",
-      "summary": "This propulsive, globe-trotting tale brilliantly skewers the corruption and corporatisation of higher education It’s no secret that academia is on the blink; Canadian author Randy Boyagoda’s new novel, which is equal parts satire, dystopia and exposé, tells th"
-    },
-    {
       "id": "feed-15nk3pg",
       "title": "Poundland staff could be out of work for years if retailer collapses, founder says",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/03/poundland-staff-out-of-work-for-years-warning-founder",
       "publishedAt": "2026-11-03T07:00:42.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Steve Smith calls on owners to accept proposed buyout as 12,000 staff face uncertain future in run-up to Christmas The founder of Poundland has warned that staff at the retailer could be out of work for “years” if it collapses, as he called on the owners of th"
-    },
-    {
-      "id": "feed-1xiq8u",
-      "title": "New Group review – schoolkids build human pyramids in bizarre Japanese horror-satire on conformity",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/nov/03/new-group-review-schoolkids-build-human-pyramids-in-bizarre-japanese-horror-satire-on-conformity",
-      "publishedAt": "2026-11-03T07:00:42.000Z",
-      "category": "uk",
-      "summary": "Two outsider students at a super-strict high school find they are definitely not with the programme in Yûta Shimotsu’s body-bending sci-fi scarer Here is an intermittently amusing Japanese social satire about conformity directed by Yûta Shimotsu; it has flashe"
-    },
-    {
-      "id": "feed-5dd6di",
-      "title": "‘This is direct’: positive early feedback from pilot community mental health hub in Cumbria",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/2026/nov/03/early-feedback-pilot-community-mental-health-hub-cumbria-whitehaven",
-      "publishedAt": "2026-11-03T07:00:41.000Z",
-      "category": "uk",
-      "summary": "Hope Haven in Whitehaven is one of six trial open-access, 24/7 schemes in England offering preventive care The night Tamara first walked through the doors of Hope Haven, a new community mental health hub in the heart of Whitehaven, she was afraid. “Terrified, "
-    },
-    {
-      "id": "feed-1gxkv2e",
-      "title": "A perfect weekend in the Darent valley, Kent: a ‘demi-paradise’ of art, lavender fields and great pubs",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/travel/2026/nov/03/perfect-weekend-darent-valley-kent-demi-paradise-great-pubs",
-      "publishedAt": "2026-11-03T07:00:41.000Z",
-      "category": "uk",
-      "summary": "Just an hour from London, this idyllic area, beloved by painters and poets, is brimming with history, beautiful walks and fab places to eat and drink In the 1820s, a young painter left London to live in Shoreham in the west of Kent. In his waterside cottage, S"
-    },
-    {
-      "id": "feed-1cahonk",
-      "title": "Send in the clowns! Dreamlike images – in pictures",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/03/send-in-the-clowns-dreamlike-images-in-pictures-nicolas-rachline-elsebound",
-      "publishedAt": "2026-11-03T07:00:41.000Z",
-      "category": "uk",
-      "summary": "Nicolas Rachline’s stunning book Elsebound is full of painterly photographs inspired by Edward Hopper and Blade Runner. He explains his uniquely haunting style Continue reading..."
-    },
-    {
-      "id": "feed-1dh382e",
-      "title": "UK MPs could undergo criminal record checks to stop violence against women",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/2026/nov/03/uk-mps-criminal-record-checks-violence-against-women",
-      "publishedAt": "2026-11-03T07:00:40.000Z",
-      "category": "uk",
-      "summary": "Exclusive: Members may be vetted before getting security passes for parliament, and receive anti-harassment training MPs and others working in parliament could be required to take a criminal record check before being given a security pass, and receive anti-har"
-    },
-    {
-      "id": "feed-1njcjxc",
-      "title": "The pest I’ll never forget: the cats who filled our house with live mice",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/03/the-pest-i-ll-never-forget-cats-filled-house-with-live-mice",
-      "publishedAt": "2026-11-03T06:55:40.000Z",
-      "category": "uk",
-      "summary": "Our house was a mouse-free zone until our new kittens began venturing into the nearby woods in search of prey and playthings This is a cat-and-mouse story in which the cats are the real pests. My old house, despite being next to rodent-filled woods, was blissf"
     },
     {
       "id": "feed-1w1zkml",
@@ -604,16 +694,6 @@
       "summary": "Home Secretary Shabana Mahmood's revision of settlement plans for migrant care workers features prominently in Tuesday's papers."
     },
     {
-      "id": "feed-yglp2i",
-      "title": "Americans head to the polls for elections that could define Trump's closing chapter",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro",
-      "publishedAt": "2026-11-03T05:00:43.000Z",
-      "category": "world",
-      "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him."
-    },
-    {
       "id": "feed-ti8rrq",
       "title": "How a scientist went from hero to traitor in a US water crisis – podcast",
       "source": "The Guardian",
@@ -644,18 +724,8 @@
       "summary": "Digbeth is the city’s most thriving party district, but railway upgrades could tear it apart. Here, clubbers explain why they are doing everything to stop that happening House beats ring out through the open air while a heaving crowd of young partygoers dance."
     },
     {
-      "id": "feed-bclhmv",
-      "title": "Mahmood scraps settlement plans for migrant care workers",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o",
-      "publishedAt": "2026-11-03T04:28:37.000Z",
-      "category": "uk",
-      "summary": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency."
-    },
-    {
-      "id": "feed-126l81k",
-      "title": "US strikes Iran ahead of midterm elections",
+      "id": "feed-16zc69v",
+      "title": "US strikes Iranian island ahead of midterm elections",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
@@ -674,26 +744,6 @@
       "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
     },
     {
-      "id": "feed-19vz8j3",
-      "title": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
-      "publishedAt": "2026-11-03T03:24:51.000Z",
-      "category": "world",
-      "summary": "This live blog is now closed. Supreme court rules against Trump over bid to force California to set aside ballots Sign up for the Breaking News US email The latest and final New York Times and Siena College poll before the midterm elections also shows Abdul El"
-    },
-    {
-      "id": "feed-1qxk3jq",
-      "title": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/tennessee-shooting-tyrin-johnson-video",
-      "publishedAt": "2026-11-03T03:13:06.000Z",
-      "category": "world",
-      "summary": "Footage from prosecutors shows aftermath of shooting of Tyrin Johnson, 20, shot and killed by national guard in July Tennessee national guard troops in Memphis last summer trained their handguns on a man as he lay dying on a sidewalk after a guard member shot "
-    },
-    {
       "id": "feed-1vtipra",
       "title": "US carries out 'limited strikes' on Qeshm Island in Iran",
       "source": "Sky News",
@@ -702,6 +752,16 @@
       "publishedAt": "2026-11-03T03:02:00.000Z",
       "category": "world",
       "summary": "The US military has carried out \"limited strikes\" on Qeshm Island in Iran - hours before the midterms are due to take place."
+    },
+    {
+      "id": "feed-1dijc5s",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo",
+      "publishedAt": "2026-11-03T03:00:36.000Z",
+      "category": "world",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury."
     },
     {
       "id": "feed-gturac",
@@ -754,8 +814,8 @@
       "summary": "Artificial intelligence is \"helping to industrialise cyber attacks\" and is \"highly likely\" to be used in attacks on Britain's critical national infrastructure by 2028, the National Cyber Security Centre (NCSC) has warned."
     },
     {
-      "id": "feed-1d6vv4f",
-      "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
+      "id": "feed-1pges9y",
+      "title": "PM plans debt reset for Commonwealth nations as slavery apology talks begin",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo",
@@ -814,16 +874,6 @@
       "summary": "He needs a dialysis machine to survive, but on a flight it was first damaged, then it was lost My father suffers from terminal renal failure and relies on a highly specific dialysis machine every night to survive. British Airways’ check-in staff twice insisted"
     },
     {
-      "id": "feed-q4ls3a",
-      "title": "Apple posts stronger-than-expected revenue in first earnings report for new CEO John Ternus",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
-      "publishedAt": "2026-11-02T23:07:49.000Z",
-      "category": "technology",
-      "summary": "Result for the company, which earned $30.71bn and exceeded analysts’ expectations, bucked downward trend for tech firms Apple Inc posted stronger-than-expected revenue in the fiscal third quarter, giving John Ternus, the new CEO, an upbeat start to his tenure,"
-    },
-    {
       "id": "feed-vu42xz",
       "title": "Indonesia's toxic haze is giving its neighbours a political headache",
       "source": "BBC News",
@@ -842,6 +892,16 @@
       "publishedAt": "2026-11-02T22:30:00.000Z",
       "category": "uk",
       "summary": "The prime minister has said the UK will play a leading role reshaping the Commonwealth, including pursuing a debt \"reset\" to help nations struggling with higher borrowing costs."
+    },
+    {
+      "id": "feed-1lfdvjs",
+      "title": "Business Daily",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8grr",
+      "publishedAt": "2026-11-02T21:30:00.000Z",
+      "category": "business",
+      "summary": "We trace the gold supply chain from a mine to a Delhi jeweller"
     },
     {
       "id": "feed-1uxsb73",
@@ -954,16 +1014,6 @@
       "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges."
     },
     {
-      "id": "feed-1l4xrsa",
-      "title": "MP Carla Lockhart quits DUP in Drumcree row",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm87zn1vy28zo",
-      "publishedAt": "2026-11-02T18:17:31.000Z",
-      "category": "uk",
-      "summary": "Lockhart had called for the DUP to remove First Minister Michelle O'Neill from office."
-    },
-    {
       "id": "feed-1fwrjbx",
       "title": "Trans row nurse Sandie Peggie loses discrimination case against union",
       "source": "Sky News",
@@ -980,7 +1030,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
       "publishedAt": "2026-11-02T17:38:11.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
     },
     {
@@ -990,7 +1040,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro",
       "publishedAt": "2026-11-02T17:34:58.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack."
     },
     {
@@ -1494,16 +1544,6 @@
       "summary": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work."
     },
     {
-      "id": "feed-u1ve0d",
-      "title": "The King to speak about slavery with 'unflinching honesty'",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/the-king-to-speak-about-slavery-with-unflinching-honesty-13606556",
-      "publishedAt": "2026-11-01T03:07:00.000Z",
-      "category": "world",
-      "summary": "The King will speak about slavery with \"unflinching honesty\" and \"sincere sorrow\" in a speech to Commonwealth leaders amid increasing pressure for Britain to offer an apology over its role in the transatlantic slave trade."
-    },
-    {
       "id": "feed-5inmy",
       "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
       "source": "BBC News",
@@ -1514,16 +1554,6 @@
       "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds."
     },
     {
-      "id": "feed-1daz5tx",
-      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo",
-      "publishedAt": "2026-11-01T00:17:05.000Z",
-      "category": "business",
-      "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November."
-    },
-    {
       "id": "feed-1adg8ng",
       "title": "Majority of funds stolen in cryptocurrency hack replenished, Binance says",
       "source": "Sky News",
@@ -1532,16 +1562,6 @@
       "publishedAt": "2026-10-31T14:39:00.000Z",
       "category": "technology",
       "summary": "Around 90% of stolen cryptocurrency assets following a hack on a major exchange has been replenished, according to Binance."
-    },
-    {
-      "id": "feed-6fnv9s",
-      "title": "Bute House protested by environmental campaigners",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o",
-      "publishedAt": "2026-10-31T13:41:07.000Z",
-      "category": "science",
-      "summary": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh."
     },
     {
       "id": "feed-6yfmk7",
@@ -1702,16 +1722,6 @@
       "publishedAt": "2026-10-30T10:30:51.000Z",
       "category": "technology",
       "summary": "Voicing the main character in Black Tides Draga’s Wake led to me making the kinds of noises I haven’t made since my honeymoon but also one of my favourite moments as a father “I listen to you on the radio and I keep hearing your voice in my head!” Not a typica"
-    },
-    {
-      "id": "feed-5jw4c4",
-      "title": "Poundland bidder tells administrator it remains keen on rescue deal",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/poundland-bidder-tells-administrator-it-remains-keen-on-rescue-deal-13605702",
-      "publishedAt": "2026-10-30T10:10:00.000Z",
-      "category": "business",
-      "summary": "The Northern Irish company attempting to stage a solvent rescue of Poundland has told the discount retailer's administrator-in-waiting that it remains keen on a deal which could save more than 10,000 jobs."
     },
     {
       "id": "feed-1fcuz5t",
