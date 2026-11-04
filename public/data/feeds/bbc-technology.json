@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T23:58:10.024Z",
+  "updatedAt": "2026-11-04T00:36:26.690Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-nj4zdz",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-04T00:04:35.000Z",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?"
+    },
     {
       "id": "feed-nzwtml",
       "title": "Tech Life",
@@ -110,14 +118,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-30T11:35:51.000Z",
       "summary": "The Binance hack has thrust cryptocurrencies back into headlines - but what are they and how do they work?"
-    },
-    {
-      "id": "feed-1fcuz5t",
-      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-30T09:33:51.000Z",
-      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor."
     },
     {
       "id": "feed-19p3gr8",
