@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T01:46:35.387Z",
+  "updatedAt": "2026-11-04T02:34:03.799Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-o0z2lx",
+      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-04T01:36:06.000Z",
+      "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning."
+    },
     {
       "id": "feed-1jhtky3",
       "title": "Canva announces major job cuts after 'our hardest year yet'",
@@ -77,7 +85,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo",
       "source": "BBC News",
       "publishedAt": "2026-11-03T15:05:01.000Z",
-      "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region."
+      "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region."
     },
     {
       "id": "feed-12n2x97",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T08:33:20.000Z",
       "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist."
-    },
-    {
-      "id": "feed-1o5hdgo",
-      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-      "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T07:50:14.000Z",
-      "summary": "The men and women who rummage through commercial bins to take clothes and other items."
     }
   ]
 }

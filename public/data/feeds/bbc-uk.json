@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T01:46:35.385Z",
+  "updatedAt": "2026-11-04T02:34:03.796Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1nkwv9o",
+      "title": "Miliband says slavery apology will not bring costs for UK taxpayer",
+      "link": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-04T02:14:45.000Z",
+      "summary": "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carpet\"."
+    },
     {
       "id": "feed-o0z2lx",
       "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T16:11:33.000Z",
       "summary": "María José Alonso says her niece Dr Marta Shahbazi was the \"friendliest person you can imagine\"."
-    },
-    {
-      "id": "feed-jbwvvd",
-      "title": "Jury in Russell Brand rape trial begins considering verdicts",
-      "link": "https://www.bbc.co.uk/news/articles/ckly4ed521emo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T14:50:06.000Z",
-      "summary": "The media personality has been on trial for three weeks, after pleading not guilty to all charges."
     }
   ]
 }
