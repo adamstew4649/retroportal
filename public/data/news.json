@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T11:29:45.941Z",
-  "generatedAt": "2026-11-04T11:29:45.941Z",
+  "updatedAt": "2026-11-04T12:13:13.896Z",
+  "generatedAt": "2026-11-04T12:13:13.896Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,74 @@
   ],
   "articles": [
     {
+      "id": "feed-9cixnz",
+      "title": "First secretary of state Louise Haigh faces deputy Conservative leader Alex Burghart – PMQs live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+      "publishedAt": "2026-11-04T12:07:55.000Z",
+      "category": "world",
+      "summary": "Louise Haigh stands in for Burnham who is out of the country for the Commonwealth heads of government meeting Louise Haigh starts by saying she is standing in for Andy Burnham. She says this weekend the whole country will fall silent to mark Remembrance Sunday"
+    },
+    {
+      "id": "feed-16fj4jj",
+      "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
+      "publishedAt": "2026-11-04T12:03:44.000Z",
+      "category": "world",
+      "summary": "With many seats still to come in, the Democrats have taken control of the Senate, House and several key governorships. Find live updating results in full here US midterm elections – live updates The US legislature, Congress, has two chambers: the House of Repr"
+    },
+    {
+      "id": "feed-780e37",
+      "title": "Everything you need to know from the US midterm elections",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
+      "publishedAt": "2026-11-04T12:01:07.000Z",
+      "category": "world",
+      "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump."
+    },
+    {
+      "id": "feed-c1ueyb",
+      "title": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/04/andreas-malm-academics-letter-uk-reverse-entry-bar",
+      "publishedAt": "2026-11-04T12:00:10.000Z",
+      "category": "uk",
+      "summary": "Blocking Swedish writer’s entry for event with Palestine Action co-founder is attack on free expression, letter says More than 900 academics have voiced their opposition to the government’s decision to block the climate academic Andreas Malm from entering the "
+    },
+    {
+      "id": "feed-gkhod0",
+      "title": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
+      "publishedAt": "2026-11-04T11:58:19.000Z",
+      "category": "uk",
+      "summary": "German carmaker slashes profit margin to between -0.5% and 0.5% this year in face of competition from China The German carmaker BMW has issued its second profit warning in a year, blaming the costs of a restructuring programme including significant job losses "
+    },
+    {
       "id": "feed-130u38o",
       "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-      "publishedAt": "2026-11-04T11:20:12.000Z",
+      "publishedAt": "2026-11-04T11:57:57.000Z",
       "category": "world",
-      "summary": "European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank Czech prime minister Andrej Babiš is in Warsaw today, meeting with Poland’s Donald Tusk, and unsurprisingly both leaders were asked for their thoughts on the US"
+      "summary": "European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank Meanwhile, the Kremlin said that ⁠it ​hopes that the ⁠results of the US ⁠midterm ​elections ‌will not impact ‌what it ‌said were president Donald Trump’s “peace"
+    },
+    {
+      "id": "feed-1lmo5j0",
+      "title": "Fourth arrest after Halloween party stabbings",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c39wz4lv85v8o",
+      "publishedAt": "2026-11-04T11:48:32.000Z",
+      "category": "uk",
+      "summary": "All five boys who were injured had been invited to attend the supervised party on Saturday night."
     },
     {
       "id": "feed-4kynbr",
@@ -119,29 +179,49 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
-      "publishedAt": "2026-11-04T11:19:05.000Z",
-      "category": "world",
+      "publishedAt": "2026-11-04T11:47:56.000Z",
+      "category": "uk",
       "summary": "Democrats flip Senate seats in Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; voters reject Trump’s agenda in ‘blue wave’ Track live results from all 50 states Full report: Democrats win control of Congress in ‘blue wave’ Tell us: how do you fee"
     },
     {
-      "id": "feed-15ju1u2",
-      "title": "Miliband criticises Blair’s slavery statement and defends Burnham’s plan for proper apology – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-      "publishedAt": "2026-11-04T11:16:37.000Z",
-      "category": "uk",
-      "summary": "The foreign secretary added that the UK will not shift its position on reparations According to a report by Caroline Wheeler for the i, the government has delayed coming up with its revised plans for Send (special educational needs and disabilities) educationa"
+      "id": "feed-1ekk5kb",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
+      "publishedAt": "2026-11-04T11:47:44.000Z",
+      "category": "world",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get."
     },
     {
-      "id": "feed-1k2rij2",
-      "title": "First Thing: Democrats sweep into control of Congress after historic midterm victories",
+      "id": "feed-xj9tbk",
+      "title": "Firework noise limit should be drastically cut to protect wild animals, UK government told",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/04/first-thing-democrats-control-congress-midterm-elections",
-      "publishedAt": "2026-11-04T11:14:37.000Z",
-      "category": "world",
-      "summary": "Both the House and Senate will be under Democratic control for the rest of Donald Trump’s term in office. Plus, the French Homer and Marge who found true love in real life Continue reading..."
+      "url": "https://www.theguardian.com/environment/2026/nov/04/firework-noise-limit-protect-wild-animals-bonfire-night",
+      "publishedAt": "2026-11-04T11:47:33.000Z",
+      "category": "uk",
+      "summary": "Ministers urged to go further than proposed cut to 110 decibels to ease acute stress on birds and others animals Campaigners are calling on the government to protect the welfare of wild animals by cutting the maximum noise level of fireworks sold to the public"
+    },
+    {
+      "id": "feed-155ypma",
+      "title": "Effigy of Fifa president chosen for bonfire event",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06jy1jr1ro",
+      "publishedAt": "2026-11-04T11:47:02.000Z",
+      "category": "uk",
+      "summary": "Artist and co-chair of the bonfire society Andrea Deans has been creating the effigies for 10 years."
+    },
+    {
+      "id": "feed-qmz36b",
+      "title": "Police arrest fourth boy after five teenagers stabbed at Halloween party",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/police-arrest-fourth-boy-after-five-teenagers-stabbed-at-halloween-party-13607896",
+      "publishedAt": "2026-11-04T11:47:00.000Z",
+      "category": "uk",
+      "summary": "Police have arrested a fourth boy after five teenagers were stabbed at a Halloween party in Chandler's Ford on Saturday."
     },
     {
       "id": "feed-13jaqyz",
@@ -149,9 +229,79 @@
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo",
-      "publishedAt": "2026-11-04T11:12:15.000Z",
+      "publishedAt": "2026-11-04T11:46:09.000Z",
       "category": "world",
       "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo."
+    },
+    {
+      "id": "feed-k4u4cf",
+      "title": "Poundland supplier urges 'thorough' state probe into owner's conduct",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/poundland-supplier-urges-thorough-state-probe-into-owners-conduct-13607893",
+      "publishedAt": "2026-11-04T11:43:00.000Z",
+      "category": "uk",
+      "summary": "A major Poundland supplier has urged the government to \"thoroughly investigate\" the conduct of its majority owner as the discount chain teeters on the brink of collapse."
+    },
+    {
+      "id": "feed-ab6uyb",
+      "title": "Uproar over missing 'pop' as Rice Krispies changes its recipe",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
+      "publishedAt": "2026-11-04T11:36:44.000Z",
+      "category": "uk",
+      "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning."
+    },
+    {
+      "id": "feed-3lcg78",
+      "title": "William meets firefighters who tackled summer blazes",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c94g1m232pgyo",
+      "publishedAt": "2026-11-04T11:35:08.000Z",
+      "category": "science",
+      "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\"."
+    },
+    {
+      "id": "feed-krtop4",
+      "title": "‘Frighteningly of the moment’: Steven Sater on his emperor Nero musical and turning JFK’s assassination into a Greek tragedy",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/nov/04/emperor-nero-steven-sater-duncan-sheik-spring-awakening-jfk",
+      "publishedAt": "2026-11-04T11:26:03.000Z",
+      "category": "uk",
+      "summary": "It took the Tony winner 20 years to bring his ‘showman’ tyrant to London. He reflects on its Trumpian parallels, the death of Spring Awakening’s Duncan Sheik and the horrific accident that led him to ancient classics Before Spring Awakening won eight Tony awar"
+    },
+    {
+      "id": "feed-1dze2z6",
+      "title": "US midterm elections 2026: is this the end of Trump? - podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/audio/2026/nov/04/us-midterm-elections-2026-is-this-the-end-of-trump-decoding-america-podcast",
+      "publishedAt": "2026-11-04T11:25:39.000Z",
+      "category": "business",
+      "summary": "The Democrats have had a resounding win, taking control of the Senate and the House of Representatives in a historic midterms result. Hosts Reged Ahmad and Jonathan Yerushalmy examine what went wrong for the Republicans and why voters turned out in droves to d"
+    },
+    {
+      "id": "feed-sx59jt",
+      "title": "A blue tsunami wipes out Republicans | Politics Weekly America",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/video/2026/nov/04/a-blue-tsunami-wipes-out-republicans-politics-weekly-america",
+      "publishedAt": "2026-11-04T11:18:04.000Z",
+      "category": "uk",
+      "summary": "Jonathan Freedland and Shrai Popat run through the results of the US midterms, on a historic night for Democrats and a night to forget for Republicans Track live results from all 50 states Full report: Democrats win control of Congress in ‘blue wave’ Tell us: "
+    },
+    {
+      "id": "feed-19jw5ai",
+      "title": "Democrats sweep into control of Congress after historic midterm victories | First Thing",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/04/first-thing-democrats-control-congress-midterm-elections",
+      "publishedAt": "2026-11-04T11:14:37.000Z",
+      "category": "world",
+      "summary": "Both the House and Senate will be under Democratic control for the rest of Donald Trump’s term in office. Plus, the French Homer and Marge who found true love in real life Don’t already get First Thing in your inbox? Sign up here Continue reading..."
     },
     {
       "id": "feed-q2v2bp",
@@ -174,16 +324,6 @@
       "summary": "President’s party stripped of control after he spent weeks pleading with Americans to pretend he was on ballot US midterm elections – live updates Track live results from all 50 states Tell us: what do you want to know about the midterm election results? Donal"
     },
     {
-      "id": "feed-d53pti",
-      "title": "Key moments from a night of midterm election firsts",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
-      "publishedAt": "2026-11-04T11:04:56.000Z",
-      "category": "world",
-      "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration."
-    },
-    {
       "id": "feed-1l54y1y",
       "title": "The Legend of Zelda: Ocarina of Time review – a dream come true",
       "source": "The Guardian",
@@ -191,7 +331,7 @@
       "url": "https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
       "publishedAt": "2026-11-04T11:03:18.000Z",
       "category": "uk",
-      "summary": "Nintendo Switch 2; Nintendo This ambitious remake transforms Zelda into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches, yet the melancholy remains It’s always a worry, returning to a formative piec"
+      "summary": "Nintendo Switch 2; Nintendo This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches. Yet the melancholy remains It’s always a worry, returning to "
     },
     {
       "id": "feed-16bjwxy",
@@ -202,16 +342,6 @@
       "publishedAt": "2026-11-04T11:02:50.000Z",
       "category": "uk",
       "summary": "We would like to hear from young people in the north of England about their experiences of looking for work About 1 million 16- to 24-year-olds in the UK are not in employment, education or training (Neet), according to a report published in May , which warned"
-    },
-    {
-      "id": "feed-i5oheo",
-      "title": "Problems at Belfast health trust buildings could cost additional £20m",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0qpv35p3o",
-      "publishedAt": "2026-11-04T11:01:30.000Z",
-      "category": "uk",
-      "summary": "The maternity building on the Royal Victoria Hospital site is already tens of millions of pounds over budget."
     },
     {
       "id": "feed-9243cl",
@@ -261,7 +391,7 @@
       "url": "https://www.theguardian.com/news/2026/nov/04/london-wiener-holocaust-library-dreyfus-affair-antisemitism",
       "publishedAt": "2026-11-04T10:58:48.000Z",
       "category": "uk",
-      "summary": "Dreyfus affair has echoes of how anti-Jewish hatred manifests itself today, say curators at Weiner Library It was the world’s first experience of antisemitism “gone viral”, said Barbara Warnock, co-director of the oldest Holocaust archive, the Wiener Holocaust"
+      "summary": "Dreyfus affair has echoes of how anti-Jewish hatred manifests itself today, say curators at Weiner Library It was the world’s first experience of antisemitism “gone viral”, said Barbara Warnock, a co-director of the oldest Holocaust archive, the Wiener Holocau"
     },
     {
       "id": "feed-1vihs75",
@@ -272,6 +402,16 @@
       "publishedAt": "2026-11-04T10:52:39.000Z",
       "category": "uk",
       "summary": "He was stylist to the stars in the 1960s and 1970s before creating a global range of hair products."
+    },
+    {
+      "id": "feed-1366v5z",
+      "title": "Fleabag star offers rent-free flat to new writers",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1qmej086o",
+      "publishedAt": "2026-11-04T10:48:11.000Z",
+      "category": "uk",
+      "summary": "Phoebe Waller-Bridge is donating the accommodation to playwrights from underprivileged backgrounds."
     },
     {
       "id": "feed-19dg2gv",
@@ -292,16 +432,6 @@
       "publishedAt": "2026-11-04T10:47:01.000Z",
       "category": "uk",
       "summary": "When the water in Flint, Michigan, became contaminated with dangerous levels of lead, Dr Siddhartha Roy, then a third year PhD student, was part of the team of scientists who publicly contradicted state and federal claims that it was safe. He became a local he"
-    },
-    {
-      "id": "feed-o0z2lx",
-      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
-      "publishedAt": "2026-11-04T10:45:51.000Z",
-      "category": "uk",
-      "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning."
     },
     {
       "id": "feed-1q0lnrw",
@@ -334,6 +464,16 @@
       "summary": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials."
     },
     {
+      "id": "feed-1mb8ggp",
+      "title": "The Spin | ‘I wanted the ball to be hit at me’: life in cricket’s most dangerous fielding position",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/04/cricket-most-dangeroous-fielding-position-short-leg-the-spin",
+      "publishedAt": "2026-11-04T10:33:44.000Z",
+      "category": "uk",
+      "summary": "James Taylor recalls the ‘moments of pure elation’ and twisted intimacy of being under the batter’s nose at short leg Out in Arizona, just south of Tucson. Where tumbleweeds tumble in search of a home. There’s a town they call Tombstone where the brave never c"
+    },
+    {
       "id": "feed-1h8mkwp",
       "title": "Government needs to act faster on grooming gang inquiry, says survivor",
       "source": "BBC News",
@@ -342,16 +482,6 @@
       "publishedAt": "2026-11-04T10:31:57.000Z",
       "category": "uk",
       "summary": "Holly Alex, who was groomed as a teenager, has urged the government to make good on their pledge to deliver an inquiry \"at pace\"."
-    },
-    {
-      "id": "feed-lz5nda",
-      "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
-      "publishedAt": "2026-11-04T10:26:06.000Z",
-      "category": "world",
-      "summary": "With many seats still to come in, the Democrats have taken control of the Senate, House and several key governorships. Find live updating results in full here US midterm elections – live updates The US legislature, Congress, has two chambers: the House of Repr"
     },
     {
       "id": "feed-apyesx",
@@ -364,43 +494,13 @@
       "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat."
     },
     {
-      "id": "feed-195nav6",
-      "title": "‘Every family has silences’: Kathryn Hunter on despair, desire, dislodgeable limbs – and her acting genius",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/culture/2026/nov/04/every-family-has-silences-kathryn-hunter-on-despair-desire-dislodgeable-limbs-and-her-acting-genius",
-      "publishedAt": "2026-11-04T10:00:03.000Z",
-      "category": "uk",
-      "summary": "She has played King Lear, all three witches in Macbeth and an ape turned variety performer in Kafka’s Monkey. As she prepares for a new show, she discusses the soaring highs and deep lows of her extraordinary life Kathryn Hunter pulls off her black beanie and "
-    },
-    {
-      "id": "feed-12p5xfz",
-      "title": "Sali Hughes on beauty: eye creams that are worth using down to the last drop",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/fashion/2026/nov/04/sali-hughes-on-beauty-eye-creams",
-      "publishedAt": "2026-11-04T10:00:03.000Z",
-      "category": "uk",
-      "summary": "Face cream is often enough, but if you want a separate product for your eyes, these new ones are terrific value A hill I will die on: you do not necessarily need an eye cream. There are, I will admit, reasons why you might fare better with one. You may have a "
-    },
-    {
-      "id": "feed-1x1th5",
-      "title": "The Greatest review – Amazon’s sturdy Muhammad Ali series is a tale told too many times",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/04/the-greatest-amazon-muhammad-ali-series-review",
-      "publishedAt": "2026-11-04T10:00:02.000Z",
-      "category": "uk",
-      "summary": "There are small pleasures to be had in this straightforward retelling of the boxing champ’s life but there’s not much most viewers haven’t seen before The Greatest is a new limited series that repackages the life of Muhammad Ali for generations born too late t"
-    },
-    {
       "id": "feed-6zh86f",
       "title": "‘A true icon of the hair industry’: celebrity hairstylist John Frieda dies aged 75",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/lifeandstyle/2026/nov/04/celebrity-hairstylist-john-frieda-dies-aged-75",
       "publishedAt": "2026-11-04T09:59:08.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Businessman styled stars such as Twiggy, Madonna and Joanna Lumley and created popular hair care line Frizz Ease John Frieda, the celebrity hairstylist who launched his own bestselling hair product range, has died aged 75. In an Instagram post, his salon wrote"
     },
     {
@@ -410,7 +510,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
       "publishedAt": "2026-11-04T09:55:22.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Concern over greater AI regulation, while investors move into US treasuries as Trump faces political gridlock Business live – latest updates US midterm elections – live updates The US dollar has fallen sharply after the Democrats won control of the Senate and "
     },
     {
@@ -422,16 +522,6 @@
       "publishedAt": "2026-11-04T09:53:18.000Z",
       "category": "world",
       "summary": "See the maps and charts that show how America voted in the US midterm elections."
-    },
-    {
-      "id": "feed-1vokc2s",
-      "title": "West Ham confirm Scott Parker as head coach after sacking Nuno Espírito Santo",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/04/west-ham-confirm-scott-parker-as-manager",
-      "publishedAt": "2026-11-04T09:30:41.000Z",
-      "category": "uk",
-      "summary": "Parker takes over team eighth in Championship He has overseen three promotions to Premier League Scott Parker has been confirmed as West Ham’s head coach, taking over from Nuno Espírito Santo, who was sacked on Tuesday . The club’s former midfielder arrives on"
     },
     {
       "id": "feed-1bersqk",
@@ -624,14 +714,24 @@
       "summary": "Naturewatch, hosted by Chris Packham, Megan McCubbin and Kyle Thomas, is being made in Bristol."
     },
     {
-      "id": "feed-6d814k",
-      "title": "Leisure centre price hikes on the way",
+      "id": "feed-1xr1eyh",
+      "title": "Swim and gym prices set to rise above inflation",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o",
       "publishedAt": "2026-11-04T06:13:19.000Z",
       "category": "business",
       "summary": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex."
+    },
+    {
+      "id": "feed-1aqz13w",
+      "title": "Cyber attack threatens French blood banks",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/cyber-attack-threatens-french-blood-banks-13606660",
+      "publishedAt": "2026-11-04T06:13:00.000Z",
+      "category": "world",
+      "summary": "Blood bank sites in France are the latest to be hit by cyber attackers."
     },
     {
       "id": "feed-17u5pth",
@@ -734,26 +834,6 @@
       "summary": "House prices forecast to fall by 1.5% next year as Middle East war keeps mortgage rates higher for longer Britain’s sluggish housing market is not expected to recover until 2028 as higher mortgage rates linked to the war in the Middle East deter buyers and wei"
     },
     {
-      "id": "feed-2ta3",
-      "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
-      "publishedAt": "2026-11-04T05:00:25.000Z",
-      "category": "world",
-      "summary": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absence The UK has apologised to Ukrainian child refugees who were told to study Russian in English schools, as it launched funding for a"
-    },
-    {
-      "id": "feed-6f36vk",
-      "title": "ANC faces anger over poor services as South Africans vote in local elections",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-      "publishedAt": "2026-11-04T04:00:23.000Z",
-      "category": "world",
-      "summary": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep disconten"
-    },
-    {
       "id": "feed-rupvhl",
       "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
       "source": "BBC News",
@@ -814,24 +894,14 @@
       "summary": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence."
     },
     {
-      "id": "feed-bawjp4",
-      "title": "Wall Street falls as Democrats make midterm gains - with broad implications possible",
+      "id": "feed-1d5j2ja",
+      "title": "Wall Street edges higher after Democrats sweep midterms",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/us-midterms-markets-fall-on-wall-street-as-democrats-gain-early-momentum-13607737",
+      "url": "https://news.sky.com/story/wall-street-edges-higher-after-democrats-sweep-midterms-13607737",
       "publishedAt": "2026-11-04T01:52:00.000Z",
       "category": "business",
-      "summary": "Wall Street markets have fallen as Democrats continue to gain ground across the country in the midterms."
-    },
-    {
-      "id": "feed-1k1ud2q",
-      "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
-      "publishedAt": "2026-11-04T01:31:46.000Z",
-      "category": "world",
-      "summary": "Growing number of countries are resisting Russia’s reintegration into international hockey after a sports court lifted a ban on competition Canada has joined a coalition of countries refusing to play ⁠ice ​hockey teams from Russia, with prime minister Mark Car"
+      "summary": "Wall Street markets rose on Wednesday, reversing sharp early losses as Democrats continue to gain ground in the US midterm elections."
     },
     {
       "id": "feed-1dcuibv",
@@ -874,16 +944,6 @@
       "summary": "Brendan Larsen spent hours taking hundreds of photographs of the sky over a mountain in New Zealand A photograph showing thousands of satellites cross-hatching the night sky over New Zealand appeared so extraordinary the astrophotographer who captured it is fi"
     },
     {
-      "id": "feed-1l1m6im",
-      "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o",
-      "publishedAt": "2026-11-04T00:27:37.000Z",
-      "category": "uk",
-      "summary": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?"
-    },
-    {
       "id": "feed-1c4u62d",
       "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
       "source": "The Guardian",
@@ -910,7 +970,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o",
       "publishedAt": "2026-11-04T00:04:35.000Z",
-      "category": "technology",
+      "category": "uk",
       "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?"
     },
     {
@@ -922,16 +982,6 @@
       "publishedAt": "2026-11-04T00:04:28.000Z",
       "category": "uk",
       "summary": "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner."
-    },
-    {
-      "id": "feed-1ekk5kb",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
-      "publishedAt": "2026-11-04T00:03:19.000Z",
-      "category": "world",
-      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get."
     },
     {
       "id": "feed-vs550o",
@@ -980,7 +1030,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
       "publishedAt": "2026-11-03T20:53:03.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
     },
     {
@@ -1022,16 +1072,6 @@
       "publishedAt": "2026-11-03T20:30:00.000Z",
       "category": "technology",
       "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show."
-    },
-    {
-      "id": "feed-1wrqz2r",
-      "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo",
-      "publishedAt": "2026-11-03T20:05:21.000Z",
-      "category": "uk",
-      "summary": "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial."
     },
     {
       "id": "feed-tbz9td",
@@ -1082,36 +1122,6 @@
       "publishedAt": "2026-11-03T18:30:56.000Z",
       "category": "business",
       "summary": "The latest edition of Radical Thinking, the Guardian’s new podcast, should be required listening at a Treasury still stifled by outdated orthodoxies As prime ministers have come and gone at bewildering speed in recent years, the search for elusive economic gro"
-    },
-    {
-      "id": "feed-12428r8",
-      "title": "The UK-EU food produce deal: what was agreed and will it affect shoppers?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/nov/03/new-uk-eu-brexit-food-produce-deal-explained",
-      "publishedAt": "2026-11-03T18:24:37.000Z",
-      "category": "business",
-      "summary": "Two sides agree deal to remove some Brexit checks on food and animal product exports to EU Andy Burnham to unveil EU trade deals worth billions of pounds The UK and the EU have finalised their deal to remove red tape for food producers and agreed first drafts "
-    },
-    {
-      "id": "feed-1a52es6",
-      "title": "Third teen arrested on suspicion of attempted murder over stabbing at Halloween party",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/third-teen-arrested-on-suspicion-of-attempted-murder-after-five-boys-stabbed-at-halloween-party-13607558",
-      "publishedAt": "2026-11-03T18:22:00.000Z",
-      "category": "uk",
-      "summary": "A third boy has been arrested on suspicion of attempted murder after five teenagers were seriously injured when they were allegedly stabbed at a party on Halloween."
-    },
-    {
-      "id": "feed-1j9o5hy",
-      "title": "Primark lacks fizz as it approaches its go-it-alone moment",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/03/primark-lacks-fizz-approaches-go-it-alone-moment-nils-pratley",
-      "publishedAt": "2026-11-03T17:58:35.000Z",
-      "category": "business",
-      "summary": "After a profits dip, the chain’s demerger from its sister food company still makes sense but is unlikely to reveal tons of value Primark brings forward home deliveries plan by two years as profits slide The business logic for demerging Primark from Associated "
     },
     {
       "id": "feed-grsi9f",
@@ -1180,7 +1190,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/ai-toys-should-be-banned-over-child-harm-fears-say-mps-as-they-urge-retailers-to-remove-them-13607511",
       "publishedAt": "2026-11-03T15:10:00.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "AI toys with built-in chatbots could expose children to psychological harms and inappropriate material, according to MPs and peers who are urging Amazon and eBay to stop selling them."
     },
     {
@@ -1614,16 +1624,6 @@
       "summary": "Casserole dishes, electric heaters and silk shirts: your autumnal favourites show you’re hunkering down – with one eye on party season • Don’t get the Filter delivered to your inbox? Sign up here Autumn, we’ve been expecting you. After a September that seemed "
     },
     {
-      "id": "feed-15iwdx4",
-      "title": "Barclays to begin car finance payouts months before outcome of legal challenge",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/barclays-to-begin-car-finance-payouts-months-before-outcome-of-legal-challenge-13607016",
-      "publishedAt": "2026-11-02T10:43:00.000Z",
-      "category": "business",
-      "summary": "Barclays will this week become the first major UK lender to begin offering compensation payments to former motor finance customers, even as the industry's big financiers face waiting months for the outcome of challenges to a £9bn redress scheme."
-    },
-    {
       "id": "feed-1wl7572",
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "source": "BBC News",
@@ -1652,16 +1652,6 @@
       "publishedAt": "2026-11-01T19:36:46.000Z",
       "category": "science",
       "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people. Dr Marta Shahbazi , 41, an "
-    },
-    {
-      "id": "feed-92ko5c",
-      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo",
-      "publishedAt": "2026-11-01T18:04:52.000Z",
-      "category": "science",
-      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys."
     },
     {
       "id": "feed-ziaqtv",
