@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T21:29:49.757Z",
-  "generatedAt": "2026-11-05T21:29:49.757Z",
+  "updatedAt": "2026-11-05T22:17:21.479Z",
+  "generatedAt": "2026-11-05T22:17:21.479Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,56 @@
   ],
   "articles": [
     {
+      "id": "feed-fp1drb",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+      "publishedAt": "2026-11-05T22:13:38.000Z",
+      "category": "world",
+      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms"
+    },
+    {
+      "id": "feed-gy5ofu",
+      "title": "Sunderland 0-2 Dinamo Zagreb, Celtic 3-2 Besiktas: Europa League – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/nov/05/crystal-palace-hoffenheim-sparta-prague-bournemouth-sunderland-celtic-europa-league-live",
+      "publishedAt": "2026-11-05T22:07:51.000Z",
+      "category": "uk",
+      "summary": "⚽ Europa League updates, kicking off from 8pm GMT ⚽ Live scores | Europa League table | And email Will Though actually none of the games I’m monitoring have started yet, with delays including the minute’s silence for Jesus de Miguel, the Tenerife striker who d"
+    },
+    {
+      "id": "feed-8y90ec",
+      "title": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+      "publishedAt": "2026-11-05T22:04:24.000Z",
+      "category": "uk",
+      "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results Sign up for Breaking News US email Election night brought a series of dramatic deve"
+    },
+    {
+      "id": "feed-vudj40",
+      "title": "Fox News suffers ratings slump on bleak election night for Republicans",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
+      "publishedAt": "2026-11-05T22:04:20.000Z",
+      "category": "world",
+      "summary": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewership Send us your questions about the midterm results Track live results from all 50 states On a midterm election night that was a huge disappointment for Republ"
+    },
+    {
+      "id": "feed-2n9661",
+      "title": "Salon, internet’s oldest general interest publication, shuts down after 31 years",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/media/2026/nov/05/salon-website-shuts-down",
+      "publishedAt": "2026-11-05T21:27:24.000Z",
+      "category": "uk",
+      "summary": "Website known for politics, arts and culture coverage announces closure just weeks before anniversary Salon, one of the early internet’s pioneering publications, is closing after more than three decades, the outlet announced on Thursday. “It’s difficult to fin"
+    },
+    {
       "id": "feed-1j78k68",
       "title": "UK doctor infected with Ebola being treated at London hospital",
       "source": "BBC News",
@@ -112,16 +162,6 @@
       "publishedAt": "2026-11-05T21:26:09.000Z",
       "category": "uk",
       "summary": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low."
-    },
-    {
-      "id": "feed-y9idiz",
-      "title": "Nvidia and SpaceX lose billions in market value as tech and AI stocks plummet",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-      "publishedAt": "2026-11-05T21:25:57.000Z",
-      "category": "world",
-      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms"
     },
     {
       "id": "feed-1p6q6et",
@@ -140,28 +180,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
       "publishedAt": "2026-11-05T21:23:18.000Z",
-      "category": "world",
-      "summary": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across bourses The Nasdaq share index had its worst day in 18 months after slumping 5.5% on Thursday amid growing signs that the artificial intelligence industry will face tougher"
-    },
-    {
-      "id": "feed-1b95fdg",
-      "title": "US elections 2026 live: Democrats hold nearly 100 House seats more than Republicans as blue wave continues to grow",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-      "publishedAt": "2026-11-05T21:22:13.000Z",
-      "category": "world",
-      "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | How do you feel about the results? Sign up for Breaking News US email Election ni"
-    },
-    {
-      "id": "feed-t82ekl",
-      "title": "Sunderland v Dinamo Zagreb, Celtic v Besiktas: Europa League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/nov/05/crystal-palace-hoffenheim-sparta-prague-bournemouth-sunderland-celtic-europa-league-live",
-      "publishedAt": "2026-11-05T21:17:06.000Z",
       "category": "uk",
-      "summary": "⚽ Europa League updates, kicking off from 8pm GMT ⚽ Live scores | Europa League table | And email Will Though actually none of the games I’m monitoring have started yet, with delays including the minute’s silence for Jesus de Miguel, the Tenerife striker who d"
+      "summary": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across bourses The Nasdaq share index had its worst day in 18 months after slumping 5.5% on Thursday amid growing signs that the artificial intelligence industry will face tougher"
     },
     {
       "id": "feed-1byvd7b",
@@ -181,7 +201,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta",
       "publishedAt": "2026-11-05T21:10:21.000Z",
       "category": "uk",
-      "summary": "Law bans social media platforms from providing minors features such as autoplay that lead to compulsive use Google, Meta and TikTok sued California to block enforcement of ⁠a new state law intended ⁠to limit the risk ​of addicting children under 16 to social m"
+      "summary": "Law bans social media platforms from providing minors features such as autoplay that lead to compulsive use Google, Meta and TikTok have sued California to block enforcement of ⁠a new state law intended ⁠to limit the risk ​of addicting children under 16 to soc"
     },
     {
       "id": "feed-172owxe",
@@ -194,11 +214,11 @@
       "summary": "IOC open to dialogue and Fifa wants input from others Fifa concerned about fixture congestion and workload Fifa wants talks with the International Olympic Committee over restricting the Olympic women’s football tournament to under-23s owing to concerns over fi"
     },
     {
-      "id": "feed-ng5hiv",
+      "id": "feed-1vm4ole",
       "title": "BBC Inside Science",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct978k",
       "publishedAt": "2026-11-05T21:00:00.000Z",
       "category": "science",
       "summary": "A glimpse into the world of the incredibly tiny"
@@ -221,7 +241,7 @@
       "url": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
       "publishedAt": "2026-11-05T20:44:57.000Z",
       "category": "uk",
-      "summary": "Democrat’s move prevents these people from executions under future governors, after Christa Pike’s failed execution Gavin Newsom , California ’s governor, has commuted the death sentences of more than 500 people on the state’s death row on Thursday, a move tha"
+      "summary": "Democrat’s move prevents these people from executions under future governors, after Christa Pike’s failed execution Gavin Newsom , California ’s governor, commuted the death sentences of more than 500 people on the state’s death row on Thursday, a move that en"
     },
     {
       "id": "feed-1cg8w27",
@@ -430,7 +450,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
       "publishedAt": "2026-11-05T18:48:07.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s"
     },
     {
@@ -451,7 +471,7 @@
       "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
       "publishedAt": "2026-11-05T18:17:36.000Z",
       "category": "world",
-      "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Hoax bomb threats have caused at least 25 flights across Europe to be disrupted, with some forced to make emergency landings, as questions mount over an apparent"
+      "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Why have more than 30 European flights been hit by bomb threats this week? Hoax bomb threats have caused at least 25 flights across Europe to be disrupted, with "
     },
     {
       "id": "feed-ahcelk",
@@ -532,6 +552,26 @@
       "publishedAt": "2026-11-05T17:37:27.000Z",
       "category": "world",
       "summary": "Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect The Duchess of Sussex’s estranged half-brother, Thomas Markle Jr, has been named as a “person of interest” in the Phil"
+    },
+    {
+      "id": "feed-1xq61qu",
+      "title": "Why have more than 30 European flights been hit by bomb threats this week?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-european-flights-airports-disruption-explainer",
+      "publishedAt": "2026-11-05T17:36:43.000Z",
+      "category": "business",
+      "summary": "With flights disrupted, how concerned should you be about your travel plans? More than 30 planes have been subjected to security alerts or diversions this week , with at least 25 more bomb threats on Thursday disrupting civil aviation across Europe. What do we"
+    },
+    {
+      "id": "feed-1dzzscp",
+      "title": "Ben Jennings on the billionaires who bent the knee to Trump – cartoon",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/05/ben-jennings-billionaires-bent-the-knee-donald-trump-cartoon",
+      "publishedAt": "2026-11-05T17:35:29.000Z",
+      "category": "business",
+      "summary": "Continue reading..."
     },
     {
       "id": "feed-10uao87",
@@ -662,6 +702,16 @@
       "publishedAt": "2026-11-05T15:27:09.000Z",
       "category": "business",
       "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders."
+    },
+    {
+      "id": "feed-qseoyj",
+      "title": "How Milei is using economic warfare against the Falklands – explainer",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/video/2026/nov/05/how-milei-is-using-economic-warfare-against-the-falklands-explainer",
+      "publishedAt": "2026-11-05T15:26:00.000Z",
+      "category": "business",
+      "summary": "Facing a slump in the polls, Javier Milei is making economic attacks on the Falkland Islands' oil industry and suggesting its key fisheries industry could be next. In a UN speech, the Argentinian president claimed that the UK's offshore oil development, the Se"
     },
     {
       "id": "feed-2guh6w",
@@ -870,7 +920,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/national-lottery-operator-shakes-up-top-team-amid-slump-in-sales-13608345",
       "publishedAt": "2026-11-05T11:35:00.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Allwyn, the operator of the National Lottery, is launching a further shake-up of its leadership team as it seeks to arrest an alarming decline in sales."
     },
     {
@@ -1004,16 +1054,6 @@
       "summary": "The embattled owner of Poundland has parachuted in a team of top London lobbyists as it faces intensifying political pressure over the discount retailer's fate."
     },
     {
-      "id": "feed-g4qgta",
-      "title": "‘I never understood wind’: midterms spark hope for renewables after Trump’s hostility",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
-      "publishedAt": "2026-11-05T09:04:05.000Z",
-      "category": "business",
-      "summary": "Future brightens for US developers in particular after election when voters rejected Trump’s war on clean energy After years as collateral damage in Donald Trump’s war on climate action, the Democrats’ sweeping triumph in the US midterm elections has emerged a"
-    },
-    {
       "id": "feed-19kd9pf",
       "title": "Tech barons cozied up to Trump. What will they do in newly blue America?",
       "source": "The Guardian",
@@ -1032,16 +1072,6 @@
       "publishedAt": "2026-11-05T09:00:01.000Z",
       "category": "technology",
       "summary": "More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects Protesters across Europe are planning two days of action against datacentres this week with demonstrations taking place in 15 countries. More tha"
-    },
-    {
-      "id": "feed-9r1pcm",
-      "title": "Poundland’s US owner says retailer remains ‘vulnerable’, after talks with ministers",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/05/poundland-gordon-brothers-us-vulnerable-talks-ministers",
-      "publishedAt": "2026-11-05T08:57:13.000Z",
-      "category": "business",
-      "summary": "Gordon Brothers still in ‘active discussions’ with interested parties and seeking to ‘protect as many jobs as possible’ The US owner of Poundland has said the high street chain remains “challenged and vulnerable” after holding talks with ministers amid governm"
     },
     {
       "id": "feed-bmqvu4",
@@ -1342,6 +1372,16 @@
       "publishedAt": "2026-11-04T15:00:38.000Z",
       "category": "technology",
       "summary": "Titanium Court is a bizarre world of 8-bit fairies, Shakespeare and surprise songs – its magic lies in never knowing what on earth is going on • Don’t get Pushing Buttons delivered to your inbox? Sign up here Earlier this year, I was stuck in hospital for seve"
+    },
+    {
+      "id": "feed-17c7n3j",
+      "title": "Ambulance worker injured and police vehicle set alight as emergency services targeted with fireworks",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/httpsdigitalcmscfskycomstory-managerstory13607705revision1793915935-13607705",
+      "publishedAt": "2026-11-04T14:00:00.000Z",
+      "category": "uk",
+      "summary": "A police vehicle has been set alight after officers and ambulance workers were targeted with fireworks on Bonfire Night in Glasgow."
     },
     {
       "id": "feed-rx4osl",
@@ -1862,26 +1902,6 @@
       "publishedAt": "2026-10-29T10:37:14.000Z",
       "category": "science",
       "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading..."
-    },
-    {
-      "id": "feed-1rdxht0",
-      "title": "Channel 4 axes Married At First Sight UK after review",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/married-at-first-sight-uk-will-not-return-to-screens-following-sexual-misconduct-allegations-13604752",
-      "publishedAt": "2026-10-28T11:01:00.000Z",
-      "category": "uk",
-      "summary": "Married At First Sight UK will not return to Channel 4 following an external review launched in the wake of sexual misconduct allegations, the broadcaster has announced."
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
