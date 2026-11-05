@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T08:06:39.572Z",
+  "updatedAt": "2026-11-05T09:24:50.443Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-yfl9ft",
+      "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T09:05:11.000Z",
+      "summary": "A little-known investment group has made a bid to buy the business."
+    },
     {
       "id": "feed-1gamvbo",
       "title": "Poundland owner in crunch talks as retailer's collapse looms",
@@ -16,8 +24,8 @@
       "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland."
     },
     {
-      "id": "feed-17amd5p",
-      "title": "Democrats won on affordability. Can they deliver it?",
+      "id": "feed-yyy651",
+      "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
       "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o",
       "source": "BBC News",
       "publishedAt": "2026-11-05T06:01:05.000Z",
@@ -37,7 +45,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
       "source": "BBC News",
       "publishedAt": "2026-11-05T04:21:35.000Z",
-      "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago"
+      "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago."
     },
     {
       "id": "feed-eu3osa",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T15:12:35.000Z",
       "summary": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect."
-    },
-    {
-      "id": "feed-1ebqdr0",
-      "title": "Mining giant joins fight to stop killer toad march across Australia",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T15:05:01.000Z",
-      "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region."
     }
   ]
 }
