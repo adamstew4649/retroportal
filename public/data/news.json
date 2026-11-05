@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T03:39:51.324Z",
-  "generatedAt": "2026-11-05T03:39:51.324Z",
+  "updatedAt": "2026-11-05T04:43:33.385Z",
+  "generatedAt": "2026-11-05T04:43:33.385Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "sky-technology",
@@ -104,22 +104,12 @@
   ],
   "articles": [
     {
-      "id": "feed-qcygbl",
-      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
-      "publishedAt": "2026-11-05T03:28:52.000Z",
-      "category": "uk",
-      "summary": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Hong Kong activist Joshua Wong was sentenced on Thursday to 10 years in prison after pleading guilty to “foreign collusion”, his second "
-    },
-    {
       "id": "feed-97sr45",
       "title": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-      "publishedAt": "2026-11-05T03:24:39.000Z",
+      "publishedAt": "2026-11-05T04:38:15.000Z",
       "category": "world",
       "summary": "The 31-year-old former police officer is accused of fatally shooting couple Jesse Baird and Luke Davies in Sydney in 2024 Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial Get our breaking news email , free app or daily"
     },
@@ -129,9 +119,79 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-      "publishedAt": "2026-11-05T03:16:32.000Z",
-      "category": "uk",
+      "publishedAt": "2026-11-05T04:37:50.000Z",
+      "category": "world",
       "summary": "Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted – a small but growing margin Live results | Republican losses mapped Tell us: how do you feel about the midterm results? Sign up for Breaking News US email Wall Street su"
+    },
+    {
+      "id": "feed-1jxkhfr",
+      "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+      "publishedAt": "2026-11-05T04:22:49.000Z",
+      "category": "uk",
+      "summary": "Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support South Korea plans to expand the operations ⁠of its anti-piracy unit to waters closer to "
+    },
+    {
+      "id": "feed-h8qli4",
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
+      "publishedAt": "2026-11-05T04:21:35.000Z",
+      "category": "uk",
+      "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago"
+    },
+    {
+      "id": "feed-qcygbl",
+      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+      "publishedAt": "2026-11-05T04:04:49.000Z",
+      "category": "uk",
+      "summary": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second"
+    },
+    {
+      "id": "feed-vwml6q",
+      "title": "Multiple bears may have killed mother and daughter in Canada",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/multiple-bears-may-have-killed-mother-and-daughter-in-canada-13608211",
+      "publishedAt": "2026-11-05T04:00:00.000Z",
+      "category": "world",
+      "summary": "A mother and daughter have been killed in an attack in Canada that authorities say may have involved multiple grizzly bears."
+    },
+    {
+      "id": "feed-11z0iil",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+      "publishedAt": "2026-11-05T03:56:16.000Z",
+      "category": "world",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law."
+    },
+    {
+      "id": "feed-8jjn8w",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
+      "publishedAt": "2026-11-05T03:47:56.000Z",
+      "category": "world",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
+    },
+    {
+      "id": "feed-8ad8vk",
+      "title": "New Zealand heads for election cliffhanger with minor party cast as kingmaker",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party",
+      "publishedAt": "2026-11-05T03:37:57.000Z",
+      "category": "uk",
+      "summary": "Polls show neither major party will have enough seats to form government, meaning the fate could fall on centrist minor party, Opportunity The final polls ahead of New Zealand’s election show a knife-edge path to power, with neither the ruling right-wing coali"
     },
     {
       "id": "feed-11pdmx4",
@@ -204,6 +264,16 @@
       "summary": "US first lady awarded for ‘significant personal contribution to humanitarian support’. What we know on day 1,716 Volodymyr Zelenskyy has awarded Melania Trump a national honour for her role in brokering a partial ceasefire that allowed the evacuation of civili"
     },
     {
+      "id": "feed-1ndxovg",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo",
+      "publishedAt": "2026-11-05T02:09:23.000Z",
+      "category": "world",
+      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament."
+    },
+    {
       "id": "feed-t4238y",
       "title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
       "source": "The Guardian",
@@ -234,8 +304,8 @@
       "summary": "Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total in Tuesday’s elections Track live results from all 50 states Send us your questions about the US midterms results and Democrats’ ‘blue wave’ There were three big losers "
     },
     {
-      "id": "feed-1vxju5f",
-      "title": "UK agrees to talks addressing 'historical harms' of slavery",
+      "id": "feed-3ctv7o",
+      "title": "UK agrees to talks on harms of the transatlantic slave trade",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/uk-agrees-to-talks-addressing-historical-harms-of-slavery-but-pm-rules-out-reparations-13608208",
@@ -314,6 +384,16 @@
       "summary": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years."
     },
     {
+      "id": "feed-1h5da4m",
+      "title": "No shoot-to-kill missions against IRA, says former SAS officer",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cky93zxx3l4eo",
+      "publishedAt": "2026-11-05T00:00:03.000Z",
+      "category": "uk",
+      "summary": "The soldier is speaking out now because of the government's draft law to deal with the legacy of the Troubles."
+    },
+    {
       "id": "feed-is578k",
       "title": "UK and Caribbean to begin ‘dialogue’ within next year after slavery reparations call",
       "source": "The Guardian",
@@ -322,6 +402,16 @@
       "publishedAt": "2026-11-04T23:51:58.000Z",
       "category": "uk",
       "summary": "Antigua and Barbuda’s prime minister says there was a consensus at Commonwealth summit on way forward The UK has agreed to “structured dialogue” in the next year with Caribbean nations affected by the slave trade and its legacy, Commonwealth leaders have said."
+    },
+    {
+      "id": "feed-d9qoh9",
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o",
+      "publishedAt": "2026-11-04T23:50:40.000Z",
+      "category": "world",
+      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths."
     },
     {
       "id": "feed-1y903zb",
@@ -334,23 +424,13 @@
       "summary": "Young people and women most at risk, study finds, as researchers call for vegan products to be fortified with iodine in particular Switching from dairy products to plant-based alternatives could lead to deficiencies in vital micronutrients, especially among yo"
     },
     {
-      "id": "feed-h8qli4",
-      "title": "Pound rises to its highest level since the Brexit referendum",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
-      "publishedAt": "2026-11-04T23:30:28.000Z",
-      "category": "uk",
-      "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago"
-    },
-    {
       "id": "feed-151h4fw",
       "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo",
       "publishedAt": "2026-11-04T23:12:47.000Z",
-      "category": "science",
+      "category": "world",
       "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
     },
     {
@@ -464,16 +544,6 @@
       "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record."
     },
     {
-      "id": "feed-qj8dei",
-      "title": "A Dog’s Perfect Christmas review: Netflix kicks off holiday movie season with a whimper",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/nov/04/a-dogs-perfect-christmas-review-netflix",
-      "publishedAt": "2026-11-04T21:14:40.000Z",
-      "category": "uk",
-      "summary": "Dennis Quaid is wasted in a predictable drama with a cute basset hound and not much more US election results may still be trickling in, but Netflix has already made the call: ’tis the season! Just four days into November, with leaves still on the trees and muc"
-    },
-    {
       "id": "feed-vs77cd",
       "title": "Telstra apologises after customers mystified by phantom missed call notifications",
       "source": "The Guardian",
@@ -500,7 +570,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
       "publishedAt": "2026-11-04T20:43:21.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Minister hints at restriction on selling technology ‘to certain users’ amid worries over surreptitious filming of women The government is considering placing restrictions on smart glasses amid concerns the technology is being used to surreptitiously film women"
     },
     {
@@ -530,7 +600,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
       "publishedAt": "2026-11-04T19:44:46.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland."
     },
     {
@@ -562,16 +632,6 @@
       "publishedAt": "2026-11-04T19:25:00.000Z",
       "category": "world",
       "summary": "Russian strikes on an aid hub killed at least 40 people - making it one of Russia's deadliest attacks on Ukrainian civilians since the full-scale invasion began, officials said."
-    },
-    {
-      "id": "feed-1gxhd34",
-      "title": "The midterms were a thumping rebuke of the US-Israel relationship",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
-      "publishedAt": "2026-11-04T19:22:43.000Z",
-      "category": "world",
-      "summary": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same Send us your questions about the midterm results Track live results from all 50 states On the eve of a midterm election that ended in an unequivocal"
     },
     {
       "id": "feed-11ykst1",
@@ -634,16 +694,6 @@
       "summary": "It is getting ever harder for Eurosceptics to deny that it was an economic and strategic blunder for Britain to leave the single market The EU is a constantly evolving institution. The rules keep changing and, since Britain is destined by geography to want a c"
     },
     {
-      "id": "feed-14pcm1h",
-      "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-      "publishedAt": "2026-11-04T18:18:37.000Z",
-      "category": "world",
-      "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been"
-    },
-    {
       "id": "feed-1anhiv5",
       "title": "Trump’s billionaire-blue collar coalition has been smashed by class politics | Aditya Chakrabortty",
       "source": "The Guardian",
@@ -664,14 +714,14 @@
       "summary": "Three men have been arrested after the death of a \"talented\" and \"inspirational\" non-league footballer."
     },
     {
-      "id": "feed-1ecihkw",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "id": "feed-1fxz0vy",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo",
-      "publishedAt": "2026-11-04T18:01:31.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo",
+      "publishedAt": "2026-11-04T18:01:27.000Z",
       "category": "world",
-      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal."
+      "summary": "Democrats can vote legislation through. But Trump still has veto power."
     },
     {
       "id": "feed-1ojcx1z",
@@ -694,6 +744,16 @@
       "summary": "Co-founder of Palestine Action, Huda Ammori, is challenging the government's decision to proscribe the group."
     },
     {
+      "id": "feed-194h777",
+      "title": "'No excuse for venues not to use Ask for Angela'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx35qk223po",
+      "publishedAt": "2026-11-04T17:25:20.000Z",
+      "category": "uk",
+      "summary": "Ten years after it began in Lincoln, the Ask for Angela campaign has become a charity."
+    },
+    {
       "id": "feed-19oc6bb",
       "title": "Tributes paid to drummer with dozens of number ones",
       "source": "BBC News",
@@ -712,16 +772,6 @@
       "publishedAt": "2026-11-04T17:23:06.000Z",
       "category": "uk",
       "summary": "The Ministry of Justice (MoJ) confirmed two men died in custody on Wednesday."
-    },
-    {
-      "id": "feed-1th3th7",
-      "title": "Man hid woman's body in freezer for three years, jury told",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gdl4k74lo",
-      "publishedAt": "2026-11-04T17:22:06.000Z",
-      "category": "uk",
-      "summary": "George Gordon, 65, claims he killed his friend Delia McInerney in self defence but denies murder."
     },
     {
       "id": "feed-75z8zf",
@@ -964,16 +1014,6 @@
       "summary": "Purchasing manager’s index at eight-month high, bolstered by spending on AI as firms regain momentum lost to Iran war The Bank of England is expected to raise interest rates on Thursday after a closely watched survey showed growth across the UK’s services sect"
     },
     {
-      "id": "feed-1o358p5",
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o",
-      "publishedAt": "2026-11-04T13:33:30.000Z",
-      "category": "world",
-      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them."
-    },
-    {
       "id": "feed-rx4osl",
       "title": "French blood banks hacked in latest cyber-attack on Europe",
       "source": "The Guardian",
@@ -1014,16 +1054,6 @@
       "summary": "Are you missing out on the government's £100 energy payment due to being in the wrong council tax band?"
     },
     {
-      "id": "feed-7d6j2i",
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo",
-      "publishedAt": "2026-11-04T12:34:33.000Z",
-      "category": "world",
-      "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin."
-    },
-    {
       "id": "feed-1dzcmkr",
       "title": "M&S boss bemoans last week’s budget as ‘whole lot of nothing’",
       "source": "The Guardian",
@@ -1052,26 +1082,6 @@
       "publishedAt": "2026-11-04T11:58:19.000Z",
       "category": "business",
       "summary": "German carmaker slashes profit margin to between -0.5% and 0.5% this year in face of competition from China The German carmaker BMW has issued its second profit warning in a year, blaming the costs of a restructuring programme including significant job losses "
-    },
-    {
-      "id": "feed-1ekk5kb",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
-      "publishedAt": "2026-11-04T11:47:44.000Z",
-      "category": "world",
-      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get."
-    },
-    {
-      "id": "feed-13jaqyz",
-      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo",
-      "publishedAt": "2026-11-04T11:46:09.000Z",
-      "category": "world",
-      "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo."
     },
     {
       "id": "feed-k4u4cf",
@@ -1190,7 +1200,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
       "publishedAt": "2026-11-04T07:39:38.000Z",
-      "category": "world",
+      "category": "science",
       "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category."
     },
     {
@@ -1892,16 +1902,6 @@
       "publishedAt": "2026-10-31T14:39:00.000Z",
       "category": "technology",
       "summary": "Around 90% of stolen cryptocurrency assets following a hack on a major exchange has been replenished, according to Binance."
-    },
-    {
-      "id": "feed-ozfsm6",
-      "title": "From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter",
-      "publishedAt": "2026-10-31T11:00:40.000Z",
-      "category": "science",
-      "summary": "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a tas"
     }
   ]
 }
