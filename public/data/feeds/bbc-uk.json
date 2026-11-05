@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T20:33:42.328Z",
+  "updatedAt": "2026-11-05T21:29:49.752Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1j78k68",
+      "title": "UK doctor infected with Ebola being treated at London hospital",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T21:26:09.000Z",
+      "summary": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low."
+    },
     {
       "id": "feed-1vbaiff",
       "title": "More Mandelson papers set to be published before Christmas",
@@ -16,20 +24,20 @@
       "summary": "Documents were published in March and June - but others were withheld because they were part of a police investigation."
     },
     {
-      "id": "feed-brm0sa",
-      "title": "British man infected with Ebola in DR Congo arrives in UK for treatment",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T19:49:14.000Z",
-      "summary": "The UK government says there are \"well-established procedures for dealing with cases like this\" and the risk to the public remains low."
-    },
-    {
       "id": "feed-1s572fy",
       "title": "Zimmer frame thrown at train attacker, jury hears",
       "link": "https://www.bbc.co.uk/news/articles/c6ly37727nk3o",
       "source": "BBC News",
       "publishedAt": "2026-11-05T19:40:26.000Z",
       "summary": "One of the stabbing victims says \"all hell's broken loose\" as people locked themselves in toilets."
+    },
+    {
+      "id": "feed-bffax5",
+      "title": "Met 'reset' means fewer police at major events",
+      "link": "https://www.bbc.co.uk/news/articles/c9m26m2xzgmjo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T19:00:33.000Z",
+      "summary": "Sir Mark Rowley says police officers are being moved to boost community policing."
     },
     {
       "id": "feed-nuyt3k",
@@ -46,14 +54,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-05T18:28:35.000Z",
       "summary": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported."
-    },
-    {
-      "id": "feed-crmjtw",
-      "title": "Southport and Nottingham attack victims demand end to data breaches",
-      "link": "https://www.bbc.co.uk/news/articles/c60qkxkl9kkno",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T17:52:19.000Z",
-      "summary": "Families described the unauthorised access of confidential medical records as an \"abuse of power\"."
     },
     {
       "id": "feed-1efms5c",

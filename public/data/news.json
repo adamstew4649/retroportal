@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T20:33:42.344Z",
-  "generatedAt": "2026-11-05T20:33:42.344Z",
+  "updatedAt": "2026-11-05T21:29:49.757Z",
+  "generatedAt": "2026-11-05T21:29:49.757Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -104,14 +104,44 @@
   ],
   "articles": [
     {
-      "id": "feed-9cgchk",
-      "title": "California governor commutes death sentences for all 548 people on death row",
+      "id": "feed-1j78k68",
+      "title": "UK doctor infected with Ebola being treated at London hospital",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo",
+      "publishedAt": "2026-11-05T21:26:09.000Z",
+      "category": "uk",
+      "summary": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low."
+    },
+    {
+      "id": "feed-y9idiz",
+      "title": "Nvidia and SpaceX lose billions in market value as tech and AI stocks plummet",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+      "publishedAt": "2026-11-05T21:25:57.000Z",
+      "category": "world",
+      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms"
+    },
+    {
+      "id": "feed-1p6q6et",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
-      "publishedAt": "2026-11-05T20:28:38.000Z",
+      "publishedAt": "2026-11-05T21:25:48.000Z",
       "category": "world",
-      "summary": "California has historically had the largest population of death row inmates in the US."
+      "summary": "California has historically had the largest population of people on death row in the US."
+    },
+    {
+      "id": "feed-8oedc2",
+      "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+      "publishedAt": "2026-11-05T21:23:18.000Z",
+      "category": "world",
+      "summary": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across bourses The Nasdaq share index had its worst day in 18 months after slumping 5.5% on Thursday amid growing signs that the artificial intelligence industry will face tougher"
     },
     {
       "id": "feed-1b95fdg",
@@ -119,7 +149,7 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-      "publishedAt": "2026-11-05T20:23:28.000Z",
+      "publishedAt": "2026-11-05T21:22:13.000Z",
       "category": "world",
       "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | How do you feel about the results? Sign up for Breaking News US email Election ni"
     },
@@ -129,9 +159,89 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/nov/05/crystal-palace-hoffenheim-sparta-prague-bournemouth-sunderland-celtic-europa-league-live",
-      "publishedAt": "2026-11-05T20:19:49.000Z",
+      "publishedAt": "2026-11-05T21:17:06.000Z",
       "category": "uk",
       "summary": "⚽ Europa League updates, kicking off from 8pm GMT ⚽ Live scores | Europa League table | And email Will Though actually none of the games I’m monitoring have started yet, with delays including the minute’s silence for Jesus de Miguel, the Tenerife striker who d"
+    },
+    {
+      "id": "feed-1byvd7b",
+      "title": "Democratic socialist Nithya Raman wins Los Angeles mayoral race over incumbent Karen Bass",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass",
+      "publishedAt": "2026-11-05T21:12:41.000Z",
+      "category": "world",
+      "summary": "Major shake-up as LA councilmember, once considered long shot, ousts Democratic rival she had once endorsed Who is Nithya Raman, Los Angeles’s next mayor? Nithya Raman was elected to serve as the mayor of Los Angeles, defeating incumbent Karen Bass in a major "
+    },
+    {
+      "id": "feed-1e9o6vb",
+      "title": "Google, Meta and TikTok sue California to block law protecting children from addiction risk",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta",
+      "publishedAt": "2026-11-05T21:10:21.000Z",
+      "category": "uk",
+      "summary": "Law bans social media platforms from providing minors features such as autoplay that lead to compulsive use Google, Meta and TikTok sued California to block enforcement of ⁠a new state law intended ⁠to limit the risk ​of addicting children under 16 to social m"
+    },
+    {
+      "id": "feed-172owxe",
+      "title": "Fifa wants talks over restricting women’s Olympic football to under-23s",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/05/fifa-wants-womens-olympic-football-under-23s",
+      "publishedAt": "2026-11-05T21:08:01.000Z",
+      "category": "uk",
+      "summary": "IOC open to dialogue and Fifa wants input from others Fifa concerned about fixture congestion and workload Fifa wants talks with the International Olympic Committee over restricting the Olympic women’s football tournament to under-23s owing to concerns over fi"
+    },
+    {
+      "id": "feed-ng5hiv",
+      "title": "BBC Inside Science",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa",
+      "publishedAt": "2026-11-05T21:00:00.000Z",
+      "category": "science",
+      "summary": "A glimpse into the world of the incredibly tiny"
+    },
+    {
+      "id": "feed-njrovl",
+      "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
+      "publishedAt": "2026-11-05T20:52:27.000Z",
+      "category": "uk",
+      "summary": "As war rages on in Kyiv and other cities, the first lady celebrates her single-city ceasefire with Russian and Ukrainian envoys Beaming from a podium in the White House’s Grand Foyer, Melania Trump welcomed senior Russian and Ukrainian officials on Thursday to"
+    },
+    {
+      "id": "feed-1nk6ebc",
+      "title": "Gavin Newsom commutes more than 500 death sentences in California",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
+      "publishedAt": "2026-11-05T20:44:57.000Z",
+      "category": "uk",
+      "summary": "Democrat’s move prevents these people from executions under future governors, after Christa Pike’s failed execution Gavin Newsom , California ’s governor, has commuted the death sentences of more than 500 people on the state’s death row on Thursday, a move tha"
+    },
+    {
+      "id": "feed-1cg8w27",
+      "title": "Lewis Hamilton refuses to back down over criticism of teammate Leclerc",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/05/lewis-hamilton-refuses-to-back-down-over-criticism-of-teammate-leclerc",
+      "publishedAt": "2026-11-05T20:38:12.000Z",
+      "category": "uk",
+      "summary": "Ferrari teammates clashed at Mexico Grand Prix Hamilton: ‘I’ve worked hard to build a relationship with Charles’ Lewis Hamilton has refused to back down over his criticism of his Ferrari teammate Charles Leclerc after a flashpoint between the pair at last week"
+    },
+    {
+      "id": "feed-rlrbvw",
+      "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
+      "publishedAt": "2026-11-05T20:30:11.000Z",
+      "category": "uk",
+      "summary": "Doctor who was helping response to outbreak in Africa taken to specialist isolation unit at Royal Free hospital A British doctor who tested positive for Ebola while working in the Democratic Republic of the Congo has returned to the UK for specialist treatment"
     },
     {
       "id": "feed-1vbaiff",
@@ -142,16 +252,6 @@
       "publishedAt": "2026-11-05T20:15:56.000Z",
       "category": "uk",
       "summary": "Documents were published in March and June - but others were withheld because they were part of a police investigation."
-    },
-    {
-      "id": "feed-1nk6ebc",
-      "title": "Gavin Newsom commutes more than 500 death sentences in California",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
-      "publishedAt": "2026-11-05T20:07:12.000Z",
-      "category": "uk",
-      "summary": "Democrat’s move prevents these people from executions under future governors, after Christa Pike’s failed execution Gavin Newsom , California ’s governor, has commuted the death sentences of more than 500 people on the state’s death row on Thursday, a move tha"
     },
     {
       "id": "feed-lpghsv",
@@ -174,26 +274,6 @@
       "summary": "The Environment Agency says it has issued the operator with a series of actions after an inspection."
     },
     {
-      "id": "feed-1eqkmvs",
-      "title": "Deep-red Kansas votes for change as patience wears thin with Trump: ‘The economy is really taking a beating’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/kansas-voters-trump-republicans-dispatch",
-      "publishedAt": "2026-11-05T20:00:32.000Z",
-      "category": "world",
-      "summary": "Bills have soared in rural state buffeted by tariffs and war in Iran – and Democrat Adam Hamilton’s stunning upset shows how deep economic frustrations run Linda Olson always does her homework before voting – a trait she inherited from a family invested, and i"
-    },
-    {
-      "id": "feed-11y4e46",
-      "title": "US accuses Mexican judge of $2m bribe to free accused drug trafficker allegedly linked to ex-Olympic snowboarder",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/mexican-judge-us-arrest-drug-trafficking",
-      "publishedAt": "2026-11-05T19:58:49.000Z",
-      "category": "world",
-      "summary": "The judge oversaw extradition proceedings in Mexico for a Canadian citizen allegedly helping Ryan Wedding A Mexican judge has been arrested and accused of accepting $2m in bribes in exchange for releasing a suspected Canadian drug trafficker from custody, US o"
-    },
-    {
       "id": "feed-1my66xp",
       "title": "Who could be behind hoax bomb threats to European air travel?",
       "source": "BBC News",
@@ -212,36 +292,6 @@
       "publishedAt": "2026-11-05T19:56:39.000Z",
       "category": "uk",
       "summary": "A late, late strike from Daichi Kamada saved Crystal Palace from embarrassment and another round of navel gazing as they snatched a Europa League draw with Hoffenheim against the odds. After being outplayed by a side currently in the bottom half of the Bundesl"
-    },
-    {
-      "id": "feed-b2flal",
-      "title": "Who is Nithya Raman, the democratic socialist who will be Los Angeles’s next mayor?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/who-is-nithya-raman-los-angeles-mayor",
-      "publishedAt": "2026-11-05T19:50:38.000Z",
-      "category": "world",
-      "summary": "Urban planner and outsider who bested Karen Bass has close ties to Hollywood progressives – and a complicated relationship with the DSA Nithya Raman on Thursday unseated Los Angeles mayor Karen Bass after a neck-and-neck race for the leadership for the US’s se"
-    },
-    {
-      "id": "feed-brm0sa",
-      "title": "British man infected with Ebola in DR Congo arrives in UK for treatment",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo",
-      "publishedAt": "2026-11-05T19:49:14.000Z",
-      "category": "uk",
-      "summary": "The UK government says there are \"well-established procedures for dealing with cases like this\" and the risk to the public remains low."
-    },
-    {
-      "id": "feed-hgma27",
-      "title": "‘Dark horse diplomat’: Melania Trump plays both sides in joint Russia-Ukraine White House visit",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
-      "publishedAt": "2026-11-05T19:46:31.000Z",
-      "category": "uk",
-      "summary": "As war rages on in Kyiv and other cities, the first lady celebrates her single-city ceasefire with Russian and Ukrainian envoys Beaming from a podium in the White House’s Grand Foyer, Melania Trump welcomed senior Russian and Ukrainian officials on Thursday to"
     },
     {
       "id": "feed-1s572fy",
@@ -314,6 +364,16 @@
       "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire."
     },
     {
+      "id": "feed-bffax5",
+      "title": "Met 'reset' means fewer police at major events",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c9m26m2xzgmjo",
+      "publishedAt": "2026-11-05T19:00:33.000Z",
+      "category": "uk",
+      "summary": "Sir Mark Rowley says police officers are being moved to boost community policing."
+    },
+    {
       "id": "feed-1skw1l8",
       "title": "I know the dangers a wounded Trump presents – this is how the UK should deal with him now | Kim Darroch",
       "source": "The Guardian",
@@ -344,8 +404,8 @@
       "summary": "The Democrats have gained new powers to constrain Donald Trump. But the drubbing that Republicans received could yet prompt him to new excesses Donald Trump is a president without parallel, but history can still be instructive. Lame duck presidents often focus"
     },
     {
-      "id": "feed-1mzin4f",
-      "title": "Hundreds gather for funeral of Spanish footballer who died after on-pitch collision",
+      "id": "feed-12s2cgp",
+      "title": "Family of footballer who died after on-pitch collision pay tribute to him",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/jesus-de-miguel-hundreds-gather-for-funeral-of-tenerife-striker-13608553",
@@ -374,46 +434,6 @@
       "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s"
     },
     {
-      "id": "feed-10yvp05",
-      "title": "The Guardian view on cocaine and domestic abuse: new links between drugs and crime need investigating | Editorial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/05/the-guardian-view-on-cocaine-and-domestic-abuse-new-links-between-drugs-and-need-investigating",
-      "publishedAt": "2026-11-05T18:47:24.000Z",
-      "category": "uk",
-      "summary": "Patterns of drug supply and use are changing and the government’s five-year-old drug strategy must evolve too A slight drop in the number of drug deaths over a year in England and Wales is the first such news since 2012. Over the past decade, the grim trajecto"
-    },
-    {
-      "id": "feed-1kfi3p2",
-      "title": "US tech shares fall sharply as investors bet on AI slowdown after Democrats’ election triumph",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-      "publishedAt": "2026-11-05T18:44:25.000Z",
-      "category": "uk",
-      "summary": "Nasdaq heading for its worst day in 18 months in volatile trading on Wall Street The Nasdaq share index was on track for its worst day in 18 months after slumping by up to 5% on Thursday amid growing signs that the artificial intelligence industry will face to"
-    },
-    {
-      "id": "feed-1r1ma9m",
-      "title": "WTA apologizes after hot mic captures Pegula’s ‘diva’ remarks about Andreeva",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/05/wta-finals-jessica-pegula-mirra-andreeva-hot-mic-diva-apology",
-      "publishedAt": "2026-11-05T18:42:03.000Z",
-      "category": "uk",
-      "summary": "WTA admits players were not told mics were live Pegula called Andreeva ‘diva’ who ‘needs to be humbled’ Practice livestreams to continue without audio The WTA has apologized and admitted it did not tell players their on-court conversations during practice sess"
-    },
-    {
-      "id": "feed-1rtwvvc",
-      "title": "The Russell Brand verdict is a landmark victory for the understanding of consent | Gaby Hinsliff",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/05/russell-brand-verdict-landmark-victory-consent",
-      "publishedAt": "2026-11-05T18:33:10.000Z",
-      "category": "uk",
-      "summary": "The conviction of the comedian for rape and sexual assault upholds the vital principle that women can say no, even after they’ve said yes With all the sanctimony a born-again Christian rapist can muster, Russell Brand paused on his way into court last week to "
-    },
-    {
       "id": "feed-ud61z5",
       "title": "Russell Brand found guilty of rape and sexual assault",
       "source": "BBC News",
@@ -430,7 +450,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
       "publishedAt": "2026-11-05T18:17:36.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Hoax bomb threats have caused at least 25 flights across Europe to be disrupted, with some forced to make emergency landings, as questions mount over an apparent"
     },
     {
@@ -442,6 +462,16 @@
       "publishedAt": "2026-11-05T18:13:01.000Z",
       "category": "world",
       "summary": "President calls on all parties to help avoid new election after Netanyahu and Eisenkot blocs fell short of majority Israel’s president, Isaac Herzog, was due to meet Benjamin Netanyahu and his chief political rival, Gadi Eisenkot, on Thursday with less than a "
+    },
+    {
+      "id": "feed-1hu1fer",
+      "title": "Meghan's brother a 'person of interest' in child abuse image claims",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/meghans-brother-a-person-of-interest-in-fathers-child-sex-abuse-image-claims-13608538",
+      "publishedAt": "2026-11-05T18:12:00.000Z",
+      "category": "uk",
+      "summary": "Meghan Markle's half brother has been named as a \"person of interest\" in an investigation into child sexual abuse image allegations against the Duchess of Sussex's father."
     },
     {
       "id": "feed-152f2uw",
@@ -464,16 +494,6 @@
       "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
     },
     {
-      "id": "feed-1kvhtvl",
-      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-      "publishedAt": "2026-11-05T17:57:57.000Z",
-      "category": "world",
-      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms"
-    },
-    {
       "id": "feed-1y1rleq",
       "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
       "source": "The Guardian",
@@ -482,16 +502,6 @@
       "publishedAt": "2026-11-05T17:57:54.000Z",
       "category": "world",
       "summary": "EU transport commissioner says ‘too early’ to say if bomb threats to 20 flights are linked Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats thi"
-    },
-    {
-      "id": "feed-crmjtw",
-      "title": "Southport and Nottingham attack victims demand end to data breaches",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c60qkxkl9kkno",
-      "publishedAt": "2026-11-05T17:52:19.000Z",
-      "category": "uk",
-      "summary": "Families described the unauthorised access of confidential medical records as an \"abuse of power\"."
     },
     {
       "id": "feed-sav706",
@@ -550,7 +560,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
       "publishedAt": "2026-11-05T17:21:51.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Minister hints at restriction on selling technology ‘to certain users’ amid worries over surreptitious filming of women The government is considering placing restrictions on smart glasses amid concerns the technology is being used to surreptitiously film women"
     },
     {
@@ -592,16 +602,6 @@
       "publishedAt": "2026-11-05T17:08:29.000Z",
       "category": "world",
       "summary": "New report finds that record label Ador stripped child protections from group’s contracts when they were minors The superstar K-pop group NewJeans signed restrictive record label contracts that waived their right to “sleep, rest and free choice”. A new report "
-    },
-    {
-      "id": "feed-1pbwy4w",
-      "title": "BBC Inside Science",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "category": "science",
-      "summary": "A glimpse into the world of the incredibly tiny"
     },
     {
       "id": "feed-8twpx7",
@@ -1164,16 +1164,6 @@
       "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
     },
     {
-      "id": "feed-duduwm",
-      "title": "Almost 75% of Britons view US as serious threat to global peace",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/almost-75-of-britons-view-us-as-serious-threat-to-global-peace-13608212",
-      "publishedAt": "2026-11-05T03:34:00.000Z",
-      "category": "uk",
-      "summary": "Almost three-quarters of Britons believe the US to be a serious threat to global peace - more than double the figure from two years ago - according to a new survey."
-    },
-    {
       "id": "feed-1ndxovg",
       "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
       "source": "BBC News",
@@ -1542,16 +1532,6 @@
       "publishedAt": "2026-11-04T00:04:35.000Z",
       "category": "technology",
       "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?"
-    },
-    {
-      "id": "feed-1ix9wvh",
-      "title": "Spain's transport minister to resign after train crash killed 69 people",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/spains-transport-minister-oscar-puente-to-resign-after-train-crash-killed-69-people-13607610",
-      "publishedAt": "2026-11-03T20:32:00.000Z",
-      "category": "world",
-      "summary": "Spain's transport minister has said he will step down after two deadly train crashes in less than a year."
     },
     {
       "id": "feed-nzwtml",
