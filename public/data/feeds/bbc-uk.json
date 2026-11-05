@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T01:36:22.635Z",
+  "updatedAt": "2026-11-05T02:42:38.113Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-zjv6pe",
+      "title": "UK commits to 'time-bound' talks on slavery apology",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T02:17:18.000Z",
+      "summary": "Andy Burnham signed up to a broader process to address \"historical harms\" of the transatlantic slave trade, Chris Mason writes."
+    },
     {
       "id": "feed-ej5w5g",
       "title": "The Papers: 'Crushing midterm rebuke' and 'Trumped'",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-04T17:20:25.000Z",
       "summary": "Brandon Rainey of James Street, Ballymena denies the murder of the 21-year-old in Ballymena in 2023."
-    },
-    {
-      "id": "feed-13560nw",
-      "title": "UK government to outlaw new North Sea drilling",
-      "link": "https://www.bbc.co.uk/news/articles/cqn734d24l0go",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T16:28:03.000Z",
-      "summary": "Labour ministers have published legislation that would end the granting of new oil and gas licences."
     }
   ]
 }
