@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T14:44:13.668Z",
+  "updatedAt": "2026-11-05T15:43:25.320Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1e6xdhw",
+      "title": "Six dead and others injured in fire at New York City building",
+      "link": "https://www.bbc.co.uk/news/articles/c39wz44411w0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T15:00:12.000Z",
+      "summary": "The cause of the blaze is not yet clear, after 230 fire and emergency medical personnel went to the scene."
+    },
     {
       "id": "feed-80eg5a",
       "title": "France holds new strikes and protests as unions demand immediate answers",
@@ -16,8 +24,16 @@
       "summary": "Five of France's unions join a wave of strikes and protests in a national day of action."
     },
     {
-      "id": "feed-19jw2zo",
-      "title": "Russell Brand guilty of rape and sexual assault",
+      "id": "feed-y1t5p9",
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T14:29:40.000Z",
+      "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend."
+    },
+    {
+      "id": "feed-np72yb",
+      "title": "Watch: How rapist Brand was never far from controversy",
       "link": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo",
       "source": "BBC News",
       "publishedAt": "2026-11-05T14:28:21.000Z",
@@ -38,14 +54,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-05T12:32:52.000Z",
       "summary": "See the maps and charts that show how America voted in the US midterm elections."
-    },
-    {
-      "id": "feed-15wqpkb",
-      "title": "Ronaldo retires from Portugal duty",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T12:28:01.000Z",
-      "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\"."
     },
     {
       "id": "feed-1mvotvb",
@@ -88,28 +96,12 @@
       "summary": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine."
     },
     {
-      "id": "feed-d9qoh9",
-      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T23:50:40.000Z",
-      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths."
-    },
-    {
       "id": "feed-151h4fw",
       "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo",
       "source": "BBC News",
       "publishedAt": "2026-11-04T23:12:47.000Z",
       "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
-    },
-    {
-      "id": "feed-zl9rs5",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T22:48:43.000Z",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says."
     },
     {
       "id": "feed-1fxz0vy",
@@ -150,6 +142,14 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T23:58:36.000Z",
       "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer."
+    },
+    {
+      "id": "feed-15eh2sm",
+      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T00:09:13.000Z",
+      "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana."
     }
   ]
 }
