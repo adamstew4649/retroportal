@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T13:40:28.976Z",
-  "generatedAt": "2026-11-05T13:40:28.976Z",
+  "updatedAt": "2026-11-05T14:44:13.676Z",
+  "generatedAt": "2026-11-05T14:44:13.676Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -104,14 +104,34 @@
   ],
   "articles": [
     {
-      "id": "feed-1jcjjbl",
-      "title": "Today’s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns – business live",
+      "id": "feed-80eg5a",
+      "title": "France holds new strikes and protests as unions demand immediate answers",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+      "publishedAt": "2026-11-05T14:42:29.000Z",
+      "category": "world",
+      "summary": "Five of France's unions join a wave of strikes and protests in a national day of action."
+    },
+    {
+      "id": "feed-7302p0",
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
+      "publishedAt": "2026-11-05T14:36:26.000Z",
+      "category": "business",
+      "summary": "Most analysts expected the increase from 3.75% to 4%."
+    },
+    {
+      "id": "feed-nv0ndg",
+      "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
-      "publishedAt": "2026-11-05T13:33:33.000Z",
-      "category": "uk",
-      "summary": "UK hit by first interest rate rise in three years, as Bank predicts inflation will approach 5% by middle of 2027 UK government bond prices are also rallying today. This has pushed down the yield, or rate of return, on UK 10-year gilts by 4 basis points (0.04 o"
+      "url": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
+      "publishedAt": "2026-11-05T14:30:25.000Z",
+      "category": "business",
+      "summary": "Cost of servicing external debt is preventing developing countries from investing for future Debt owed by developing countries rose to a record $9.4tn (£7tn) last year, with the poorest paying the highest interest rates since the late 1980s, World Bank data sh"
     },
     {
       "id": "feed-11sm88m",
@@ -119,9 +139,199 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-      "publishedAt": "2026-11-05T13:28:29.000Z",
+      "publishedAt": "2026-11-05T14:29:06.000Z",
       "category": "uk",
-      "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state by less than 1,200 votes Live results | How do you feel about the results? Sign up for Breaking News US email Election night brought a series of dramatic developments, "
+      "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state by fewer than 1,200 votes Live results | How do you feel about the results? Sign up for Breaking News US email Election night brought a series of dramatic developments,"
+    },
+    {
+      "id": "feed-19jw2zo",
+      "title": "Russell Brand guilty of rape and sexual assault",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo",
+      "publishedAt": "2026-11-05T14:28:21.000Z",
+      "category": "uk",
+      "summary": "BBC correspondent Sima Kotecha explains how the trial unfolded."
+    },
+    {
+      "id": "feed-zv6cq7",
+      "title": "Russell Brand found guilty of rape and sexual assault",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault",
+      "publishedAt": "2026-11-05T14:26:33.000Z",
+      "category": "uk",
+      "summary": "Jury returns guilty verdicts after three-and-a-half week trial in which the former comedian denied allegations spanning 10 years Russell Brand has been found guilty of raping a woman and sexually assaulting three others over the course of five years of his sho"
+    },
+    {
+      "id": "feed-w0yiqg",
+      "title": "Burnham says long-awaited 10-year plan may be delayed until January – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
+      "publishedAt": "2026-11-05T14:26:22.000Z",
+      "category": "uk",
+      "summary": "The document has been described as the core policy statement coming from No 10 Yesterday the pro-Brexit Guido Fawkes website published a list of items that it said could be banned as a result of Andy Burnham’s reset with the EU. It was based on items that have"
+    },
+    {
+      "id": "feed-1c11l8u",
+      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+      "publishedAt": "2026-11-05T14:25:47.000Z",
+      "category": "uk",
+      "summary": "EU transport commissioner says ‘too early’ to say if bomb threats to 15 flights are linked Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats thi"
+    },
+    {
+      "id": "feed-et8q9e",
+      "title": "Is that an explosion, an implosion or an orgasm? Pixies bass-player Emma Richardson’s realm-leaping life in painting",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/05/emma-richardson-paintings-pixies-hotwire-my-heart-wolf-collective",
+      "publishedAt": "2026-11-05T14:12:43.000Z",
+      "category": "uk",
+      "summary": "Huge, ecstatic canvases are just one of the vocations of the musician who joined the art rockers in 2024. As her show Hotwire My Heart opens, she talks terror, awe and teabags Emma Richardson loves to eavesdrop when people look at her paintings and talk about "
+    },
+    {
+      "id": "feed-1jcjjbl",
+      "title": "Today’s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
+      "publishedAt": "2026-11-05T14:12:11.000Z",
+      "category": "uk",
+      "summary": "UK hit by first interest rate rise in three years, as Bank predicts inflation will approach 5% by middle of 2027 UK government bond prices are also rallying today. This has pushed down the yield, or rate of return, on UK 10-year gilts by 4 basis points (0.04 o"
+    },
+    {
+      "id": "feed-17brqc",
+      "title": "‘It’s kind of a melting pot’: how one US city transformed a highway into a leafy oasis",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/05/lancaster-california-transformed-highway-leafy-oasis",
+      "publishedAt": "2026-11-05T14:07:12.000Z",
+      "category": "uk",
+      "summary": "The BLVD is home to 250 enterprises, from banks, tattoo shops and restaurants to museums and a performing arts centre Passing through the Mojave desert on State Route 14, going by landscapes Hollywood uses to represent alien planets, a driver might not expect "
+    },
+    {
+      "id": "feed-bb9jc8",
+      "title": "What does the raise in interest rates mean?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno",
+      "publishedAt": "2026-11-05T14:02:24.000Z",
+      "category": "business",
+      "summary": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house."
+    },
+    {
+      "id": "feed-1xpjc2h",
+      "title": "My childhood was one of survival and resilience. How can I model a joyful life for my kids? | Leading questions",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/06/my-childhood-was-one-of-survival-and-resilience-how-can-i-model-a-joyful-life-for-my-kids",
+      "publishedAt": "2026-11-05T14:00:27.000Z",
+      "category": "uk",
+      "summary": "Start with the feeling, not the activities, writes advice columnist Eleanor Gordon-Smith . Making more room for enjoyment is also making more room for your actual self Read more Leading questions I’m a child of first-generation immigrants and have always carri"
+    },
+    {
+      "id": "feed-1tmmdxh",
+      "title": "One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb",
+      "publishedAt": "2026-11-05T14:00:26.000Z",
+      "category": "world",
+      "summary": "Transparency experts raise concerns about plans to use NDA to gag attendees at event featuring Pauline Hanson in lead-up to NSW election Get our breaking news email , free app or daily news podcast One Nation is attempting to gag donors from ever revealing det"
+    },
+    {
+      "id": "feed-1cik1dx",
+      "title": "Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia",
+      "publishedAt": "2026-11-05T14:00:26.000Z",
+      "category": "world",
+      "summary": "Albanese should tread carefully as he struggles to make case for how the new technology will benefit ordinary voters Get our daily political email , free app or daily news podcast When will Australia see the benefits of the AI and datacentre boom? So far, all "
+    },
+    {
+      "id": "feed-lvzzoh",
+      "title": "Seeing Trump and his acolytes lose so spectacularly is powerful schadenfreude for millions across the globe",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/us-midterms-trump-loss-is-powerful-schadenfreude-for-millions",
+      "publishedAt": "2026-11-05T14:00:25.000Z",
+      "category": "uk",
+      "summary": "Trump is still president, and we don’t know where things will go from here – but sometimes it just feels good to see some terrible people have a terrible time The last couple of days have been very bad for Donald Trump. Of course, in Trump’s usual style, he is"
+    },
+    {
+      "id": "feed-1nurc9k",
+      "title": "Stravinsky: The Firebird album review – Rattle revels in colour, crackles and bites",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/nov/05/stravinsky-the-firebird-and-discover-music-with-simon-rattle-album-review",
+      "publishedAt": "2026-11-05T14:00:25.000Z",
+      "category": "uk",
+      "summary": "Bavarian Radio SO/Rattle (BR Klassik) Simon Rattle has recorded the Russian master’s fairytale ballet twice before, but this version has considerable gains, not least in Rattle’s engaging half hour talk about it Simon Rattle and Stravinsky’s fairytale ballet g"
+    },
+    {
+      "id": "feed-1f2edl",
+      "title": "Protesters join street demonstrations across France on day of strike action",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+      "publishedAt": "2026-11-05T14:00:13.000Z",
+      "category": "uk",
+      "summary": "Hospital workers, air traffic and rail staff expected to join industrial action as 70,000 police officers deployed Hundreds of thousands of people are expected to march in demonstrations across France as trade unions call for a nationwide strike expected to ex"
+    },
+    {
+      "id": "feed-ub2bqy",
+      "title": "What does the UK interest rate rise mean for homeowners and savers?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/05/what-does-interest-rate-rise-mean-for-homeowners-and-savers-mortgages",
+      "publishedAt": "2026-11-05T14:00:12.000Z",
+      "category": "business",
+      "summary": "First rate rise for more than three years leaves millions facing rise in mortgage payments Bank of England raises interest rates to 4% Business live – latest updates The Bank of England has hiked interest rates by 0.25 percentage points, taking the base rate t"
+    },
+    {
+      "id": "feed-14ryx4g",
+      "title": "'You've had a wonderful life Tommy, but it's over' - Sir Tom feared he was dying",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c8qlnwng5pzwo",
+      "publishedAt": "2026-11-05T13:56:50.000Z",
+      "category": "uk",
+      "summary": "The singer from Pontypridd told the audience just how serious his \"bad case of the flu\" was."
+    },
+    {
+      "id": "feed-11z0iil",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+      "publishedAt": "2026-11-05T13:51:03.000Z",
+      "category": "world",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law."
+    },
+    {
+      "id": "feed-3rjxgr",
+      "title": "The joy to be found in using new season olive oil",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/food/2026/nov/05/the-joy-to-be-found-in-using-olive-oil-with-abandon",
+      "publishedAt": "2026-11-05T13:50:25.000Z",
+      "category": "uk",
+      "summary": "Freshly harvested olive oil is one of life’s simplest pleasures, and the time to enjoy it is now A few years ago, we were lucky enough to meet Maggie and Martin, the wonderful couple behind Mother’s Garden , an olive grove in Catalonia, whose adventures were d"
+    },
+    {
+      "id": "feed-1066jtw",
+      "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
+      "publishedAt": "2026-11-05T13:47:00.000Z",
+      "category": "uk",
+      "summary": "Dismissals follow Houthi victories and pressure from southern Yemenis for more power The UN-recognised government of Yemen has shaken up its political and military leadership in an attempt to regain territory lost to the Houthis in September and lift the four-"
     },
     {
       "id": "feed-6hjam6",
@@ -129,9 +339,49 @@
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cq5ynjn61kkzo",
-      "publishedAt": "2026-11-05T13:27:13.000Z",
+      "publishedAt": "2026-11-05T13:45:10.000Z",
       "category": "uk",
       "summary": "Two 16-year-old boys from Southampton are arrested on suspicion of attempted murder."
+    },
+    {
+      "id": "feed-1awkc2v",
+      "title": "Trump tries to get 2024 conviction in hush money corruption case thrown out",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-2024-conviction-hush-money",
+      "publishedAt": "2026-11-05T13:43:42.000Z",
+      "category": "uk",
+      "summary": "President’s lawyers will try to persuade appeals court to toss criminal trial verdict over $130,000 sent to Stormy Daniels Donald Trump’s legal team on Thursday plan to continue efforts to get his 2024 conviction in the hush money election corruption case thro"
+    },
+    {
+      "id": "feed-1ri3ac7",
+      "title": "Europe’s far right has a Trump problem after Republican US midterms wipeout",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/republican-wipeout-donald-trump-us-midterms-europe-far-right-message",
+      "publishedAt": "2026-11-05T13:36:31.000Z",
+      "category": "uk",
+      "summary": "European far-right leaders quick to distance themselves from US president and stress their own priorities Europe live – latest updates US midterms live – latest updates The historic Republican defeat in the US midterm elections has forcibly reminded Europe’s f"
+    },
+    {
+      "id": "feed-1w81xpr",
+      "title": "Putin not invited to G20 summit in Manchester, says Burnham",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmqjnkn8951qo",
+      "publishedAt": "2026-11-05T13:35:03.000Z",
+      "category": "uk",
+      "summary": "The prime minister has said sanctions against Russia mean Putin will not attend the summit in November 2027."
+    },
+    {
+      "id": "feed-l7tuar",
+      "title": "Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal",
+      "publishedAt": "2026-11-05T13:32:02.000Z",
+      "category": "uk",
+      "summary": "There is no doubt his international career was an incredible one, but it would have been greater still if he had not lingered on the stage so long Nothing, perhaps, is quite so difficult for an elite sportsman as timing their exit. It’s not easy for any person"
     },
     {
       "id": "feed-1xb9td4",
@@ -154,16 +404,6 @@
       "summary": "Hundreds of first responders worked to control the blaze, and a lithium-ion battery was found at the scene Six people died in a fire that roared through a residential home in New York City early on Thursday and seven others were injured, including three firefi"
     },
     {
-      "id": "feed-1c11l8u",
-      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-      "publishedAt": "2026-11-05T13:17:25.000Z",
-      "category": "uk",
-      "summary": "EU transport commissioner says ‘too early’ to say if bomb threats to 15 flights are linked Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats thi"
-    },
-    {
       "id": "feed-eg2nvd",
       "title": "Faisal Islam: How high will interest rates go?",
       "source": "BBC News",
@@ -181,7 +421,7 @@
       "url": "https://www.theguardian.com/law/2026/nov/05/henry-nowak-killer-vickrum-digwa-should-have-had-longer-sentence-court-of-appeal-hears",
       "publishedAt": "2026-11-05T13:15:05.000Z",
       "category": "uk",
-      "summary": "Vickrum Digwa also challenging the length of his jail term, with his KC describing it as ‘manifestly excessive’ Vickrum Digwa, the killer of Henry Nowak, should have received a longer sentence because of his false accusations of racism against his victim and h"
+      "summary": "Attorney general challenging Vickrum Digwa’s ‘unduly lenient’ sentence, which lawyer for Digwa says is ‘excessive’ Vickrum Digwa, the killer of Henry Nowak, should have received a longer sentence because of his false accusations of racism against his victim an"
     },
     {
       "id": "feed-88m5av",
@@ -194,24 +434,14 @@
       "summary": "Tom Curry injured during training on Wednesday Brother Ben has not played for England since 2025 Tom Curry has emerged as a major doubt for England’s autumn opener against Australia on Sunday, handing Steve Borthwick a huge blow before a crucial November campa"
     },
     {
-      "id": "feed-w0yiqg",
-      "title": "Burnham says long-awaited 10-year plan may be delayed until January – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
-      "publishedAt": "2026-11-05T13:12:08.000Z",
-      "category": "uk",
-      "summary": "The document has been described as the core policy statement coming from No 10 Yesterday the pro-Brexit Guido Fawkes website published a list of items that it said could be banned as a result of Andy Burnham’s reset with the EU. It was based on items that have"
-    },
-    {
-      "id": "feed-7oizis",
-      "title": "Shabana Mahmood accused of hardening immigration plans for 200,000 successful asylum applicants",
+      "id": "feed-1ds86rd",
+      "title": "Mahmood accused of hardening rules for 200,000 successful asylum applicants",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/05/shabana-mahmood-accused-hardening-immigration-plans-200000-successful-asylum-applicants",
       "publishedAt": "2026-11-05T13:10:47.000Z",
-      "category": "uk",
-      "summary": "Cohort who were told they could apply for indefinite leave now face ‘distress and uncertainty’ over 30-year ‘earned settlement’ plans Shabana Mahmood has been accused of causing “distress and uncertainty” to hundreds of thousands of refugees by quietly introdu"
+      "category": "world",
+      "summary": "People previously told they could apply for indefinite leave after five years now come under 30-year ‘earned settlement’ plan Shabana Mahmood has been accused of causing “distress and uncertainty” to hundreds of thousands of refugees by quietly introducing pla"
     },
     {
       "id": "feed-1cl8pw",
@@ -220,18 +450,18 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
       "publishedAt": "2026-11-05T13:10:44.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth Bank of England raises interest rates to 4% Business live – latest updates An interest rate rise by the Bank of Eng"
     },
     {
-      "id": "feed-1x2aj8c",
-      "title": "Cut number of police forces in England to as few as nine, review recommends",
+      "id": "feed-i05uqh",
+      "title": "Police chiefs divided on proposal to axe England’s 39 forces to create ‘super forces’",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
       "publishedAt": "2026-11-05T13:09:45.000Z",
-      "category": "uk",
-      "summary": "Review by ex-Met chief, expected to be published within weeks, calls for reduction from 39 forces to between nine and 18 The number of police forces in England should be cut from 39 to as few as nine super forces, an official review ordered by the government h"
+      "category": "world",
+      "summary": "Review by ex-Met chief, expected to be published soon, calls for replacement of most of 43 forces in England and Wales The number of police forces in England should be cut from 39 to as few as nine “super forces”, an official review ordered by the government h"
     },
     {
       "id": "feed-5dms2q",
@@ -244,74 +474,14 @@
       "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England."
     },
     {
-      "id": "feed-7302p0",
-      "title": "Interest rates hiked to 4% in first increase in over three years",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
-      "publishedAt": "2026-11-05T13:04:36.000Z",
-      "category": "business",
-      "summary": "Most analysts expected the increase from 3.75% to 4%."
-    },
-    {
-      "id": "feed-80eg5a",
-      "title": "France holds new strikes and protests as unions demand immediate answers",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
-      "publishedAt": "2026-11-05T13:04:04.000Z",
-      "category": "world",
-      "summary": "Five of France's unions join a wave of strikes and protests in a national day of action."
-    },
-    {
-      "id": "feed-z836fy",
-      "title": "‘George Lucas told me off for wearing lipstick’: Celia Imrie on Traitors, Star Wars and treating the lens like a lover",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/nov/05/celia-imrie-interview-traitors-star-wars-george-lucas",
-      "publishedAt": "2026-11-05T13:00:25.000Z",
-      "category": "uk",
-      "summary": "The actor answers your questions about trapeze lessons, Bond villain ambitions and Michael Caine’s top tips You looked as if you had such a good time on Celebrity Traitors last year – you had them hanging on your every word. What was it like? Who have you kept"
-    },
-    {
       "id": "feed-1dsqwly",
       "title": "‘Revenge of the nerds’: US midterms deliver a win for science – and a rebuke of Maha",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/05/midterms-science-doctors-maha",
       "publishedAt": "2026-11-05T13:00:24.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "The wins for Democrats come after years of cuts and upheaval to US health and science infrastructure A political organizations behind a wave of Democratic doctors and scientists winning elections up and down the ballot is calling the stunning rebuke of Trumpis"
-    },
-    {
-      "id": "feed-262kri",
-      "title": "No great shakes: the quest for palatable high-protein drinks",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/food/2026/nov/06/no-great-shakes-the-quest-for-palatable-high-protein-drinks",
-      "publishedAt": "2026-11-05T13:00:24.000Z",
-      "category": "uk",
-      "summary": "High-protein, alcohol-free beer? The end times are here. But surely some of these ubiquitous protein drinks are drinkable … aren’t they? As someone who is not unlikely to be tasting wine at 10am on a Tuesday, I am clearly not best placed to offer health advice"
-    },
-    {
-      "id": "feed-1aq4zf4",
-      "title": "The international break is almost here: so wave goodbye to your players, and maybe your manager | Max Rushden",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/05/the-international-break-is-almost-here-so-wave-goodbye-to-your-players-and-maybe-your-manager",
-      "publishedAt": "2026-11-05T13:00:24.000Z",
-      "category": "uk",
-      "summary": "What used to be a time to reset is now a time to rehire, and Michael Carrick is not the only Premier League manager looking over his shoulder Perhaps the most telling moment of Manchester United’s comeback against Roma was at the final whistle. The camera focu"
-    },
-    {
-      "id": "feed-15k5edy",
-      "title": "Raise the Red Lantern review – Gong Li gives a decade-defining performance in an addictively ruthless masterpiece",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review",
-      "publishedAt": "2026-11-05T13:00:24.000Z",
-      "category": "uk",
-      "summary": "Gong simmers with rage, loneliness and humiliation as the ‘fourth mistress’ navigating the intimate political savagery of her husband’s compound in Zhang Yimou’s 1991 thriller Revisiting Zhang Yimou’s grippingly addictive psychological drama from 1991, adapted"
     },
     {
       "id": "feed-lrj6hq",
@@ -354,16 +524,6 @@
       "summary": "See the maps and charts that show how America voted in the US midterm elections."
     },
     {
-      "id": "feed-j7876s",
-      "title": "Where to start with: John Berger",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/books/2026/nov/05/where-to-start-with-john-berger",
-      "publishedAt": "2026-11-05T12:30:23.000Z",
-      "category": "uk",
-      "summary": "The influential British writer and critic was born 100 years ago today. Here’s a guide to his genre-bending writing on art, love, sex, mortality and more John Berger was born a hundred years ago today. He was an artist, critic, novelist, poet, polemicist and p"
-    },
-    {
       "id": "feed-15wqpkb",
       "title": "Ronaldo retires from Portugal duty",
       "source": "BBC News",
@@ -394,16 +554,6 @@
       "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river."
     },
     {
-      "id": "feed-90le8z",
-      "title": "Full of life and catching feelings: Christine and the Queens’ greatest songs – ranked!",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/music/2026/nov/05/full-of-life-and-catching-feelings-christine-and-the-queens-greatest-songs-ranked",
-      "publishedAt": "2026-11-05T12:15:23.000Z",
-      "category": "uk",
-      "summary": "As the French avant-popper returns with new single Rendez-vous avec toi, we celebrate the best of an artist who uses sleek songwriting to grapple with knotty emotion Originally leaked online by the artist himself, Christine and the Queens’ fifth album, Hopecor"
-    },
-    {
       "id": "feed-2guh6w",
       "title": "Why do veterinary fees and sausage rolls vary in price across London?",
       "source": "BBC News",
@@ -414,54 +564,14 @@
       "summary": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out."
     },
     {
-      "id": "feed-1ezzt46",
-      "title": "How did Republicans lose a Senate seat in fireball-red South Carolina?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/south-carolina-republicans-darline-graham-annie-andrews",
-      "publishedAt": "2026-11-05T12:00:23.000Z",
-      "category": "uk",
-      "summary": "Bitter postmortem under way as party comes to terms with Darline Graham’s stunning loss to Annie Andrews It’s not that Shane Brown somehow didn’t know about the US Senate election in South Carolina. Nor was he unaware that the outcome of the race between Senat"
-    },
-    {
       "id": "feed-9u1p0g",
       "title": "What can Britain learn from backlash to Dutch slavery apology?",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/05/what-can-britain-learn-dutch-slavery-apology",
       "publishedAt": "2026-11-05T12:00:23.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "In the Netherlands many felt the move, while welcome, was mishandled and exclusionary, mirroring past inequality Andy Burnham’s pledge to seek a “structured dialogue” with former colonies to help shape Britain’s first formal state apology for slavery marks the"
-    },
-    {
-      "id": "feed-ml0owb",
-      "title": "Outcry after ICE violently detains US citizen walking to high school: ‘I thought they were going to kill me’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/ice-california-detention-santa-maria",
-      "publishedAt": "2026-11-05T12:00:22.000Z",
-      "category": "world",
-      "summary": "Agents pinned down Erik Zepeda, a 20-year-old with disabilities, and left him with a broken wrist in latest example of ICE brutality as activity surges in California The violent ICE detention of a US citizen with disabilities as he walked to his high school ha"
-    },
-    {
-      "id": "feed-1muih2r",
-      "title": "Man who posed as medical student at hospital fails to appear for sentencing",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck62yq9848l8o",
-      "publishedAt": "2026-11-05T11:59:34.000Z",
-      "category": "uk",
-      "summary": "Stephen Simpson was due to be sentenced after admitting carrying out the fraud at Aberdeen Royal Infirmary."
-    },
-    {
-      "id": "feed-1qvhvfn",
-      "title": "Protesters join street demostrations across France on day of strike action",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-      "publishedAt": "2026-11-05T11:59:22.000Z",
-      "category": "world",
-      "summary": "Hospital workers, air traffic and rail staff expected to join industrial action as 70,000 police officers deployed across country Hundreds of thousands of people are expected to march in demonstrations across France as trade unions call for a nationwide strike"
     },
     {
       "id": "feed-aom06f",
@@ -482,16 +592,6 @@
       "publishedAt": "2026-11-05T11:30:03.000Z",
       "category": "science",
       "summary": "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock."
-    },
-    {
-      "id": "feed-1m93yx5",
-      "title": "Family pay tribute to 'ray of sunshine' daughter killed by bus",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xzkkd72pro",
-      "publishedAt": "2026-11-05T11:11:50.000Z",
-      "category": "uk",
-      "summary": "Sophia Aitken died on Tuesday after being struck by a Stagecoach bus at Lauchlan Way in Kilwinning."
     },
     {
       "id": "feed-hcfnad",
@@ -554,8 +654,8 @@
       "summary": "Decision follows reviews of two allegations of rape during filming and one of sexual misconduct Channel 4 has axed its money-spinning reality show Married At First Sight UK, after female participants made allegations of rape and sexual misconduct during its pr"
     },
     {
-      "id": "feed-s321rv",
-      "title": "Cristiano Ronaldo retires from international football",
+      "id": "feed-p2fubp",
+      "title": "Cristiano Ronaldo bows out from national team with emotional message",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/cristiano-ronaldo-retires-from-international-football-13608313",
@@ -580,7 +680,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o",
       "publishedAt": "2026-11-05T10:04:51.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders."
     },
     {
@@ -674,6 +774,16 @@
       "summary": "Democrats’ success was helped by popular anger over tech, AI and the super rich – life for billionaires could become much more difficult The photo of Silicon Valley centi-billionaires at Donald Trump’s inauguration – Musk, Bezos, and Zuckerberg, front row and "
     },
     {
+      "id": "feed-1lw4ory",
+      "title": "Activists across Europe prepare two days of protests against datacentres",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres",
+      "publishedAt": "2026-11-05T09:00:01.000Z",
+      "category": "technology",
+      "summary": "More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects Protesters across Europe are planning two days of action against datacentres this week with demonstrations taking place in 15 countries. More tha"
+    },
+    {
       "id": "feed-9r1pcm",
       "title": "Poundland’s US owner says retailer remains ‘vulnerable’, after talks with ministers",
       "source": "The Guardian",
@@ -692,26 +802,6 @@
       "publishedAt": "2026-11-05T08:39:18.000Z",
       "category": "uk",
       "summary": "England captain Harry Kane signs a new deal with Bayern Munich that runs until 2029."
-    },
-    {
-      "id": "feed-11z0iil",
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
-      "publishedAt": "2026-11-05T08:07:22.000Z",
-      "category": "world",
-      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law."
-    },
-    {
-      "id": "feed-qcygbl",
-      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
-      "publishedAt": "2026-11-05T07:56:21.000Z",
-      "category": "world",
-      "summary": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison The Hong Kong activist Joshua Wong has been sentenced to 10 years in priso"
     },
     {
       "id": "feed-bmqvu4",
@@ -754,16 +844,6 @@
       "summary": "All-round upgrades fit a bigger OLED screen in a smaller and lighter body with water resistance for first time The new iPad mini takes Apple’s fan-favourite tiny tablet and upgrades just about everything about it, including giving it a new OLED screen, serious"
     },
     {
-      "id": "feed-yhpjl1",
-      "title": "Accused double murderer gives evidence in high-profile case – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-      "publishedAt": "2026-11-05T06:58:33.000Z",
-      "category": "world",
-      "summary": "This blog is now closed Beau Lamarre-Condon tells double murder trial he went through Jesse Baird’s phone and poured water into his fuel tank Get our breaking news email , free app or daily news podcast The court has adjourned for lunch. Lamarre-Condon will co"
-    },
-    {
       "id": "feed-1gamvbo",
       "title": "Poundland owner in crunch talks as retailer's collapse looms",
       "source": "BBC News",
@@ -772,16 +852,6 @@
       "publishedAt": "2026-11-05T06:58:03.000Z",
       "category": "business",
       "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland."
-    },
-    {
-      "id": "feed-w6c3w6",
-      "title": "Beau Lamarre-Condon tells double murder trial he went through Jesse Baird’s phone and poured water into his fuel tank",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
-      "publishedAt": "2026-11-05T06:56:01.000Z",
-      "category": "world",
-      "summary": "Former police officer gives evidence in court after pleading not guilty to murdering Baird and Luke Davies in early 2024 The day in court: Beau Lamarre-Condon gives evidence in murder trial Get our breaking news email , free app or daily news podcast Beau Lama"
     },
     {
       "id": "feed-19jk04w",
@@ -814,8 +884,8 @@
       "summary": "The final piece in a £2bn rail project is late, with less than half of the trains tested."
     },
     {
-      "id": "feed-yyy651",
-      "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
+      "id": "feed-1x67hh3",
+      "title": "Democrats won on affordability - how much can they actually deliver?",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o",
@@ -832,16 +902,6 @@
       "publishedAt": "2026-11-05T06:00:55.000Z",
       "category": "business",
       "summary": "Despite the partial U-turn on care worker visas, the staff who keep the system afloat still face a hostile environment If you want to see the senselessness of Britain’s immigration debate play out in real time, look no further than the crackdown on care worker"
-    },
-    {
-      "id": "feed-1g3tzz3",
-      "title": "‘Bring it on’: Pauline Hanson to appeal Mehreen Faruqi racial discrimination ruling in high court",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
-      "publishedAt": "2026-11-05T05:03:08.000Z",
-      "category": "world",
-      "summary": "One Nation leader granted special leave to appeal after full federal court earlier this year agreed Hanson portrayed Faruqi as a ‘second-class citizen’ Get our daily political email , free app or daily news podcast Australia’s high court has agreed to hear Pau"
     },
     {
       "id": "feed-1y5quxg",
@@ -932,16 +992,6 @@
       "publishedAt": "2026-11-05T03:05:34.000Z",
       "category": "uk",
       "summary": "MPs told it's crunch time for a decision on refurbishment amid warnings of a Notre Dame-style fire."
-    },
-    {
-      "id": "feed-1gubgvl",
-      "title": "Trump has been humbled. Now what? - podcast",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/05/trump-has-been-humbled-now-what-podcast",
-      "publishedAt": "2026-11-05T03:00:51.000Z",
-      "category": "business",
-      "summary": "Journalist Molly Ball reports from Washington DC after the Republicans’ resounding midterms defeat. Will the party finally distance itself from Donald Trump? And what will the Democrats do with the power they’ve just gained? Send your comments and questions to"
     },
     {
       "id": "feed-1ndxovg",
@@ -1434,26 +1484,6 @@
       "summary": "Brendan Larsen spent hours taking hundreds of photographs of the sky over a mountain in New Zealand A photograph showing thousands of satellites cross-hatching the night sky over New Zealand appeared so extraordinary the astrophotographer who captured it is fi"
     },
     {
-      "id": "feed-1c4u62d",
-      "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
-      "publishedAt": "2026-11-04T00:14:49.000Z",
-      "category": "technology",
-      "summary": "Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news podcast Canva is cutting or relocating more than 1,200 jobs, representi"
-    },
-    {
-      "id": "feed-1jhtky3",
-      "title": "Canva announces major job cuts after 'our hardest year yet'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo",
-      "publishedAt": "2026-11-04T00:09:35.000Z",
-      "category": "business",
-      "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles."
-    },
-    {
       "id": "feed-nj4zdz",
       "title": "Graduates are managing AI - but are they learning much else?",
       "source": "BBC News",
@@ -1694,16 +1724,6 @@
       "summary": "British troops will be allowed to fire back at Russian forces if attacked as part of a multinational mission to secure any future peace in Ukraine, Western officials have said."
     },
     {
-      "id": "feed-15eh2sm",
-      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no",
-      "publishedAt": "2026-11-03T00:09:13.000Z",
-      "category": "world",
-      "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana."
-    },
-    {
       "id": "feed-1jfubzw",
       "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
       "source": "The Guardian",
@@ -1882,26 +1902,6 @@
       "publishedAt": "2026-10-29T18:00:27.000Z",
       "category": "science",
       "summary": "Oxford study shows Manx shearwaters get lost when their body clocks get out of sync Seabirds returning from foraging trips can be thrown hundreds of miles off course by a form of jet lag that arises when their body clocks get out of sync with local time, resea"
-    },
-    {
-      "id": "feed-q4pca",
-      "title": "‘My hands are shaking’ - what it’s like to be an expert witness - video",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/video/2026/oct/29/my-hands-are-shaking-what-its-like-to-be-an-expert-witness-video",
-      "publishedAt": "2026-10-29T16:25:54.000Z",
-      "category": "science",
-      "summary": "As one of the world’s leading forensic anthropologists, Dame Sue Black has acted as an expert witness in a myriad of high-profile criminal cases. Her work has taken her from the lab to active war zones and the aftermath of natural disasters to identify victims"
-    },
-    {
-      "id": "feed-172wgnw",
-      "title": "Astronauts step out of the ISS for spacewalk – watch live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
-      "publishedAt": "2026-10-29T10:37:14.000Z",
-      "category": "science",
-      "summary": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading..."
     }
   ]
 }
