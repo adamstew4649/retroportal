@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T22:17:21.474Z",
+  "updatedAt": "2026-11-05T23:06:48.759Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1nknjc8",
+      "title": "Firms told to publish salaries in job adverts ahead of new law",
+      "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T22:32:02.000Z",
+      "summary": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination."
+    },
     {
       "id": "feed-fp1drb",
       "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-04T19:38:53.000Z",
       "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online."
-    },
-    {
-      "id": "feed-19dg2gv",
-      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
-      "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T10:47:31.000Z",
-      "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions."
     }
   ]
 }
