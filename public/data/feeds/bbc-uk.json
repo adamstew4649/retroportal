@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T00:04:40.393Z",
+  "updatedAt": "2026-11-05T01:36:22.635Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-ej5w5g",
+      "title": "The Papers: 'Crushing midterm rebuke' and 'Trumped'",
+      "link": "https://www.bbc.co.uk/news/articles/cqn06j94jlrxo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T01:07:55.000Z",
+      "summary": "The Democrats sweep in the US midterm elections is the focus of Thursday's papers."
+    },
     {
       "id": "feed-h8qli4",
       "title": "Pound rises to its highest level since the Brexit referendum",
@@ -40,8 +48,8 @@
       "summary": "As many as 1,700 officers could be deployed in the biggest Police Scotland operation since last year's visit by President Trump."
     },
     {
-      "id": "feed-1fgqhnj",
-      "title": "Chris Mason: The US elections will change Trump – how will Burnham react?",
+      "id": "feed-c7k7ox",
+      "title": "Chris Mason: The US elections will change Trump - how will Burnham react?",
       "link": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o",
       "source": "BBC News",
       "publishedAt": "2026-11-04T21:02:58.000Z",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-04T16:28:03.000Z",
       "summary": "Labour ministers have published legislation that would end the granting of new oil and gas licences."
-    },
-    {
-      "id": "feed-30cbvj",
-      "title": "PSNI pays damages to relatives of murdered UVF victims",
-      "link": "https://www.bbc.co.uk/news/articles/cmjrwx7pznypo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T14:21:26.000Z",
-      "summary": "Relatives of Charles and Teresa Fox and Kevin McKearney sued the police over the alleged involvement of state agents."
     }
   ]
 }

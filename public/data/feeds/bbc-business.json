@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T00:04:40.395Z",
+  "updatedAt": "2026-11-05T01:36:22.638Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1rnikya",
+      "title": "Australia's oldest department store David Jones collapses after 188 years",
+      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T00:59:22.000Z",
+      "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations."
+    },
     {
       "id": "feed-1i1n1ay",
       "title": "Interest rates expected to rise for first time in over three years",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T12:30:04.000Z",
       "summary": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers."
-    },
-    {
-      "id": "feed-1celwdr",
-      "title": "Drivers may get compensation offers before car finance saga ends",
-      "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T11:56:31.000Z",
-      "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair."
     }
   ]
 }
