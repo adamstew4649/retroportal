@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T16:51:45.433Z",
+  "updatedAt": "2026-11-05T17:45:39.652Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-1vm4ole",
+      "title": "BBC Inside Science",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct978k",
+      "source": "BBC News",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "summary": "A glimpse into the world of the incredibly tiny"
+    },
     {
       "id": "feed-bdax9f",
       "title": "Investigation into 'major fish kill' after pollution incident",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T07:19:27.000Z",
       "summary": "The government is launching the first study to measure PFAS in the UK population to understand the risks."
-    },
-    {
-      "id": "feed-140uz45",
-      "title": "AI data centres could undermine UK's emissions goals",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T06:27:17.000Z",
-      "summary": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs."
     }
   ]
 }
