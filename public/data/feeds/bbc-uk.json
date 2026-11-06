@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T03:39:02.594Z",
+  "updatedAt": "2026-11-06T04:42:56.491Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-6m26ic",
+      "title": "Police car set alight in Glasgow amid Bonfire Night trouble",
+      "link": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T04:05:47.000Z",
+      "summary": "Seven arrests were made during disorder in parts of Scotland, with fireworks thrown at emergency workers, police say."
+    },
     {
       "id": "feed-ud61z5",
       "title": "Russell Brand found guilty of rape and sexual assault",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-05T15:39:20.000Z",
       "summary": "A coroner rules Second Lt Max George's death on Salisbury Plain was an accident."
-    },
-    {
-      "id": "feed-1xu1jyx",
-      "title": "The Russell Brand I saw in court was not the flamboyant character most people will know",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T14:37:14.000Z",
-      "summary": "Brand stood upright in the dock as the verdicts were read out in court - ending this sometimes surreal trial."
     }
   ]
 }
