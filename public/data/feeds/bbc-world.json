@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T00:00:27.650Z",
+  "updatedAt": "2026-11-06T01:38:45.540Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-oogdql",
+      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T01:28:03.000Z",
+      "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists."
+    },
+    {
       "id": "feed-fp1drb",
       "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
       "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
       "source": "BBC News",
-      "publishedAt": "2026-11-05T23:59:31.000Z",
-      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms"
+      "publishedAt": "2026-11-06T01:26:52.000Z",
+      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
+    },
+    {
+      "id": "feed-elnegs",
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T00:02:57.000Z",
+      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
     },
     {
       "id": "feed-1jjx0bt",
@@ -128,28 +144,12 @@
       "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
     },
     {
-      "id": "feed-1ndxovg",
-      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T02:09:23.000Z",
-      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament."
-    },
-    {
       "id": "feed-eu3osa",
       "title": "Australia's oldest department store David Jones folds after 188 years",
       "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o",
       "source": "BBC News",
       "publishedAt": "2026-11-05T00:59:22.000Z",
       "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations."
-    },
-    {
-      "id": "feed-14zcoev",
-      "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
-      "link": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T00:32:09.000Z",
-      "summary": "Laura Sides faced a dilemma of whether to find out if she would inherit her father's condition."
     }
   ]
 }
