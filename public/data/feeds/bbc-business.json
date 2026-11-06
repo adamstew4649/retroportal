@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T05:44:59.964Z",
+  "updatedAt": "2026-11-06T06:50:24.566Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,11 +8,19 @@
   },
   "articles": [
     {
+      "id": "feed-1w0n77z",
+      "title": "'I've taken an extra job to pay for heating oil'",
+      "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T06:06:00.000Z",
+      "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices."
+    },
+    {
       "id": "feed-1y9o8bu",
       "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
       "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
       "source": "BBC News",
-      "publishedAt": "2026-11-06T02:57:24.000Z",
+      "publishedAt": "2026-11-06T06:00:59.000Z",
       "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
     },
     {
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-05T04:21:35.000Z",
       "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago."
-    },
-    {
-      "id": "feed-eu3osa",
-      "title": "Australia's oldest department store David Jones folds after 188 years",
-      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T00:59:22.000Z",
-      "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations."
     }
   ]
 }
