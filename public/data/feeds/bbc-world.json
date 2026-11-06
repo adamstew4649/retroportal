@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T15:32:34.707Z",
+  "updatedAt": "2026-11-06T16:37:03.209Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,36 @@
   },
   "articles": [
     {
+      "id": "feed-1b9v3do",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T16:23:16.000Z",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
+    },
+    {
       "id": "feed-doebbt",
       "title": "Two dead after bus crashes in France, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
       "source": "BBC News",
-      "publishedAt": "2026-11-06T15:26:30.000Z",
+      "publishedAt": "2026-11-06T15:33:52.000Z",
       "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
+    },
+    {
+      "id": "feed-7dqhnu",
+      "title": "New wave of bomb threats hit European airlines",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T15:25:35.000Z",
+      "summary": "No link has been established between the threats against the airlines and those against the media outlets."
+    },
+    {
+      "id": "feed-jr92oj",
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T15:02:03.000Z",
+      "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs."
     },
     {
       "id": "feed-18lrast",
@@ -30,6 +54,14 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T14:46:03.000Z",
       "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
+    },
+    {
+      "id": "feed-19f34g6",
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T12:51:38.000Z",
+      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far."
     },
     {
       "id": "feed-tcr7dp",
@@ -118,38 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T02:08:57.000Z",
       "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run."
-    },
-    {
-      "id": "feed-oogdql",
-      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T01:28:03.000Z",
-      "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists."
-    },
-    {
-      "id": "feed-elnegs",
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T00:02:57.000Z",
-      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
-    },
-    {
-      "id": "feed-1jjx0bt",
-      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-      "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T23:16:53.000Z",
-      "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough."
-    },
-    {
-      "id": "feed-1p6q6et",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T23:09:33.000Z",
-      "summary": "California has historically had the largest population of people on death row in the US."
     }
   ]
 }

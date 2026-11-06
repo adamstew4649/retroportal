@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T15:32:34.708Z",
+  "updatedAt": "2026-11-06T16:37:03.209Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,20 +8,36 @@
   },
   "articles": [
     {
+      "id": "feed-1b9v3do",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T16:23:16.000Z",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
+    },
+    {
+      "id": "feed-1wv1jvu",
+      "title": "Winter support for residents facing cost pressures",
+      "link": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T16:22:18.000Z",
+      "summary": "The plans aim to help more people access food, financial advice and help with heating costs."
+    },
+    {
+      "id": "feed-1tgbex0",
+      "title": "Could the US midterms burst the AI bubble?",
+      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T16:14:23.000Z",
+      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time."
+    },
+    {
       "id": "feed-bvlr7g",
       "title": "PM tells firms to publish salaries in job adverts ahead of new law",
       "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
       "source": "BBC News",
       "publishedAt": "2026-11-06T15:25:43.000Z",
       "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination."
-    },
-    {
-      "id": "feed-1b9v3do",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T15:04:46.000Z",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
     },
     {
       "id": "feed-pn6o0s",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-05T13:08:30.000Z",
       "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England."
-    },
-    {
-      "id": "feed-5dms2q",
-      "title": "Three ways the interest rate rise could affect you",
-      "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T13:08:30.000Z",
-      "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England."
-    },
-    {
-      "id": "feed-hcfnad",
-      "title": "Welsh aviation firm AerFin bought in £475m deal",
-      "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T11:01:06.000Z",
-      "summary": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\"."
     }
   ]
 }
