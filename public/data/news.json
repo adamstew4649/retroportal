@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T06:50:24.573Z",
-  "generatedAt": "2026-11-06T06:50:24.573Z",
+  "updatedAt": "2026-11-06T08:00:25.408Z",
+  "generatedAt": "2026-11-06T08:00:25.408Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,176 @@
   ],
   "articles": [
     {
+      "id": "feed-14mbqmm",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
+      "publishedAt": "2026-11-06T07:56:19.000Z",
+      "category": "world",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire."
+    },
+    {
+      "id": "feed-1mqkt5q",
+      "title": "Seven arrested and police car set alight during Bonfire Night violence in Scotland",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o",
+      "publishedAt": "2026-11-06T07:55:14.000Z",
+      "category": "uk",
+      "summary": "Seven arrests were made during disorder in parts of Scotland, with fireworks thrown at emergency workers, police say."
+    },
+    {
+      "id": "feed-1nknjc8",
+      "title": "Firms told to publish salaries in job adverts ahead of new law",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
+      "publishedAt": "2026-11-06T07:36:41.000Z",
+      "category": "uk",
+      "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination."
+    },
+    {
+      "id": "feed-1hlvqnh",
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro",
+      "publishedAt": "2026-11-06T07:33:41.000Z",
+      "category": "world",
+      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest."
+    },
+    {
+      "id": "feed-clp34r",
+      "title": "Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+      "publishedAt": "2026-11-06T07:32:43.000Z",
+      "category": "uk",
+      "summary": "Rolling coverage of the latest economic and financial news, as Asia-Pacific markets slide after Wall Street rout There were some dramatic scenes in Asia-Pacific stock markets today. In Taiwan, the benchmark Taiex stock index plunged a record 3,737.67 points in"
+    },
+    {
+      "id": "feed-1y9o8bu",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+      "publishedAt": "2026-11-06T07:27:26.000Z",
+      "category": "technology",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
+    },
+    {
+      "id": "feed-186cahj",
+      "title": "M&S takes on John Lewis in Christmas ad battle with topless ‘shredded Santa’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/06/marks-and-spencer-john-lewis-christmas-ad-battle-james-norton-lucy-punch-topless-santa",
+      "publishedAt": "2026-11-06T07:00:47.000Z",
+      "category": "uk",
+      "summary": "James Norton and Lucy Punch star as a youthful Mr and Mrs Claus in lively ad about shared moments as well as shopping For years the “Christmas advert moment” has belonged to one brand. John Lewis’s syrupy commercials featuring piano ballads and tearjerker stor"
+    },
+    {
+      "id": "feed-1kaun6t",
+      "title": "‘Every day, someone loses a hand or a leg’: the brutal reality of India’s textile recycling industry",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/global-development/2026/nov/06/india-textile-recycling-industry-workers-factories-accidents-safety-amputations",
+      "publishedAt": "2026-11-06T07:00:47.000Z",
+      "category": "uk",
+      "summary": "In Panipat, 1m tons of used clothing a year are turned into products for global brands, but dangerous machinery and few safeguards mean life-changing injuries are common For three months, Suraj Kumar’s job was to feed discarded clothes into shredding machines "
+    },
+    {
+      "id": "feed-166y9x4",
+      "title": "True North by Paul Theroux review – an American’s view of Canada",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/books/2026/nov/06/true-north-by-paul-theroux-review-an-americans-view-of-canada",
+      "publishedAt": "2026-11-06T07:00:47.000Z",
+      "category": "uk",
+      "summary": "The veteran travel writer turns his eye for detail on his northern neighbour and its people Paul Theroux’s arrival in Canada doesn’t go well. An immigration officer called Sweeney finds a small pocketknife in his car and fines him $500 for failing to declare a"
+    },
+    {
+      "id": "feed-g19lp3",
+      "title": "Dear Andy Burnham: the full story of enslavement has to move beyond comforting stories",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/news/2026/nov/06/andy-burnham-look-past-comforting-stories-enslaved-child-sold-british-street",
+      "publishedAt": "2026-11-06T07:00:46.000Z",
+      "category": "uk",
+      "summary": "The prime minister’s focus on white abolitionists and working-class solidarity diminishes the true scale of Manchester’s reliance on the slavery economy In May 1767, a notice was placed in the Manchester Mercury for “Any Gentleman, or Lady, wanting to purchase"
+    },
+    {
+      "id": "feed-1ni2qxs",
+      "title": "Cop31 will expose the conflicts and contradictions of the world’s fossil fuel reliance",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/06/cop31-coal-turkey-fossil-fuel-reliance",
+      "publishedAt": "2026-11-06T07:00:46.000Z",
+      "category": "uk",
+      "summary": "The move to clean electricity will form the focus of the climate summit, which begins next week in coal-obsessed Turkey. The outlook doesn’t look good • Don’t get Down to Earth delivered to your inbox? Sign up here Holding a climate conference under the presid"
+    },
+    {
+      "id": "feed-10fbq5b",
+      "title": "‘Instead of scuba diving on shrinking reefs, we helped regrow them’: readers’ best conservation tourism experiences",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/travel/2026/nov/06/readers-travel-tips-best-conservation-tourism-holidays",
+      "publishedAt": "2026-11-06T07:00:46.000Z",
+      "category": "uk",
+      "summary": "From a sea turtle rescue centre in Italy to rewilding in the Scottish Highlands, here are some of your favourite trips that give a little back The Ropes of Hope works for coral reef restoration in the Mafia Island marine park , off Tanzania. Instead of scuba d"
+    },
+    {
+      "id": "feed-5pytvv",
+      "title": "Upside-down homes for sale in England – in pictures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/money/gallery/2026/nov/06/upside-down-homes-for-sale-in-england-in-pictures",
+      "publishedAt": "2026-11-06T07:00:46.000Z",
+      "category": "uk",
+      "summary": "From a former Kentish oast house to an award-winning 1950s home an architect built for himself Continue reading..."
+    },
+    {
+      "id": "feed-ws3uoa",
+      "title": "Rivals to 12 12 12: the seven best shows to stream this week",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/06/rivals-to-12-12-12-the-seven-best-shows-to-stream-this-week",
+      "publishedAt": "2026-11-06T07:00:45.000Z",
+      "category": "uk",
+      "summary": "The bonkbuster extravaganza returns … and what a show it is! Plus: Anthony Mackie and Jamie Dornan pull off a borderline impossible bank heist How will Rivals handle a funeral? With intrigue, melodrama and booming 80s power ballads, of course. The first part o"
+    },
+    {
+      "id": "feed-1db2ml5",
+      "title": "Dolly Parton's scheme to send free books to children brought back",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1kne2y5wo",
+      "publishedAt": "2026-11-06T06:49:07.000Z",
+      "category": "uk",
+      "summary": "Children in parts of Wales will be posted a free book every month until their fifth birthday."
+    },
+    {
+      "id": "feed-3smfdx",
+      "title": "Macau jails pro-democracy campaigner in city's first national security case",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o",
+      "publishedAt": "2026-11-06T06:46:21.000Z",
+      "category": "world",
+      "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\"."
+    },
+    {
+      "id": "feed-15cpffd",
+      "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
+      "publishedAt": "2026-11-06T06:43:04.000Z",
+      "category": "world",
+      "summary": "In today’s newsletter: From diverted airliners to hacked ​fridges, a string of disruptive incidents has exposed the ​vulnerabilities of modern ​life. ​There is now an increasingly blurred space between peace and conflict, the grey zone. Good morning. A multipl"
+    },
+    {
       "id": "feed-1fnmnrc",
       "title": "Judge temporarily halts building work on Trump’s triumphal arch",
       "source": "The Guardian",
@@ -124,8 +294,18 @@
       "summary": "She was shot on 14 December 2025 during Hanukah festival and had been in and out of hospital since Get our breaking news email , free app or daily news podcast A woman who was shot during the Bondi beach terror attack has died in hospital almost 12 months afte"
     },
     {
-      "id": "feed-1k98no",
-      "title": "Blue wave sweeping Congress grows – as it happened",
+      "id": "feed-142mvhu",
+      "title": "TV tonight: Monty Don says goodbye to Gardeners’ World after two decades",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/06/tv-tonight-monty-don-says-goodbye-to-gardeners-world-after-two-decades",
+      "publishedAt": "2026-11-06T06:20:45.000Z",
+      "category": "uk",
+      "summary": "He hangs up his trowel for the final time. Plus, a divorce courtroom showdown in Sienna Miller’s glossy drama War. Here’s what to watch this evening 8pm, BBC Two After more than two decades of planting, hedging and harvesting, it’s finally time for Monty Don t"
+    },
+    {
+      "id": "feed-zw4biv",
+      "title": "Democrats flip more House seats – as it happened",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
@@ -152,6 +332,16 @@
       "publishedAt": "2026-11-06T06:15:18.000Z",
       "category": "science",
       "summary": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026."
+    },
+    {
+      "id": "feed-47t5gs",
+      "title": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko",
+      "publishedAt": "2026-11-06T06:08:49.000Z",
+      "category": "uk",
+      "summary": "MPs and peers have urged retailers to remove AI toys from sale ahead of Black Friday and Christmas."
     },
     {
       "id": "feed-odlhci",
@@ -184,16 +374,6 @@
       "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry."
     },
     {
-      "id": "feed-1y9o8bu",
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-      "publishedAt": "2026-11-06T06:00:59.000Z",
-      "category": "world",
-      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
-    },
-    {
       "id": "feed-10vc5ri",
       "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
       "source": "BBC News",
@@ -204,16 +384,6 @@
       "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer."
     },
     {
-      "id": "feed-hnw8gn",
-      "title": "Less is more: what to wear with lace",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/fashion/gallery/2026/nov/06/what-to-wear-with-lace",
-      "publishedAt": "2026-11-06T06:00:45.000Z",
-      "category": "uk",
-      "summary": "For a subtle take on lacy pieces, contrast with wardrobe staples such as chunky brogues and cosy jumpers Continue reading..."
-    },
-    {
       "id": "feed-ef5xpi",
       "title": "Notre-Dame was restored in five years and under budget. But the Palace of Westminster? No chance | Simon Jenkins",
       "source": "The Guardian",
@@ -222,6 +392,16 @@
       "publishedAt": "2026-11-06T06:00:45.000Z",
       "category": "uk",
       "summary": "Estimated costs have already risen from £3.5bn to £40bn. The PM should bite the bullet and relocate MPs outside London – permanently What is the most reactionary public institution in Britain, the most outdated and immune to reform? It is the one that orders u"
+    },
+    {
+      "id": "feed-hnw8gn",
+      "title": "Less is more: what to wear with lace",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/fashion/gallery/2026/nov/06/what-to-wear-with-lace",
+      "publishedAt": "2026-11-06T06:00:45.000Z",
+      "category": "uk",
+      "summary": "For a subtle take on lacy pieces, contrast with wardrobe staples such as chunky brogues and cosy jumpers Continue reading..."
     },
     {
       "id": "feed-pc1qj2",
@@ -264,8 +444,8 @@
       "summary": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules."
     },
     {
-      "id": "feed-r9jvoo",
-      "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
+      "id": "feed-1za47f",
+      "title": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
@@ -304,36 +484,6 @@
       "summary": "Sadler’s Wells East, London Ben Duke’s clever, witty and wholly unpredictable new show, The Last Hamlet, takes big liberties with the story that pay off Hamlet is trying to get a hire car. He has missed his dad’s funeral because he was at a silent retreat, dea"
     },
     {
-      "id": "feed-1tkn8he",
-      "title": "Serbia has banished the monsters from Belgrade – it was, and still is, a truly wonderful revolution | Barbi Marković",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/serbia-banished-monsters-belgrade-student-list-milosevic-regime",
-      "publishedAt": "2026-11-06T05:00:44.000Z",
-      "category": "uk",
-      "summary": "The Student List has shown my generation, who protested against the Milošević regime in the 1990s, how we should have done it On Halloween, a few days after a student-led movement swept aside an illiberal, seemingly invincible regime in my native Serbia, I was"
-    },
-    {
-      "id": "feed-mfx75r",
-      "title": "The Jeremy Bamber files: three crucial questions about the White House Farm massacre",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/nov/06/jeremy-bamber-files-three-crucial-questions-white-house-farm-massacre",
-      "publishedAt": "2026-11-06T05:00:43.000Z",
-      "category": "uk",
-      "summary": "In 1986, Bamber was convicted of the murders of five members of his family. He has always protested his innocence. This year, with the help of leading experts, we have re-examined some of the most compelling evidence Warning: this piece contains crime-scene ph"
-    },
-    {
-      "id": "feed-10o1zvm",
-      "title": "Experience: I helped jail the teacher who groomed me",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/06/experience-i-helped-jail-the-teacher-who-groomed-me",
-      "publishedAt": "2026-11-06T05:00:43.000Z",
-      "category": "uk",
-      "summary": "At 15, having the cool 31-year-old PE teacher single me out felt thrilling. It took years to see his praise for what it really was I was 15 when Paul joined my high school in Queensland, Australia, as a PE teacher. He was fun and handsome, and seemed much youn"
-    },
-    {
       "id": "feed-1scquc6",
       "title": "What can Andy Burnham learn from Donald Trump?",
       "source": "Sky News",
@@ -342,16 +492,6 @@
       "publishedAt": "2026-11-06T05:00:00.000Z",
       "category": "uk",
       "summary": "👉 Click here to listen to Electoral Dysfunction on your podcast app 👈"
-    },
-    {
-      "id": "feed-qcsi2n",
-      "title": "More than 40 pilot whales die after mass stranding in New Zealand’s North Island",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/06/pilot-whales-dead-stranded-new-zealand-north-island",
-      "publishedAt": "2026-11-06T04:45:33.000Z",
-      "category": "uk",
-      "summary": "Rescuers were unable to save the whales after they became beached on a remote and rocky part of the country More than 40 pilot whales died after a mass stranding event on New Zealand’s remote east coast, conservation officials said on Friday, despite rescue ef"
     },
     {
       "id": "feed-kxnhkb",
@@ -364,44 +504,14 @@
       "summary": "Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harder Get our daily political email , free app or daily news podcast The Democrats’ stunning midterm victory should broaden Australi"
     },
     {
-      "id": "feed-b1hvc7",
-      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "id": "feed-1mvhr64",
+      "title": "Trump signs order to preserve Oval Office as national monument",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
       "publishedAt": "2026-11-06T04:29:25.000Z",
       "category": "world",
       "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
-    },
-    {
-      "id": "feed-6m26ic",
-      "title": "Police car set alight in Glasgow amid Bonfire Night trouble",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o",
-      "publishedAt": "2026-11-06T04:05:47.000Z",
-      "category": "uk",
-      "summary": "Seven arrests were made during disorder in parts of Scotland, with fireworks thrown at emergency workers, police say."
-    },
-    {
-      "id": "feed-1j234k5",
-      "title": "Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/06/cape-verde-football-ryan-mendes-sexual-assault-allegation-dismissed-ntwnfb",
-      "publishedAt": "2026-11-06T03:37:32.000Z",
-      "category": "uk",
-      "summary": "New Zealand police dismiss claim of sexual assault at Auckland hotel Incident alleged to have occurred after football friendly in March New Zealand police have dismissed a rape allegation against Cape Verde football captain Ryan Mendes and have charged the acc"
-    },
-    {
-      "id": "feed-h76r71",
-      "title": "BBL veteran Chris Lynn serves secret drugs ban after allegedly testing positive for cocaine",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/06/cricket-chris-lynn-secret-drugs-ban-revealed",
-      "publishedAt": "2026-11-06T03:31:21.000Z",
-      "category": "uk",
-      "summary": "Big Bash League record runscorer handed one-month suspension 36-year-old tested after playing in England’s T20 Blast finals in July Big Bash League record-setter Chris Lynn’s one-month suspension for a positive drugs test has been revealed, two months after he"
     },
     {
       "id": "feed-tyf5hg",
@@ -422,16 +532,6 @@
       "publishedAt": "2026-11-06T02:28:02.000Z",
       "category": "world",
       "summary": "Opposition leader Jess Wilson grimaces as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne Get our breaking news email , free app or daily news podcast The Victorian Liberal party’s first offical day on the ca"
-    },
-    {
-      "id": "feed-x51yuh",
-      "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help",
-      "publishedAt": "2026-11-06T02:11:25.000Z",
-      "category": "uk",
-      "summary": "Ukraine president tells leaders Kyiv needs equipment for its power grid – ‘and we need it fast’. Donald Trump predicts ‘very big’ deal with Russia. What we know on day 1,717 Volodymyr Zelenskyy has urged Latin American leaders to help Ukraine obtain urgently n"
     },
     {
       "id": "feed-vyqtai",
@@ -470,7 +570,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
       "publishedAt": "2026-11-06T01:22:49.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said. The spiders were hidden inside dirty "
     },
     {
@@ -504,6 +604,16 @@
       "summary": "Russell Brand's rape and sexual assault conviction leads many of Friday's papers."
     },
     {
+      "id": "feed-a4r4is",
+      "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo",
+      "publishedAt": "2026-11-06T00:42:05.000Z",
+      "category": "uk",
+      "summary": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit."
+    },
+    {
       "id": "feed-ic9wcz",
       "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
       "source": "BBC News",
@@ -520,7 +630,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation",
       "publishedAt": "2026-11-06T00:29:06.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "President seeks to make Oval Office a national monument to ensure designs are not ‘ripped down by stupid people’ Donald Trump signed a proclamation on Thursday that he says will prevent future administrations from changing his design of the Oval Office and Cab"
     },
     {
@@ -560,8 +670,18 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
       "publishedAt": "2026-11-06T00:04:37.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Mark Rowley calls for ‘revolution’ in policing as major review is expected to propose regional ‘super forces’ Police are heading for failure unless the number of forces in England and Wales is slashed, with their ability to catch criminals collapsing and publi"
+    },
+    {
+      "id": "feed-af4r1l",
+      "title": "Police officers reunited with baby born in back of car",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjxzrez12jo",
+      "publishedAt": "2026-11-06T00:04:24.000Z",
+      "category": "uk",
+      "summary": "Two police officers who were first on the scene as a woman gave birth in a car have been reunited with the baby they helped care for."
     },
     {
       "id": "feed-elnegs",
@@ -614,14 +734,14 @@
       "summary": "Coups de théâtre abound in the $915m addition to western Sydney’s skyline, which opens on Saturday with five new exhibitions – and a 23-day festival Get our weekend culture and lifestyle email Dubbed the “Opera House of western Sydney”, Powerhouse Parramatta’s"
     },
     {
-      "id": "feed-1nknjc8",
-      "title": "Firms told to publish salaries in job adverts ahead of new law",
+      "id": "feed-gl6bc4",
+      "title": "King relishes 'politically charged' deployments, Palace aide says",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
-      "publishedAt": "2026-11-05T22:32:02.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo",
+      "publishedAt": "2026-11-05T22:04:44.000Z",
       "category": "uk",
-      "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination."
+      "summary": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour."
     },
     {
       "id": "feed-sfh110",
@@ -642,16 +762,6 @@
       "publishedAt": "2026-11-05T21:27:24.000Z",
       "category": "business",
       "summary": "Website known for politics, arts and culture coverage announces closure just weeks before anniversary Salon, one of the early internet’s pioneering publications, is closing after more than three decades, the outlet announced on Thursday. “It’s difficult to fin"
-    },
-    {
-      "id": "feed-1j78k68",
-      "title": "UK doctor infected with Ebola being treated at London hospital",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo",
-      "publishedAt": "2026-11-05T21:26:09.000Z",
-      "category": "uk",
-      "summary": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low."
     },
     {
       "id": "feed-1p1gv1v",
@@ -734,16 +844,6 @@
       "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups."
     },
     {
-      "id": "feed-1s572fy",
-      "title": "Zimmer frame thrown at train attacker, jury hears",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly37727nk3o",
-      "publishedAt": "2026-11-05T19:40:26.000Z",
-      "category": "uk",
-      "summary": "One of the stabbing victims says \"all hell's broken loose\" as people locked themselves in toilets."
-    },
-    {
       "id": "feed-1g2l4n9",
       "title": "Eight killed in series of shootings in western Turkey",
       "source": "BBC News",
@@ -764,16 +864,6 @@
       "summary": "Breakaway men's league LIV Golf is to fold instead of launching a new version because of a lack of financial support."
     },
     {
-      "id": "feed-1edqjsk",
-      "title": "Police investigating two further rape allegations against Russell Brand",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-detective-other-potential-victims",
-      "publishedAt": "2026-11-05T19:17:40.000Z",
-      "category": "world",
-      "summary": "Detective urges other potential victims to come forward and says: ‘Our work’s not done’ The lead detective in the case against Russell Brand has urged other potential victims of the comedian to come forward after it emerged he is under investigation for two fu"
-    },
-    {
       "id": "feed-8kstcf",
       "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
       "source": "BBC News",
@@ -782,36 +872,6 @@
       "publishedAt": "2026-11-05T19:08:48.000Z",
       "category": "world",
       "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters."
-    },
-    {
-      "id": "feed-14mbqmm",
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
-      "publishedAt": "2026-11-05T19:08:08.000Z",
-      "category": "world",
-      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire."
-    },
-    {
-      "id": "feed-bffax5",
-      "title": "Met 'reset' means fewer police at major events",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c9m26m2xzgmjo",
-      "publishedAt": "2026-11-05T19:00:33.000Z",
-      "category": "uk",
-      "summary": "Sir Mark Rowley says police officers are being moved to boost community policing."
-    },
-    {
-      "id": "feed-nuyt3k",
-      "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o",
-      "publishedAt": "2026-11-05T18:53:47.000Z",
-      "category": "uk",
-      "summary": "Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut."
     },
     {
       "id": "feed-12s2cgp",
@@ -832,16 +892,6 @@
       "publishedAt": "2026-11-05T18:22:46.000Z",
       "category": "world",
       "summary": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week."
-    },
-    {
-      "id": "feed-129rusc",
-      "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-      "publishedAt": "2026-11-05T18:17:36.000Z",
-      "category": "world",
-      "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Why have more than 30 European flights been hit by bomb threats this week? Hoax bomb threats have disrupted at least 34 flights across Europe this week, with som"
     },
     {
       "id": "feed-1hu1fer",
@@ -924,16 +974,6 @@
       "summary": "Continue reading..."
     },
     {
-      "id": "feed-1efms5c",
-      "title": "Farage says he is worried Trump will step up Iran war after midterm 'disaster'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0vz55jpglo",
-      "publishedAt": "2026-11-05T17:23:49.000Z",
-      "category": "uk",
-      "summary": "Donald Trump \"broke a promise\" to the American electorate by launching the war, Reform UK leader adds."
-    },
-    {
       "id": "feed-v4wkt9",
       "title": "UK government considers smart glasses ban over secret filming concerns",
       "source": "The Guardian",
@@ -950,8 +990,18 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
       "publishedAt": "2026-11-05T17:09:55.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Most analysts expected the increase from 3.75% to 4%."
+    },
+    {
+      "id": "feed-af4ycr",
+      "title": "Watch: Met Police release Brand interview footage",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c693ze38vywxo",
+      "publishedAt": "2026-11-05T16:01:56.000Z",
+      "category": "uk",
+      "summary": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court."
     },
     {
       "id": "feed-qwfk0b",
@@ -1064,16 +1114,6 @@
       "summary": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house."
     },
     {
-      "id": "feed-ub2bqy",
-      "title": "What does the UK interest rate rise mean for homeowners and savers?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/05/what-does-interest-rate-rise-mean-for-homeowners-and-savers-mortgages",
-      "publishedAt": "2026-11-05T14:00:12.000Z",
-      "category": "business",
-      "summary": "First rate rise for more than three years leaves millions facing rise in mortgage payments Bank of England raises interest rates to 4% Business live – latest updates The Bank of England has hiked interest rates by 0.25 percentage points, taking the base rate t"
-    },
-    {
       "id": "feed-pp5cpu",
       "title": "British doctor with Ebola returns to UK for treatment",
       "source": "Sky News",
@@ -1104,16 +1144,6 @@
       "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all."
     },
     {
-      "id": "feed-1cl8pw",
-      "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
-      "publishedAt": "2026-11-05T13:10:44.000Z",
-      "category": "business",
-      "summary": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth Bank of England raises interest rates to 4% Business live – latest updates An interest rate rise by the Bank of Eng"
-    },
-    {
       "id": "feed-5dms2q",
       "title": "Three ways the interest rate rise could affect you",
       "source": "BBC News",
@@ -1122,6 +1152,16 @@
       "publishedAt": "2026-11-05T13:08:30.000Z",
       "category": "business",
       "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England."
+    },
+    {
+      "id": "feed-29r0lf",
+      "title": "PM reviewing decision to give UK military satellite system contract to US firm",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/pm-reviewing-decision-to-give-uk-military-satellite-system-contract-to-us-firm-13608376",
+      "publishedAt": "2026-11-05T12:41:00.000Z",
+      "category": "uk",
+      "summary": "Andy Burnham must settle a bitter battle on Earth between rival American and European companies over the future in space of a critical UK military satellite system."
     },
     {
       "id": "feed-aom06f",
@@ -1162,16 +1202,6 @@
       "publishedAt": "2026-11-05T11:00:23.000Z",
       "category": "technology",
       "summary": "The tech industry spent big on the midterms, but it turned out to be a poor investment. Elon Musk poured a staggering $446m dollars into Republican-aligned political action committees (Pacs) and groups since last year, but his efforts didn’t pay off. Democrats"
-    },
-    {
-      "id": "feed-1h47o20",
-      "title": "Japan FA’s Kozo Tashima to stand against Infantino for Fifa presidency",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president",
-      "publishedAt": "2026-11-05T10:48:42.000Z",
-      "category": "business",
-      "summary": "Tashima says he brings ‘honest, sound, upright attitude’ He is understood to have acted with the blessing of Uefa The Japan Football Association’s honorary president, Kozo Tashima, has announced his intention to stand against Gianni Infantino in March’s Fifa p"
     },
     {
       "id": "feed-p2fubp",
@@ -1872,16 +1902,6 @@
       "publishedAt": "2026-10-29T16:25:54.000Z",
       "category": "science",
       "summary": "As one of the world’s leading forensic anthropologists, Dame Sue Black has acted as an expert witness in a myriad of high-profile criminal cases. Her work has taken her from the lab to active war zones and the aftermath of natural disasters to identify victims"
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
