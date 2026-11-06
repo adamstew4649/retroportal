@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T13:34:01.525Z",
+  "updatedAt": "2026-11-06T14:40:56.564Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-doebbt",
+      "title": "Two dead after bus crashes in France, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T14:33:34.000Z",
+      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
+    },
     {
       "id": "feed-1qyut1i",
       "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
@@ -30,14 +38,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T12:41:44.000Z",
       "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated."
-    },
-    {
-      "id": "feed-doebbt",
-      "title": "Two dead after bus crashes in France, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T12:27:33.000Z",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
     },
     {
       "id": "feed-tcr7dp",
