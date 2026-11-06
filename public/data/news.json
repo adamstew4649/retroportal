@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T10:25:09.609Z",
-  "generatedAt": "2026-11-06T10:25:09.609Z",
+  "updatedAt": "2026-11-06T11:19:29.534Z",
+  "generatedAt": "2026-11-06T11:19:29.534Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,64 @@
   ],
   "articles": [
     {
+      "id": "feed-nixaz1",
+      "title": "Tube drivers stage strikes in Christmas run-up",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo",
+      "publishedAt": "2026-11-06T11:16:09.000Z",
+      "category": "uk",
+      "summary": "The union is in dispute with London Underground over working arrangements for drivers."
+    },
+    {
       "id": "feed-2fzm8e",
       "title": "Jobe Bellingham called up by England, Sunderland face jeers and the FA Cup first round: football news – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
-      "publishedAt": "2026-11-06T10:23:35.000Z",
+      "publishedAt": "2026-11-06T11:13:36.000Z",
       "category": "uk",
       "summary": "⚽ All the latest heading into a busy weekend of football ⚽ Premier League: 10 things to look out for | Mail David What do we make of that then? Josh King a better player than Cole Palmer? Looks like this goes beyond just playing ability. Tuchel’s press confere"
+    },
+    {
+      "id": "feed-1c4tlco",
+      "title": "Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas",
+      "publishedAt": "2026-11-06T11:12:58.000Z",
+      "category": "uk",
+      "summary": "RMT union calls eight 24-hour strikes on London Underground in opposition to plans for four-day week Tube train drivers in the RMT union have called eight 24-hour strikes running over 16 days – including six in the lead-up to Christmas – that threaten to bring"
+    },
+    {
+      "id": "feed-jpwr8u",
+      "title": "Digested week: The harrowing backstory to the John Lewis Christmas ad | Emma Brockes",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/media/2026/nov/06/digested-week-john-lewis-christmas-ad",
+      "publishedAt": "2026-11-06T11:12:03.000Z",
+      "category": "uk",
+      "summary": "Plus, the king’s regret-without-liability statement on slavery, and getting mogged by Collins dictionary All eyes on America as a nation decides, but this week Brits faced an equally large question: namely, how do we feel about this year’s John Lewis Christmas"
+    },
+    {
+      "id": "feed-am4rd0",
+      "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
+      "publishedAt": "2026-11-06T11:08:33.000Z",
+      "category": "uk",
+      "summary": "UN conference this month seen as key moment after years of discussions on filling gap in governance of AI systems Plans to fill a gap in the global governance of autonomous weapons are in jeopardy as group of nations led by Russia and the US move to use a UN c"
+    },
+    {
+      "id": "feed-si9l8q",
+      "title": "'Major milestone' as beavers released into Loch Ness area",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwe5xw0jy3o",
+      "publishedAt": "2026-11-06T11:07:25.000Z",
+      "category": "uk",
+      "summary": "The family of six beavers have been released 500 years after they were last recorded in the area."
     },
     {
       "id": "feed-n21gn9",
@@ -119,19 +169,89 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
-      "publishedAt": "2026-11-06T10:22:40.000Z",
+      "publishedAt": "2026-11-06T11:04:09.000Z",
       "category": "uk",
-      "summary": "Hoax bomb threats targeted commercial flights this week leaving at least 35 planes searched or diverted in Dublin Bomb threats against Irish media organisations have disrupted broadcasts and prompted staff evacuations and police searches on Friday morning. Con"
+      "summary": "Hoax bomb threats targeted commercial flights this week leaving at least 35 planes searched or diverted We are now getting a line from the French PM’s office that four new bomb threats against aircraft flying over the French territory were received today. All "
     },
     {
-      "id": "feed-doebbt",
-      "title": "Two dead after bus crashes in France, officials say",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
-      "publishedAt": "2026-11-06T10:20:46.000Z",
-      "category": "world",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
+      "id": "feed-5pytvv",
+      "title": "Upside-down homes for sale in England – in pictures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/money/gallery/2026/nov/06/upside-down-homes-for-sale-in-england-in-pictures",
+      "publishedAt": "2026-11-06T11:03:10.000Z",
+      "category": "uk",
+      "summary": "From a former Kentish oast house to an award-winning 1950s home an architect built for himself Continue reading..."
+    },
+    {
+      "id": "feed-1mij2x0",
+      "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+      "publishedAt": "2026-11-06T11:01:33.000Z",
+      "category": "uk",
+      "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email F"
+    },
+    {
+      "id": "feed-m667fx",
+      "title": "Rocky review – 50 years on Stallone’s boxer remains a gritty contender",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/nov/06/rocky-review-50-sylvester-stallone-boxer",
+      "publishedAt": "2026-11-06T11:00:52.000Z",
+      "category": "uk",
+      "summary": "The actor’s triumphant breakthrough has clear ancestors in grimy tales of working-class struggle, but finds a fresh, rousing idealism Peter Farrelly’s new film I Play Rocky is about the underdog-with-heart story of how a great boxing movie got made against the"
+    },
+    {
+      "id": "feed-14dedzm",
+      "title": "Identity, resilience and community: early Black portrait photography – in pictures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/06/early-black-american-photography-remember-me-national-gallery",
+      "publishedAt": "2026-11-06T11:00:52.000Z",
+      "category": "uk",
+      "summary": "A new Washington DC exhibition aims to show how African Americans have used portrait photography to depict themselves, their communities, their aspirations and their identities. Titled Remember Me: Picturing African Americans in Early Photography , the exhibit"
+    },
+    {
+      "id": "feed-slbueo",
+      "title": "‘Everything is so out of whack’: UK trees experience spring six months early",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn",
+      "publishedAt": "2026-11-06T11:00:51.000Z",
+      "category": "uk",
+      "summary": "Mild autumn temperatures causing premature flowering and raising concerns for pollinators, say experts Trees are experiencing an “early spring” because of mild UK temperatures this autumn, with experts warning this could cause long-term harm to pollinators. La"
+    },
+    {
+      "id": "feed-1fg0wjb",
+      "title": "Nigel Farage's exit from the Telegraph may be cause for cheer. But there’s a sobering side to this story | Jane Martinson",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai",
+      "publishedAt": "2026-11-06T11:00:51.000Z",
+      "category": "uk",
+      "summary": "The clear-out at the newspaper seems driven less by politics than by a shift towards AI – and journalism will pay the price Nigel Farage has been writing columns for the Daily Telegraph since 2016 , most of which have promoted the previously Brexit and now Ref"
+    },
+    {
+      "id": "feed-i9scsv",
+      "title": "There is a showdown looming in the Democratic party over support for Israel | Moustafa Bayoumi",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/us-midterms-democratic-party-israel-support",
+      "publishedAt": "2026-11-06T11:00:51.000Z",
+      "category": "uk",
+      "summary": "Even Donald Trump has acknowledged that support for Israel is increasingly a political liability in US politics. Will the Democratic leadership listen? Abdul El-Sayed’s victorious path to the US Senate must become a wake-up call to the Democratic party . It sh"
+    },
+    {
+      "id": "feed-ui04l2",
+      "title": "Jerusalem artichokes are nutty and delicious, but will run rampant if you let them",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/06/jerusalem-artichokes-nutty-delicious",
+      "publishedAt": "2026-11-06T11:00:50.000Z",
+      "category": "uk",
+      "summary": "Once this tasty tuber is established in your garden, you’ll have a crop for life. Great news – if you can digest them It’s intriguingly rare to see a crop of jerusalem artichokes , considering how easy they are to grow. They’re part of the sunflower family and"
     },
     {
       "id": "feed-clp34r",
@@ -139,9 +259,79 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-      "publishedAt": "2026-11-06T10:20:19.000Z",
+      "publishedAt": "2026-11-06T10:59:47.000Z",
       "category": "uk",
       "summary": "Rolling coverage of the latest economic and financial news, as Asia-Pacific markets slide after Wall Street rout Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The Nasdaq Composite index, for"
+    },
+    {
+      "id": "feed-18lrast",
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
+      "publishedAt": "2026-11-06T10:57:30.000Z",
+      "category": "world",
+      "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated."
+    },
+    {
+      "id": "feed-doebbt",
+      "title": "Two dead after bus crashes in France, officials say",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
+      "publishedAt": "2026-11-06T10:57:14.000Z",
+      "category": "world",
+      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
+    },
+    {
+      "id": "feed-16tylqq",
+      "title": "Is ‘ferritin face’ real? Why your iron levels might be low - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/video/2026/nov/06/is-ferritin-face-real-why-your-iron-levels-might-be-low-video",
+      "publishedAt": "2026-11-06T10:54:06.000Z",
+      "category": "uk",
+      "summary": "Social media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is ‘ferritin face’ real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron levels up, how we can actu"
+    },
+    {
+      "id": "feed-1hky47m",
+      "title": "Burnham to force employers to publish salaries on job ads in latest government ‘small fix’ – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
+      "publishedAt": "2026-11-06T10:52:41.000Z",
+      "category": "uk",
+      "summary": "Prime minister said his government would bring in legal requirement for companies to say what they pay when listing new jobs The government is considering placing restrictions on smart glasses amid concerns the technology is being used to surreptitiously film "
+    },
+    {
+      "id": "feed-3m0eiy",
+      "title": "Nottingham Forest’s historic goal drought at home is part of longstanding problem",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/06/nottingham-forest-no-goals-home-oliver-glasner",
+      "publishedAt": "2026-11-06T10:49:59.000Z",
+      "category": "uk",
+      "summary": "Oliver Glasner’s side are yet to score at City Ground this season but troubles in front of goal precede his arrival Nottingham Forest and Schalke are yet to score at home in 2026-27. The former are one of only five teams in the history of the English top fligh"
+    },
+    {
+      "id": "feed-cfz6pc",
+      "title": "Amar Dedic set to escape Newcastle sanction over carrying bow and arrow",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/06/amar-dedic-set-to-escape-newcastle-sanction-over-carrying-bow-and-arrow",
+      "publishedAt": "2026-11-06T10:38:34.000Z",
+      "category": "uk",
+      "summary": "Right-back sparked armed police response over incident Expected to start Newcastle’s trip to Fulham on Saturday Newcastle’s Amar Dedic is unlikely to face a club sanction after being spotted holding a bow and arrow in the Northumberland countryside and sparkin"
+    },
+    {
+      "id": "feed-135w80w",
+      "title": "‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated",
+      "publishedAt": "2026-11-06T10:30:38.000Z",
+      "category": "world",
+      "summary": "Brian Devine, 38, banned from all cricket for two years Saltburn 2nd XI relegated and club fined by ECB The club cricketer dubbed “Clicky Ponting” in response to accusations of cheating during the English summer has been handed a two-year ban from the sport. H"
     },
     {
       "id": "feed-13t76tg",
@@ -164,36 +354,6 @@
       "summary": "The new manager will start each workday surrounded by nature at the island wildlife reserve."
     },
     {
-      "id": "feed-14zwj1l",
-      "title": "Tanzanian opposition leader found guilty of incitement",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
-      "publishedAt": "2026-11-06T10:05:32.000Z",
-      "category": "world",
-      "summary": "The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason."
-    },
-    {
-      "id": "feed-1hky47m",
-      "title": "Burnham to force employers to publish salaries on job ads in latest government ‘small fix’ – UK politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
-      "publishedAt": "2026-11-06T10:03:12.000Z",
-      "category": "uk",
-      "summary": "Prime minister said his government would bring in legal requirement for companies to say what they pay when listing new jobs Shabana Mahmood has signalled she is considering a change to knife laws, following the murder of Henry Nowak. The Home Secretary said s"
-    },
-    {
-      "id": "feed-1bpqw13",
-      "title": "Nikita Gill: ‘I read Flowers in the Attic too young. Someone should have stopped me’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/books/2026/nov/06/nikita-gill-i-read-flowers-in-the-attic-too-young-someone-should-have-stopped-me",
-      "publishedAt": "2026-11-06T10:00:50.000Z",
-      "category": "uk",
-      "summary": "The Indian-Irish poet on the Mahabharata retelling that inspired her to write, Arundhati Roy’s courage, and the poetry of Lucille Clifton My earliest reading memory My father was a sailor and my mother a teacher. They were both voracious readers. I was lucky e"
-    },
-    {
       "id": "feed-133nfdj",
       "title": "Trump wooed Latino voters, but his ICE tactics sent them back to the polls: ‘They’re taking our neighbors’",
       "source": "The Guardian",
@@ -210,28 +370,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
       "publishedAt": "2026-11-06T10:00:49.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Government claims removal of former residents of housing complex in Helsingør is unrelated to their ethnicity Denmark’s supreme court is expected to rule on whether the state’s classification of residents with “non-western” backgrounds is covered by racial dis"
-    },
-    {
-      "id": "feed-1r8yqev",
-      "title": "‘Mom encouraged me to get breast implants’: Disney child star Christy Carlson Romano on fame, family and freedom",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/nov/06/disney-child-star-christy-carlson-romano-fame-family-freedom",
-      "publishedAt": "2026-11-06T10:00:49.000Z",
-      "category": "uk",
-      "summary": "She started acting at six and by 16 was starring in Even Stevens with Shia LaBeouf. Then her career fell apart. Here, she explains how she survived growing up in the spotlight In a class at college, Christy Carlson Romano was encouraged to think about her “com"
-    },
-    {
-      "id": "feed-bqh1iy",
-      "title": "We’ve just seen a transformative moment in America’s death penalty history | Austin Sarat",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/california-gavin-newsom-death-row-history",
-      "publishedAt": "2026-11-06T10:00:49.000Z",
-      "category": "uk",
-      "summary": "Gavin Newsom’s decision to empty California’s death row saves hundreds of lives and signals a national shift Gavin Newsom’s decision to empty his state’s death row is a truly remarkable moment in the US’s death penalty history. Not only will it free hundreds o"
     },
     {
       "id": "feed-wvt8ty",
@@ -240,28 +380,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/06/met-police-chief-potential-victims-russell-brand-come-forward",
       "publishedAt": "2026-11-06T10:00:23.000Z",
-      "category": "uk",
-      "summary": "Mark Rowley says he would not be surprised if many more people emerged with allegations against convicted rapist The head of Scotland Yard has called for anyone with fresh allegations against the convicted rapist Russell Brand to come forward. Mark Rowley, the"
-    },
-    {
-      "id": "feed-1bu2c34",
-      "title": "Which beauty Advent calendars are worth the splurge? I tested 20 to find the best in the UK for 2026",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/thefilter/2026/sep/08/best-beauty-advent-calendars-2026-tested-uk",
-      "publishedAt": "2026-11-06T10:00:13.000Z",
-      "category": "uk",
-      "summary": "Christmas is getting closer, and this year’s calendars are already on sale. From bargain buys and cult favourites to cruelty-free picks, here are the ones we rate the most • Don’t get the Filter delivered to your inbox? Sign up here Christmas may still be week"
-    },
-    {
-      "id": "feed-1mij2x0",
-      "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-      "publishedAt": "2026-11-06T09:58:52.000Z",
       "category": "world",
-      "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email W"
+      "summary": "Mark Rowley says he would not be surprised if many more people emerged with allegations against convicted rapist The head of Scotland Yard has called for anyone with fresh allegations against the convicted rapist Russell Brand to come forward. Mark Rowley, the"
     },
     {
       "id": "feed-nr94qy",
@@ -281,7 +401,7 @@
       "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
       "publishedAt": "2026-11-06T09:54:12.000Z",
       "category": "world",
-      "summary": "Further south this week, severe thunderstorms affect midterms voting in Florida, Oklahoma and Colorado Despite the rapid descent into autumn in the northern hemisphere, parts of eastern North America have experienced an exceptionally late taste of summer in re"
+      "summary": "Further south this week, severe thunderstorms affected midterms voting in Florida, Oklahoma and Colorado Despite the rapid descent into autumn in the northern hemisphere, parts of eastern North America have experienced an exceptionally late taste of summer in "
     },
     {
       "id": "feed-1mqkt5q",
@@ -304,16 +424,6 @@
       "summary": "Two 16 year olds have been charged after five boys were seriously injured at a party on Halloween."
     },
     {
-      "id": "feed-1nx5f5k",
-      "title": "Enrico Rava Fearless Five with Joe Lovano: Corners review | John Fordham's jazz album of the month",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/music/2026/nov/06/enrico-rava-fearless-five-with-joe-lovano-corners-review-miles-davis",
-      "publishedAt": "2026-11-06T09:30:48.000Z",
-      "category": "uk",
-      "summary": "(ECM) The Italian trumpeter’s group – featuring an old friend – rip through originals and free improvisation while balancing late-Miles funk with excellent vocals and horn ballads Miles Davis was the gamechanger behind at least three landmark transformations i"
-    },
-    {
       "id": "feed-a66m0p",
       "title": "How does it affect me if share prices fall?",
       "source": "BBC News",
@@ -334,26 +444,6 @@
       "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
     },
     {
-      "id": "feed-1lzqhm7",
-      "title": "This is an age of anti-vaccine unreason – and even NHS staff are not immune | Polly Toynbee",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/anti-vaccine-unreason-nhs-staff-flu",
-      "publishedAt": "2026-11-06T09:00:48.000Z",
-      "category": "uk",
-      "summary": "When fewer than half of health service workers have taken up the flu vaccine, there is little hope for the rest of us Good news. Edward Jenner ’s rustic thatched hut in his Gloucestershire garden where he conducted his first smallpox vaccination in 1796 has ju"
-    },
-    {
-      "id": "feed-16p31q3",
-      "title": "Being Heumann to Avedon: the seven best films to watch on TV this week",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/06/being-heumann-to-avedon-the-seven-best-films-to-watch-on-tv-this-week",
-      "publishedAt": "2026-11-06T09:00:48.000Z",
-      "category": "uk",
-      "summary": "Ruth Madeley is brilliant in a rousing disability rights tale, and Ron Howard’s scintillating ode to one of the greatest photographers of all time Judith Heumann may not be a household name in the UK, but in the US she has been called the “mother of the disabi"
-    },
-    {
       "id": "feed-1sfpard",
       "title": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
       "source": "The Guardian",
@@ -361,7 +451,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
       "publishedAt": "2026-11-06T08:58:22.000Z",
       "category": "world",
-      "summary": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.5% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fear"
+      "summary": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.9% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fear"
     },
     {
       "id": "feed-1oq9gb9",
@@ -370,18 +460,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
       "publishedAt": "2026-11-06T08:54:40.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Workers’ rights campaigners say measure will help young people and women in particular achieve more equal pay UK politics live – latest updates Employers will be forced to publish salaries on job adverts, Andy Burnham has announced, in an effort to empower bot"
-    },
-    {
-      "id": "feed-wx2z1o",
-      "title": "La Roux: Old Flames review – a breezy, hook-packed twist on a breakup album",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/music/2026/nov/06/la-roux-old-flames-review",
-      "publishedAt": "2026-11-06T08:30:47.000Z",
-      "category": "uk",
-      "summary": "(Vertigo) Devastating moments are dressed up with warm production and kinetic 00s R&B in the now quiff-less singer’s grownup fourth album Over the six years that La Roux, AKA Elly Jackson, was making her fourth album, the singer ended a 17-year relationship, c"
     },
     {
       "id": "feed-6rjysy",
@@ -400,7 +480,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw",
       "publishedAt": "2026-11-06T08:23:10.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Impacts in emerging contact sports are akin to coward punches and cannot be made safer with regulation, neurologist says Get our breaking news email , free app or daily news podcast Collision running and face-slapping competitions have similar impacts to that "
     },
     {
@@ -414,34 +494,14 @@
       "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt."
     },
     {
-      "id": "feed-gi1m13",
-      "title": "Seven people arrested in Glasgow after Bonfire Night violence across Scotland",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
-      "publishedAt": "2026-11-06T08:11:24.000Z",
-      "category": "uk",
-      "summary": "Emergency services targeted with fireworks and police vehicle set alight in Glasgow Seven people were arrested in Glasgow after violence on Bonfire Night in parts of Scotland during which fireworks were launched at emergency services and a police vehicle was s"
-    },
-    {
       "id": "feed-1hv7bpd",
       "title": "UK house prices fall at steepest rate in more than three years",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
       "publishedAt": "2026-11-06T08:05:48.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "October drop of 0.6% leaves average price of property at £296,285, says Lloyds, as high mortgage rates hit market Business live – latest updates UK house prices fell at the steepest rate in more than three years in October, marking the fourth consecutive month"
-    },
-    {
-      "id": "feed-1v1557h",
-      "title": "The Assassin review – will anybody save Keeley Hawes from this unbearably pathetic boy?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/06/the-assassin-review-keeley-hawes-amazon-prime-video",
-      "publishedAt": "2026-11-06T08:01:47.000Z",
-      "category": "uk",
-      "summary": "The star is excellent in her return as a midlife assassin. But her whiny son is so annoying, the drama disintegrates into a soggy spy sitcom – he might just have killed the whole show So there’s an assassin, right? Except, it’s not just AN assassin, it’s THE a"
     },
     {
       "id": "feed-14mbqmm",
@@ -514,16 +574,6 @@
       "summary": "The move to clean electricity will form the focus of the climate summit, which begins next week in coal-obsessed Turkey. The outlook doesn’t look good • Don’t get Down to Earth delivered to your inbox? Sign up here Holding a climate conference under the presid"
     },
     {
-      "id": "feed-5pytvv",
-      "title": "Upside-down homes for sale in England – in pictures",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/money/gallery/2026/nov/06/upside-down-homes-for-sale-in-england-in-pictures",
-      "publishedAt": "2026-11-06T07:00:46.000Z",
-      "category": "business",
-      "summary": "From a former Kentish oast house to an award-winning 1950s home an architect built for himself Continue reading..."
-    },
-    {
       "id": "feed-1db2ml5",
       "title": "Dolly Parton's scheme to send free books to children brought back",
       "source": "BBC News",
@@ -562,16 +612,6 @@
       "publishedAt": "2026-11-06T06:36:20.000Z",
       "category": "world",
       "summary": "Federal judge issues 14-day restraining order on any construction work on Washington monument, hours after it was approved by planning commission A federal judge has halted construction work on Donald Trump’s towering triumphal arch for 14 days, a major setbac"
-    },
-    {
-      "id": "feed-si9l8q",
-      "title": "'Major milestone' as beavers released into Loch Ness area",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwe5xw0jy3o",
-      "publishedAt": "2026-11-06T06:26:33.000Z",
-      "category": "uk",
-      "summary": "The family of six beavers have been released 500 years after they were last recorded in the area."
     },
     {
       "id": "feed-1g4fq3n",
@@ -634,6 +674,16 @@
       "summary": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026."
     },
     {
+      "id": "feed-vbklt1",
+      "title": "Two dead after bus carrying schoolchildren crashes in France, officials say",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/two-dead-after-bus-carrying-schoolchildren-crashes-in-france-officials-say-13608677",
+      "publishedAt": "2026-11-06T06:12:00.000Z",
+      "category": "world",
+      "summary": "One child and a young adult have been killed after a bus crashed in eastern France, French authorities said."
+    },
+    {
       "id": "feed-47t5gs",
       "title": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
       "source": "BBC News",
@@ -664,8 +714,8 @@
       "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices."
     },
     {
-      "id": "feed-1lswi4y",
-      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "id": "feed-11ale2z",
+      "title": "Did a data centre revolt affect the US midterm election results?",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o",
@@ -830,7 +880,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o",
       "publishedAt": "2026-11-06T00:02:52.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work"
     },
     {
@@ -1112,16 +1162,6 @@
       "publishedAt": "2026-11-05T14:40:48.000Z",
       "category": "business",
       "summary": "Telecoms group reports £1.1bn pre-tax profit in six months to end of September and share price touches five-year high Business live – latest updates BT has cut almost 8,000 jobs since the end of March as it pushes ahead with sweeping cost reductions across the"
-    },
-    {
-      "id": "feed-b6odp1",
-      "title": "Amtrak workers’ union denounces plan to let passengers bring guns on trains: ‘Sheer lunacy’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/05/amtrak-workers-union-passengers-guns",
-      "publishedAt": "2026-11-05T14:34:44.000Z",
-      "category": "business",
-      "summary": "New policy would permit passengers to take firearms to their seats in lockboxes on 1,500 trains a day across the US The Transport Workers Union, which represents 360 onboard service workers at the national passenger rail operator Amtrak, has lambasted the plan"
     },
     {
       "id": "feed-9n4dh3",
@@ -1504,6 +1544,16 @@
       "summary": "Pups that carry your shopping are one thing – but what about the mechanical canines being bought up in the US by ICE? Or the mutant mutts due to be developed by a startup called Warhound? Have you ever wanted to hang out with a dog with no fur, no face and a c"
     },
     {
+      "id": "feed-fdvw3u",
+      "title": "How a scientist went from hero to traitor in a US water crisis - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/video/2026/nov/04/how-a-scientist-went-from-hero-to-traitor-in-a-us-water-crisis-video",
+      "publishedAt": "2026-11-04T10:47:01.000Z",
+      "category": "science",
+      "summary": "When the water in Flint, Michigan, became contaminated with dangerous levels of lead, Dr Siddhartha Roy, then a third year PhD student, was part of the team of scientists who publicly contradicted state and federal claims that it was safe. He became a local he"
+    },
+    {
       "id": "feed-j64nn9",
       "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
       "source": "BBC News",
@@ -1822,16 +1872,6 @@
       "publishedAt": "2026-10-31T11:00:40.000Z",
       "category": "science",
       "summary": "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a tas"
-    },
-    {
-      "id": "feed-1n95sjn",
-      "title": "Migrating seabirds face a surprising problem: jet lag",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
-      "publishedAt": "2026-10-29T18:00:27.000Z",
-      "category": "science",
-      "summary": "Oxford study shows Manx shearwaters get lost when their body clocks get out of sync Seabirds returning from foraging trips can be thrown hundreds of miles off course by a form of jet lag that arises when their body clocks get out of sync with local time, resea"
     },
     {
       "id": "feed-aihyai",
