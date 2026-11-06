@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T02:41:23.492Z",
+  "updatedAt": "2026-11-06T03:39:02.596Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,20 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-b1hvc7",
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T03:33:25.000Z",
+      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
+    },
+    {
+      "id": "feed-1y9o8bu",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T02:57:24.000Z",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
+    },
+    {
       "id": "feed-vyqtai",
       "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
       "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
       "source": "BBC News",
       "publishedAt": "2026-11-06T02:08:57.000Z",
-      "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses."
-    },
-    {
-      "id": "feed-fp1drb",
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T01:44:03.000Z",
-      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
+      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run."
     },
     {
       "id": "feed-oogdql",
@@ -30,14 +38,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T01:28:03.000Z",
       "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists."
-    },
-    {
-      "id": "feed-b1hvc7",
-      "title": "Trump signs order preventing future presidents from changing Oval Office",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T01:20:01.000Z",
-      "summary": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington."
     },
     {
       "id": "feed-elnegs",
