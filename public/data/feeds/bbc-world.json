@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T11:19:29.528Z",
+  "updatedAt": "2026-11-06T12:10:54.100Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,11 +8,19 @@
   },
   "articles": [
     {
+      "id": "feed-1qyut1i",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T11:54:08.000Z",
+      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
+    },
+    {
       "id": "feed-18lrast",
       "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
       "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
       "source": "BBC News",
-      "publishedAt": "2026-11-06T10:57:30.000Z",
+      "publishedAt": "2026-11-06T11:36:14.000Z",
       "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated."
     },
     {
@@ -20,7 +28,7 @@
       "title": "Two dead after bus crashes in France, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
       "source": "BBC News",
-      "publishedAt": "2026-11-06T10:57:14.000Z",
+      "publishedAt": "2026-11-06T11:21:20.000Z",
       "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
     },
     {
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-05T19:58:40.000Z",
       "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups."
-    },
-    {
-      "id": "feed-1g2l4n9",
-      "title": "Eight killed in series of shootings in western Turkey",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T19:32:54.000Z",
-      "summary": "Victims are found in several locations in three separate vehicles, according to local reports."
     }
   ]
 }
