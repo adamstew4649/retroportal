@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T01:38:45.547Z",
-  "generatedAt": "2026-11-06T01:38:45.547Z",
+  "updatedAt": "2026-11-06T02:41:23.498Z",
+  "generatedAt": "2026-11-06T02:41:23.498Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 7
+      "count": 5
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,86 @@
   ],
   "articles": [
     {
+      "id": "feed-11d64iu",
+      "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+      "publishedAt": "2026-11-06T02:34:18.000Z",
+      "category": "uk",
+      "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email E"
+    },
+    {
+      "id": "feed-1s3kuud",
+      "title": "Beau Lamarre-Condon trial live updates: prosecution begins cross-examination of double murder accused",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
+      "publishedAt": "2026-11-06T02:24:22.000Z",
+      "category": "world",
+      "summary": "Lamarre-Condon returns to witness box for day two of his evidence. He has pleaded not guilty to murdering the couple in Sydney in 2024 Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’ Get our breaki"
+    },
+    {
+      "id": "feed-ud61z5",
+      "title": "Russell Brand found guilty of rape and sexual assault",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o",
+      "publishedAt": "2026-11-06T02:21:20.000Z",
+      "category": "uk",
+      "summary": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported."
+    },
+    {
+      "id": "feed-x51yuh",
+      "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help",
+      "publishedAt": "2026-11-06T02:11:25.000Z",
+      "category": "uk",
+      "summary": "Ukraine presidents tells leaders Kyiv needs equipment for its power grid – ‘and we need it fast’. Donald Trump predicts ‘very big’ deal with Russia. What we know on day 1,717 Volodymyr Zelenskyy has urged Latin American leaders to help Ukraine obtain urgently "
+    },
+    {
+      "id": "feed-vyqtai",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
+      "publishedAt": "2026-11-06T02:08:57.000Z",
+      "category": "world",
+      "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses."
+    },
+    {
+      "id": "feed-1wxwam1",
+      "title": "Dolly Parton’s manager drops complaint accusing nephew of harassment",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/nov/05/dolly-parton-nephew-harassment",
+      "publishedAt": "2026-11-06T01:45:45.000Z",
+      "category": "uk",
+      "summary": "Tennessee filing gives no reason for withdrawal over Bryan Seaver after estate secured restraining order against him Dolly Parton’s longtime manager on Thursday dropped a complaint that accused the late singer’s nephew of threatening her estate and its employe"
+    },
+    {
+      "id": "feed-fp1drb",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+      "publishedAt": "2026-11-06T01:44:03.000Z",
+      "category": "world",
+      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
+    },
+    {
+      "id": "feed-r9jvoo",
+      "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
+      "publishedAt": "2026-11-06T01:36:20.000Z",
+      "category": "world",
+      "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024 Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial Beau Lamarre-Condon has"
+    },
+    {
       "id": "feed-oogdql",
       "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
       "source": "BBC News",
@@ -112,26 +192,6 @@
       "publishedAt": "2026-11-06T01:28:03.000Z",
       "category": "world",
       "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists."
-    },
-    {
-      "id": "feed-fp1drb",
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-      "publishedAt": "2026-11-06T01:26:52.000Z",
-      "category": "world",
-      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
-    },
-    {
-      "id": "feed-11d64iu",
-      "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-      "publishedAt": "2026-11-06T01:23:42.000Z",
-      "category": "uk",
-      "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email E"
     },
     {
       "id": "feed-1whstus",
@@ -154,14 +214,14 @@
       "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains."
     },
     {
-      "id": "feed-17pxkb8",
-      "title": "Beau Lamarre-Condon trial live updates: double murder accused tells court of ‘outer-body experience’ after shootings",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-      "publishedAt": "2026-11-06T01:19:48.000Z",
+      "id": "feed-b1hvc7",
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
+      "publishedAt": "2026-11-06T01:20:01.000Z",
       "category": "world",
-      "summary": "Lamarre-Condon returns to witness box for day two of his evidence. He has pleaded not guilty to murdering the couple in Sydney in 2024 Get our breaking news email , free app or daily news podcast Lamarre-Condon ‘had an idea’ to dress up as an UberEats rider La"
+      "summary": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington."
     },
     {
       "id": "feed-13t76tg",
@@ -534,16 +594,6 @@
       "summary": "The president seems to accept this is his last White House stint and is focused on renovating whatever he can get his little hands on As you’d expect, the right is in a shambles right now. Elon Musk is making jokes about his “election-interfering space lasers”"
     },
     {
-      "id": "feed-8kb9ru",
-      "title": "US midterm voters responded in a thunderous voice. This is just the beginning | Betsy Reed",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/us-midterm-election-free-press",
-      "publishedAt": "2026-11-05T19:09:42.000Z",
-      "category": "uk",
-      "summary": "A note from our US editor: A reckoning is coming, but make no mistake: Trump is still president – we’ll need a free press in 2027 as much as we did in darker days. Please help today if you are able Betsy Reed is US editor of the Guardian Over the past two year"
-    },
-    {
       "id": "feed-8kstcf",
       "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
       "source": "BBC News",
@@ -572,16 +622,6 @@
       "publishedAt": "2026-11-05T19:00:33.000Z",
       "category": "uk",
       "summary": "Sir Mark Rowley says police officers are being moved to boost community policing."
-    },
-    {
-      "id": "feed-1skw1l8",
-      "title": "I know the dangers a wounded Trump presents – this is how the UK should deal with him now | Kim Darroch",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/05/trump-midterms-defeat-how-should-uk-deal-ambassador-kim-darroch",
-      "publishedAt": "2026-11-05T19:00:31.000Z",
-      "category": "uk",
-      "summary": "Power is draining away at home, but the US president will see a chance to make his mark through foreign policy Kim Darroch was Britain’s ambassador to the US between January 2016 and December 2019 Election nights are party time in Washington . The bars and res"
     },
     {
       "id": "feed-nuyt3k",
@@ -622,16 +662,6 @@
       "publishedAt": "2026-11-05T18:48:07.000Z",
       "category": "world",
       "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s"
-    },
-    {
-      "id": "feed-ud61z5",
-      "title": "Russell Brand found guilty of rape and sexual assault",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o",
-      "publishedAt": "2026-11-05T18:28:35.000Z",
-      "category": "uk",
-      "summary": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported."
     },
     {
       "id": "feed-1xfgszt",
@@ -732,16 +762,6 @@
       "publishedAt": "2026-11-05T17:39:48.000Z",
       "category": "world",
       "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
-    },
-    {
-      "id": "feed-1dh9xzc",
-      "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
-      "publishedAt": "2026-11-05T17:37:27.000Z",
-      "category": "world",
-      "summary": "Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect The Duchess of Sussex’s estranged half-brother, Thomas Markle Jr, has been named as a “person of interest” in the Phil"
     },
     {
       "id": "feed-1xq61qu",
@@ -1044,16 +1064,6 @@
       "summary": "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock."
     },
     {
-      "id": "feed-1s5t8gw",
-      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o",
-      "publishedAt": "2026-11-05T11:21:35.000Z",
-      "category": "world",
-      "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series."
-    },
-    {
       "id": "feed-hcfnad",
       "title": "Welsh aviation firm AerFin bought in £475m deal",
       "source": "BBC News",
@@ -1102,16 +1112,6 @@
       "publishedAt": "2026-11-05T10:30:00.000Z",
       "category": "world",
       "summary": "Cristiano Ronaldo has announced his retirement from international football."
-    },
-    {
-      "id": "feed-18nqgik",
-      "title": "'I'll die in prison,' says man who drugged and raped wife in case likened to Gisele Pelicot",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/ill-die-in-prison-for-what-ive-done-says-man-who-drugged-and-raped-wife-in-case-likened-to-gisele-pelicot-13608296",
-      "publishedAt": "2026-11-05T10:10:00.000Z",
-      "category": "uk",
-      "summary": "A man who drugged and raped his wife for more than 20 years in a case likened to Gisele Pelicot expects to \"die in prison for what he has done\", a court has heard."
     },
     {
       "id": "feed-w8graf",
@@ -1192,16 +1192,6 @@
       "publishedAt": "2026-11-05T07:34:00.000Z",
       "category": "business",
       "summary": "A healthtech company run by one of Britain's most prominent venture capitalists has agreed to buy a women's health specialist amid rising corporate demand for the provision of fertility and other sexual health-related benefits to employees."
-    },
-    {
-      "id": "feed-b1u2g7",
-      "title": "Third person charged after police officer shot in foot in Nottingham",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/third-person-charged-after-police-officer-shot-in-foot-in-nottingham-13608240",
-      "publishedAt": "2026-11-05T07:29:00.000Z",
-      "category": "uk",
-      "summary": "A 31-year-old woman has become the third person to be charged after a police officer was shot in the foot at a bus stop in Nottingham city centre."
     },
     {
       "id": "feed-1nc5fgk",
@@ -1300,7 +1290,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o",
       "publishedAt": "2026-11-05T00:59:22.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations."
     },
     {
@@ -1584,11 +1574,11 @@
       "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?"
     },
     {
-      "id": "feed-nzwtml",
+      "id": "feed-17j2cdh",
       "title": "Tech Life",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
       "publishedAt": "2026-11-03T20:30:00.000Z",
       "category": "technology",
       "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show."
