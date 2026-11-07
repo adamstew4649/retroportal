@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T17:03:54.165Z",
+  "updatedAt": "2026-11-07T17:55:26.439Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-f1nqsg",
+      "title": "Third person arrested after car damaged by gunshots",
+      "link": "https://www.bbc.co.uk/news/articles/cmkgekz79vd9o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T15:58:16.000Z",
+      "summary": "A 29-year-old man was taken into custody on Saturday morning following two earlier arrests on Friday."
+    },
     {
       "id": "feed-p3fuwp",
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -38,14 +46,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-07T14:28:40.000Z",
       "summary": "A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and burst."
-    },
-    {
-      "id": "feed-16fc3n4",
-      "title": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k00rp2e35o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-07T13:22:32.000Z",
-      "summary": "Police said a vehicle in Morriston, Swansea, sustained damage \"consistent with a firearms discharge\"."
     },
     {
       "id": "feed-998d4u",
@@ -141,7 +141,7 @@
       "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no",
       "source": "BBC News",
       "publishedAt": "2026-11-07T00:31:54.000Z",
-      "summary": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?"
+      "summary": "How prepared is the UK for the type of event that could leave millions without power, water and communications?"
     },
     {
       "id": "feed-1duq5u1",
