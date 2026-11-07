@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T12:37:25.672Z",
+  "updatedAt": "2026-11-07T13:39:06.994Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-ht1qb4",
+      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T12:49:36.000Z",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
+    },
     {
       "id": "feed-16fbupu",
       "title": "Four things we learned this week about 2028 White House race",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T14:57:08.000Z",
       "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated."
-    },
-    {
-      "id": "feed-1qyut1i",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T14:46:03.000Z",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
     }
   ]
 }
