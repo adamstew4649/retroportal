@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T17:55:26.448Z",
-  "generatedAt": "2026-11-07T17:55:26.448Z",
+  "updatedAt": "2026-11-07T18:23:21.164Z",
+  "generatedAt": "2026-11-07T18:23:21.164Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -104,12 +104,32 @@
   ],
   "articles": [
     {
+      "id": "feed-udfmwu",
+      "title": "What we know about Krakow mass shooting so far",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+      "publishedAt": "2026-11-07T18:22:11.000Z",
+      "category": "world",
+      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
+    },
+    {
+      "id": "feed-vt8qsg",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
+      "publishedAt": "2026-11-07T18:14:38.000Z",
+      "category": "world",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
+    },
+    {
       "id": "feed-15thpql",
       "title": "Nottingham Forest v Manchester City: Premier League – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
-      "publishedAt": "2026-11-07T17:53:56.000Z",
+      "publishedAt": "2026-11-07T18:08:23.000Z",
       "category": "uk",
       "summary": "⚽ Premier League updates from the 5.30pm GMT kick-off ⚽ Live scores | Full tables | Follow us on TikTok | Mail Tom We’re off at the City Ground. Before kick-off, we’ll hear The Last Post. Remembrance Sunday is tomorrow. Continue reading..."
     },
@@ -119,9 +139,39 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
-      "publishedAt": "2026-11-07T17:52:34.000Z",
+      "publishedAt": "2026-11-07T18:07:17.000Z",
       "category": "uk",
       "summary": "️ Updates from the Interlagos (session starts 6pm GMT) ️ Sign up for The Recap newsletter | And email Philip Ted Kravitz talking through the pole chances of Antonelli, Russell and Norris in the upgraded McLaren. Verstappen is going to be at the back of the gri"
+    },
+    {
+      "id": "feed-1tbkvme",
+      "title": "Strictly Come Dancing week seven – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/live/2026/nov/07/strictly-come-dancing-week-seven-live",
+      "publishedAt": "2026-11-07T18:05:09.000Z",
+      "category": "uk",
+      "summary": "Jaime Winstone is missing this week due to an injury, but the Latin and ballroom bonanza goes on. Brace for music by J-Lo, Leona Lewis and Coldplay It was announced on Wednesday that Jaime Winstone will miss this weekend’s show due to injury. She has a torn ab"
+    },
+    {
+      "id": "feed-15fum85",
+      "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+      "publishedAt": "2026-11-07T17:59:04.000Z",
+      "category": "uk",
+      "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage a"
+    },
+    {
+      "id": "feed-1pdco9l",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o",
+      "publishedAt": "2026-11-07T17:58:41.000Z",
+      "category": "world",
+      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza."
     },
     {
       "id": "feed-1aohbje",
@@ -132,16 +182,6 @@
       "publishedAt": "2026-11-07T17:50:50.000Z",
       "category": "uk",
       "summary": "Jay Stansfield earns Birmingham 2-1 win against Swansea Cardiff stage remarkable fightback to beat Burnley 5-4 Jay Stansfield grabbed a late winner to fire Birmingham top of the Championship with a 2-1 win against 10-man Swansea . Stansfield struck three minut"
-    },
-    {
-      "id": "feed-15fum85",
-      "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "publishedAt": "2026-11-07T17:41:45.000Z",
-      "category": "uk",
-      "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage a"
     },
     {
       "id": "feed-a5sb52",
@@ -162,6 +202,16 @@
       "publishedAt": "2026-11-07T17:13:48.000Z",
       "category": "uk",
       "summary": "Veteran becomes club’s oldest player but suffers injury Keeper also in spotlight after another gaffe Bayern Munich secured a 2-1 victory over Mainz in the Bundesliga on Saturday but the form ⁠of goalkeeper Manuel Neuer will again be in the spotlight after anot"
+    },
+    {
+      "id": "feed-q3q1qw",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+      "publishedAt": "2026-11-07T17:09:24.000Z",
+      "category": "world",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
     },
     {
       "id": "feed-bqmz83",
@@ -284,6 +334,16 @@
       "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
     },
     {
+      "id": "feed-1bupued",
+      "title": "Travel delays feared as fog warning issued for parts of England",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/travel-delays-feared-on-remembrance-sunday-as-fog-warning-issued-for-parts-of-england-13609282",
+      "publishedAt": "2026-11-07T15:18:00.000Z",
+      "category": "uk",
+      "summary": "Thick fog could lead to travel disruption across much of England from midnight on Saturday to late Sunday morning, the Met Office has warned."
+    },
+    {
       "id": "feed-3hvbo7",
       "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
       "source": "The Guardian",
@@ -362,16 +422,6 @@
       "publishedAt": "2026-11-07T15:00:13.000Z",
       "category": "uk",
       "summary": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds It has been over a decade since Stephanie Wheen set out to create the UK’s first play and leisure centre specifically designed for disabled c"
-    },
-    {
-      "id": "feed-v2zb2t",
-      "title": "Okafor’s Leeds winner adds insult to Tel’s injury for Tottenham as Bogle escapes red",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/07/leeds-tottenham-premier-league-match-report",
-      "publishedAt": "2026-11-07T14:34:21.000Z",
-      "category": "uk",
-      "summary": "It is almost one year to the day when the Leeds manager, Daniel Farke, produced the tactical overhaul many observers believe saved his job. That day, Farke abandoned his trusted 4-3-3 when Leeds were 2-0 down at Manchester City and although they lost the game,"
     },
     {
       "id": "feed-7d6k37",
@@ -1174,16 +1224,6 @@
       "summary": "The plans aim to help more people access food, financial advice and help with heating costs."
     },
     {
-      "id": "feed-1625912",
-      "title": "Spate of bomb threats poses serious challenge to airline industry",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo",
-      "publishedAt": "2026-11-06T16:18:44.000Z",
-      "category": "world",
-      "summary": "After a week of disruption, airlines are facing both safety and financial concerns."
-    },
-    {
       "id": "feed-15ux49h",
       "title": "Amateur cricketer 'Clicky Ponting' banned for two years over viral cheating",
       "source": "Sky News",
@@ -1214,26 +1254,6 @@
       "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination."
     },
     {
-      "id": "feed-7dqhnu",
-      "title": "New wave of bomb threats hit European airlines",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo",
-      "publishedAt": "2026-11-06T15:25:35.000Z",
-      "category": "world",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets."
-    },
-    {
-      "id": "feed-jr92oj",
-      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo",
-      "publishedAt": "2026-11-06T15:02:03.000Z",
-      "category": "world",
-      "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs."
-    },
-    {
       "id": "feed-aihh3e",
       "title": "The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens",
       "source": "The Guardian",
@@ -1252,16 +1272,6 @@
       "publishedAt": "2026-11-06T14:52:49.000Z",
       "category": "business",
       "summary": "Jersey's Economic Development Minister has told the BBC that workers' rights may have to take 'second place' to economic growth."
-    },
-    {
-      "id": "feed-1qyut1i",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o",
-      "publishedAt": "2026-11-06T14:46:03.000Z",
-      "category": "world",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
     },
     {
       "id": "feed-3elpbm",
@@ -1372,16 +1382,6 @@
       "publishedAt": "2026-11-06T09:21:50.000Z",
       "category": "business",
       "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives."
-    },
-    {
-      "id": "feed-18v889t",
-      "title": "Man jailed after he admitted murdering mother of seven 28 years ago",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/man-jailed-after-he-admitted-murdering-mother-of-seven-28-years-ago-13608696",
-      "publishedAt": "2026-11-06T07:16:00.000Z",
-      "category": "uk",
-      "summary": "A man has been jailed for more than 10 years after he admitted to murdering a mother of seven who disappeared 28 years ago then disposing of her decomposed body in household waste."
     },
     {
       "id": "feed-1tjy60e",
