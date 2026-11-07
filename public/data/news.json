@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T03:33:59.309Z",
-  "generatedAt": "2026-11-07T03:33:59.309Z",
+  "updatedAt": "2026-11-07T04:36:42.251Z",
+  "generatedAt": "2026-11-07T04:36:42.251Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -1134,16 +1134,6 @@
       "summary": "Social media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is ‘ferritin face’ real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron levels up, how we can actu"
     },
     {
-      "id": "feed-ek7iiv",
-      "title": "Prison operator and health board admit criminal charges after death of inmate with COVID",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/prison-operator-sodexo-and-lothian-health-board-admit-criminal-charges-after-death-of-inmate-with-covid-13608794",
-      "publishedAt": "2026-11-06T10:49:00.000Z",
-      "category": "uk",
-      "summary": "A prison operator and an NHS health board have admitted criminal charges after the death of an imprisoned man who contracted COVID-19."
-    },
-    {
       "id": "feed-tcr7dp",
       "title": "Homes and temples glow across India as Diwali celebrations begin",
       "source": "BBC News",
@@ -1902,6 +1892,16 @@
       "publishedAt": "2026-11-01T17:25:17.000Z",
       "category": "science",
       "summary": "The Covid pandemic shed an unforgiving light on health and social care inequalities. The lessons have yet to be absorbed The fear that so many felt as the death toll rose during the Covid pandemic was magnified for Fiona Walker. “I know from experience they wo"
+    },
+    {
+      "id": "feed-aihyai",
+      "title": "Tech Now",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "category": "technology",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
