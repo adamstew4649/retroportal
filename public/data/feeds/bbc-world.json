@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T14:29:30.066Z",
+  "updatedAt": "2026-11-07T15:08:11.192Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-y3kvln",
+      "title": "No clear winner after tight New Zealand general election",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T15:00:10.000Z",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+    },
     {
       "id": "feed-1uhw4i3",
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T15:02:03.000Z",
       "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs."
-    },
-    {
-      "id": "feed-18lrast",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T14:57:08.000Z",
-      "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated."
     }
   ]
 }

@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T14:29:30.065Z",
+  "updatedAt": "2026-11-07T15:08:11.189Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1dp5gwo",
+      "title": "Baxters fish soup recalled over fears cans could swell and burst",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l4590188ro",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T14:28:40.000Z",
+      "summary": "A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and rupture."
+    },
     {
       "id": "feed-16fc3n4",
       "title": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T22:30:07.000Z",
       "summary": "Police say the last confirmed sighting of Carrie Mullane (Noonan) was on 10 October when she left Limerick to travel to Enniskillen."
-    },
-    {
-      "id": "feed-1xvvdza",
-      "title": "This is what dying feels like, says train victim",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T19:23:47.000Z",
-      "summary": "Scott Bletcher says he found police and told them 'am I glad to see you, I've been stabbed\"."
     }
   ]
 }
