@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T19:58:52.421Z",
-  "generatedAt": "2026-11-07T19:58:52.421Z",
+  "updatedAt": "2026-11-07T20:26:54.709Z",
+  "generatedAt": "2026-11-07T20:26:54.709Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 6
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,34 +104,24 @@
   ],
   "articles": [
     {
+      "id": "feed-ploh9b",
+      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+      "publishedAt": "2026-11-07T20:23:17.000Z",
+      "category": "world",
+      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
+    },
+    {
       "id": "feed-2p905s",
       "title": "São Paulo Formula One Grand Prix qualifying in Brazil – live again after a red flag",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
-      "publishedAt": "2026-11-07T19:53:10.000Z",
+      "publishedAt": "2026-11-07T20:13:45.000Z",
       "category": "uk",
       "summary": "️ Updates from the Interlagos (session starts 6pm GMT) ️ Sign up for The Recap newsletter | And email Philip Ted Kravitz talking through the pole chances of Antonelli, Russell and Norris in the upgraded McLaren. Verstappen is going to be at the back of the gri"
-    },
-    {
-      "id": "feed-ie8cfd",
-      "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-      "publishedAt": "2026-11-07T19:51:44.000Z",
-      "category": "world",
-      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
-    },
-    {
-      "id": "feed-15fum85",
-      "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "publishedAt": "2026-11-07T19:51:23.000Z",
-      "category": "uk",
-      "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage a"
     },
     {
       "id": "feed-1tbkvme",
@@ -139,9 +129,69 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/tv-and-radio/live/2026/nov/07/strictly-come-dancing-week-seven-live",
-      "publishedAt": "2026-11-07T19:50:37.000Z",
+      "publishedAt": "2026-11-07T20:12:58.000Z",
       "category": "uk",
       "summary": "Jaime Winstone is missing this week due to an injury, but the Latin and ballroom bonanza goes on. Brace for music by J-Lo, Leona Lewis and Coldplay Close your curtains on any fireworks and concentrate on the dance pyrotechnics instead. We’re about to be beamed"
+    },
+    {
+      "id": "feed-f8bhs8",
+      "title": "Blow for Netanyahu as opposition rival asked to form government by Israel's president",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/blow-for-netanyahu-as-opposition-rival-asked-to-form-government-by-israels-president-13609540",
+      "publishedAt": "2026-11-07T20:10:00.000Z",
+      "category": "world",
+      "summary": "Israel's president Isaac Herzog has asked Benjamin Netanyahu's strongest rival, Gadi Eisenkot, to try and form a government following a deadlocked election."
+    },
+    {
+      "id": "feed-15fum85",
+      "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+      "publishedAt": "2026-11-07T20:07:50.000Z",
+      "category": "uk",
+      "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage a"
+    },
+    {
+      "id": "feed-14l93m9",
+      "title": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
+      "publishedAt": "2026-11-07T20:06:25.000Z",
+      "category": "uk",
+      "summary": "Known for sophisticated musical style in band that played significant role in emerging 1970s punk rock movement Richard Lloyd, known for his sophisticated musical style as a founding member and guitarist for the influential punk band Television , has died at t"
+    },
+    {
+      "id": "feed-9f9by",
+      "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+      "publishedAt": "2026-11-07T20:03:23.000Z",
+      "category": "world",
+      "summary": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the US are officially operational, bringing n"
+    },
+    {
+      "id": "feed-1ba113j",
+      "title": "There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/07/manager-sorts-out-manchester-united-unai-emery",
+      "publishedAt": "2026-11-07T20:00:19.000Z",
+      "category": "uk",
+      "summary": "Spaniard may feel some of Old Trafford’s allure when he goes there on Sunday but he is right in wanting to stay at the club with brighter prospects On Sunday afternoon, shortly before 4.30, Unai Emery will leave the tunnel at Old Trafford and walk along the to"
+    },
+    {
+      "id": "feed-xoi9iq",
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "publishedAt": "2026-11-07T19:49:39.000Z",
+      "category": "uk",
+      "summary": "Knesset has been deadlocked since election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, following a deadl"
     },
     {
       "id": "feed-1ovdeyd",
@@ -151,7 +201,7 @@
       "url": "https://www.theguardian.com/football/2026/nov/07/nottingham-forest-manchester-city-premier-league-match-report",
       "publishedAt": "2026-11-07T19:30:43.000Z",
       "category": "uk",
-      "summary": "Wait long enough, and results will come to reflect performances. Manchester City may have won their first seven games of the season, but they always looked vulnerable, and now have lost three in a row. Nottingham Forest may have been second bottom but, other t"
+      "summary": "Wait long enough, and results will come to reflect performances. Manchester City may have won their first seven games of the season but they always looked vulnerable, and now have lost three in a row. Nottingham Forest may have been second bottom but, other th"
     },
     {
       "id": "feed-y1vgkw",
@@ -231,7 +281,7 @@
       "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
       "publishedAt": "2026-11-07T17:17:23.000Z",
       "category": "world",
-      "summary": "Poland’s interior minister says there were indications the gunman was “fascinated by far-right ideology” Kraków shooting – latest updates Six people have been killed and 15 injured after a shooting in a market square in Kraków, Poland. A man who had driven int"
+      "summary": "Poland’s interior minister says there were indications the gunman was “fascinated by far-right ideology” Kraków shooting – latest updates Six people have been killed and 16 injured after a shooting in a market square in Kraków, Poland. A man who had driven int"
     },
     {
       "id": "feed-12zdk2b",
@@ -394,16 +444,6 @@
       "summary": "Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping immigration crackdown, has lavished prai"
     },
     {
-      "id": "feed-civpvi",
-      "title": "Manchester City break clear of Chelsea in WSL after Bronze’s freak own goal",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/07/manchester-city-chelsea-everton-west-ham-wsl-roundup",
-      "publishedAt": "2026-11-07T15:11:59.000Z",
-      "category": "uk",
-      "summary": "Khadija Shaw hits hat-trick in City’s 5-0 rout of West Ham Chelsea held 1-1 by Everton after Lucy Bronze own goal An own goal by defender Lucy Bronze ⁠against Everton cost Chelsea top spot in the Women’s ⁠Super League as ⁠they ​were held to a 1-1 draw at home,"
-    },
-    {
       "id": "feed-yt2k43",
       "title": "Two men arrested after boy injured in sword attack",
       "source": "BBC News",
@@ -420,7 +460,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
       "publishedAt": "2026-11-07T15:06:59.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Charity’s AGM decides overwhelmingly to begin tendering process amid criticism of Barclays’ fossil fuel investments The National Trust has voted overwhelmingly to seek a new banking partner in a significant victory for members who have long argued that its rel"
     },
     {
@@ -440,7 +480,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
       "publishedAt": "2026-11-07T15:00:14.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansion Speaking to reporters after unveiling his new defence spokesperson this week, Nigel Farage’s jovial and upbeat mood suddenly switched. Why, he was asked, wa"
     },
     {
@@ -472,6 +512,16 @@
       "publishedAt": "2026-11-07T14:28:40.000Z",
       "category": "uk",
       "summary": "A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and burst."
+    },
+    {
+      "id": "feed-gzzv8k",
+      "title": "At least 27 people killed in strike near Yemen's capital, Houthi official says",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/at-least-27-people-killed-in-strike-near-yemens-capital-houthi-official-says-13609232",
+      "publishedAt": "2026-11-07T14:19:00.000Z",
+      "category": "world",
+      "summary": "At least 27 people have been killed and 36 others wounded, mostly women and children, after airstrikes hit homes in a village near Yemen's capital, Sanaa, a spokesman for Yemen's Houthi-run health ministry said."
     },
     {
       "id": "feed-12g5z62",
@@ -554,16 +604,6 @@
       "summary": "Architect of Trump’s far-right immigration agenda is now most powerful unelected figure in government – it suggests White House is moving to a war footing Donald Trump just gave the middle finger to millions of American voters. Any other president who suffered"
     },
     {
-      "id": "feed-3ztxpi",
-      "title": "Court rules against Home Office in asylum seeker kidnapping case",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-      "publishedAt": "2026-11-07T13:00:11.000Z",
-      "category": "world",
-      "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya The court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of traffic"
-    },
-    {
       "id": "feed-fffrwl",
       "title": "Great British Railways: new dawn for a new network but with plenty of old problems to fix",
       "source": "The Guardian",
@@ -630,7 +670,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
       "publishedAt": "2026-11-07T12:00:13.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complications Exposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal development complications, which could cau"
     },
     {
@@ -652,16 +692,6 @@
       "publishedAt": "2026-11-07T12:00:11.000Z",
       "category": "technology",
       "summary": "Fans trying to access latest releases are being priced out in a cut-throat market driven by crypto-like hype The runaway demand for Pokemon cards is because they are being hyped “like crypto”, according to one young fan who had spent the night queueing outside"
-    },
-    {
-      "id": "feed-hnbff7",
-      "title": "Florida Republicans survived the ‘blue wave’, but find themselves on shaky ground",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections",
-      "publishedAt": "2026-11-07T12:00:10.000Z",
-      "category": "world",
-      "summary": "Sunshine state emerged as the lone flag bearer of the Maga agenda, but even there, the GOP finds itself on the defense After the dust settled on Tuesday night’s near-annihilation of the Republican party nationwide, a single red flag fluttered defiantly in Flor"
     },
     {
       "id": "feed-998d4u",
@@ -1872,26 +1902,6 @@
       "publishedAt": "2026-11-01T19:36:46.000Z",
       "category": "science",
       "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people. Dr Marta Shahbazi , 41, an "
-    },
-    {
-      "id": "feed-ozfsm6",
-      "title": "From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter",
-      "publishedAt": "2026-10-31T11:00:40.000Z",
-      "category": "science",
-      "summary": "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a tas"
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
