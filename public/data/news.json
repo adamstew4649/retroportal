@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T04:36:42.251Z",
-  "generatedAt": "2026-11-07T04:36:42.251Z",
+  "updatedAt": "2026-11-07T05:33:56.694Z",
+  "generatedAt": "2026-11-07T05:33:56.694Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "bbc-world",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "id": "sky-technology",
@@ -103,6 +103,86 @@
     }
   ],
   "articles": [
+    {
+      "id": "feed-998d4u",
+      "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o",
+      "publishedAt": "2026-11-07T05:12:52.000Z",
+      "category": "uk",
+      "summary": "It was cancelled after a BBC Panorama investigation heard allegations from three former cast members."
+    },
+    {
+      "id": "feed-1l8u0jd",
+      "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+      "publishedAt": "2026-11-07T05:00:02.000Z",
+      "category": "uk",
+      "summary": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progress It was a curious way of conducting negotiations. Ahead of the 2025 climate summit, in the Amazonian port of Belém last year, the Brazilia"
+    },
+    {
+      "id": "feed-1s4jgmf",
+      "title": "‘My biggest fear was being shot down’: how an injured Ukrainian soldier was evacuated by drone",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/07/how-injured-ukrainian-soldier-rescued-by-drone",
+      "publishedAt": "2026-11-07T05:00:02.000Z",
+      "category": "uk",
+      "summary": "Artem Lytvyn tells of complex and risky rescue operation after he spent eight days stricken in Kharkiv’s ‘kill zone’ Artem Lytvyn was crossing a field when the bang happened. Up ahead was a tree line. Not far beyond that the Russian border. The 25-year-old Ukr"
+    },
+    {
+      "id": "feed-1b7gtlr",
+      "title": "Yes, saunas are great – but have you heard of this amazing thing called a bath?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/07/yes-saunas-are-great-but-have-you-heard-of-this-amazing-thing-called-a-bath",
+      "publishedAt": "2026-11-07T05:00:02.000Z",
+      "category": "uk",
+      "summary": "Ever since the ancient Greeks, we’ve suspected that soaking in hot water is good for your health. Now science has proved it At a time when many of us feel overwhelmed, overstretched and over-reliant on screens, it’s unsurprising that the wellness industry is b"
+    },
+    {
+      "id": "feed-1gws7lp",
+      "title": "Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
+      "publishedAt": "2026-11-07T05:00:02.000Z",
+      "category": "uk",
+      "summary": "Acts of greyzone aggression aim to spread panic. Europe has to show the saboteurs that we are resilient It was as though a ghostly hand had switched the settings on supermarket freezers across Europe from “freeze” to “defrost”. From Finland to Ireland, they su"
+    },
+    {
+      "id": "feed-1hlou2d",
+      "title": "Stabbed, jailed, reborn: the chef who lost his love of food – then regained it behind bars",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/food/2026/nov/07/stabbed-jailed-reborn-the-chef-who-lost-his-love-of-food-then-regained-it-behind-bars",
+      "publishedAt": "2026-11-07T05:00:01.000Z",
+      "category": "uk",
+      "summary": "Nathaniel Mortley dreamed of opening his own restaurant, but ended up in jail for drug offences. Now he’s out, and doing his best to make up for lost time At first he thought it was just a nasty punch, but Nathaniel Mortley soon realised he had been stabbed in"
+    },
+    {
+      "id": "feed-feje5y",
+      "title": "UK has 'new pair of eyes' in space as new military satellite enters orbit",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/uk-has-new-pair-of-eyes-in-space-after-military-satellite-titania-enters-orbit-13609133",
+      "publishedAt": "2026-11-07T03:30:00.000Z",
+      "category": "uk",
+      "summary": "The UK has a \"new pair of eyes\" in space after it launched a new military satellite into orbit, the Ministry of Defence (MoD) has announced."
+    },
+    {
+      "id": "feed-uc23we",
+      "title": "Paraguay's President Santiago Peña impeached and arrested",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+      "publishedAt": "2026-11-07T03:25:00.000Z",
+      "category": "world",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
+    },
     {
       "id": "feed-zm9k46",
       "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
@@ -204,14 +284,34 @@
       "summary": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping immigration crackdown, wi"
     },
     {
-      "id": "feed-khe18",
-      "title": "Man charged with murder of missing woman in Northern Ireland",
+      "id": "feed-cfdu0h",
+      "title": "Man charged with murder of missing woman whose whereabouts remain unknown",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/man-charged-with-murder-of-missing-woman-carrie-mullane-in-northern-ireland-13609131",
       "publishedAt": "2026-11-07T01:38:00.000Z",
       "category": "uk",
       "summary": "A man has been charged with the murder of a missing woman whose whereabouts remain unknown."
+    },
+    {
+      "id": "feed-q4ddf5",
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo",
+      "publishedAt": "2026-11-07T01:27:47.000Z",
+      "category": "world",
+      "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez."
+    },
+    {
+      "id": "feed-zjue5z",
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o",
+      "publishedAt": "2026-11-07T01:19:49.000Z",
+      "category": "world",
+      "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking."
     },
     {
       "id": "feed-5qb2d2",
@@ -294,6 +394,16 @@
       "summary": "Met police chief says ‘many more’ victims could come forward, as actor and comedian awaits sentencing Police are bracing themselves for more victims of Russell Brand to come forward, with at least 10 more women suspected of having been attacked by the disgrace"
     },
     {
+      "id": "feed-1pmuag4",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go",
+      "publishedAt": "2026-11-06T23:46:08.000Z",
+      "category": "world",
+      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university."
+    },
+    {
       "id": "feed-10hwmu0",
       "title": "The Guardian view on the AI backlash: American voters want a say in their future | Editorial",
       "source": "The Guardian",
@@ -312,6 +422,16 @@
       "publishedAt": "2026-11-06T23:35:45.000Z",
       "category": "uk",
       "summary": "Former Test opener says object also used on cricket ball in Port Elizabeth CA remains ‘comfortable’ with bans only for Bancroft, Warner and Smith Usman Khawaja has claimed “all” of the Australia touring party knew about the plot to tamper with the ball against"
+    },
+    {
+      "id": "feed-8ehgnw",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go",
+      "publishedAt": "2026-11-06T23:24:15.000Z",
+      "category": "world",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
     },
     {
       "id": "feed-9q3zrz",
@@ -430,7 +550,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
       "publishedAt": "2026-11-06T21:23:54.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day ea"
     },
     {
@@ -450,7 +570,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
       "publishedAt": "2026-11-06T21:14:46.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Tech industry fears delays to its multi-trillion dollar infrastructure buildout meant to power artificial intelligence Several newly elected Democrats and Senator Bernie Sanders have renewed calls for datacenter moratoriums in the days after the US midterm ele"
     },
     {
@@ -462,36 +582,6 @@
       "publishedAt": "2026-11-06T21:06:25.000Z",
       "category": "world",
       "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
-    },
-    {
-      "id": "feed-1v3h56z",
-      "title": "‘It’s the final goodbye’: Monty Don bows out with a blissful last Gardeners’ World",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/06/monty-don-gardeners-world-farewell-goodbye",
-      "publishedAt": "2026-11-06T21:00:52.000Z",
-      "category": "uk",
-      "summary": "TV’s most soothing gardener bids viewers farewell in his own inimitable style: poetically, and with barely a hint of fuss Monty Don paces through his garden, slowly and deliberately. “Welcome to a beautiful day,” he announces. Autumn has hit and the greens of "
-    },
-    {
-      "id": "feed-16yngdx",
-      "title": "Charlton’s struggles expose ‘absolute ocean’ between WSL and second tier",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/06/charlton-risk-being-chewed-up-wsl-karen-hills",
-      "publishedAt": "2026-11-06T20:49:00.000Z",
-      "category": "uk",
-      "summary": "Pointless after eight games, Karen Hills’ team are struggling to compete against clubs with chunkier wallets Played eight, lost eight. Welcome to the Women’s Super League, Charlton Athletic, a club in danger of being chewed up, toyed with and spat straight bac"
-    },
-    {
-      "id": "feed-17ll9jo",
-      "title": "Edward Lucie-Smith obituary",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/books/2026/nov/06/edward-lucie-smith-obituary",
-      "publishedAt": "2026-11-06T20:40:17.000Z",
-      "category": "uk",
-      "summary": "Art historian, critic and poet who hosted ‘the Group’, a literary workshop of the 1950s and 60s The poet, art critic and historian Edward Lucie-Smith, who has died aged 93, was both prolific and polymathic. He wrote almost 100 full-length books, including stud"
     },
     {
       "id": "feed-1agts8o",
@@ -660,7 +750,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
       "publishedAt": "2026-11-06T17:14:31.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continues A fresh wave of bomb threats disrupted air traffic across Europe on Friday but the affected aircraft landed safely and searches revealed no explosive "
     },
     {
@@ -702,16 +792,6 @@
       "publishedAt": "2026-11-06T16:49:31.000Z",
       "category": "uk",
       "summary": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian."
-    },
-    {
-      "id": "feed-177c6th",
-      "title": "Two boys in court over Halloween party stabbings",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c8qlnx4x349zo",
-      "publishedAt": "2026-11-06T16:45:57.000Z",
-      "category": "uk",
-      "summary": "One boy appears is charged with attempted murder, while the other is accused of wounding with intent."
     },
     {
       "id": "feed-1lj3xzh",
@@ -1024,16 +1104,6 @@
       "summary": "October drop of 0.6% leaves average price of property at £296,285, says Lloyds, as high mortgage rates hit market UK house prices fell at the steepest rate in more than three years in October, marking the fourth consecutive monthly decline, as high mortgage ra"
     },
     {
-      "id": "feed-19f34g6",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo",
-      "publishedAt": "2026-11-06T12:51:38.000Z",
-      "category": "world",
-      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far."
-    },
-    {
       "id": "feed-1by3wg5",
       "title": "US rockets firm eyes up mothballed Highland spaceport",
       "source": "BBC News",
@@ -1134,16 +1204,6 @@
       "summary": "Social media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is ‘ferritin face’ real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron levels up, how we can actu"
     },
     {
-      "id": "feed-tcr7dp",
-      "title": "Homes and temples glow across India as Diwali celebrations begin",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro",
-      "publishedAt": "2026-11-06T10:21:30.000Z",
-      "category": "world",
-      "summary": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets"
-    },
-    {
       "id": "feed-12nvwdp",
       "title": "Could you live on a remote island as a job?",
       "source": "BBC News",
@@ -1152,16 +1212,6 @@
       "publishedAt": "2026-11-06T10:14:18.000Z",
       "category": "science",
       "summary": "The new manager will start each workday surrounded by nature at the island wildlife reserve."
-    },
-    {
-      "id": "feed-17q6krz",
-      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro",
-      "publishedAt": "2026-11-06T10:10:38.000Z",
-      "category": "world",
-      "summary": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites."
     },
     {
       "id": "feed-a66m0p",
@@ -1182,26 +1232,6 @@
       "publishedAt": "2026-11-06T08:54:40.000Z",
       "category": "business",
       "summary": "Workers’ rights campaigners say measure will help young people and women in particular achieve more equal pay UK politics live – latest updates Employers will be forced to publish salaries on job adverts, Andy Burnham has announced, in an effort to empower bot"
-    },
-    {
-      "id": "feed-kj3ru6",
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o",
-      "publishedAt": "2026-11-06T08:18:10.000Z",
-      "category": "world",
-      "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt."
-    },
-    {
-      "id": "feed-1hlvqnh",
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro",
-      "publishedAt": "2026-11-06T07:33:41.000Z",
-      "category": "world",
-      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest."
     },
     {
       "id": "feed-18v889t",
@@ -1854,16 +1884,6 @@
       "summary": "Greenpeace says it has formed an underwater barrier with boulders in the North Sea to prevent \"destructive fishing\" in an area created to protect porpoises."
     },
     {
-      "id": "feed-kpwkz7",
-      "title": "Sky News expands Arc XP partnership for a new app and website",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/sky-news-expands-arc-xp-partnership-to-create-next-generation-app-and-website-13607052",
-      "publishedAt": "2026-11-02T12:11:00.000Z",
-      "category": "technology",
-      "summary": "Sky News has expanded its partnership with media platform Arc XP to provide the technology underpinning its new app and website."
-    },
-    {
       "id": "feed-tod5ha",
       "title": "Cryosphere faces permanent damage when world overshoots 1.5C, scientists warn",
       "source": "The Guardian",
@@ -1882,26 +1902,6 @@
       "publishedAt": "2026-11-01T19:36:46.000Z",
       "category": "science",
       "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people. Dr Marta Shahbazi , 41, an "
-    },
-    {
-      "id": "feed-ziaqtv",
-      "title": "The Guardian view on listening to people with learning disabilities: a matter of life and death | Editorial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/commentisfree/2026/nov/01/the-guardian-view-on-listening-to-people-with-learning-disabilities-a-matter-of-life-and-death",
-      "publishedAt": "2026-11-01T17:25:17.000Z",
-      "category": "science",
-      "summary": "The Covid pandemic shed an unforgiving light on health and social care inequalities. The lessons have yet to be absorbed The fear that so many felt as the death toll rose during the Covid pandemic was magnified for Fiona Walker. “I know from experience they wo"
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
