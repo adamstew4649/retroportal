@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T16:28:23.430Z",
+  "updatedAt": "2026-11-07T17:03:54.167Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-1rywcg2",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T16:50:06.000Z",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
+    },
+    {
       "id": "feed-y3kvln",
       "title": "No clear winner after tight New Zealand general election",
       "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
       "source": "BBC News",
       "publishedAt": "2026-11-07T15:56:28.000Z",
       "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+    },
+    {
+      "id": "feed-p3fuwp",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T15:19:35.000Z",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
     },
     {
       "id": "feed-1uhw4i3",
@@ -80,14 +96,6 @@
       "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking."
     },
     {
-      "id": "feed-1pmuag4",
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T23:46:08.000Z",
-      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university."
-    },
-    {
       "id": "feed-8ehgnw",
       "title": "With Stephen Miller pick, Trump readies for a battle",
       "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go",
@@ -120,22 +128,6 @@
       "summary": "After a week of disruption, airlines are facing both safety and financial concerns."
     },
     {
-      "id": "feed-doebbt",
-      "title": "Two dead after bus crashes in France, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T15:33:52.000Z",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
-    },
-    {
-      "id": "feed-1xyme8m",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T15:30:42.000Z",
-      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week."
-    },
-    {
       "id": "feed-7dqhnu",
       "title": "New wave of bomb threats hit European airlines",
       "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo",
@@ -150,6 +142,14 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T15:02:03.000Z",
       "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs."
+    },
+    {
+      "id": "feed-1qyut1i",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T14:46:03.000Z",
+      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
     }
   ]
 }
