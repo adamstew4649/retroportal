@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T06:34:01.007Z",
-  "generatedAt": "2026-11-07T06:34:01.007Z",
+  "updatedAt": "2026-11-07T07:45:54.101Z",
+  "generatedAt": "2026-11-07T07:45:54.101Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,164 @@
   ],
   "articles": [
     {
-      "id": "feed-63464l",
-      "title": "NZ election 2026 live results: count on as National and Labour battle it out in knife-edge New Zealand poll",
+      "id": "feed-gsr1qq",
+      "title": "New Zealand election 2026 live results: Labour draws level with National as count continues in close race",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-      "publishedAt": "2026-11-07T06:29:08.000Z",
+      "publishedAt": "2026-11-07T07:43:49.000Z",
       "category": "world",
       "summary": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are locals thinking as a k"
+    },
+    {
+      "id": "feed-uialhr",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+      "publishedAt": "2026-11-07T07:20:00.000Z",
+      "category": "world",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
+    },
+    {
+      "id": "feed-165cmzi",
+      "title": "New Forest wildfire restoration work begins",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo",
+      "publishedAt": "2026-11-07T07:14:33.000Z",
+      "category": "science",
+      "summary": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire."
+    },
+    {
+      "id": "feed-b8ilm4",
+      "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
+      "publishedAt": "2026-11-07T07:00:07.000Z",
+      "category": "uk",
+      "summary": "Samuel Gibbs doubted he could cut costs and still keep warm by putting tech in control. The results surprised him Can smart thermostats and AI reduce your heating bills? Every manufacturer claims the answer is yes , quoting average savings in the 25%, or £180 "
+    },
+    {
+      "id": "feed-170gb8d",
+      "title": "Pineapple on pizza is an insult to our great Italian cuisine – and here’s why we secretly love it | Luca Cesari",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pineapple-pizza-italian-food-insult-chef-sacked",
+      "publishedAt": "2026-11-07T07:00:06.000Z",
+      "category": "uk",
+      "summary": "Of course an Italian chef would rather be sacked than make this. Defending our food against such blasphemy makes us feel like better people Luca Cesari is a food historian and author of The History of Pizza You may have smiled at the news a few days ago: the I"
+    },
+    {
+      "id": "feed-1vn3mlz",
+      "title": "Early release prisoners facing street homelessness, probation staff warn",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/society/2026/nov/07/early-release-prisoners-street-homelessness-england",
+      "publishedAt": "2026-11-07T07:00:06.000Z",
+      "category": "uk",
+      "summary": "Charities say situation exposes ‘fatal flaw’ in Andy Burnham’s plan to end rough sleeping in England by Christmas In just four days James is facing the prospect of sleeping on the street. He was released from prison in August and given temporary probation acco"
+    },
+    {
+      "id": "feed-15ar36j",
+      "title": "Albania’s restored stone houses throw open the doors to visitors",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/travel/2026/nov/07/albania-restored-stone-tower-houses-holiday",
+      "publishedAt": "2026-11-07T07:00:06.000Z",
+      "category": "uk",
+      "summary": "A project to convert the country’s traditional kulla houses into guesthouses offers a true flavour of ancient hospitality in a part of the country almost untouched by tourism Sunlight pours through a tiny stone window, causing the wooden floorboards to creak a"
+    },
+    {
+      "id": "feed-u2533k",
+      "title": "The Good Daughter: Rose Byrne’s legal thriller is so full of calamity it borders on Mr Bean-like farce",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/07/the-good-daughter-rose-byrne-legal-thriller-peacock-sky-atlantic",
+      "publishedAt": "2026-11-07T07:00:05.000Z",
+      "category": "uk",
+      "summary": "This slightly preposterous psychological drama – featuring Byrne and Meghann Fahy as sisters – is a show about trauma where everyone somehow looks astonishingly beautiful at all times At first glance, The Good Daughter (Thursday 12 November, 9pm, Sky Atlantic)"
+    },
+    {
+      "id": "feed-1178vo6",
+      "title": "Nationwide launches savings account with ‘market leading’ 5.3% interest",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate",
+      "publishedAt": "2026-11-07T07:00:05.000Z",
+      "category": "uk",
+      "summary": "Many experts think fixed rate on 30-month term will still look good after Bank of England raised base rate A savings account paying “market-leading” 5.3% interest was launched this week by Nationwide building society. It’s only for Nationwide members – but the"
+    },
+    {
+      "id": "feed-b8cyes",
+      "title": "The Guide #268: Laptop twee is the gloriously awkward sound giving British music a new lease of life",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/culture/2026/nov/06/laptop-twee-is-the-gloriously-awkward-sound-giving-british-pop-a-new-lease-of-life",
+      "publishedAt": "2026-11-07T07:00:05.000Z",
+      "category": "uk",
+      "summary": "In this week’s newsletter: From wonky electronic production to painfully earnest lyrics, a new wave of artists are embracing nostalgia, cute vibes and DIY pop If you’d told me back in January that one of my favourite tracks of 2026 would count noughties new ra"
+    },
+    {
+      "id": "feed-1eyapul",
+      "title": "What links Leonard Cohen, Amelia Earhart and Graham Nash? The Saturday quiz",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/07/what-links-leonard-cohen-amelia-earhart-and-graham-nash-the-saturday-quiz",
+      "publishedAt": "2026-11-07T07:00:05.000Z",
+      "category": "uk",
+      "summary": "From carpals, metacarpals and phalanges to the Valsalva manoeuvre, test your knowledge with the Saturday quiz 1 What is unique about the time in Cape Verde? 2 What is typically sold from a Whitby Morrison Mondial Lusso? 3 When flying, the Valsalva manoeuvre wo"
+    },
+    {
+      "id": "feed-1tdjbbd",
+      "title": "Is crochet or knitting harder to do and how are glasses made? The kids’ quiz",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/07/is-crochet-or-knitting-harder-to-do-and-how-are-glasses-made-the-kids-quiz",
+      "publishedAt": "2026-11-07T07:00:05.000Z",
+      "category": "uk",
+      "summary": "Five multiple-choice questions – set by children – to test your knowledge, and a chance to submit your own junior brainteasers for future quizzes ​Submit a question Molly Oldfield hosts Everything Under the Sun , a podcast answering children’s questions. Do ch"
+    },
+    {
+      "id": "feed-1b3ahts",
+      "title": "‘Super-force’ plans a real threat to local policing, English mayors say",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/07/super-force-plans-england-wales-threaten-local-policing-mayors",
+      "publishedAt": "2026-11-07T07:00:04.000Z",
+      "category": "uk",
+      "summary": "Regional leaders criticise Met chief’s call for merging of 43 forces into eight or 10, saying it runs counter to devolution drive Plans to slash the number of police forces in England and Wales represent a “real threat” to local policing and seriously undermin"
+    },
+    {
+      "id": "feed-1cuykse",
+      "title": "Reform UK councillor promoted collapsed $1.9bn ‘Ponzi scheme’ HyperVerse that left victims suicidal",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/nov/07/reform-uk-councillor-promoted-alleged-ponzi-scheme-hyperverse",
+      "publishedAt": "2026-11-07T07:00:04.000Z",
+      "category": "uk",
+      "summary": "Susan Lawrence, elected to Wolverhampton city council, sits on committee overseeing financial reporting of multimillion-pound budget A woman who promoted a notorious cryptocurrency scam has been elected as a Reform UK councillor and now sits on the audit and r"
+    },
+    {
+      "id": "feed-7tpknw",
+      "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+      "publishedAt": "2026-11-07T07:00:04.000Z",
+      "category": "uk",
+      "summary": "Trump still considering new assault on Iran nuclear sites – though threats less credible after Vance remarks Qatar, the lead mediator in the US-Iran conflict, is seeking to persuade Tehran to allow UN nuclear weapons inspectors to visit Iran’s bombed nuclear s"
+    },
+    {
+      "id": "feed-1mhd8tc",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
+      "publishedAt": "2026-11-07T06:59:48.000Z",
+      "category": "world",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
     },
     {
       "id": "feed-1ctb50k",
@@ -180,48 +330,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
       "publishedAt": "2026-11-07T06:00:04.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Democrats’ sweep could urge Israel’s divided opposition to join forces and remove prime minister closely allied with Trump The Democrats’ sweep of Congress may make it easier for Israel’s splintered opposition to overcome deep internal divisions and form a coa"
-    },
-    {
-      "id": "feed-1vei6dw",
-      "title": "From Wild Horse Nine to Kings of Leon: your complete entertainment guide for the week ahead",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/culture/2026/nov/07/going-out-staying-in-wild-horse-nine-kings-of-leon",
-      "publishedAt": "2026-11-07T06:00:04.000Z",
-      "category": "uk",
-      "summary": "John Malkovich and Sam Rockwell team up in a typically offbeat Martin McDonagh comedy, and the Followill brothers reach album No 10 in rustic mode Wild Horse Nine Out now John Malkovich looks set to be nominated for an Oscar for his portrayal of an ageing CIA "
-    },
-    {
-      "id": "feed-14avdj9",
-      "title": "From Rise of the Rockstar Chefs to La Bola Negra: the week in rave reviews",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/culture/2026/nov/07/from-rise-of-the-rockstar-chefs-to-la-bola-negra-the-week-in-rave-reviews",
-      "publishedAt": "2026-11-07T06:00:04.000Z",
-      "category": "uk",
-      "summary": "Gordon Ramsay and Marco Pierre White reunite to beef it out, while the poetic Spanish saga recounts the hidden history of gay sexuality. Here’s the pick of the week’s culture, taken from the Guardian’s best-rated reviews Continue reading..."
-    },
-    {
-      "id": "feed-y9tal2",
-      "title": "Jackson Boxer’s vegetarian recipe for roast beetroot with pickled raisins and blue cheese",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/food/2026/nov/07/vegetarian-roast-beetroot-recipe-pickled-raisins-blue-cheese-jackson-boxer",
-      "publishedAt": "2026-11-07T06:00:04.000Z",
-      "category": "uk",
-      "summary": "Surprise yourself with the flavours in this roast beetroot spiked with pickled raisins and salty blue cheese It’s not uncommon for people to form negative relationships with certain vegetables as a consequence of only ever having had them boiled to disintegrat"
-    },
-    {
-      "id": "feed-rz6rav",
-      "title": "Blind date: ‘I told her I don’t like the theatre. In retrospect, I can see why a playwright would be offended’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/07/blind-date-william-abigail",
-      "publishedAt": "2026-11-07T06:00:02.000Z",
-      "category": "uk",
-      "summary": "William, 28, a PhD candidate, meets Abigail, 24, a theatre artist What were you hoping for? To have a spark of some kind. Continue reading..."
     },
     {
       "id": "feed-1b64s97",
@@ -232,6 +342,16 @@
       "publishedAt": "2026-11-07T05:44:52.000Z",
       "category": "uk",
       "summary": "Thomas Markle's arrest leads a number of Saturday's front pages, while Russell Brand continues to feature prominently."
+    },
+    {
+      "id": "feed-13dnscl",
+      "title": "Meghan's father in court charged with possessing child abuse material",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/meghans-father-thomas-markle-appears-in-court-charged-with-possessing-child-abuse-material-13609134",
+      "publishedAt": "2026-11-07T05:42:00.000Z",
+      "category": "world",
+      "summary": "The Duchess of Sussex's father has appeared in court after being arrested and charged with allegedly possessing child sexual abuse images."
     },
     {
       "id": "feed-998d4u",
@@ -250,48 +370,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
       "publishedAt": "2026-11-07T05:00:02.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progress It was a curious way of conducting negotiations. Ahead of the 2025 climate summit, in the Amazonian port of Belém last year, the Brazilia"
-    },
-    {
-      "id": "feed-1s4jgmf",
-      "title": "‘My biggest fear was being shot down’: how an injured Ukrainian soldier was evacuated by drone",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/07/how-injured-ukrainian-soldier-rescued-by-drone",
-      "publishedAt": "2026-11-07T05:00:02.000Z",
-      "category": "uk",
-      "summary": "Artem Lytvyn tells of complex and risky rescue operation after he spent eight days stricken in Kharkiv’s ‘kill zone’ Artem Lytvyn was crossing a field when the bang happened. Up ahead was a tree line. Not far beyond that the Russian border. The 25-year-old Ukr"
-    },
-    {
-      "id": "feed-1b7gtlr",
-      "title": "Yes, saunas are great – but have you heard of this amazing thing called a bath?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/07/yes-saunas-are-great-but-have-you-heard-of-this-amazing-thing-called-a-bath",
-      "publishedAt": "2026-11-07T05:00:02.000Z",
-      "category": "uk",
-      "summary": "Ever since the ancient Greeks, we’ve suspected that soaking in hot water is good for your health. Now science has proved it At a time when many of us feel overwhelmed, overstretched and over-reliant on screens, it’s unsurprising that the wellness industry is b"
-    },
-    {
-      "id": "feed-1gws7lp",
-      "title": "Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
-      "publishedAt": "2026-11-07T05:00:02.000Z",
-      "category": "uk",
-      "summary": "Acts of greyzone aggression aim to spread panic. Europe has to show the saboteurs that we are resilient It was as though a ghostly hand had switched the settings on supermarket freezers across Europe from “freeze” to “defrost”. From Finland to Ireland, they su"
-    },
-    {
-      "id": "feed-1hlou2d",
-      "title": "Stabbed, jailed, reborn: the chef who lost his love of food – then regained it behind bars",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/food/2026/nov/07/stabbed-jailed-reborn-the-chef-who-lost-his-love-of-food-then-regained-it-behind-bars",
-      "publishedAt": "2026-11-07T05:00:01.000Z",
-      "category": "uk",
-      "summary": "Nathaniel Mortley dreamed of opening his own restaurant, but ended up in jail for drug offences. Now he’s out, and doing his best to make up for lost time At first he thought it was just a nasty punch, but Nathaniel Mortley soon realised he had been stabbed in"
     },
     {
       "id": "feed-feje5y",
@@ -302,26 +382,6 @@
       "publishedAt": "2026-11-07T03:30:00.000Z",
       "category": "uk",
       "summary": "The UK has a \"new pair of eyes\" in space after it launched a new military satellite into orbit, the Ministry of Defence (MoD) has announced."
-    },
-    {
-      "id": "feed-uc23we",
-      "title": "Paraguay's President Santiago Peña impeached and arrested",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
-      "publishedAt": "2026-11-07T03:25:00.000Z",
-      "category": "world",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
-    },
-    {
-      "id": "feed-zm9k46",
-      "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/07/ukraine-war-briefing-beijing-confirms-historic-xi-trump-putin-meeting-under-discussion",
-      "publishedAt": "2026-11-07T03:12:08.000Z",
-      "category": "uk",
-      "summary": "Russia could use tri leader summit to nudge China and US closer to its position on Ukraine, experts say. What we know on day 1,718 Beijing has confirmed that it is discussing a historic meeting between Chinese leader Xi Jinping, the US president, Donald Trump,"
     },
     {
       "id": "feed-1prw5ex",
@@ -342,16 +402,6 @@
       "publishedAt": "2026-11-07T03:02:26.000Z",
       "category": "world",
       "summary": "This live blog is now closed. Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the d"
-    },
-    {
-      "id": "feed-1b6qb5u",
-      "title": "‘My thought was always: he will be killed next’: Sonia Gandhi on marrying into an Indian political dynasty and her husband’s assassination",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/07/interview-sonia-gandhi-rajiv-gandhi-assassination-memoir-extract",
-      "publishedAt": "2026-11-07T03:00:59.000Z",
-      "category": "uk",
-      "summary": "She came from humble Italian origins to join India’s ruling family. Then both her mother-in-law, Indira Gandhi, and her husband, Rajiv, were brutally murdered. In a rare interview, the politician talks about her reluctant rise to power, Narendra Modi’s repress"
     },
     {
       "id": "feed-14rg4g0",
@@ -444,14 +494,14 @@
       "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking."
     },
     {
-      "id": "feed-5qb2d2",
-      "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
+      "id": "feed-jomcc4",
+      "title": "Stephen Miller’s appointment shows Trump hasn’t learned his lesson on immigration",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
       "publishedAt": "2026-11-07T01:04:52.000Z",
       "category": "world",
-      "summary": "US voters repudiated mass deportation campaign, but choice of new chief of staff shows Trump doesn’t care On Tuesday, voters resoundingly rebuked Donald Trump and his brutal mass deportation campaign that sent military tanks and masked agents though residentia"
+      "summary": "US voters repudiated mass deportation campaign, but choice of new chief of staff is an ominous signal that Trump is driving ahead at full speed On Tuesday, US midterm voters resoundingly rebuked Donald Trump and his brutal mass deportation campaign that sent m"
     },
     {
       "id": "feed-p3fw0u",
@@ -564,16 +614,6 @@
       "summary": "A critical incident has been declared in Swansea after a car was damaged by gunfire, police said."
     },
     {
-      "id": "feed-xwub6v",
-      "title": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-      "publishedAt": "2026-11-06T22:09:01.000Z",
-      "category": "world",
-      "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual"
-    },
-    {
       "id": "feed-nr94qy",
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "source": "BBC News",
@@ -590,7 +630,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
       "publishedAt": "2026-11-06T21:23:54.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day ea"
     },
     {
@@ -600,7 +640,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
       "publishedAt": "2026-11-06T21:20:49.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Men allegedly impersonated voices and images of executives to convince employees to send large payments Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over $100m, according to an i"
     },
     {
@@ -644,16 +684,6 @@
       "summary": "Monogramming or customizing takes gifts to the next level – and shows recipients that you know what they like and who they are The best beauty Advent calendars of 2026 in the US Sign up for the Filter US newsletter, your weekly guide to buying fewer, better th"
     },
     {
-      "id": "feed-y81sgr",
-      "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
-      "publishedAt": "2026-11-06T19:59:23.000Z",
-      "category": "world",
-      "summary": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand’s victims coming forward: ‘I hope you are pleased with yourself’ Russell Brand’s barrister has reported himself to his professional regulator after being accused of launchi"
-    },
-    {
       "id": "feed-1xvvdza",
       "title": "This is what dying feels like, says train victim",
       "source": "BBC News",
@@ -662,16 +692,6 @@
       "publishedAt": "2026-11-06T19:23:47.000Z",
       "category": "uk",
       "summary": "Scott Bletcher says he found police and told them 'am I glad to see you, I've been stabbed\"."
-    },
-    {
-      "id": "feed-hqhu5m",
-      "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
-      "publishedAt": "2026-11-06T19:23:24.000Z",
-      "category": "world",
-      "summary": "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago Chilean film-maker Sebastián Lelio has died at the age of 52. He was best known for the Oscar-winning trans drama A Fantastic Woman and his"
     },
     {
       "id": "feed-1qoa68v",
@@ -1084,16 +1104,6 @@
       "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
     },
     {
-      "id": "feed-q53pzo",
-      "title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo",
-      "publishedAt": "2026-11-06T13:23:44.000Z",
-      "category": "world",
-      "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly."
-    },
-    {
       "id": "feed-bf5vn0",
       "title": "Double murderer given extra 22 years for historical sexual assaults",
       "source": "Sky News",
@@ -1294,16 +1304,6 @@
       "summary": "Andrew Mountbatten-Windsor received more than £2,000 a month from renting out three cottages at his former Royal Lodge home, a report by the public spending watchdog has revealed."
     },
     {
-      "id": "feed-8cfjug",
-      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-      "publishedAt": "2026-11-06T06:16:22.000Z",
-      "category": "business",
-      "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s"
-    },
-    {
       "id": "feed-ouogqa",
       "title": "'Extra special' tamarin twins born at zoo",
       "source": "BBC News",
@@ -1312,16 +1312,6 @@
       "publishedAt": "2026-11-06T06:15:18.000Z",
       "category": "science",
       "summary": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026."
-    },
-    {
-      "id": "feed-wzhan1",
-      "title": "Minister tells energy suppliers to do more to help households tackle unpaid bills this winter",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/06/minister-energy-suppliers-help-households-unpaid-bills-debt-relief",
-      "publishedAt": "2026-11-06T06:00:44.000Z",
-      "category": "business",
-      "summary": "Bosses from Great Britain’s biggest energy companies called to meeting as part of government’s debt relief plan An energy minister has told the bosses of Great Britain’s biggest energy suppliers to do more to help households get on top of their unpaid energy b"
     },
     {
       "id": "feed-5a846a",
@@ -1384,16 +1374,6 @@
       "summary": "Law bans social media platforms from providing minors features such as autoplay that lead to compulsive use Google, Meta and TikTok have sued California to block enforcement of ⁠a new state law intended ⁠to limit the risk ​of addicting children under 16 to soc"
     },
     {
-      "id": "feed-1vm4ole",
-      "title": "BBC Inside Science",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct978k",
-      "publishedAt": "2026-11-05T21:00:00.000Z",
-      "category": "science",
-      "summary": "A glimpse into the world of the incredibly tiny"
-    },
-    {
       "id": "feed-pfmswv",
       "title": "Breakaway league LIV Golf to fold after filing for bankruptcy",
       "source": "Sky News",
@@ -1442,16 +1422,6 @@
       "publishedAt": "2026-11-05T15:27:09.000Z",
       "category": "business",
       "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders."
-    },
-    {
-      "id": "feed-7i0xgb",
-      "title": "The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/thefilter/2026/nov/05/best-christmas-gifts-dads-grandads-uncles-friends-uk",
-      "publishedAt": "2026-11-05T15:00:27.000Z",
-      "category": "technology",
-      "summary": "What do you get the man who doesn’t seem to want anything? From fiery condiments to chef’s knives, slippers to portable speakers, these ideas are sure to hit the spot • The best Christmas gifts for mums in 2026 Gifts for dads, grandads and other father figures"
     },
     {
       "id": "feed-9n4dh3",
@@ -1902,6 +1872,36 @@
       "publishedAt": "2026-11-02T13:33:00.000Z",
       "category": "technology",
       "summary": "Greenpeace says it has formed an underwater barrier with boulders in the North Sea to prevent \"destructive fishing\" in an area created to protect porpoises."
+    },
+    {
+      "id": "feed-tod5ha",
+      "title": "Cryosphere faces permanent damage when world overshoots 1.5C, scientists warn",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
+      "publishedAt": "2026-11-02T00:01:25.000Z",
+      "category": "science",
+      "summary": "UN-backed report finds even temporary rises above Paris agreement target could cause harm to glaciers and polar ice sheets Earth’s icy regions face such dangerous melting that global heating should be brought back below 1C after an inevitable period of oversho"
+    },
+    {
+      "id": "feed-qenn2j",
+      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+      "publishedAt": "2026-11-01T19:36:46.000Z",
+      "category": "science",
+      "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people. Dr Marta Shahbazi , 41, an "
+    },
+    {
+      "id": "feed-ziaqtv",
+      "title": "The Guardian view on listening to people with learning disabilities: a matter of life and death | Editorial",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/commentisfree/2026/nov/01/the-guardian-view-on-listening-to-people-with-learning-disabilities-a-matter-of-life-and-death",
+      "publishedAt": "2026-11-01T17:25:17.000Z",
+      "category": "science",
+      "summary": "The Covid pandemic shed an unforgiving light on health and social care inequalities. The lessons have yet to be absorbed The fear that so many felt as the death toll rose during the Covid pandemic was magnified for Fiona Walker. “I know from experience they wo"
     }
   ]
 }

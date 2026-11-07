@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T06:34:01.002Z",
+  "updatedAt": "2026-11-07T07:45:54.095Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,20 @@
   },
   "articles": [
     {
-      "id": "feed-uc23we",
-      "title": "Paraguay's President Santiago Peña impeached and arrested",
+      "id": "feed-uialhr",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
       "source": "BBC News",
-      "publishedAt": "2026-11-07T03:25:00.000Z",
+      "publishedAt": "2026-11-07T07:20:00.000Z",
       "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
+    },
+    {
+      "id": "feed-1mhd8tc",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T06:59:48.000Z",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
     },
     {
       "id": "feed-q4ddf5",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T14:46:03.000Z",
       "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
-    },
-    {
-      "id": "feed-q53pzo",
-      "title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T13:23:44.000Z",
-      "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly."
     }
   ]
 }

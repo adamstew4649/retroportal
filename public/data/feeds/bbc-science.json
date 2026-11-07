@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T06:34:01.003Z",
+  "updatedAt": "2026-11-07T07:45:54.096Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-165cmzi",
+      "title": "New Forest wildfire restoration work begins",
+      "link": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T07:14:33.000Z",
+      "summary": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire."
+    },
     {
       "id": "feed-14rg4g0",
       "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-05T23:16:53.000Z",
       "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough."
-    },
-    {
-      "id": "feed-1vm4ole",
-      "title": "BBC Inside Science",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct978k",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T21:00:00.000Z",
-      "summary": "A glimpse into the world of the incredibly tiny"
     }
   ]
 }
