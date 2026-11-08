@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T10:27:44.954Z",
+  "updatedAt": "2026-11-08T11:09:01.580Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-vktp19",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
+      "source": "BBC News",
+      "publishedAt": "2026-11-08T10:44:42.000Z",
+      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
+    },
     {
       "id": "feed-5gv9an",
       "title": "Traders 'priced out' of £12,000 Christmas market pitches",
@@ -38,6 +46,14 @@
       "source": "BBC News",
       "publishedAt": "2026-11-07T21:36:16.000Z",
       "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
+    },
+    {
+      "id": "feed-svrte",
+      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-07T01:41:36.000Z",
+      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions."
     },
     {
       "id": "feed-svrte",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T00:02:52.000Z",
       "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work"
-    },
-    {
-      "id": "feed-7302p0",
-      "title": "Interest rates hiked to 4% in first increase in over three years",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T17:09:55.000Z",
-      "summary": "Most analysts expected the increase from 3.75% to 4%."
-    },
-    {
-      "id": "feed-1jtmpiv",
-      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-05T15:27:09.000Z",
-      "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders."
     }
   ]
 }
