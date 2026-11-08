@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T16:26:47.978Z",
-  "generatedAt": "2026-11-08T16:26:47.978Z",
+  "updatedAt": "2026-11-08T17:01:40.763Z",
+  "generatedAt": "2026-11-08T17:01:40.763Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "bbc-world",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -109,9 +109,19 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
-      "publishedAt": "2026-11-08T16:25:36.000Z",
+      "publishedAt": "2026-11-08T16:55:43.000Z",
       "category": "uk",
       "summary": "⚽️ Premier League updates from 4.30pm GMT ⚽️ Jonathan Wilson: There are few reasons for Emery to leave Villa for United ⚽️ Today’s results | Mail Tim Sunderland have clung on to beat Chelsea 1-0, which is a great result for them. And yet another embarrassment "
+    },
+    {
+      "id": "feed-1id6g07",
+      "title": "Nasa seeks next generation of astronauts to live and work on the moon",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open",
+      "publishedAt": "2026-11-08T16:54:44.000Z",
+      "category": "science",
+      "summary": "Applications due on 3 December for new generation of explorers who can ‘shape humanity’s future in space’ Nasa has launched a callout for a new generation of astronauts as it searches for explorers who could live and work on the moon. Opening applications for "
     },
     {
       "id": "feed-1ll6c9j",
@@ -119,7 +129,7 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/nov/08/england-v-australia-nations-championship-rugby-union-live",
-      "publishedAt": "2026-11-08T16:25:05.000Z",
+      "publishedAt": "2026-11-08T16:54:27.000Z",
       "category": "uk",
       "summary": "Updates from this 3.10pm GMT KO at Twickenham Email Daniel | Sign up for The Breakdown What a start for England! Oh my word, how clinical! They won the line-out (just) and went down the blind. Chessum with a meaty carry got them rumbling. It came back infield."
     },
@@ -129,9 +139,79 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
-      "publishedAt": "2026-11-08T16:24:49.000Z",
+      "publishedAt": "2026-11-08T16:52:40.000Z",
       "category": "uk",
-      "summary": "️ Updates from Interlagos (race due to start 5pm GMT) ️ Email Daniel | Sign up for The Recap Oy my days! It’s raining now and Antonelli slides off the track as they go around to get into position! He’s able to adjust, but that’s a warning to all drivers. That "
+      "summary": "️ Updates from Interlagos (race due to start 5pm GMT) ️ Email Daniel | Sign up for The Recap We’ve got dancers in the main straight, rain coming down. I’d not be shocked if we see some incidents today – let’s hope everyone stays safe. Oy my days! It’s raining "
+    },
+    {
+      "id": "feed-1e6qjt2",
+      "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+      "publishedAt": "2026-11-08T16:50:58.000Z",
+      "category": "world",
+      "summary": "Bailiffs reportedly seized digital records before court case over alleged intellectual property breaches on Land Rover Defender Bailiffs acting for Jaguar Land Rover raided the Dutch offices of a Chinese “copycat” rival before a legal showdown this week over w"
+    },
+    {
+      "id": "feed-1vfbyoy",
+      "title": "Collision of two trains in Egypt kills at least four",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+      "publishedAt": "2026-11-08T16:38:57.000Z",
+      "category": "uk",
+      "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo At least four people were killed and almost 90 others were injured when two trains collided on Sunday south of the Egyptian capital, Cairo, authori"
+    },
+    {
+      "id": "feed-1yww2kg",
+      "title": "Met Office issues weather warning as UK conditions create ‘perfect recipe’ for fog",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog",
+      "publishedAt": "2026-11-08T16:38:16.000Z",
+      "category": "uk",
+      "summary": "Travel may be disrupted until Monday morning in areas including most of southern England and across Midlands The Met Office has said weather conditions in the UK are creating a “perfect recipe” for fog as it warned that travel may be disrupted. A yellow weathe"
+    },
+    {
+      "id": "feed-o7lbqn",
+      "title": "Challenging the politics that brought Donald Trump to power | Letters",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/challenging-the-politics-that-brought-donald-trump-to-power",
+      "publishedAt": "2026-11-08T16:37:43.000Z",
+      "category": "uk",
+      "summary": "Readers respond to an editorial commenting on the Republicans’ rout in the US midterm elections Your editorial on the US midterms ( 4 November ) notes that culture war attacks, bigotry and smears failed this time. It is worth asking why they worked before. For"
+    },
+    {
+      "id": "feed-7ikf62",
+      "title": "Older women are as varied and individual as we have ever been | Letters",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/society/2026/nov/08/older-women-are-as-varied-and-individual-as-we-have-ever-been",
+      "publishedAt": "2026-11-08T16:31:13.000Z",
+      "category": "uk",
+      "summary": "Thank you, Jo Brand, for not offering us a formula for growing older, writes Dr Denise Taylor . Plus a letter from Louise Mothersole I found Jo Brand’s reflections on approaching 70 wonderfully refreshing ( ‘It’s far too late for me to go to the gym every 10 m"
+    },
+    {
+      "id": "feed-1x4vux9",
+      "title": "You can say that again, Sam … in Latin | Letters",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/education/2026/nov/08/say-that-again-in-latin",
+      "publishedAt": "2026-11-08T16:30:33.000Z",
+      "category": "uk",
+      "summary": "From Ursus Nomine Paddington to ‘Deskibus collapsibus’ – readers respond to a letter on learning the language Our venerable Latin teacher, Mr EA Burnham, was persuaded to help us translate contemporary phrases ( Letters, 1 November ): the Humphrey-Bogart-style"
+    },
+    {
+      "id": "feed-y1cvqo",
+      "title": "When the 11-plus test went to the dogs | Brief letters",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/education/2026/nov/08/when-the-11-plus-test-went-to-the-dogs",
+      "publishedAt": "2026-11-08T16:29:23.000Z",
+      "category": "uk",
+      "summary": "Intelligence test | Food shocks | Dylan’s papal visit | Huddersfield fans Philip Allen’s suggestion ( Letters, 5 November ) that the cat is the odd one out between cat, dog and radio is questionable. It could be any. The dog is the only one that cannot lull yo"
     },
     {
       "id": "feed-xbxbt1",
@@ -154,8 +234,8 @@
       "summary": "A lot can change in five-and-half months, but as an early winter chill descended on Wearside this week – both meteorologically and metaphorically – Sunderland were determined that some things should remain the same. Just as they had beaten Chelsea on the final"
     },
     {
-      "id": "feed-8fxsez",
-      "title": "Alexander Isak tops off goal trio for Liverpool as late penalty offers little for Crystal Palace",
+      "id": "feed-13sy37i",
+      "title": "Wirtz provides quality to seal Liverpool win over lacklustre Crystal Palace",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report",
@@ -202,16 +282,6 @@
       "publishedAt": "2026-11-08T16:00:44.000Z",
       "category": "uk",
       "summary": "Schwarzman Centre, Oxford Nitin Sawhney’s eclectic global fusion brings in new writings from Harvey, drawings by Antony Gormley and collaborations from academics in space and ecosystems Samantha Harvey’s Booker-winning novel Orbital ends in music – an ecstatic"
-    },
-    {
-      "id": "feed-1bhy8mp",
-      "title": "It is time the government treated hunger and obesity as two interlinked problems | Letter",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/global-development/2026/nov/08/it-is-time-the-government-treated-hunger-and-obesity-as-two-interlinked-problems",
-      "publishedAt": "2026-11-08T15:40:39.000Z",
-      "category": "uk",
-      "summary": "The cabinet committee the MPs want should become the delivery arm of a statutory right to adequate food, writes Prof Kent Buse of the World Obesity Federation Your report ( UK government’s obesity plan ‘doomed to fail’, MPs warn, 30 October ) arrives a fortnig"
     },
     {
       "id": "feed-1d66ky5",
@@ -274,34 +344,24 @@
       "summary": "Choosing a healthcare plan can be extremely complicated, but it’s necessary to attract and retain good workers Again, healthcare costs are going up. According to a recent study from Mercer, total health benefit cost per employee in 2027 is expected to rise 8.2"
     },
     {
-      "id": "feed-ztgbcm",
-      "title": "Tired all the time? What to know about B12 and if it actually boosts energy levels",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/wellness/2026/nov/08/do-b12-shots-work-energy-deficiency",
-      "publishedAt": "2026-11-08T15:00:42.000Z",
-      "category": "uk",
-      "summary": "Med spas are raving about vitamin B12 shots as a pick-me-up. But do they actually make you feel more energized? If you spend time on social media, you may have seen med spa owners and employees describing vitamin B12 shots as a pick-me-up . When they’re run do"
-    },
-    {
-      "id": "feed-kl1msp",
-      "title": "‘The end of an era’: Scillonian III sets sail on final voyage from Isles of Scilly",
+      "id": "feed-1fc521d",
+      "title": "End of the ‘vomit comet’: Scillonian III sets sail on final voyage from Isles of Scilly",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall",
       "publishedAt": "2026-11-08T14:56:59.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Much-loved passenger ship has traversed Atlantic swells between islands and Cornish mainland for almost 50 years Tears were shed, sea shanties sung and tales of stormy voyages exchanged as one of the UK’s most characterful ships set sail for the final time. Sc"
     },
     {
-      "id": "feed-1x4zsvo",
-      "title": "Four dead and 88 injured in train crash near Cairo",
+      "id": "feed-1gfheqb",
+      "title": "Seven dead and 114 injured in train crash near Cairo",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748",
       "publishedAt": "2026-11-08T14:55:00.000Z",
       "category": "world",
-      "summary": "At least four people have died and almost 90 have been left injured in a major train crash south of Cairo."
+      "summary": "At least seven people have died and more than 100 have been left injured in a major train crash south of Cairo."
     },
     {
       "id": "feed-o4hr17",
@@ -340,7 +400,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
       "publishedAt": "2026-11-08T14:26:14.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, the prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a d"
     },
     {
@@ -354,24 +414,14 @@
       "summary": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow."
     },
     {
-      "id": "feed-upxsri",
-      "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
-      "publishedAt": "2026-11-08T14:13:00.000Z",
+      "id": "feed-1cf2ak8",
+      "title": "Weather warning issued for parts of UK amid 'perfect recipe' for fog",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/weather-warning-issued-for-parts-of-uk-amid-perfect-recipe-for-fog-13609717",
+      "publishedAt": "2026-11-08T14:01:00.000Z",
       "category": "uk",
-      "summary": "Alessia Russo scored twice at Anfield to provide the under-pressure Arsenal head coach, Renée Slegers, with some brief respite but it was another unconvincing display from the north Londoners despite their much-needed 2-1 victory. The in-form Russo’s double to"
-    },
-    {
-      "id": "feed-1z0ib8f",
-      "title": "The tiny world of Australian fairywrens – in pictures",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/gallery/2026/nov/09/the-tiny-world-of-australian-fairy-wrens-howard-loosmore-photography",
-      "publishedAt": "2026-11-08T14:00:45.000Z",
-      "category": "uk",
-      "summary": "Howard Loosemore, alongside a few talented photographer friends, spent 15 years capturing every Australian fairywren species and plumage in vivid detail that’s been published in a new book about the small and colourful lives of fairywrens Continue reading..."
+      "summary": "Weather conditions in the UK are creating the \"perfect recipe\" for fog, the Met Office has said, as it issued a warning over travel conditions."
     },
     {
       "id": "feed-jp86zj",
@@ -433,14 +483,14 @@
       "summary": "High-stakes talks involving 190 countries begin on Monday as world grapples with El Niño supercharged by fossil fuels The Cop31 summit must produce progress, “a tangible outcome ... that people can see is real”, its host has said as scores of world leaders and"
     },
     {
-      "id": "feed-kh4lpl",
-      "title": "Women in media alleging abuse too often not protected, Lisa Nandy says",
+      "id": "feed-g8sa52",
+      "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
       "publishedAt": "2026-11-08T13:18:50.000Z",
       "category": "world",
-      "summary": "Culture secretary says there is still a problem in the industry and public life after Russell Brand conviction The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal"
+      "summary": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public life The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal wi"
     },
     {
       "id": "feed-1hsptg3",
@@ -453,14 +503,14 @@
       "summary": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
     },
     {
-      "id": "feed-1aqb8xq",
-      "title": "WW2 veterans outnumber former PMs for possible last time at Remembrance Sunday service",
+      "id": "feed-2e2j4u",
+      "title": "Nine former PMs join King Charles at Remembrance Sunday service in London",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
       "publishedAt": "2026-11-08T13:05:13.000Z",
       "category": "world",
-      "summary": "Andy Burnham takes part at Cenotaph in London for first time alongside nine ex-prime ministers and about 12 second world war veterans Second world war veterans outnumbered former prime ministers for what could be the last time at the national service of rememb"
+      "summary": "Andy Burnham takes part for first time alongside about 12 second world war veterans, as ceremonies held across UK Second world war veterans outnumbered former prime ministers for what could be the last time at the national service of remembrance at the Cenotap"
     },
     {
       "id": "feed-1as8l26",
@@ -561,36 +611,6 @@
       "publishedAt": "2026-11-08T12:00:39.000Z",
       "category": "world",
       "summary": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including exploring how lessons from the past can shape the present and near future have in"
-    },
-    {
-      "id": "feed-lp8qzs",
-      "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
-      "publishedAt": "2026-11-08T11:50:15.000Z",
-      "category": "world",
-      "summary": "Six people killed in attack probably inspired by far right, according to officials, as police say suspect’s parents and sister found dead at his home Polish prosecutors have opened a terrorism investigation after a 24-year-old man opened fire in a busy market "
-    },
-    {
-      "id": "feed-1l2kkjq",
-      "title": "Who’s who at Cop31: key players at the climate talks",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-      "publishedAt": "2026-11-08T11:48:56.000Z",
-      "category": "world",
-      "summary": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting? Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese in 2021 , while in opposition, before his successful election"
-    },
-    {
-      "id": "feed-gpai26",
-      "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
-      "publishedAt": "2026-11-08T11:00:38.000Z",
-      "category": "world",
-      "summary": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absent As the planet faces unprecedented human-caused global heating, heads of government are meeting for the next fortnight for the latest round of climate ta"
     },
     {
       "id": "feed-11ilmxr",
@@ -1071,16 +1091,6 @@
       "publishedAt": "2026-11-07T13:00:11.000Z",
       "category": "business",
       "summary": "Experts predict a baptism of fire for GBR in 2027, with likely issues ranging from clapped-out trains and track to extreme weather-related stress The glad tidings brought by the minister were that the wait was almost over: the establishment of Great British Ra"
-    },
-    {
-      "id": "feed-bydbhe",
-      "title": "No clear winner after New Zealand general election",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/new-zealand-election-too-close-to-call-with-conservative-coalition-on-brink-of-slim-majority-13609199",
-      "publishedAt": "2026-11-07T13:00:00.000Z",
-      "category": "world",
-      "summary": "The New Zealand election count has ended without a definitive result as the two main parties remain almost deadlocked in the popular vote."
     },
     {
       "id": "feed-1uhw4i3",
@@ -1741,16 +1751,6 @@
       "publishedAt": "2026-11-04T21:41:15.000Z",
       "category": "technology",
       "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record."
-    },
-    {
-      "id": "feed-1oau01g",
-      "title": "US prosecutors drop criminal charges against scientist detained over frog embryos",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/04/kseniia-petrova-harvard-frog-embryos",
-      "publishedAt": "2026-11-04T21:31:35.000Z",
-      "category": "science",
-      "summary": "Kseniia Petrova was detained for four months after arrest with research samples, and feared deportation to Russia Federal prosecutors have dropped all criminal charges against a Russian scientist who spent four months in immigration detention after flying into"
     },
     {
       "id": "feed-1ih5dlf",
