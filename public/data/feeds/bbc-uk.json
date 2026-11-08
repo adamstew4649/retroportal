@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T18:23:17.012Z",
+  "updatedAt": "2026-11-08T19:12:25.846Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1fkvchy",
+      "title": "Secondary schools told to stop teaching GCSEs before Year 10",
+      "link": "https://www.bbc.co.uk/news/articles/c680z89dk827o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-08T19:00:32.000Z",
+      "summary": "The government says pupils in Year 7 to 9 should have \"richer, more engaging\" learning than preparing for GCSEs."
+    },
     {
       "id": "feed-q7xhi6",
       "title": "King leads solemn Remembrance Sunday service at Cenotaph",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-08T00:49:00.000Z",
       "summary": "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller."
-    },
-    {
-      "id": "feed-1272ior",
-      "title": "The rise of microdramas: The 'snackable' shows made for the scrolling age",
-      "link": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no",
-      "source": "BBC News",
-      "publishedAt": "2026-11-08T00:45:45.000Z",
-      "summary": "The snappy, high-octane episodes - viewed on your phone - are huge in China and on the up in the UK."
     }
   ]
 }
