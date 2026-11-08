@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T03:38:06.004Z",
-  "generatedAt": "2026-11-08T03:38:06.004Z",
+  "updatedAt": "2026-11-08T04:38:35.503Z",
+  "generatedAt": "2026-11-08T04:38:35.503Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,26 @@
   ],
   "articles": [
     {
+      "id": "feed-1dnzw8d",
+      "title": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo",
+      "publishedAt": "2026-11-08T04:09:21.000Z",
+      "category": "uk",
+      "summary": "Police say more than 30 vehicles were involved in the incident on the M20 around 18:40 on Saturday."
+    },
+    {
+      "id": "feed-1f95ei5",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+      "publishedAt": "2026-11-08T04:03:12.000Z",
+      "category": "world",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+    },
+    {
       "id": "feed-8boezn",
       "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
       "source": "BBC News",
@@ -134,14 +154,14 @@
       "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email , free app or daily news podcast Snow has fallen across parts of NSW, Victoria and Tasmania as an unseasonal cold blast whips thr"
     },
     {
-      "id": "feed-b0hr6g",
-      "title": "Briton among six killed by 'far-right' gunman in Krakow rampage",
+      "id": "feed-12o0i83",
+      "title": "British man among six killed by 'far-right' gunman in Krakow rampage",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612",
       "publishedAt": "2026-11-08T02:19:00.000Z",
       "category": "world",
-      "summary": "A British national was among six people killed in a mass shooting in Krakow, according to Polish police."
+      "summary": "A British man is among six people killed in a mass shooting in the Polish city of Krakow."
     },
     {
       "id": "feed-1vttc5w",
@@ -251,7 +271,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
       "publishedAt": "2026-11-08T00:17:28.000Z",
       "category": "world",
-      "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email , free app or daily news podcast Four heritage-listed defence sites, including Sydney’s Victoria Barracks, will "
+      "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email , free app or daily news podcast Richard Marles has denied claims Australia’s defence will be undermined by its "
     },
     {
       "id": "feed-1a8tz8d",
@@ -524,14 +544,14 @@
       "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza."
     },
     {
-      "id": "feed-q3q1qw",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "id": "feed-744tjh",
+      "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
-      "publishedAt": "2026-11-07T17:09:24.000Z",
-      "category": "world",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+      "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo",
+      "publishedAt": "2026-11-07T17:32:42.000Z",
+      "category": "uk",
+      "summary": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU."
     },
     {
       "id": "feed-bqmz83",
@@ -854,16 +874,6 @@
       "summary": "Fans trying to access latest releases are being priced out in a cut-throat market driven by crypto-like hype The runaway demand for Pokemon cards is because they are being hyped “like crypto”, according to one young fan who had spent the night queueing outside"
     },
     {
-      "id": "feed-998d4u",
-      "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o",
-      "publishedAt": "2026-11-07T11:31:10.000Z",
-      "category": "uk",
-      "summary": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members."
-    },
-    {
       "id": "feed-p6ljui",
       "title": "Roman settlement dating back 2,000 years found under new-build estate",
       "source": "BBC News",
@@ -972,16 +982,6 @@
       "publishedAt": "2026-11-07T08:15:55.000Z",
       "category": "world",
       "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work."
-    },
-    {
-      "id": "feed-hpnx6n",
-      "title": "AI in property listings is false advertising, house-hunters say",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmdxw0xn0k80o",
-      "publishedAt": "2026-11-07T08:15:03.000Z",
-      "category": "uk",
-      "summary": "One prospective buyer says it is like going to buy a new Mercedes but ending up with an old Skoda."
     },
     {
       "id": "feed-1r6bick",
@@ -1332,16 +1332,6 @@
       "publishedAt": "2026-11-06T16:22:18.000Z",
       "category": "business",
       "summary": "The plans aim to help more people access food, financial advice and help with heating costs."
-    },
-    {
-      "id": "feed-15ux49h",
-      "title": "Amateur cricketer 'Clicky Ponting' banned for two years over viral cheating",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/amateur-cricketer-clicky-pointing-banned-for-two-years-and-club-relegated-over-viral-cheating-13608918",
-      "publishedAt": "2026-11-06T15:29:00.000Z",
-      "category": "uk",
-      "summary": "An amateur cricketer dubbed 'Clicky Ponting' has been banned from the sport for two years over cheating during games."
     },
     {
       "id": "feed-1vpezpm",
@@ -1902,6 +1892,16 @@
       "publishedAt": "2026-11-02T14:00:42.000Z",
       "category": "science",
       "summary": "Many treatments are now extending lives but the measure of progress should not end with a scan or a survival curve Two decades ago, a dear friend called me in a trembling voice. Was there hope for his young nephew , whose cancer had spread to the brain? Sadly,"
+    },
+    {
+      "id": "feed-tod5ha",
+      "title": "Cryosphere faces permanent damage when world overshoots 1.5C, scientists warn",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
+      "publishedAt": "2026-11-02T00:01:25.000Z",
+      "category": "science",
+      "summary": "UN-backed report finds even temporary rises above Paris agreement target could cause harm to glaciers and polar ice sheets Earth’s icy regions face such dangerous melting that global heating should be brought back below 1C after an inevitable period of oversho"
     }
   ]
 }
