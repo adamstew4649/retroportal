@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T12:36:22.803Z",
-  "generatedAt": "2026-11-08T12:36:22.803Z",
+  "updatedAt": "2026-11-08T13:38:03.386Z",
+  "generatedAt": "2026-11-08T13:38:03.386Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,134 @@
   ],
   "articles": [
     {
+      "id": "feed-147xw78",
+      "title": "Crystal Palace v Liverpool, Brighton v Brentford, and more: Premier League – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
+      "publishedAt": "2026-11-08T13:30:41.000Z",
+      "category": "uk",
+      "summary": "⚽️ Updates from 2pm GMT kick-offs ⚽️ Live scoreboard | Tables | Email Simon Fabian Hurzeler on what makes Brighton good: “Brilliant at the basics. That’s our foundation. That’s what made us strong and hopefully will make us strong in the future. It’s not about"
+    },
+    {
       "id": "feed-svv44q",
       "title": "Liverpool v Arsenal: Women’s Super League – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
-      "publishedAt": "2026-11-08T12:29:42.000Z",
+      "publishedAt": "2026-11-08T13:27:50.000Z",
       "category": "uk",
       "summary": "⚽️ Women’s Super League updates from 12pm GMT ⚽️ Océane Hurtré making waves at Birmingham | Email Emillia 3 min: Endemann looks to send a cross towards the back post from the right but the ball runs behind. 2 min: Arsenal drive forward early and look to pile o"
+    },
+    {
+      "id": "feed-zz3esj",
+      "title": "‘I just got AI emails rejecting my application – or no reply at all’: this is the soul-crushing reality of being a Neet | John Harris",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/08/young-people-soul-crushing-reality-neet-alan-milburn-life",
+      "publishedAt": "2026-11-08T13:27:33.000Z",
+      "category": "uk",
+      "summary": "Alan Milburn describes them as a ‘lost generation’. Those I spoke to just want to know what they have to do to finally get a job – and a chance in life Callum Atkinson is 23 years old, and lives in the Greater Manchester town of Rochdale. Until very recently, "
+    },
+    {
+      "id": "feed-10bjkch",
+      "title": "Cop31 must deliver climate progress that people can see is real, host says",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
+      "publishedAt": "2026-11-08T13:24:00.000Z",
+      "category": "world",
+      "summary": "High-stakes talks involving 190 countries begin on Monday as world grapples with El Niño supercharged by fossil fuels The Cop31 summit must produce progress, “a tangible outcome ... that people can see is real”, its host has said as scores of world leaders and"
+    },
+    {
+      "id": "feed-ozu1iu",
+      "title": "Two arrests and police officers hurt after brawl outside bare-knuckle fighting event",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo",
+      "publishedAt": "2026-11-08T13:18:57.000Z",
+      "category": "uk",
+      "summary": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow."
+    },
+    {
+      "id": "feed-kh4lpl",
+      "title": "Women in media alleging abuse too often not protected, Lisa Nandy says",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
+      "publishedAt": "2026-11-08T13:18:50.000Z",
+      "category": "world",
+      "summary": "Culture secretary says there is still a problem in media industry and across public life after Russell Brand conviction Lisa Nandy, the culture secretary, has said there is still a problem with exploitation and abuse in the media industry and a failure to prop"
+    },
+    {
+      "id": "feed-1hsptg3",
+      "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo",
+      "publishedAt": "2026-11-08T13:05:30.000Z",
+      "category": "uk",
+      "summary": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
+    },
+    {
+      "id": "feed-lonrhv",
+      "title": "Second world war veterans outnumber former PMs for possible last time on Remembrance Sunday",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
+      "publishedAt": "2026-11-08T13:05:13.000Z",
+      "category": "uk",
+      "summary": "Andy Burnham takes part for first time alongside eight ex-premiers as 12 veterans participate in ceremony Second world war veterans outnumbered former prime ministers for what could be the last time at the national service of remembrance at the Cenotaph in cen"
+    },
+    {
+      "id": "feed-6mi2e",
+      "title": "Revealed: how a UK firm is spearheading growth in trade of US fracked ethane",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/ineos-fracking-us",
+      "publishedAt": "2026-11-08T13:00:41.000Z",
+      "category": "uk",
+      "summary": "Ineos is driving exports with potentially far-reaching environmental and social repercussions “My children started getting sick,” says Lois Bower-Bjornson, a campaigner at the Clean Air Council in Washington County, Pennsylvania. “My oldest son had rashes all "
+    },
+    {
+      "id": "feed-1as8l26",
+      "title": "‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition",
+      "publishedAt": "2026-11-08T13:00:41.000Z",
+      "category": "world",
+      "summary": "Visitors to a touring show drawing attention to Epstein’s crimes have left thousands of ‘powerful’ notes – and survivors say it means a great deal When Danielle Bensky first went to The Donald J Trump and Jeffrey Epstein Memorial Reading Room, she didn’t know "
+    },
+    {
+      "id": "feed-985gvm",
+      "title": "How to make banana bread – recipe | Felicity Cloake's Masterclass",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/food/2026/nov/08/how-to-make-banana-bread-recipe",
+      "publishedAt": "2026-11-08T13:00:40.000Z",
+      "category": "uk",
+      "summary": "Banana bread is delicious, keeps for ages, goes with all sorts – and it’s thrifty, too! Here’s how to make it in a few easy steps Banana bread is, strictly speaking, more of a loaf-shaped cake, but, whatever you call it, the taste doesn’t lie. It’s utterly del"
+    },
+    {
+      "id": "feed-1u4j85f",
+      "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+      "publishedAt": "2026-11-08T13:00:40.000Z",
+      "category": "world",
+      "summary": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues Datacenters are spurring a boom in fossil fuel pipeline projects at a time when the Trump administration is gutting rules that protect from dis"
+    },
+    {
+      "id": "feed-1d66ky5",
+      "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo",
+      "publishedAt": "2026-11-08T12:44:59.000Z",
+      "category": "uk",
+      "summary": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her."
     },
     {
       "id": "feed-hckfrp",
@@ -144,6 +264,16 @@
       "summary": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI ‘AI clog’: UK battles onslaught of chatbot-generated complaints Editorial: the AI backlash – Silicon Valley’s political power is cracking L"
     },
     {
+      "id": "feed-hfefi1",
+      "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
+      "publishedAt": "2026-11-08T12:00:40.000Z",
+      "category": "uk",
+      "summary": "Midterms success gives party potent leverage over Trump – expect tough campaigns of investigating and lawmaking “Costs, chaos, corruption”: after almost two years spent relentlessly criticizing Donald Trump for failing to address those three, broad political c"
+    },
+    {
       "id": "feed-1x970n4",
       "title": "Zohran Mamdani has a mustache now. We cannot take this lightly | Dave Schilling",
       "source": "The Guardian",
@@ -162,16 +292,6 @@
       "publishedAt": "2026-11-08T12:00:40.000Z",
       "category": "uk",
       "summary": "Continue reading..."
-    },
-    {
-      "id": "feed-hfefi1",
-      "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
-      "publishedAt": "2026-11-08T12:00:40.000Z",
-      "category": "world",
-      "summary": "Midterms success gives party potent leverage over Trump – expect tough campaigns of investigating and lawmaking “Costs, chaos, corruption”: after almost two years spent relentlessly criticizing Donald Trump for failing to address those three, broad political c"
     },
     {
       "id": "feed-1e3svr2",
@@ -194,6 +314,16 @@
       "summary": "From roundabouts to the stock market, relentless streamlining could be making the world more dangerous We have all been there: packed shoulder to shoulder on the train while the person beside us coughs and sneezes. A protective flu jab offers some reassurance,"
     },
     {
+      "id": "feed-ahmdip",
+      "title": "Dining across the divide: ‘She had a deep-rooted community attitude. I find it astonishing that she voted Reform’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/08/dining-across-divide-tory-reform-lib-dem-immigration-welfare",
+      "publishedAt": "2026-11-08T12:00:39.000Z",
+      "category": "uk",
+      "summary": "Will a former Tory voter and a Lib Dem find any common ground on immigration – or the welfare bill? Avis, 67, St Annes-on-the-Sea Occupation Retired probation service officer Continue reading..."
+    },
+    {
       "id": "feed-1olqh24",
       "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
       "source": "The Guardian",
@@ -214,16 +344,6 @@
       "summary": "As her long-running children’s book series turns 15, Liz Pichon talks about overcoming dyslexia to become a bestselling author If you ever find yourself in an airport newsagent, it might be worth peering inside one of Liz Pichon’s books. “I do guerrilla signin"
     },
     {
-      "id": "feed-ahmdip",
-      "title": "Dining across the divide: ‘She had a deep-rooted community attitude. I find it astonishing that she voted Reform’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/08/dining-across-divide-tory-reform-lib-dem-immigration-welfare",
-      "publishedAt": "2026-11-08T12:00:39.000Z",
-      "category": "uk",
-      "summary": "Will a former Tory voter and a Lib Dem find any common ground on immigration – or the welfare bill? Avis, 67, St Annes-on-the-Sea Occupation Retired probation service officer Continue reading..."
-    },
-    {
       "id": "feed-lp8qzs",
       "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
       "source": "The Guardian",
@@ -231,7 +351,7 @@
       "url": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
       "publishedAt": "2026-11-08T11:50:15.000Z",
       "category": "uk",
-      "summary": "Officials say suspect holds far-right views and three people found dead at his home were his parents and sister Polish prosecutors have opened a terrorism investigation after a 24-year-old man opened fire in a busy market square in Kraków, killing six people i"
+      "summary": "Six people killed in attack probably inspired by far right, according to officials, as police say suspect’s parents and sister found dead at his home Polish prosecutors have opened a terrorism investigation after a 24-year-old man opened fire in a busy market "
     },
     {
       "id": "feed-1l2kkjq",
@@ -242,16 +362,6 @@
       "publishedAt": "2026-11-08T11:48:56.000Z",
       "category": "world",
       "summary": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting? Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese in 2021 , while in opposition, before his successful election"
-    },
-    {
-      "id": "feed-fypbb0",
-      "title": "Abuse in media industry probably still happening, minister warns in wake of Brand case",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo",
-      "publishedAt": "2026-11-08T11:40:56.000Z",
-      "category": "uk",
-      "summary": "Lisa Nandy told Laura Kuenssberg that 'many people' in the media industry had opened up to her."
     },
     {
       "id": "feed-vktp19",
@@ -310,7 +420,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
       "publishedAt": "2026-11-08T11:00:38.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Luc Corlouër made ‘deal’ with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949 For almost eight decades the artists’ model Louise Cansot, the subject of the novel winning France’s most prestigious lite"
     },
     {
@@ -320,38 +430,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/08/simon-parkes-navy-sailor-mother-allan-grimson-suspected-killer",
       "publishedAt": "2026-11-08T11:00:37.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Margaret Parkes and her husband, in their 80s, want Allan Grimson to reveal location of their son Simon’s remains The mother of a teenage Royal Navy sailor who vanished 40 years ago has called for a “serial killer” suspected of murdering him to finally reveal "
-    },
-    {
-      "id": "feed-1ug39hz",
-      "title": "Election results in Brazil, Serbia, Israel and US renew faith in resilience of democracy",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/08/election-brazil-serbia-israel-and-us-resilience-democracy-grassroots-activism-authoritarianism",
-      "publishedAt": "2026-11-08T10:00:37.000Z",
-      "category": "uk",
-      "summary": "Four pivotal elections in past two weeks show power of grassroots activism to push back against authoritarianism A sequence of four pivotal elections over the past two weeks in disparate regions of the world has inflicted significant setbacks on authoritarian "
-    },
-    {
-      "id": "feed-zctkvc",
-      "title": "‘What is this emotion telling me?’ How anger, fear and jealousy can point the way to a better life",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/08/what-is-this-emotion-telling-me-how-anger-fear-and-jealousy-can-point-the-way-to-a-better-life",
-      "publishedAt": "2026-11-08T10:00:37.000Z",
-      "category": "uk",
-      "summary": "It’s tempting to ignore uncomfortable feelings – but maybe they’re the key to a happier, more successful future. Time to increase your psychological flexibility … Something infuriating happened to me recently. My local gym closed down, and overnight what I lau"
-    },
-    {
-      "id": "feed-10xchf5",
-      "title": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment",
-      "publishedAt": "2026-11-08T10:00:36.000Z",
-      "category": "uk",
-      "summary": "Ten years after her landmark political documentary 13th, the film-maker delivers a follow-up on the 14th amendment – and the Trump administration’s attempts to dismantle birthright citizenship When I ask Ava DuVernay how she kept her focus while making her new"
     },
     {
       "id": "feed-n8wxg7",
@@ -380,7 +460,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
       "publishedAt": "2026-11-08T09:00:35.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’ Trees are being planted in the garden. The brightly coloured buildings are getting another coat of paint. The choir rehearses. Hundreds of other"
     },
     {
@@ -444,14 +524,14 @@
       "summary": "Event regarded as Oscars of fashion industry replaces John Galliano retrospective with homage to the ‘extra ordinary’ A few months after the planned John Galliano Met Gala retrospective was cancelled amid a backlash focused on the designer’s past, a more commo"
     },
     {
-      "id": "feed-lxvawr",
-      "title": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales",
-      "publishedAt": "2026-11-08T08:00:35.000Z",
-      "category": "world",
-      "summary": "Naturalists divided over potential impact of proposals to increase number of wild raptors in England and Wales White-tailed eagles reintroduced into England and Wales imperil endangered seabird populations and risk wiping out some colonies, ecologists and cons"
+      "id": "feed-11y1lah",
+      "title": "Grenfell NHS support service faces funding cut",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cv62ykxp1x1ko",
+      "publishedAt": "2026-11-08T08:00:06.000Z",
+      "category": "uk",
+      "summary": "Councillors call for long-term funding for the service ahead of the fire’s 10th anniversary."
     },
     {
       "id": "feed-yh5qma",
@@ -520,28 +600,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
       "publishedAt": "2026-11-08T07:00:34.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Farmers face big drop in production from extreme weather during this year’s super El Niño event Banana producers in Latin America are calling for better pay to help cope with the impact of the climate crisis, as they face big drops in production resulting from"
-    },
-    {
-      "id": "feed-1187mb",
-      "title": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
-      "publishedAt": "2026-11-08T07:00:34.000Z",
-      "category": "world",
-      "summary": "President claimed to have ushered in a ‘golden age’ even as prices soared and war dragged on – and midterm voters did not buy his looking-glass narrative A new “golden age of America” is under way, Donald Trump repeatedly declared in his final pitch to voters "
-    },
-    {
-      "id": "feed-5s1l3u",
-      "title": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
-      "publishedAt": "2026-11-08T07:00:33.000Z",
-      "category": "world",
-      "summary": "David Lammy among those raising concerns after errors found in rejected applications for indefinite leave to remain Concerns have been raised over the sudden rise in number of Turkish nationals facing removal from the UK as a result of mistakes, prompting accu"
     },
     {
       "id": "feed-kjflk1",
@@ -552,16 +612,6 @@
       "publishedAt": "2026-11-08T07:00:33.000Z",
       "category": "business",
       "summary": "Emails claim to come from a woman whose husband has died – but the offer isn’t what it seems An email pops up in your inbox: a woman whose husband has died is giving away his grand piano for free. She says she would love it to go to someone “who will truly app"
-    },
-    {
-      "id": "feed-25lffb",
-      "title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai",
-      "publishedAt": "2026-11-08T06:00:33.000Z",
-      "category": "world",
-      "summary": "Mumbai facility is part of Reliance Industries, owner of world’s biggest oil refinery and funder of controversial mega-zoo The Prince of Wales’s Earthshot prize will host its forthcoming annual awards ceremony at a venue owned by the billionaire Ambani family "
     },
     {
       "id": "feed-70jlor",
@@ -794,16 +844,6 @@
       "summary": "Santiago Peña charged over alleged role in crisis as prosecutors request he be placed in preventive custody Pedro Volpe had just woken up last Tuesday when he saw a message from a friend asking whether his bank account was down too. It was a day after payday, "
     },
     {
-      "id": "feed-10fhty4",
-      "title": "Rob Brydon's battle to stay in character playing Peter O'Toole",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c8p3g675pplko",
-      "publishedAt": "2026-11-07T18:16:00.000Z",
-      "category": "uk",
-      "summary": "Brydon stars in a new radio drama looking at the ups and downs of O'Toole's professional career."
-    },
-    {
       "id": "feed-vt8qsg",
       "title": "US offers $20m reward for information about Iran's nuclear programme",
       "source": "BBC News",
@@ -834,16 +874,6 @@
       "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
     },
     {
-      "id": "feed-f1nqsg",
-      "title": "Third person arrested after car damaged by gunshots",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmkgekz79vd9o",
-      "publishedAt": "2026-11-07T15:58:16.000Z",
-      "category": "uk",
-      "summary": "A 29-year-old man was taken into custody on Saturday morning following two earlier arrests on Friday."
-    },
-    {
       "id": "feed-bstcse",
       "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
       "source": "The Guardian",
@@ -860,18 +890,8 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo",
       "publishedAt": "2026-11-07T15:19:35.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
-    },
-    {
-      "id": "feed-1ksstt8",
-      "title": "Travel delays feared as fog warning issued for parts of England and Wales",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/travel-delays-feared-on-remembrance-sunday-as-fog-warning-issued-for-parts-of-england-13609282",
-      "publishedAt": "2026-11-07T15:18:00.000Z",
-      "category": "uk",
-      "summary": "Thick fog could lead to travel disruption across parts of England and Wales, the Met Office has warned."
     },
     {
       "id": "feed-gzzv8k",
@@ -1734,11 +1754,11 @@
       "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?"
     },
     {
-      "id": "feed-2vfpui",
+      "id": "feed-nzwtml",
       "title": "Tech Life",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt",
       "publishedAt": "2026-11-03T20:30:00.000Z",
       "category": "technology",
       "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show."
@@ -1882,16 +1902,6 @@
       "publishedAt": "2026-10-29T16:25:54.000Z",
       "category": "science",
       "summary": "As one of the world’s leading forensic anthropologists, Dame Sue Black has acted as an expert witness in a myriad of high-profile criminal cases. Her work has taken her from the lab to active war zones and the aftermath of natural disasters to identify victims"
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "category": "technology",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
