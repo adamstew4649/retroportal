@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T17:54:55.182Z",
-  "generatedAt": "2026-11-08T17:54:55.182Z",
+  "updatedAt": "2026-11-08T18:23:17.020Z",
+  "generatedAt": "2026-11-08T18:23:17.020Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 8
+      "count": 6
     },
     {
       "id": "sky-technology",
@@ -104,13 +104,123 @@
   ],
   "articles": [
     {
+      "id": "feed-15pryqs",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
+      "publishedAt": "2026-11-08T18:22:53.000Z",
+      "category": "world",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+    },
+    {
+      "id": "feed-q7xhi6",
+      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o",
+      "publishedAt": "2026-11-08T18:20:53.000Z",
+      "category": "uk",
+      "summary": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London."
+    },
+    {
+      "id": "feed-rorv5w",
+      "title": "Manchester United v Aston Villa: Premier League – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
+      "publishedAt": "2026-11-08T18:10:14.000Z",
+      "category": "uk",
+      "summary": "⚽️ Premier League updates from 4.30pm GMT ⚽️ Jonathan Wilson: There are few reasons for Emery to leave Villa for United ⚽️ Today’s results | Mail Tim Sunderland have clung on to beat Chelsea 1-0, which is a great result for them. And yet another embarrassment "
+    },
+    {
+      "id": "feed-16aiwnf",
+      "title": "São Paulo Grand Prix: Formula One 2026 – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
+      "publishedAt": "2026-11-08T18:09:37.000Z",
+      "category": "uk",
+      "summary": "️ Updates from Interlagos (race due to start 5pm GMT) ️ Email Daniel | Sign up for The Recap We’ve got dancers in the main straight, rain coming down. I’d not be shocked if we see some incidents today – let’s hope everyone stays safe. Oy my days! It’s raining "
+    },
+    {
+      "id": "feed-1l986ax",
+      "title": "Teaching GCSEs early risks turning schools into ‘exam factories’, education secretary warns",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
+      "publishedAt": "2026-11-08T18:07:54.000Z",
+      "category": "uk",
+      "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said,"
+    },
+    {
+      "id": "feed-1mv1ws6",
+      "title": "NFL week nine: Jets v Chiefs, Rams v Commanders, Broncos v Panthers and more – updates",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/08/nfl-week-nine-jets-v-chiefs-rams-v-commanders-broncos-v-panthers-and-more-updates",
+      "publishedAt": "2026-11-08T18:07:09.000Z",
+      "category": "uk",
+      "summary": "Bengals joint-top of AFC North with 34-17 win in Madrid What do the midterms mean for the NFL? | Email Graham Broncos 0-0 Panthers 14:56, 1st quarter Here we go! Carolina kick it away to Denver. The Broncos run it back to the 45-yard line. Nice trot from Sean "
+    },
+    {
+      "id": "feed-1tqqjrk",
+      "title": "Climate always comes second: are green issues slipping down Burnham’s agenda?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
+      "publishedAt": "2026-11-08T18:01:01.000Z",
+      "category": "world",
+      "summary": "Prime minister says he’s committed to meeting climate targets, but some believe his actions suggest otherwise Labour expected to cut EV targets for car industry despite MPs’ climate concerns Andy Burnham insists he is committed to the green transition, but his"
+    },
+    {
+      "id": "feed-1re936",
+      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+      "publishedAt": "2026-11-08T17:58:43.000Z",
+      "category": "uk",
+      "summary": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in Congress Donald Trump set the stage for his administration to lurch further to the right this weekend, claiming the US had taken a “giant step back” by wi"
+    },
+    {
+      "id": "feed-u67fgq",
+      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+      "publishedAt": "2026-11-08T17:53:59.000Z",
+      "category": "uk",
+      "summary": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s a"
+    },
+    {
+      "id": "feed-lln46n",
+      "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+      "publishedAt": "2026-11-08T17:51:19.000Z",
+      "category": "uk",
+      "summary": "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction plan Analysis: Climate always comes second – are green issues slipping down Burnham’s agenda? Ministers are expected to make steep cuts to the government’s ele"
+    },
+    {
+      "id": "feed-m1jsov",
+      "title": "Collision of two trains in Egypt kills at least seven",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+      "publishedAt": "2026-11-08T17:51:17.000Z",
+      "category": "uk",
+      "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo Seven people were killed and more than 100 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The cra"
+    },
+    {
       "id": "feed-1ie95x0",
       "title": "Half of NHS trusts in England lack funds earmarked to cover maternity leave",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
       "publishedAt": "2026-11-08T17:42:39.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Physiotherapy services hit particularly hard compared with other areas of healthcare such as nursing Almost half of the NHS trusts in England have no earmarked funding to cover staff on maternity leave, according to analysis that raises fresh concerns about pr"
     },
     {
@@ -124,34 +234,14 @@
       "summary": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow."
     },
     {
-      "id": "feed-rorv5w",
-      "title": "Manchester United v Aston Villa: Premier League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
-      "publishedAt": "2026-11-08T17:40:55.000Z",
-      "category": "uk",
-      "summary": "⚽️ Premier League updates from 4.30pm GMT ⚽️ Jonathan Wilson: There are few reasons for Emery to leave Villa for United ⚽️ Today’s results | Mail Tim Sunderland have clung on to beat Chelsea 1-0, which is a great result for them. And yet another embarrassment "
-    },
-    {
-      "id": "feed-16aiwnf",
-      "title": "São Paulo Grand Prix: Formula One 2026 – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
-      "publishedAt": "2026-11-08T17:39:49.000Z",
-      "category": "uk",
-      "summary": "️ Updates from Interlagos (race due to start 5pm GMT) ️ Email Daniel | Sign up for The Recap We’ve got dancers in the main straight, rain coming down. I’d not be shocked if we see some incidents today – let’s hope everyone stays safe. Oy my days! It’s raining "
-    },
-    {
-      "id": "feed-1mv1ws6",
-      "title": "NFL week nine: Jets v Chiefs, Rams v Commanders, Broncos v Panthers and more – updates",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/08/nfl-week-nine-jets-v-chiefs-rams-v-commanders-broncos-v-panthers-and-more-updates",
-      "publishedAt": "2026-11-08T17:37:02.000Z",
-      "category": "uk",
-      "summary": "Bengals top AFC North with 34-17 win in Madrid What do the midterms mean for the NFL? | Email Graham Final score: (6-2) Cincinnati Bengals 34-17 Atlanta Falcons (3-6) And that’s the end of that chapter. Cincinnati’s league-best passing attack was just far too "
+      "id": "feed-1l4wl5q",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
+      "publishedAt": "2026-11-08T17:35:13.000Z",
+      "category": "world",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
     },
     {
       "id": "feed-mmgbcq",
@@ -182,16 +272,6 @@
       "publishedAt": "2026-11-08T17:25:45.000Z",
       "category": "uk",
       "summary": "The 225th anniversary of the organisation’s first publication is an opportunity to celebrate its unique contribution to our sense of place In his one-paragraph short story , On Exactitude in Science, Jorge Luis Borges imagines an empire in which the level of c"
-    },
-    {
-      "id": "feed-m1jsov",
-      "title": "Collision of two trains in Egypt kills at least seven",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-      "publishedAt": "2026-11-08T17:19:39.000Z",
-      "category": "uk",
-      "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo At least seven people were killed and more than 100 others injured when two trains collided on Sunday south of Cairo, authorities have said. The cr"
     },
     {
       "id": "feed-3bv8ur",
@@ -254,56 +334,6 @@
       "summary": "Travel may be disrupted until Monday morning in areas including most of southern England and across Midlands The Met Office has said weather conditions in the UK are creating a “perfect recipe” for fog as it warned that travel may be disrupted. A yellow weathe"
     },
     {
-      "id": "feed-o7lbqn",
-      "title": "Challenging the politics that brought Donald Trump to power | Letters",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/challenging-the-politics-that-brought-donald-trump-to-power",
-      "publishedAt": "2026-11-08T16:37:43.000Z",
-      "category": "uk",
-      "summary": "Readers respond to an editorial commenting on the Republicans’ rout in the US midterm elections Your editorial on the US midterms ( 4 November ) notes that culture war attacks, bigotry and smears failed this time. It is worth asking why they worked before. For"
-    },
-    {
-      "id": "feed-7ikf62",
-      "title": "Older women are as varied and individual as we have ever been | Letters",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/2026/nov/08/older-women-are-as-varied-and-individual-as-we-have-ever-been",
-      "publishedAt": "2026-11-08T16:31:13.000Z",
-      "category": "uk",
-      "summary": "Thank you, Jo Brand, for not offering us a formula for growing older, writes Dr Denise Taylor . Plus a letter from Louise Mothersole I found Jo Brand’s reflections on approaching 70 wonderfully refreshing ( ‘It’s far too late for me to go to the gym every 10 m"
-    },
-    {
-      "id": "feed-1x4vux9",
-      "title": "You can say that again, Sam … in Latin | Letters",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/education/2026/nov/08/say-that-again-in-latin",
-      "publishedAt": "2026-11-08T16:30:33.000Z",
-      "category": "uk",
-      "summary": "From Ursus Nomine Paddington to ‘Deskibus collapsibus’ – readers respond to a letter on learning the language Our venerable Latin teacher, Mr EA Burnham, was persuaded to help us translate contemporary phrases ( Letters, 1 November ): the Humphrey-Bogart-style"
-    },
-    {
-      "id": "feed-y1cvqo",
-      "title": "When the 11-plus test went to the dogs | Brief letters",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/education/2026/nov/08/when-the-11-plus-test-went-to-the-dogs",
-      "publishedAt": "2026-11-08T16:29:23.000Z",
-      "category": "uk",
-      "summary": "Intelligence test | Food shocks | Dylan’s papal visit | Huddersfield fans Philip Allen’s suggestion ( Letters, 5 November ) that the cat is the odd one out between cat, dog and radio is questionable. It could be any. The dog is the only one that cannot lull yo"
-    },
-    {
-      "id": "feed-xbxbt1",
-      "title": "Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report",
-      "publishedAt": "2026-11-08T16:17:32.000Z",
-      "category": "uk",
-      "summary": "Who can stop Brighton’s ascension in English and European football? They continue to set standards, practices that leave almost everybody else trailing in their wake. Their second-place position in the Premier League would once have read like a glitch in a Foo"
-    },
-    {
       "id": "feed-1rtfvib",
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
       "source": "BBC News",
@@ -322,16 +352,6 @@
       "publishedAt": "2026-11-08T15:37:57.000Z",
       "category": "uk",
       "summary": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her."
-    },
-    {
-      "id": "feed-vgeow0",
-      "title": "‘No matter what, he doesn’t quit’: disabled wrestlers draw strength from ring alter egos",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble",
-      "publishedAt": "2026-11-08T15:37:54.000Z",
-      "category": "world",
-      "summary": "Scheme in Derry aims to sow confidence by getting people with learning and physical disabilities into wrestling The music thumped, the lights blazed and from the ring the announcer did a countdown. “Who is ready to rumble?” he roared. The bellows and cheers in"
     },
     {
       "id": "feed-vktp19",
@@ -362,16 +382,6 @@
       "publishedAt": "2026-11-08T15:00:43.000Z",
       "category": "business",
       "summary": "Choosing a healthcare plan can be extremely complicated, but it’s necessary to attract and retain good workers Again, healthcare costs are going up. According to a recent study from Mercer, total health benefit cost per employee in 2027 is expected to rise 8.2"
-    },
-    {
-      "id": "feed-1fc521d",
-      "title": "End of the ‘vomit comet’: Scillonian III sets sail on final voyage from Isles of Scilly",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall",
-      "publishedAt": "2026-11-08T14:56:59.000Z",
-      "category": "world",
-      "summary": "Much-loved passenger ship has traversed Atlantic swells between islands and Cornish mainland for almost 50 years Tears were shed, sea shanties sung and tales of stormy voyages exchanged as one of the UK’s most characterful ships set sail for the final time. Sc"
     },
     {
       "id": "feed-1gfheqb",
@@ -463,26 +473,6 @@
       "summary": "Benefits of baxdrostat are unexpectedly found to remain up to two years after patients stop taking it Millions of people with high blood pressure stand to benefit from a new drug that has stunned doctors by reversing a common cause of the condition for years a"
     },
     {
-      "id": "feed-q7xhi6",
-      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o",
-      "publishedAt": "2026-11-08T13:49:07.000Z",
-      "category": "uk",
-      "summary": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London."
-    },
-    {
-      "id": "feed-15pryqs",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
-      "publishedAt": "2026-11-08T13:40:24.000Z",
-      "category": "world",
-      "summary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers."
-    },
-    {
       "id": "feed-14rbv66",
       "title": "Iran executes three men for 'armed unrest' after January protests",
       "source": "BBC News",
@@ -511,16 +501,6 @@
       "publishedAt": "2026-11-08T13:24:00.000Z",
       "category": "world",
       "summary": "High-stakes talks involving 190 countries begin on Monday as world grapples with El Niño supercharged by fossil fuels The Cop31 summit must produce progress, “a tangible outcome ... that people can see is real”, its host has said as scores of world leaders and"
-    },
-    {
-      "id": "feed-g8sa52",
-      "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
-      "publishedAt": "2026-11-08T13:18:50.000Z",
-      "category": "world",
-      "summary": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public life The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal wi"
     },
     {
       "id": "feed-1hsptg3",
@@ -611,26 +591,6 @@
       "publishedAt": "2026-11-08T12:00:40.000Z",
       "category": "world",
       "summary": "Midterms success gives party potent leverage over Trump – expect tough campaigns of investigating and lawmaking “Costs, chaos, corruption”: after almost two years spent relentlessly criticizing Donald Trump for failing to address those three, broad political c"
-    },
-    {
-      "id": "feed-1e3svr2",
-      "title": "Stimulant overdoses on the rise as opioid deaths decline, but treatment is complex",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/stimulant-overdoses-rise",
-      "publishedAt": "2026-11-08T12:00:40.000Z",
-      "category": "world",
-      "summary": "More people recognize opioid overdoses, but education about stimulant overdoses hasn’t been as clear-cut Overdoses involving stimulants are on the rise in many parts of the country, according to recently available data from the Centers for Disease Control and "
-    },
-    {
-      "id": "feed-1olqh24",
-      "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
-      "publishedAt": "2026-11-08T12:00:39.000Z",
-      "category": "world",
-      "summary": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including exploring how lessons from the past can shape the present and near future have in"
     },
     {
       "id": "feed-11ilmxr",
@@ -1113,16 +1073,6 @@
       "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
     },
     {
-      "id": "feed-o6uj19",
-      "title": "Thousands turn out to greet Pope Leo as he begins Latin America tour",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/pope-leo-begins-latin-america-tour-less-than-a-month-after-lung-cancer-surgery-13609186",
-      "publishedAt": "2026-11-07T12:02:00.000Z",
-      "category": "world",
-      "summary": "Thousands of people greeted Pope Leo as he arrived in Uruguay at the start of a 12-day tour of Latin America."
-    },
-    {
       "id": "feed-1ddakbs",
       "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
       "source": "The Guardian",
@@ -1261,26 +1211,6 @@
       "publishedAt": "2026-11-07T07:00:04.000Z",
       "category": "technology",
       "summary": "Susan Lawrence, elected to Wolverhampton city council, sits on committee overseeing financial reporting of multimillion-pound budget A woman who promoted a notorious cryptocurrency scam has been elected as a Reform UK councillor and now sits on the audit and r"
-    },
-    {
-      "id": "feed-1mhd8tc",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
-      "publishedAt": "2026-11-07T06:59:48.000Z",
-      "category": "world",
-      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
-    },
-    {
-      "id": "feed-13dnscl",
-      "title": "Meghan's father in court charged with possessing child abuse material",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/meghans-father-thomas-markle-appears-in-court-charged-with-possessing-child-abuse-material-13609134",
-      "publishedAt": "2026-11-07T05:42:00.000Z",
-      "category": "world",
-      "summary": "The Duchess of Sussex's father has appeared in court after being arrested and charged with allegedly possessing child sexual abuse images."
     },
     {
       "id": "feed-feje5y",
@@ -1901,6 +1831,66 @@
       "publishedAt": "2026-11-03T08:07:00.000Z",
       "category": "technology",
       "summary": "Energy giant Drax has announced plans to build an AI data centre on 4.5 hectares of land at its North Yorkshire site."
+    },
+    {
+      "id": "feed-3byqwn",
+      "title": "Cyber attacks affect UK meat processing industry, top security official says",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/cyber-attacks-affect-uk-meat-processing-industry-top-security-official-says-13607346",
+      "publishedAt": "2026-11-03T06:08:00.000Z",
+      "category": "technology",
+      "summary": "Cyber attacks have affected the UK meat processing industry, a top security official has said in the wake of hacks that hit supermarkets across Europe."
+    },
+    {
+      "id": "feed-ti8rrq",
+      "title": "How a scientist went from hero to traitor in a US water crisis – podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/audio/2026/nov/03/us-flint-water-crisis-dr-siddhartha-roy-podcast",
+      "publishedAt": "2026-11-03T05:00:40.000Z",
+      "category": "science",
+      "summary": "When the water in Flint, Michigan, became contaminated with dangerous levels of lead, Dr Siddhartha Roy, then a third year PhD student, was part of the team of scientists who publicly contradicted state and federal claims that it was safe. He became a local he"
+    },
+    {
+      "id": "feed-1jfubzw",
+      "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+      "publishedAt": "2026-11-02T20:00:27.000Z",
+      "category": "science",
+      "summary": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to "
+    },
+    {
+      "id": "feed-ozfsm6",
+      "title": "From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter",
+      "publishedAt": "2026-10-31T11:00:40.000Z",
+      "category": "science",
+      "summary": "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a tas"
+    },
+    {
+      "id": "feed-q4pca",
+      "title": "‘My hands are shaking’ - what it’s like to be an expert witness - video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/video/2026/oct/29/my-hands-are-shaking-what-its-like-to-be-an-expert-witness-video",
+      "publishedAt": "2026-10-29T16:25:54.000Z",
+      "category": "science",
+      "summary": "As one of the world’s leading forensic anthropologists, Dame Sue Black has acted as an expert witness in a myriad of high-profile criminal cases. Her work has taken her from the lab to active war zones and the aftermath of natural disasters to identify victims"
+    },
+    {
+      "id": "feed-aihyai",
+      "title": "Tech Now",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "category": "technology",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
