@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T22:00:05.940Z",
+  "updatedAt": "2026-11-08T22:29:48.676Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-lf09f9",
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-08T22:05:12.000Z",
+      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random."
+    },
     {
       "id": "feed-1l4wl5q",
       "title": "Seven dead and more than 100 injured after trains collide in Egypt",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-07T08:15:55.000Z",
       "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work."
-    },
-    {
-      "id": "feed-wo7fp9",
-      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-07T07:27:44.000Z",
-      "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented."
     }
   ]
 }
