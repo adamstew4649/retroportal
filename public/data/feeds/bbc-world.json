@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T02:40:49.272Z",
+  "updatedAt": "2026-11-09T03:40:54.386Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1gpfwnv",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T02:50:13.000Z",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast."
+    },
     {
       "id": "feed-15pryqs",
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
@@ -21,7 +29,7 @@
       "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o",
       "source": "BBC News",
       "publishedAt": "2026-11-08T22:05:12.000Z",
-      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random."
+      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random."
     },
     {
       "id": "feed-1pqkveg",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-07T12:49:36.000Z",
       "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
-    },
-    {
-      "id": "feed-c7wid7",
-      "title": "Texas mayor instructs police to limit co-operation with ICE",
-      "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro",
-      "source": "BBC News",
-      "publishedAt": "2026-11-07T08:15:55.000Z",
-      "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work."
     }
   ]
 }

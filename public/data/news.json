@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T02:40:49.277Z",
-  "generatedAt": "2026-11-09T02:40:49.277Z",
+  "updatedAt": "2026-11-09T03:40:54.391Z",
+  "generatedAt": "2026-11-09T03:40:54.391Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,36 @@
   ],
   "articles": [
     {
+      "id": "feed-hlpecr",
+      "title": "New Zealand’s Opportunity party takes aim at populist politics on historic first day in parliament",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/09/nz-elections-opportunity-party-qiulae-wong-speech-first-day-in-parliament",
+      "publishedAt": "2026-11-09T03:12:15.000Z",
+      "category": "uk",
+      "summary": "Minor party leader Qiulae Wong says ‘populism doesn’t deliver results’ and that her vision for a low emissions future will drive its talks with major parties A history-making centrist party that could decide the fate of New Zealand’s next government has taken "
+    },
+    {
+      "id": "feed-1axq5r9",
+      "title": "Wanted review – generic crime musical lacks outlaw grit",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/nov/09/wanted-broadway-musical-review",
+      "publishedAt": "2026-11-09T03:00:57.000Z",
+      "category": "uk",
+      "summary": "James Earl Jones theatre, New York City A ‘mostly true’ tale of 19th-century sisters running from the law is underserved in a production stuffed with superfluous showboating The new retooled musical Wanted, from writer Angelica Chéri and composer Ross Baum, op"
+    },
+    {
+      "id": "feed-1gpfwnv",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o",
+      "publishedAt": "2026-11-09T02:50:13.000Z",
+      "category": "world",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast."
+    },
+    {
       "id": "feed-1d66ky5",
       "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
       "source": "BBC News",
@@ -122,6 +152,16 @@
       "publishedAt": "2026-11-09T02:11:25.000Z",
       "category": "uk",
       "summary": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a s"
+    },
+    {
+      "id": "feed-12ncktd",
+      "title": "Russell Brand due back in court for rape sentencing",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/russell-brand-due-back-in-court-for-rape-and-sexual-assault-sentencing-13610037",
+      "publishedAt": "2026-11-09T02:03:00.000Z",
+      "category": "uk",
+      "summary": "Russell Brand will return to court today to find out his sentence for rape and sexual assault."
     },
     {
       "id": "feed-1j8b1g",
@@ -181,7 +221,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o",
       "publishedAt": "2026-11-09T00:57:05.000Z",
       "category": "uk",
-      "summary": "Jill says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted."
+      "summary": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted."
     },
     {
       "id": "feed-5ym4mm",
@@ -321,7 +361,7 @@
       "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o",
       "publishedAt": "2026-11-08T22:05:12.000Z",
       "category": "world",
-      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random."
+      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random."
     },
     {
       "id": "feed-kyvr7f",
@@ -514,16 +554,6 @@
       "summary": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public life The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal wi"
     },
     {
-      "id": "feed-1f963ni",
-      "title": "Emotion gets better of Samoa as Australia begin to resemble their old selves | Angus Fontaine",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/blog/2026/nov/09/australia-kangaroos-mens-rugby-league-world-cup-semi-final",
-      "publishedAt": "2026-11-08T19:00:47.000Z",
-      "category": "uk",
-      "summary": "The Kangaroos hit form in their semi-final win over Samoa, who arrived in a blaze of Pasifika passion but exited after being outplayed in Sydney Although the hopes of Samoan fans were washed away like tears in Sydney’s rain, the true triumph of their World Cup"
-    },
-    {
       "id": "feed-1fkvchy",
       "title": "Secondary schools told to stop teaching GCSEs before Year 10",
       "source": "BBC News",
@@ -532,16 +562,6 @@
       "publishedAt": "2026-11-08T19:00:32.000Z",
       "category": "uk",
       "summary": "The government says pupils in Year 7 to 9 should have \"richer, more engaging\" learning than preparing for GCSEs."
-    },
-    {
-      "id": "feed-1v6h2yq",
-      "title": "Heavy rain floods displaced families’ tents in Gaza – in pictures",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/gallery/2026/nov/08/heavy-rain-floods-displaced-families-tents-gaza-in-pictures",
-      "publishedAt": "2026-11-08T18:50:12.000Z",
-      "category": "uk",
-      "summary": "The first winter storm began affecting the people of Gaza this weekend with heavy rain hitting on Saturday. Reports that about 70,000 tents were flooded within 12 hours prompted warnings of a worsening humanitarian situation for hundreds of thousands of displa"
     },
     {
       "id": "feed-1ygmodm",
@@ -1242,16 +1262,6 @@
       "publishedAt": "2026-11-07T08:19:00.000Z",
       "category": "technology",
       "summary": "A coalition of 75 organisations opposed to plans for AI data centres in Scotland is set to march in Edinburgh this month."
-    },
-    {
-      "id": "feed-c7wid7",
-      "title": "Texas mayor instructs police to limit co-operation with ICE",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro",
-      "publishedAt": "2026-11-07T08:15:55.000Z",
-      "category": "world",
-      "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work."
     },
     {
       "id": "feed-165cmzi",
