@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T23:06:14.461Z",
-  "generatedAt": "2026-11-09T23:06:14.461Z",
+  "updatedAt": "2026-11-09T23:58:06.539Z",
+  "generatedAt": "2026-11-09T23:58:06.539Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,74 @@
   ],
   "articles": [
     {
+      "id": "feed-1r9cxkn",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+      "publishedAt": "2026-11-09T23:51:22.000Z",
+      "category": "world",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal."
+    },
+    {
+      "id": "feed-84owyg",
+      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+      "publishedAt": "2026-11-09T23:48:22.000Z",
+      "category": "uk",
+      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war with Iran Republican Thomas Massie moves to force vote to impeach Pete Hegseth Si"
+    },
+    {
+      "id": "feed-1aka9g6",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro",
+      "publishedAt": "2026-11-09T23:45:14.000Z",
+      "category": "world",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year."
+    },
+    {
+      "id": "feed-b11fmj",
+      "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+      "publishedAt": "2026-11-09T23:30:37.000Z",
+      "category": "uk",
+      "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair, as Trump says FBI ‘is looking into it’ Nvidia’s board needs to do some succession planning – sharpish Donald Trump , Elon Musk and prominent finance moguls have expressed t"
+    },
+    {
+      "id": "feed-1wv38wh",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo",
+      "publishedAt": "2026-11-09T23:28:53.000Z",
+      "category": "world",
+      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial."
+    },
+    {
+      "id": "feed-1t4en4s",
+      "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+      "publishedAt": "2026-11-09T23:25:31.000Z",
+      "category": "world",
+      "summary": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Get our breaking news email , free app or daily news podcast Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing de"
+    },
+    {
       "id": "feed-2309e4",
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
-      "publishedAt": "2026-11-09T23:01:32.000Z",
+      "publishedAt": "2026-11-09T23:20:29.000Z",
       "category": "world",
-      "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair."
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
     },
     {
       "id": "feed-1sskct9",
@@ -134,26 +194,6 @@
       "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\"."
     },
     {
-      "id": "feed-84owyg",
-      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-      "publishedAt": "2026-11-09T22:44:38.000Z",
-      "category": "uk",
-      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war with Iran Republican Thomas Massie moves to force vote to impeach Pete Hegseth Si"
-    },
-    {
-      "id": "feed-1wv38wh",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo",
-      "publishedAt": "2026-11-09T22:34:14.000Z",
-      "category": "world",
-      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial."
-    },
-    {
       "id": "feed-14wqimo",
       "title": "Cerebral Josh King plots unusual route into Tuchel’s England plans",
       "source": "The Guardian",
@@ -162,16 +202,6 @@
       "publishedAt": "2026-11-09T22:30:20.000Z",
       "category": "uk",
       "summary": "Armed with an impressive academic record and experience as a rugby fly-half, the teenager is anything but typical Josh King is talking with pride about how his mother, Michelle, a university lecturer, has almost finished her PhD in sickle cell disease. The Ful"
-    },
-    {
-      "id": "feed-1t4en4s",
-      "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
-      "publishedAt": "2026-11-09T22:26:31.000Z",
-      "category": "world",
-      "summary": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Get our breaking news email , free app or daily news podcast Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing de"
     },
     {
       "id": "feed-1y11zqf",
@@ -222,16 +252,6 @@
       "publishedAt": "2026-11-09T21:40:16.000Z",
       "category": "uk",
       "summary": "United and City dominate the news cycle with stories so strange and vast they threaten to consume the rest of the league In Manchester this weekend it was possible to bookend your Thursday‑to‑Sunday entertainment with two cultural events. First up, a debut scr"
-    },
-    {
-      "id": "feed-1aka9g6",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro",
-      "publishedAt": "2026-11-09T21:37:02.000Z",
-      "category": "world",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process."
     },
     {
       "id": "feed-1xbzddn",
@@ -412,16 +432,6 @@
       "publishedAt": "2026-11-09T19:00:43.000Z",
       "category": "business",
       "summary": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology."
-    },
-    {
-      "id": "feed-b11fmj",
-      "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
-      "publishedAt": "2026-11-09T18:58:37.000Z",
-      "category": "uk",
-      "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees Nvidia’s board needs to do some succession planning – sharpish Donald Trump , Elon Musk and prominent finance moguls have expressed their support fo"
     },
     {
       "id": "feed-7az68r",
@@ -701,7 +711,7 @@
       "url": "https://www.theguardian.com/science/2026/nov/09/medical-breakthrough-offers-hope-to-people-with-same-stiff-person-syndrome-as-celine-dion",
       "publishedAt": "2026-11-09T16:42:22.000Z",
       "category": "science",
-      "summary": "Some patients with autoimmune condition in the trial, have been able to return to work and resume hobbies Doctors have made a potentially significant breakthrough in the hunt for a treatment for stiff person syndrome, the autoimmune condition which affects the"
+      "summary": "Some patients with autoimmune condition in the trial have been able to return to work and resume hobbies Doctors have made a potentially significant breakthrough in the hunt for a treatment for stiff person syndrome, the autoimmune condition that affects the s"
     },
     {
       "id": "feed-1m36lfz",
@@ -752,16 +762,6 @@
       "publishedAt": "2026-11-09T15:52:26.000Z",
       "category": "world",
       "summary": "Terrorism investigation will continue after suspect who killed six after opening fire in market square died Polish prosecutors have said they do not currently have any evidence tying the man who killed six people and injured 16 in a rare mass shooting in Krakó"
-    },
-    {
-      "id": "feed-1r9cxkn",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-      "publishedAt": "2026-11-09T15:46:20.000Z",
-      "category": "world",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal."
     },
     {
       "id": "feed-1kg3e4p",
@@ -1454,16 +1454,6 @@
       "summary": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilities For people in the Russian industrial city of Samara on"
     },
     {
-      "id": "feed-e0cvr1",
-      "title": "Trump 'only kidding' about offering UFC boss press secretary job",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/trump-asks-ufc-boss-dana-white-to-become-white-house-press-secretary-13609613",
-      "publishedAt": "2026-11-08T04:27:00.000Z",
-      "category": "world",
-      "summary": "Donald Trump has said he was \"only kidding\" about UFC boss Dana White becoming White House press secretary."
-    },
-    {
       "id": "feed-6m2z9g",
       "title": "Finland's navy chief says Russia's presence in the Baltic Sea may have peaked for now",
       "source": "Sky News",
@@ -1492,16 +1482,6 @@
       "publishedAt": "2026-11-07T23:02:35.000Z",
       "category": "business",
       "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes."
-    },
-    {
-      "id": "feed-hisir",
-      "title": "Ipswich Town's new club shop 'here to stay'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo",
-      "publishedAt": "2026-11-07T21:40:32.000Z",
-      "category": "business",
-      "summary": "Fans and players are delighted at the new \"activation space\" in the town centre."
     },
     {
       "id": "feed-9f9by",
