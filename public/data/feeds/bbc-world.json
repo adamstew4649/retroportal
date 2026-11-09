@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T21:13:40.439Z",
+  "updatedAt": "2026-11-09T22:07:30.552Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-14bwebs",
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T21:52:28.000Z",
+      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy."
+    },
+    {
       "id": "feed-1aka9g6",
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
       "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro",
       "source": "BBC News",
-      "publishedAt": "2026-11-09T21:04:36.000Z",
+      "publishedAt": "2026-11-09T21:37:02.000Z",
       "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process."
+    },
+    {
+      "id": "feed-1wv38wh",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T21:31:49.000Z",
+      "summary": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether."
     },
     {
       "id": "feed-1dcmjkn",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-09T08:49:17.000Z",
       "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday."
-    },
-    {
-      "id": "feed-1dkkwbm",
-      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-      "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T07:10:11.000Z",
-      "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?"
-    },
-    {
-      "id": "feed-l7qw6k",
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T06:00:26.000Z",
-      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited."
     }
   ]
 }

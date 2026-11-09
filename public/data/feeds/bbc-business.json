@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T21:13:40.440Z",
+  "updatedAt": "2026-11-09T22:07:30.553Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-14bwebs",
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T21:52:28.000Z",
+      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy."
+    },
     {
       "id": "feed-1rrxjt3",
       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-07T21:40:32.000Z",
       "summary": "Fans and players are delighted at the new \"activation space\" in the town centre."
-    },
-    {
-      "id": "feed-svrte",
-      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-07T01:41:36.000Z",
-      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions."
     }
   ]
 }
