@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T14:02:24.761Z",
+  "updatedAt": "2026-11-09T15:18:20.313Z",
   "feed": {
     "title": "UK News - The latest headlines from the UK | Sky News",
     "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
     "link": "https://news.sky.com/uk"
   },
   "articles": [
+    {
+      "id": "feed-zxzml",
+      "title": "James Bulger's killer Jon Venables to stay in prison after parole refused",
+      "link": "https://news.sky.com/story/james-bulgers-killer-jon-venables-will-stay-in-prison-as-parole-board-finds-hes-still-a-risk-to-children-13610195",
+      "source": "Sky News",
+      "publishedAt": "2026-11-09T13:09:00.000Z",
+      "summary": "Child killer Jon Venables will stay behind bars after the Parole Board found he still poses a risk to children."
+    },
     {
       "id": "feed-13lb2e4",
       "title": "Met Office issues fog warning for second day - with wind and rain to follow",
@@ -22,6 +30,14 @@
       "source": "Sky News",
       "publishedAt": "2026-11-09T08:54:00.000Z",
       "summary": "One of Britain's most valuable private companies is extending its global tentacles further into Asia by launching a renewables fund to coincide with the COP31 climate summit."
+    },
+    {
+      "id": "feed-c699do",
+      "title": "Ground Force presenter Tommy Walsh has died",
+      "link": "https://news.sky.com/story/ground-force-presenter-tommy-walsh-has-died-13610075",
+      "source": "Sky News",
+      "publishedAt": "2026-11-09T08:42:00.000Z",
+      "summary": "Ground Force presenter Tommy Walsh has died at the age of 69 following a \"long illness\", his agent has confirmed."
     },
     {
       "id": "feed-47izhh",
@@ -54,14 +70,6 @@
       "source": "Sky News",
       "publishedAt": "2026-11-07T14:14:00.000Z",
       "summary": "Two teenagers have been arrested after a boy was attacked with a sword in Tuffley, police said."
-    },
-    {
-      "id": "feed-9ag9cz",
-      "title": "Man appears in court charged with murder of missing woman",
-      "link": "https://news.sky.com/story/man-appears-in-court-charged-with-murder-of-missing-woman-carrie-mullane-in-northern-ireland-13609131",
-      "source": "Sky News",
-      "publishedAt": "2026-11-07T01:38:00.000Z",
-      "summary": "A man has appeared in court charged with the murder of a missing woman whose whereabouts remain unknown."
     }
   ]
 }
