@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T22:07:30.553Z",
+  "updatedAt": "2026-11-09T23:06:14.456Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-2309e4",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T23:01:32.000Z",
+      "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair."
+    },
     {
       "id": "feed-1rrxjt3",
       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
@@ -102,14 +110,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-04T16:26:15.000Z",
       "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
-    },
-    {
-      "id": "feed-nj4zdz",
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T00:04:35.000Z",
-      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?"
     },
     {
       "id": "feed-nzwtml",
