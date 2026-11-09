@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T01:55:14.434Z",
-  "generatedAt": "2026-11-09T01:55:14.434Z",
+  "updatedAt": "2026-11-09T02:40:49.277Z",
+  "generatedAt": "2026-11-09T02:40:49.277Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "id": "sky-technology",
@@ -104,6 +104,26 @@
   ],
   "articles": [
     {
+      "id": "feed-1d66ky5",
+      "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo",
+      "publishedAt": "2026-11-09T02:34:09.000Z",
+      "category": "uk",
+      "summary": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her."
+    },
+    {
+      "id": "feed-9vgs9n",
+      "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+      "publishedAt": "2026-11-09T02:11:25.000Z",
+      "category": "uk",
+      "summary": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a s"
+    },
+    {
       "id": "feed-1j8b1g",
       "title": "Society needs to act to help white working-class pupils, inquiry says",
       "source": "BBC News",
@@ -114,6 +134,16 @@
       "summary": "The education secretary says she is backing the inquiry to \"get to the heart of the barriers holding children back\"."
     },
     {
+      "id": "feed-1js5064",
+      "title": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/09/ukraine-war-briefing-post-war-security-guarantees-a-key-focus-in-upcoming-abu-dhabi-talks-says-rubio",
+      "publishedAt": "2026-11-09T01:44:46.000Z",
+      "category": "uk",
+      "summary": "US secretary of state says some progress made on what security infrastructure could look like in Ukraine and Europe after the war. What we know on day 1,720 US secretary of state Marco Rubio said some progress had been made on what the “security infrastructure"
+    },
+    {
       "id": "feed-q2o960",
       "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
       "source": "The Guardian",
@@ -121,7 +151,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
       "publishedAt": "2026-11-09T01:44:14.000Z",
       "category": "world",
-      "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney "
+      "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court "
     },
     {
       "id": "feed-1md1xc1",
@@ -220,7 +250,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo",
       "publishedAt": "2026-11-09T00:09:14.000Z",
-      "category": "business",
+      "category": "uk",
       "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips."
     },
     {
@@ -240,7 +270,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
       "publishedAt": "2026-11-09T00:01:05.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said,"
     },
     {
@@ -520,7 +550,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland",
       "publishedAt": "2026-11-08T18:33:34.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Two people arrested after Robinson’s presence inflames tensions in scenes witnessed by many on social media Two people were arrested at an influencer boxing event that descended into a riot in Ireland after the presence of the far-right activist Tommy Robinson"
     },
     {
@@ -542,16 +572,6 @@
       "publishedAt": "2026-11-08T18:20:06.000Z",
       "category": "world",
       "summary": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promises One of Andy Burnham’s cabinet ministers has said she wants to avoid “circular arguments” about whether the UK should rejoin the EU, underlinin"
-    },
-    {
-      "id": "feed-u67fgq",
-      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
-      "publishedAt": "2026-11-08T17:53:59.000Z",
-      "category": "world",
-      "summary": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s a"
     },
     {
       "id": "feed-1p5e8t4",
@@ -602,16 +622,6 @@
       "publishedAt": "2026-11-08T16:05:57.000Z",
       "category": "world",
       "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment."
-    },
-    {
-      "id": "feed-1d66ky5",
-      "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo",
-      "publishedAt": "2026-11-08T15:37:57.000Z",
-      "category": "uk",
-      "summary": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her."
     },
     {
       "id": "feed-vktp19",
@@ -672,15 +682,6 @@
       "publishedAt": "2026-11-08T14:01:00.000Z",
       "category": "uk",
       "summary": "Weather conditions in the UK are creating the \"perfect recipe\" for fog, the Met Office has said, as it issued a warning over travel conditions."
-    },
-    {
-      "id": "feed-pdk6l2",
-      "title": "'Human rights and freedom have ceased': Newspaper that defied Kremlin pays price",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/human-rights-and-freedom-have-ceased-newspaper-that-defied-kremlin-pays-price-13609715",
-      "publishedAt": "2026-11-08T13:59:00.000Z",
-      "category": "world"
     },
     {
       "id": "feed-11bo9q6",
@@ -871,16 +872,6 @@
       "publishedAt": "2026-11-08T07:06:13.000Z",
       "category": "science",
       "summary": "There were fears a restoration trial may not succeed when only six seedlings had emerged in April."
-    },
-    {
-      "id": "feed-imc13b",
-      "title": "There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c8046kdw56e2o",
-      "publishedAt": "2026-11-08T07:04:36.000Z",
-      "category": "uk",
-      "summary": "The dementia treatment for children is available in the US, with funding for UK children unclear."
     },
     {
       "id": "feed-cumepc",
