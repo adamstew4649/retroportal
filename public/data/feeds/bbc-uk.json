@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T06:57:12.374Z",
+  "updatedAt": "2026-11-09T08:13:23.645Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1eovrgv",
+      "title": "Dense fog threatens Monday morning rush-hour disruption",
+      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T08:10:53.000Z",
+      "summary": "Fog is causing disruption on Monday morning amid Met Office yellow weather warnings for many across England, Wales and Northern Ireland."
+    },
+    {
+      "id": "feed-say5fh",
+      "title": "Government's EV targets expected to be reduced this week",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T07:20:17.000Z",
+      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission."
+    },
     {
       "id": "feed-1grt6ab",
       "title": "James Bond: What we know so far about the next 007 film",
@@ -16,12 +32,12 @@
       "summary": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig."
     },
     {
-      "id": "feed-1eovrgv",
-      "title": "Dense fog threatens Monday morning rush-hour disruption",
-      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o",
+      "id": "feed-6qqoh3",
+      "title": "Hut owner wins battle to keep living in off-grid home he built",
+      "link": "https://www.bbc.co.uk/news/articles/c933x074xz58o",
       "source": "BBC News",
-      "publishedAt": "2026-11-09T06:17:34.000Z",
-      "summary": "Fog could disrupt Monday morning’s commute"
+      "publishedAt": "2026-11-09T06:13:11.000Z",
+      "summary": "The man has lived in the self-built hut since 2020 - but never told authorities or asked for permission."
     },
     {
       "id": "feed-7vmcly",
@@ -30,14 +46,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-09T06:01:37.000Z",
       "summary": "A minister warns \"there are more like [Russell] Brand\" and the government plans \"cuts to EV targets\" - some of Monday's headlines."
-    },
-    {
-      "id": "feed-say5fh",
-      "title": "Government's EV targets expected to be reduced this week",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T05:00:43.000Z",
-      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission."
     },
     {
       "id": "feed-1d66ky5",
@@ -120,6 +128,14 @@
       "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
     },
     {
+      "id": "feed-17nnyo",
+      "title": "Newscast",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pkvzl8",
+      "source": "BBC News",
+      "publishedAt": "2026-11-08T13:23:00.000Z",
+      "summary": "The culture secretary says she’s been told abuse is still happening."
+    },
+    {
       "id": "feed-1hsptg3",
       "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
       "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-08T12:16:10.000Z",
       "summary": "King Charles has led the annual Remembrance Sunday commemorations, laying a wreath at the solemn ceremony held at the Cenotaph."
-    },
-    {
-      "id": "feed-grhv4p",
-      "title": "We face paying £9,000 tax even though our second home is in a war zone",
-      "link": "https://www.bbc.co.uk/news/articles/c674pk4klp7no",
-      "source": "BBC News",
-      "publishedAt": "2026-11-08T08:04:59.000Z",
-      "summary": "A Ukrainian woman who fled to Scotland is told she and her partner could face a £9,000 property tax charge because she still owns a flat in Kyiv."
-    },
-    {
-      "id": "feed-mmdyrp",
-      "title": "School Street fines at one location exceed £1m",
-      "link": "https://www.bbc.co.uk/news/articles/c68xzzvgl7reo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-08T08:01:55.000Z",
-      "summary": "The council issues penalty charges totalling £1.15m over the scheme near Manor School in Kensal Rise."
     }
   ]
 }
