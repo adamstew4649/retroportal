@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T05:50:11.538Z",
-  "generatedAt": "2026-11-09T05:50:11.538Z",
+  "updatedAt": "2026-11-09T06:57:12.379Z",
+  "generatedAt": "2026-11-09T06:57:12.379Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,244 @@
   ],
   "articles": [
     {
+      "id": "feed-13bm7pw",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
+      "publishedAt": "2026-11-09T06:50:09.000Z",
+      "category": "world",
+      "summary": "At least six people were killed in the shooting and a dozen more were injured."
+    },
+    {
+      "id": "feed-1grt6ab",
+      "title": "James Bond: What we know so far about the next 007 film",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po",
+      "publishedAt": "2026-11-09T06:47:09.000Z",
+      "category": "uk",
+      "summary": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig."
+    },
+    {
+      "id": "feed-129zv3p",
+      "title": "Kraków shooting suspect who killed six has died, say police in Poland",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+      "publishedAt": "2026-11-09T06:32:55.000Z",
+      "category": "uk",
+      "summary": "Terrorism investigation was opened after a 24-year-old opened fire in a market square on the weekend A gunman suspected of killing six people in Kraków has died in hospital, police in Poland said early on Monday. The suspect had been wounded in a shootout with"
+    },
+    {
+      "id": "feed-lrcypf",
+      "title": "A new start after 60: I was burnt out and facing redundancy. So I set up a bee farm – and learned the joys of a simple life",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/09/new-start-after-60-burnt-out-redundancy-bee-farm-simple-life",
+      "publishedAt": "2026-11-09T06:30:01.000Z",
+      "category": "uk",
+      "summary": "Jeff Lee had spent decades as an investigative journalist. But when he upped sticks with his wife to buy a farm in rural British Columbia, he didn’t just change jobs – he found a different way to live Jeff Lee became interested in beekeeping in his late 50s af"
+    },
+    {
+      "id": "feed-c8kgkc",
+      "title": "TV tonight: a stirring documentary about two mothers taking on Big Pharma",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/tv-tonight-a-stirring-documentary-about-two-mothers-taking-on-big-pharma",
+      "publishedAt": "2026-11-09T06:20:01.000Z",
+      "category": "uk",
+      "summary": "The campaign for justice behind the epilepsy drug that caused damage to generations of children. Plus: shocking sex-outside-marriage revelation in The Gilded Age. Here’s what to watch this evening 9pm, BBC Two A still unresolved story of institutional failure "
+    },
+    {
+      "id": "feed-ga5495",
+      "title": "Print commissioned by Nasa uncovered for exhibition",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw98zm084dr3o",
+      "publishedAt": "2026-11-09T06:18:19.000Z",
+      "category": "science",
+      "summary": "The Pop Art at Cartwright Hall exhibition tells the story of the British International Print Biennale."
+    },
+    {
       "id": "feed-1eovrgv",
       "title": "Dense fog threatens Monday morning rush-hour disruption",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o",
-      "publishedAt": "2026-11-09T05:22:03.000Z",
+      "publishedAt": "2026-11-09T06:17:34.000Z",
       "category": "uk",
       "summary": "Fog could disrupt Monday morning’s commute"
+    },
+    {
+      "id": "feed-q5w51i",
+      "title": "How you can get council's £250 cost of living help",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dd3652zvo",
+      "publishedAt": "2026-11-09T06:11:28.000Z",
+      "category": "business",
+      "summary": "Applications for household grants of up to £250 are opening to some Surrey residents."
+    },
+    {
+      "id": "feed-dvp5ww",
+      "title": "Indoor soft play centres struggling to stay open",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g11exqqwvo",
+      "publishedAt": "2026-11-09T06:10:03.000Z",
+      "category": "business",
+      "summary": "Jessica Harvey from Whitchurch said there were some days in the summer that no-one visited her centre."
+    },
+    {
+      "id": "feed-1gvglwg",
+      "title": "How yesterday's waste is becoming tomorrow's fashion",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no",
+      "publishedAt": "2026-11-09T06:05:15.000Z",
+      "category": "science",
+      "summary": "Brands including Dr Martens, Nike and Coach are among those using recycled materials."
+    },
+    {
+      "id": "feed-mq3raq",
+      "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+      "publishedAt": "2026-11-09T06:01:52.000Z",
+      "category": "world",
+      "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy."
+    },
+    {
+      "id": "feed-7vmcly",
+      "title": "The Papers: 'There are more like Brand' and 'Steep cuts to EV targets'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo",
+      "publishedAt": "2026-11-09T06:01:37.000Z",
+      "category": "uk",
+      "summary": "A minister warns \"there are more like [Russell] Brand\" and the government plans \"cuts to EV targets\" - some of Monday's headlines."
+    },
+    {
+      "id": "feed-ozih4o",
+      "title": "Charity wants bee, bird and butterfly population boost",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo",
+      "publishedAt": "2026-11-09T06:00:40.000Z",
+      "category": "science",
+      "summary": "Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust aims to raise £70,000 for the project."
+    },
+    {
+      "id": "feed-l7qw6k",
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o",
+      "publishedAt": "2026-11-09T06:00:26.000Z",
+      "category": "world",
+      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited."
+    },
+    {
+      "id": "feed-guqxy6",
+      "title": "Fixing UK’s youth jobs crisis demands much more investment, TUC boss warns",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
+      "publishedAt": "2026-11-09T06:00:03.000Z",
+      "category": "uk",
+      "summary": "Paul Nowak also calls on government to avoid arbitrary benefit cuts before much-anticipated Milburn report is published this week Fixing Britain’s youth jobs crisis will require ministers to drastically increase investment in employment support while avoiding "
+    },
+    {
+      "id": "feed-swncli",
+      "title": "British people don’t trust Palantir – it’s not too late to reverse the NHS’s dependence on it | Ben Coleman",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/09/british-people-palantir-nhs-health-data-us-tech-firm",
+      "publishedAt": "2026-11-09T06:00:02.000Z",
+      "category": "uk",
+      "summary": "We can’t allow our health data to be locked into the control of a US tech firm. It won’t be easy, but next spring the job of clawing it back must begin Ben Coleman is Labour MP for Chelsea and Fulham and a member of the health and social care committee Next Ma"
+    },
+    {
+      "id": "feed-gra2x9",
+      "title": "Jess Shadbolt’s recipes for warming pasta soup and a sharp, salty-sweet salad",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/food/2026/nov/09/pasta-e-fagioli-soup-sharp-salty-sweet-salad-roast-persimmon-radicchio-recipe-jess-shadbolt",
+      "publishedAt": "2026-11-09T06:00:02.000Z",
+      "category": "uk",
+      "summary": "A delicate but filling winter pasta soup and a roast persimmon and radicchio salad studded with gorgonzola and hazelnuts Winter warmers don’t always have to be hearty and heavy. This pasta e fagioli is robust enough to take the edge off a cold day, but it is a"
+    },
+    {
+      "id": "feed-1n8le09",
+      "title": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
+      "publishedAt": "2026-11-09T06:00:01.000Z",
+      "category": "uk",
+      "summary": "US government will have no official presence at UN’s annual climate summit, this year’s Cop31 held in Antalya, Turkey The US will be absent from key UN climate talks that start on Monday, a further sign of Donald Trump’s scornful dismissal of the climate crisi"
+    },
+    {
+      "id": "feed-1ohli26",
+      "title": "From stockpiling to being polite to ChatGPT: Edith Pritchett’s week in Venn diagrams – cartoon",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/picture/2026/nov/09/stockpiling-chatgpt-reform-edith-pritchetts-week-in-venn-diagrams-cartoon",
+      "publishedAt": "2026-11-09T06:00:01.000Z",
+      "category": "uk",
+      "summary": "Continue reading..."
+    },
+    {
+      "id": "feed-p28s0s",
+      "title": "Starwatch: Count these stars to find out how dark the sky is where you are",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/nov/09/starwatch-count-stars-find-out-how-dark-sky-is",
+      "publishedAt": "2026-11-09T06:00:01.000Z",
+      "category": "science",
+      "summary": "Great Square of Pegasus’s four corners are widely visible, but its inner stars provide a useful indicator of darkness This week, we are going to locate the Great Square of Pegasus and count stars to see how dark your sky is. The chart shows the view looking so"
+    },
+    {
+      "id": "feed-11902e2",
+      "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
+      "publishedAt": "2026-11-09T05:47:49.000Z",
+      "category": "world",
+      "summary": "‘It’s pretty obvious that there are all sorts of people making all sorts of comments,’ Murray Watt says after budget savings meeting Get our breaking news email , free app or daily news podcast The environment minister, Murray Watt , has urged ministers to sto"
+    },
+    {
+      "id": "feed-1y05mto",
+      "title": "Millions in India celebrate Diwali, the Hindu festival of lights – in pictures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/09/millions-in-india-celebrate-diwali-the-hindu-festival-of-lights-in-pictures",
+      "publishedAt": "2026-11-09T05:42:23.000Z",
+      "category": "uk",
+      "summary": "The spiritual triumph of ‘light over darkness’ is celebrated during Diwali, which people mark by lighting traditional lamps, decorating homes and gathering with family and friends Continue reading..."
+    },
+    {
+      "id": "feed-12xs6fe",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo",
+      "publishedAt": "2026-11-09T05:30:37.000Z",
+      "category": "world",
+      "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour."
+    },
+    {
+      "id": "feed-10r5nar",
+      "title": "Robert Pattinson has auditioned for James Bond – and finally the 007 race is interesting | Sian Cain",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/nov/09/robert-pattinson-nicholas-hoult-josh-oconnor-new-james-bond-contenders",
+      "publishedAt": "2026-11-09T05:29:22.000Z",
+      "category": "uk",
+      "summary": "Hollywood’s weirdest man has entered the fray and the casting decision that has dragged on and on suddenly feels exciting for the first time Why does anyone want to play James Bond? The franchise seems to spit out its leads, leaving them wrecked and disillusio"
     },
     {
       "id": "feed-n83zc7",
@@ -244,26 +474,6 @@
       "summary": "Chris Minns and race discrimination commissioner lambast comments made by Stuart Bonds, who leads party’s NSW upper house ticket Get our breaking news email , free app or daily news podcast The New South Wales premier and the Australian Human Rights Commission"
     },
     {
-      "id": "feed-obo96s",
-      "title": "New Zealand’s Opportunity party takes aim at populist politics as it prepares to enter parliament",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/09/nz-elections-opportunity-party-qiulae-wong-speech-first-day-in-parliament",
-      "publishedAt": "2026-11-09T03:12:15.000Z",
-      "category": "uk",
-      "summary": "Minor party leader Qiulae Wong says ‘populism doesn’t deliver results’ and that her vision for a low emissions future will drive its talks with major parties A history-making centrist party that could influence New Zealand’s political direction has taken aim a"
-    },
-    {
-      "id": "feed-1axq5r9",
-      "title": "Wanted review – generic crime musical lacks outlaw grit",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/stage/2026/nov/09/wanted-broadway-musical-review",
-      "publishedAt": "2026-11-09T03:00:57.000Z",
-      "category": "uk",
-      "summary": "James Earl Jones theatre, New York City A ‘mostly true’ tale of 19th-century sisters running from the law is underserved in a production stuffed with superfluous showboating The new retooled musical Wanted, from writer Angelica Chéri and composer Ross Baum, op"
-    },
-    {
       "id": "feed-1gpfwnv",
       "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
       "source": "BBC News",
@@ -290,7 +500,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
       "publishedAt": "2026-11-09T02:11:25.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a s"
     },
     {
@@ -314,34 +524,14 @@
       "summary": "The education secretary says she is backing the inquiry to \"get to the heart of the barriers holding children back\"."
     },
     {
-      "id": "feed-1js5064",
-      "title": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/09/ukraine-war-briefing-post-war-security-guarantees-a-key-focus-in-upcoming-abu-dhabi-talks-says-rubio",
-      "publishedAt": "2026-11-09T01:44:46.000Z",
-      "category": "uk",
-      "summary": "US secretary of state says some progress made on what security infrastructure could look like in Ukraine and Europe after the war. What we know on day 1,720 US secretary of state Marco Rubio said some progress had been made on what the “security infrastructure"
-    },
-    {
-      "id": "feed-1s6fx27",
-      "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon re-enacts shooting when giving evidence in NSW trial",
+      "id": "feed-1vbot05",
+      "title": "‘Homicidal, not suicidal’: Beau Lamarre-Condon allegedly claimed workplace bullying for sympathy, court hears",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
       "publishedAt": "2026-11-09T01:44:14.000Z",
       "category": "world",
-      "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court "
-    },
-    {
-      "id": "feed-1md1xc1",
-      "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
-      "publishedAt": "2026-11-09T01:30:36.000Z",
-      "category": "world",
-      "summary": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper body Get our breaking news email , free app or daily news podcast Family members of a man accused of the domestic violence murder of a 23-year-old woman in so"
+      "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon was “homicidal, not suic"
     },
     {
       "id": "feed-1l88gi",
@@ -390,18 +580,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
       "publishedAt": "2026-11-09T00:43:39.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "‘Time to throw myself into something new,’ 32-year-old presenter announces on social media while hailing her ‘unforgettable time’ on the show Maya Jama has announced she is stepping down as the host of Love Island after three years. The 32-year-old presenter o"
-    },
-    {
-      "id": "feed-7vmcly",
-      "title": "The Papers: 'There are more like Brand' and 'Steep cuts to EV targets'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo",
-      "publishedAt": "2026-11-09T00:31:03.000Z",
-      "category": "uk",
-      "summary": "A minister warns \"there are more like [Russell] Brand\" and the government plans \"cuts to EV targets\" - some of Monday's headlines."
     },
     {
       "id": "feed-1vqfjxv",
@@ -410,7 +590,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
       "publishedAt": "2026-11-09T00:25:28.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of "
     },
     {
@@ -444,36 +624,6 @@
       "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
     },
     {
-      "id": "feed-gh6l47",
-      "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
-      "publishedAt": "2026-11-08T22:30:51.000Z",
-      "category": "world",
-      "summary": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays Hundreds of thousands of vulnerable patients in England are to receive extra support from their GP as part of a £40m drive aimed at keeping them out of"
-    },
-    {
-      "id": "feed-1r0nwbm",
-      "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
-      "publishedAt": "2026-11-08T22:27:50.000Z",
-      "category": "uk",
-      "summary": "They had been in a battle, they had been behind and they had been on edge, but Barcelona found a way through, holding on to their place at the top of the table and holding the doubts at bay for another day. A fortnight in which they were defeated by Paris Sain"
-    },
-    {
-      "id": "feed-g06h9o",
-      "title": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
-      "publishedAt": "2026-11-08T22:12:58.000Z",
-      "category": "uk",
-      "summary": "Frenchman under pressure after four successive defeats Former Spurs manager Frank emerging as main candidate Crystal Palace are poised to sack Pierre Sage after Sunday’s defeat by Liverpool left them bottom of the Premier League for the first time since Decemb"
-    },
-    {
       "id": "feed-1hssgyk",
       "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "source": "BBC News",
@@ -482,26 +632,6 @@
       "publishedAt": "2026-11-08T22:05:12.000Z",
       "category": "world",
       "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random."
-    },
-    {
-      "id": "feed-kyvr7f",
-      "title": "Stacey Dooley’s Australia: Off the Beaten Track review – presenting this fluffy show is beyond her",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/08/stacey-dooleys-australia-off-the-beaten-track-review-kangaroo-island-channel-4",
-      "publishedAt": "2026-11-08T22:00:51.000Z",
-      "category": "uk",
-      "summary": "This trip to Kangaroo Island is pleasant enough, but the investigative reporter seems lost when tackling something that doesn’t feature exploitation or outrage For years on BBC Three, Stacey Dooley equalled strife. Child labour, sexual exploitation, poverty, r"
-    },
-    {
-      "id": "feed-sz8xi6",
-      "title": "‘I expect to move forward’: Carrick denies risk of Manchester United sack",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw",
-      "publishedAt": "2026-11-08T21:40:36.000Z",
-      "category": "uk",
-      "summary": "‘Is there?’ manager retorts when told of talk over position Bizarre 4-4 draw with Villa leaves United in bottom three A tetchy Michael Carrick dismissed a suggestion he could resign as head coach for the good of the team after Sunday’s chaotic 4-4 draw with As"
     },
     {
       "id": "feed-1pqkveg",
@@ -551,7 +681,7 @@
       "url": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
       "publishedAt": "2026-11-08T20:41:00.000Z",
       "category": "world",
-      "summary": "Tech giant Nvidia is investigating reports that chief executive Jensen ⁠Huang was targeted by a foreign intelligence effort."
+      "summary": "The chief executive of tech giant Nvidia has admitted having an affair, with the company investigating reports that he was targeted by a foreign intelligence effort."
     },
     {
       "id": "feed-xrujjo",
@@ -582,16 +712,6 @@
       "publishedAt": "2026-11-08T19:43:00.000Z",
       "category": "uk",
       "summary": "The government is seriously considering banning children from online sales platforms such as eBay and Vinted, the culture secretary has said."
-    },
-    {
-      "id": "feed-1jy55z3",
-      "title": "Small plane crashes into pickup truck on busy Florida highway",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
-      "publishedAt": "2026-11-08T19:29:05.000Z",
-      "category": "world",
-      "summary": "No one was injured after emergency landing in Fort Myers 50 minutes after takeoff with two people onboard A small plane crashed into the rear of a pickup truck as it made an emergency landing on a busy Florida highway on Saturday but miraculously no one was in"
     },
     {
       "id": "feed-1fkvchy",
@@ -874,16 +994,6 @@
       "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to ‘It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labo"
     },
     {
-      "id": "feed-11y1lah",
-      "title": "Grenfell NHS support service faces funding cut",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cv62ykxp1x1ko",
-      "publishedAt": "2026-11-08T08:00:06.000Z",
-      "category": "uk",
-      "summary": "Councillors call for long-term funding for the service ahead of the fire’s 10th anniversary."
-    },
-    {
       "id": "feed-526ha3",
       "title": "Countryside managers prepare for climate change",
       "source": "BBC News",
@@ -902,16 +1012,6 @@
       "publishedAt": "2026-11-08T07:11:02.000Z",
       "category": "business",
       "summary": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over."
-    },
-    {
-      "id": "feed-164gu3d",
-      "title": "Hundreds of seagrass shoots found in estuary",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo",
-      "publishedAt": "2026-11-08T07:06:13.000Z",
-      "category": "science",
-      "summary": "There were fears a restoration trial may not succeed when only six seedlings had emerged in April."
     },
     {
       "id": "feed-cumepc",
@@ -962,16 +1062,6 @@
       "publishedAt": "2026-11-08T04:27:00.000Z",
       "category": "world",
       "summary": "Donald Trump has said he was \"only kidding\" about UFC boss Dana White becoming White House press secretary."
-    },
-    {
-      "id": "feed-b0hr6g",
-      "title": "Briton among six killed by 'far-right' gunman in Krakow rampage",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612",
-      "publishedAt": "2026-11-08T02:19:00.000Z",
-      "category": "world",
-      "summary": "A 32-year-old British man is among six people killed in a mass shooting in Krakow, in which another Briton was wounded, Polish officials have said."
     },
     {
       "id": "feed-6m2z9g",
@@ -1094,26 +1184,6 @@
       "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
     },
     {
-      "id": "feed-1pdco9l",
-      "title": "Gaza wedding festival sees 250 couples married at the same time",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o",
-      "publishedAt": "2026-11-07T17:58:41.000Z",
-      "category": "world",
-      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza."
-    },
-    {
-      "id": "feed-1rywcg2",
-      "title": "Italian foreign minister says hackers leaked his personal data",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
-      "publishedAt": "2026-11-07T16:50:06.000Z",
-      "category": "world",
-      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
-    },
-    {
       "id": "feed-bstcse",
       "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
       "source": "The Guardian",
@@ -1122,16 +1192,6 @@
       "publishedAt": "2026-11-07T15:30:35.000Z",
       "category": "business",
       "summary": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sides Five European leaders have called for closer ties with Britain ahead of a keenly anticipated EU-UK summit. The leaders of Germany, Belgium, the Nether"
-    },
-    {
-      "id": "feed-p3fuwp",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo",
-      "publishedAt": "2026-11-07T15:19:35.000Z",
-      "category": "world",
-      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
     },
     {
       "id": "feed-28pd0v",
@@ -1192,16 +1252,6 @@
       "publishedAt": "2026-11-07T13:00:11.000Z",
       "category": "business",
       "summary": "Experts predict a baptism of fire for GBR in 2027, with likely issues ranging from clapped-out trains and track to extreme weather-related stress The glad tidings brought by the minister were that the wait was almost over: the establishment of Great British Ra"
-    },
-    {
-      "id": "feed-1uhw4i3",
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
-      "publishedAt": "2026-11-07T12:49:36.000Z",
-      "category": "world",
-      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
     },
     {
       "id": "feed-1ddakbs",
@@ -1284,16 +1334,6 @@
       "summary": "A coalition of 75 organisations opposed to plans for AI data centres in Scotland is set to march in Edinburgh this month."
     },
     {
-      "id": "feed-165cmzi",
-      "title": "New Forest wildfire restoration work begins",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo",
-      "publishedAt": "2026-11-07T07:14:33.000Z",
-      "category": "science",
-      "summary": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire."
-    },
-    {
       "id": "feed-b8ilm4",
       "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
       "source": "The Guardian",
@@ -1352,16 +1392,6 @@
       "publishedAt": "2026-11-07T01:38:00.000Z",
       "category": "uk",
       "summary": "A man has appeared in court charged with the murder of a missing woman whose whereabouts remain unknown."
-    },
-    {
-      "id": "feed-1kyw2fh",
-      "title": "Critical incident declared after car 'damaged by gunfire' - with two arrested",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/critical-incident-declared-in-south-wales-after-car-damaged-by-gunfire-with-two-arrested-13609113",
-      "publishedAt": "2026-11-06T22:26:00.000Z",
-      "category": "uk",
-      "summary": "A critical incident has been declared in Swansea after a car was shot at and damaged by gunfire, police said."
     },
     {
       "id": "feed-nr94qy",
@@ -1444,16 +1474,6 @@
       "summary": "Rising global temperatures mean extreme weather events are becoming more common and more intense."
     },
     {
-      "id": "feed-3ryt1i",
-      "title": "Food bank to close amid rising costs",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro",
-      "publishedAt": "2026-11-06T16:42:23.000Z",
-      "category": "business",
-      "summary": "A food bank in Goole annouces it will close in January as costs rise and donations drop."
-    },
-    {
       "id": "feed-8xeko6",
       "title": "A really simple guide to climate change",
       "source": "BBC News",
@@ -1492,16 +1512,6 @@
       "publishedAt": "2026-11-06T15:25:43.000Z",
       "category": "business",
       "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination."
-    },
-    {
-      "id": "feed-pn6o0s",
-      "title": "Workers' rights 'second place' to economic growth",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cq369l9r634ro",
-      "publishedAt": "2026-11-06T14:52:49.000Z",
-      "category": "business",
-      "summary": "Jersey's Economic Development Minister has told the BBC that workers' rights may have to take 'second place' to economic growth."
     },
     {
       "id": "feed-1g4wcyc",
@@ -1554,26 +1564,6 @@
       "summary": "Poundland's owner is seeking to give evidence to MPs in private next week as it seeks to avoid an evidence session on the discount retailer's fate turning into \"a show trial\"."
     },
     {
-      "id": "feed-a66m0p",
-      "title": "How does it affect me if share prices fall?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
-      "publishedAt": "2026-11-06T09:21:50.000Z",
-      "category": "business",
-      "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives."
-    },
-    {
-      "id": "feed-5a846a",
-      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o",
-      "publishedAt": "2026-11-06T01:22:39.000Z",
-      "category": "science",
-      "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains."
-    },
-    {
       "id": "feed-1go88cx",
       "title": "The engine parts that 'fight the laws of the universe'",
       "source": "BBC News",
@@ -1582,6 +1572,16 @@
       "publishedAt": "2026-11-06T00:06:06.000Z",
       "category": "technology",
       "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make."
+    },
+    {
+      "id": "feed-19tzeb7",
+      "title": "Gunman suspected of killing six people in Polish city of Krakow has died, police say",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/gunman-suspected-of-killing-six-people-in-polish-city-of-krakow-has-died-police-say-13608464",
+      "publishedAt": "2026-11-05T15:39:00.000Z",
+      "category": "world",
+      "summary": "A gunman suspected of killing six people including a British national in Krakow on Saturday has died in hospital."
     },
     {
       "id": "feed-9n4dh3",
@@ -1724,16 +1724,6 @@
       "summary": "Blood tests that could spot the early signs of a range of the most common cancers are to be trialled on thousands of NHS patients."
     },
     {
-      "id": "feed-atxm8l",
-      "title": "How to challenge your council tax band - and potentially get £100 energy payout",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/how-to-challenge-your-council-tax-band-and-potentially-get-100-energy-payout-13607924",
-      "publishedAt": "2026-11-04T12:37:00.000Z",
-      "category": "business",
-      "summary": "Are you missing out on the government's £100 energy payment due to being in the wrong council tax band?"
-    },
-    {
       "id": "feed-vo54co",
       "title": "Very good boys? The dark, dystopian rise of robot dogs | Arwa Mahwadi",
       "source": "The Guardian",
@@ -1752,6 +1742,16 @@
       "publishedAt": "2026-11-04T06:13:00.000Z",
       "category": "technology",
       "summary": "Blood bank sites in France are the latest to be hit by cyber attackers."
+    },
+    {
+      "id": "feed-1lwg2z6",
+      "title": "Why pharma firms are going to Earth’s orbit in search of new cancer drugs",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space",
+      "publishedAt": "2026-11-04T06:00:27.000Z",
+      "category": "science",
+      "summary": "A space capsule 300 miles above us is growing the tiny crystals of a potential cancer drug in microgravity Roughly 300 miles above our heads, three washing machine-sized capsules are orbiting the Earth. Inside one of them, tiny crystals of a potential cancer d"
     },
     {
       "id": "feed-xtdbcq",
@@ -1824,16 +1824,6 @@
       "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday."
     },
     {
-      "id": "feed-1gor57i",
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko",
-      "publishedAt": "2026-11-03T11:10:37.000Z",
-      "category": "technology",
-      "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo."
-    },
-    {
       "id": "feed-3byqwn",
       "title": "Cyber attacks affect UK meat processing industry, top security official says",
       "source": "Sky News",
@@ -1862,26 +1852,6 @@
       "publishedAt": "2026-11-02T20:00:27.000Z",
       "category": "science",
       "summary": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to "
-    },
-    {
-      "id": "feed-ozfsm6",
-      "title": "From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter",
-      "publishedAt": "2026-10-31T11:00:40.000Z",
-      "category": "science",
-      "summary": "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a tas"
-    },
-    {
-      "id": "feed-q4pca",
-      "title": "‘My hands are shaking’ - what it’s like to be an expert witness - video",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/science/video/2026/oct/29/my-hands-are-shaking-what-its-like-to-be-an-expert-witness-video",
-      "publishedAt": "2026-10-29T16:25:54.000Z",
-      "category": "science",
-      "summary": "As one of the world’s leading forensic anthropologists, Dame Sue Black has acted as an expert witness in a myriad of high-profile criminal cases. Her work has taken her from the lab to active war zones and the aftermath of natural disasters to identify victims"
     },
     {
       "id": "feed-aihyai",

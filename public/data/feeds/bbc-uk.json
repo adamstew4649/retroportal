@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T05:50:11.534Z",
+  "updatedAt": "2026-11-09T06:57:12.374Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-1grt6ab",
+      "title": "James Bond: What we know so far about the next 007 film",
+      "link": "https://www.bbc.co.uk/news/articles/ck79p0lev47po",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T06:47:09.000Z",
+      "summary": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig."
+    },
+    {
       "id": "feed-1eovrgv",
       "title": "Dense fog threatens Monday morning rush-hour disruption",
       "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o",
       "source": "BBC News",
-      "publishedAt": "2026-11-09T05:22:03.000Z",
+      "publishedAt": "2026-11-09T06:17:34.000Z",
       "summary": "Fog could disrupt Monday morning’s commute"
+    },
+    {
+      "id": "feed-7vmcly",
+      "title": "The Papers: 'There are more like Brand' and 'Steep cuts to EV targets'",
+      "link": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-09T06:01:37.000Z",
+      "summary": "A minister warns \"there are more like [Russell] Brand\" and the government plans \"cuts to EV targets\" - some of Monday's headlines."
     },
     {
       "id": "feed-say5fh",
@@ -54,14 +70,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-09T00:56:43.000Z",
       "summary": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival."
-    },
-    {
-      "id": "feed-7vmcly",
-      "title": "The Papers: 'There are more like Brand' and 'Steep cuts to EV targets'",
-      "link": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T00:31:03.000Z",
-      "summary": "A minister warns \"there are more like [Russell] Brand\" and the government plans \"cuts to EV targets\" - some of Monday's headlines."
     },
     {
       "id": "feed-18c62vu",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-08T08:01:55.000Z",
       "summary": "The council issues penalty charges totalling £1.15m over the scheme near Manor School in Kensal Rise."
-    },
-    {
-      "id": "feed-11y1lah",
-      "title": "Grenfell NHS support service faces funding cut",
-      "link": "https://www.bbc.co.uk/news/articles/cv62ykxp1x1ko",
-      "source": "BBC News",
-      "publishedAt": "2026-11-08T08:00:06.000Z",
-      "summary": "Councillors call for long-term funding for the service ahead of the fire’s 10th anniversary."
     }
   ]
 }
