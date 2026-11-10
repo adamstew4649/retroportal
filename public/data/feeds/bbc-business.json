@@ -1,12 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T12:42:38.438Z",
+  "updatedAt": "2026-11-10T13:57:09.251Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-ux3ufw",
+      "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T13:45:36.000Z",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78."
+    },
+    {
+      "id": "feed-1w1o3wd",
+      "title": "New regulation for heating oil market, but no price controls",
+      "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T13:42:29.000Z",
+      "summary": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK."
+    },
+    {
+      "id": "feed-1re2gx5",
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T13:39:28.000Z",
+      "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries."
+    },
     {
       "id": "feed-5vxe4w",
       "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
@@ -72,14 +96,6 @@
       "summary": "The Chicken and Frog in Brentwood says business rates and electricity bills have risen dramatically."
     },
     {
-      "id": "feed-1akhymc",
-      "title": "New chief outlines main issues facing Isle of Man",
-      "link": "https://www.bbc.co.uk/news/articles/cw0737zmv799o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T06:09:01.000Z",
-      "summary": "The chief minister says connectivity and food storage were among his top government priorities."
-    },
-    {
       "id": "feed-vtjj0j",
       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
       "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-09T21:52:28.000Z",
       "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy."
-    },
-    {
-      "id": "feed-1rrxjt3",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T19:58:01.000Z",
-      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
-    },
-    {
-      "id": "feed-10mvaf9",
-      "title": "The facial recognition technology stopping shoplifters",
-      "link": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T19:00:43.000Z",
-      "summary": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology."
     }
   ]
 }

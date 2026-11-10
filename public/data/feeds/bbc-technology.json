@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T12:42:38.438Z",
+  "updatedAt": "2026-11-10T13:57:09.251Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-ux3ufw",
+      "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T13:45:36.000Z",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78."
+    },
     {
       "id": "feed-fmc2r4",
       "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
@@ -102,14 +110,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T18:32:16.000Z",
       "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time."
-    },
-    {
-      "id": "feed-1g4wcyc",
-      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-06T13:25:50.000Z",
-      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
     },
     {
       "id": "feed-nzwtml",
