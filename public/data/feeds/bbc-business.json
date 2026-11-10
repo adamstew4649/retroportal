@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T11:38:50.450Z",
+  "updatedAt": "2026-11-10T12:42:38.438Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-5vxe4w",
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T11:43:06.000Z",
+      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies."
+    },
     {
       "id": "feed-1f3hx4h",
       "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-09T19:00:43.000Z",
       "summary": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology."
-    },
-    {
-      "id": "feed-wlyi3l",
-      "title": "How a civil servant got away with juggling five jobs for so long",
-      "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T18:40:31.000Z",
-      "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years."
     }
   ]
 }
