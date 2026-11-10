@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T02:37:37.214Z",
-  "generatedAt": "2026-11-10T02:37:37.214Z",
+  "updatedAt": "2026-11-10T03:35:05.667Z",
+  "generatedAt": "2026-11-10T03:35:05.667Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,44 @@
   ],
   "articles": [
     {
-      "id": "feed-84owyg",
-      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+      "id": "feed-1cunrqn",
+      "title": "Has the weather broken records where you live? Try our new tool",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/the-weather-record-search-your-postcode-to-see-if-a-wet-start-to-autumn-has-made-up-for-the-dry-summer-where-you-live-13610298",
+      "publishedAt": "2026-11-10T03:22:00.000Z",
+      "category": "uk",
+      "summary": "Storms Austen and Boelo striking different parts of the UK at the same time contributed to 24 October being one of the wettest days Britain has ever seen."
+    },
+    {
+      "id": "feed-34n8xk",
+      "title": "Beau Lamarre-Condon denies stalking Jesse Baird as double murder trial continues",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
+      "publishedAt": "2026-11-10T03:07:17.000Z",
+      "category": "world",
+      "summary": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied being “obsessed” wit"
+    },
+    {
+      "id": "feed-8wh1hk",
+      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – as it happened",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-      "publishedAt": "2026-11-10T02:34:10.000Z",
+      "publishedAt": "2026-11-10T03:00:40.000Z",
+      "category": "world",
+      "summary": "This live blog is now closed. Republican Thomas Massie moves to force vote to impeach Pete Hegseth Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, to"
+    },
+    {
+      "id": "feed-10i5sqk",
+      "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+      "publishedAt": "2026-11-10T02:54:54.000Z",
       "category": "uk",
-      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war with Iran Republican Thomas Massie moves to force vote to impeach Pete Hegseth Si"
+      "summary": "Campaign over Prop 40, as measure was known, was most expensive in state history, flush with Silicon Valley dollars California billionaires won a contentious ballot measure campaign, defeating a proposed one-time tax on their wealth. The bruising campaign over"
     },
     {
       "id": "feed-yrcmny",
@@ -272,16 +302,6 @@
       "publishedAt": "2026-11-10T01:00:23.000Z",
       "category": "uk",
       "summary": "However, authors of a comprehensive assessment to be presented at Cop31 warn talk of a global turnaround premature Cop31 live – latest updates Soaring oil and gas prices following the war in Iran have encouraged people to look beyond fossil fuels, leading to a"
-    },
-    {
-      "id": "feed-1uyfk8d",
-      "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as double murder trial continues",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
-      "publishedAt": "2026-11-10T00:53:54.000Z",
-      "category": "world",
-      "summary": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied being “obsessed” wit"
     },
     {
       "id": "feed-14a2d2c",
@@ -584,6 +604,16 @@
       "summary": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to "
     },
     {
+      "id": "feed-sg21ih",
+      "title": "Republican Thomas Massie moves to force vote to impeach Pete Hegseth",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie",
+      "publishedAt": "2026-11-09T19:31:36.000Z",
+      "category": "uk",
+      "summary": "US representative accuses defense secretary of illegally waging war without congressional authorization and abusing his powers US politics live – latest updates A Republican lawmaker has moved to force a vote to impeach Pete Hegseth, the US defense secretary, "
+    },
+    {
       "id": "feed-1liszg",
       "title": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
       "source": "The Guardian",
@@ -602,16 +632,6 @@
       "publishedAt": "2026-11-09T19:20:23.000Z",
       "category": "uk",
       "summary": "Russell Brand, once an award-winning comedian and Hollywood actor, has been sentenced to more than 10 years in prison for rape and sexual assault. The judge paid tribute to the ‘determination and bravery’ of the women who came forward in the case, and describe"
-    },
-    {
-      "id": "feed-cdh98e",
-      "title": "Feyi-Waboso and Tom Curry out of Nations Championship in fresh blow to England",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/09/england-fresh-injury-woe-feyi-waboso-tom-curry-out-nations-championship",
-      "publishedAt": "2026-11-09T19:15:04.000Z",
-      "category": "uk",
-      "summary": "Wing Feyi-Waboso sustained ankle injury on Sunday Tom Curry out for rest of November with hip injury England have been rocked by multiple injury blows after Immanuel Feyi‑Waboso and Tom Curry were ruled out of the rest of their autumn campaign. George Furbank,"
     },
     {
       "id": "feed-xxt4il",
@@ -1000,7 +1020,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/thames-water-agrees-funding-into-next-year-ahead-of-november-deadline-13610180",
       "publishedAt": "2026-11-09T15:08:00.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The UK's biggest water company has agreed to a funding deal, allowing it to continue operating until autumn next year ahead of a November deadline."
     },
     {
@@ -1454,16 +1474,6 @@
       "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
     },
     {
-      "id": "feed-1gfheqb",
-      "title": "Seven dead and 114 injured in train crash near Cairo",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748",
-      "publishedAt": "2026-11-08T14:55:00.000Z",
-      "category": "world",
-      "summary": "At least seven people have died and more than 100 have been left injured in a major train crash south of Cairo, according to the Egyptian Chief Prosecutor’s office."
-    },
-    {
       "id": "feed-11bo9q6",
       "title": "New drug could be cure for common cause of high blood pressure",
       "source": "The Guardian",
@@ -1742,16 +1752,6 @@
       "publishedAt": "2026-11-04T17:18:00.000Z",
       "category": "technology",
       "summary": "Dedicated health checks, including asthma and blood pressure assessments, are being offered to people living near one of England's worst illegal waste sites."
-    },
-    {
-      "id": "feed-1o1x16a",
-      "title": "Just 13% of UK teenage girls active every day, WHO figures show",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/just-13-of-uk-teenage-girls-active-every-day-who-figures-show-13607989",
-      "publishedAt": "2026-11-04T15:17:00.000Z",
-      "category": "technology",
-      "summary": "Experts have warned that more needs to be done to boost the exercise levels of UK teenagers - with just 13% of teenage girls active every day."
     },
     {
       "id": "feed-o8w0w2",
