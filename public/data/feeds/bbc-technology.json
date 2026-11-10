@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T04:38:07.830Z",
+  "updatedAt": "2026-11-10T05:39:17.454Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-vtjj0j",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T05:22:39.000Z",
+      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
+    },
     {
       "id": "feed-2309e4",
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -102,14 +110,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T00:06:06.000Z",
       "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make."
-    },
-    {
-      "id": "feed-1ymfh4c",
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
-      "source": "BBC News",
-      "publishedAt": "2026-11-04T21:41:15.000Z",
-      "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record."
     },
     {
       "id": "feed-nzwtml",
