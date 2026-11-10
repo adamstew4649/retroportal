@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T13:57:09.249Z",
+  "updatedAt": "2026-11-10T14:41:17.431Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,12 +8,68 @@
   },
   "articles": [
     {
+      "id": "feed-1wkg0m2",
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T14:29:00.000Z",
+      "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police."
+    },
+    {
+      "id": "feed-nee8bl",
+      "title": "Edinburgh Academy pupils suffered decades of 'dreadful abuse'",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y7pjpy7do",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T14:28:59.000Z",
+      "summary": "A report from the Scottish Child Abuse Inquiry says the school focused on protecting its reputation and ignored complaints."
+    },
+    {
+      "id": "feed-170if0d",
+      "title": "Jury discharged in Chloe Mitchell murder trial",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjvj4yljl3o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T14:20:05.000Z",
+      "summary": "The judge has given no reasons for the decision but said he will give his reasons in due course, after the conclusion of the trial."
+    },
+    {
+      "id": "feed-5vxe4w",
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T14:15:28.000Z",
+      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies."
+    },
+    {
+      "id": "feed-14gi41d",
+      "title": "Met Police investigating more 'potential criminal allegations' about Brand",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T14:09:11.000Z",
+      "summary": "Det Supt Andy Furphy says the force had received \"several reports during the trial and since the trial\"."
+    },
+    {
+      "id": "feed-1dmfbwz",
+      "title": "York man, 19, shot and injured in Krakow attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0ydz8vgqo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T14:07:33.000Z",
+      "summary": "Harry Marchant, 19, is in a stable condition after being shot, his family confirms."
+    },
+    {
       "id": "feed-1ib0n74",
       "title": "Man who stole ambulance with patient inside jailed",
       "link": "https://www.bbc.co.uk/news/articles/ck98z82qzn65o",
       "source": "BBC News",
       "publishedAt": "2026-11-10T13:51:00.000Z",
       "summary": "Marshall Leese went through red lights and was chased by police for two miles before stopping."
+    },
+    {
+      "id": "feed-104q9wi",
+      "title": "Tories pledge to cut benefits for children with 'milder cases' of ADHD",
+      "link": "https://www.bbc.co.uk/news/articles/c3j474prl2r7o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T13:37:16.000Z",
+      "summary": "Conservative shadow minister Helen Whately says the system risks putting children on a \"conveyor belt\" towards a \"lifetime on benefits\"."
     },
     {
       "id": "feed-9iqdcy",
@@ -32,36 +88,12 @@
       "summary": "Meghan arrived at the European Parliament in Brussels with her husband, Prince Harry, who delivered a speech about online child safety."
     },
     {
-      "id": "feed-c4b8h1",
-      "title": "Met Police investigate several reports on Russell Brand following his conviction",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T11:44:31.000Z",
-      "summary": "Det Supt Andy Furphy says the force had received \"several reports in during the trial and since the trial\"."
-    },
-    {
-      "id": "feed-5vxe4w",
-      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T11:43:06.000Z",
-      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies."
-    },
-    {
       "id": "feed-ee8qmt",
       "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po",
       "source": "BBC News",
       "publishedAt": "2026-11-10T11:23:43.000Z",
-      "summary": "Manchester United head coach Michael Carrick's future will be discussed at a meeting attended by owner Sir Jim Ratcliffe and executives Omar Berrada and Jason Wilcox in Monaco on Wednesday."
-    },
-    {
-      "id": "feed-nee8bl",
-      "title": "Edinburgh Academy pupils suffered decades of 'dreadful abuse'",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7y7pjpy7do",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T11:21:19.000Z",
-      "summary": "A report from the Scottish Child Abuse Inquiry says the school focused on protecting its reputation and ignored complaints."
+      "summary": "Manchester United head coach Michael Carrick's future will be discussed at a meeting in Monaco on Wednesday."
     },
     {
       "id": "feed-10y4x40",
@@ -96,14 +128,6 @@
       "summary": "The tiny one-flowered wintergreens were rescued from an area of eroded coastline at Culbin Sands."
     },
     {
-      "id": "feed-sz9jy2",
-      "title": "Twins 'ran for our lives' as Krakow attack unfolded",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0ydz8vgqo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T06:25:46.000Z",
-      "summary": "Sienna and Rimini Chapman were in Poland celebrating a friend's birthday when the attack happened."
-    },
-    {
       "id": "feed-gb0ulo",
       "title": "To the day I die, I will regret putting a cigarette in my mouth",
       "link": "https://www.bbc.co.uk/news/articles/cke8r704e8l6o",
@@ -126,30 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-10T00:41:24.000Z",
       "summary": "The Prince of Wales says he wants to stop sexual harassment against women in the armed forces."
-    },
-    {
-      "id": "feed-15sywwl",
-      "title": "I took Vinted to court to get my money back",
-      "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T00:27:37.000Z",
-      "summary": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets."
-    },
-    {
-      "id": "feed-a8ppex",
-      "title": "My life as the UK's youngest lighthouse keeper",
-      "link": "https://www.bbc.co.uk/news/videos/cr3elxyq7x3zo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T00:24:30.000Z",
-      "summary": "Jeri Cormack, 28, looks after three historic lighthouses in Caithness on the edge of the British mainland."
-    },
-    {
-      "id": "feed-1bolzi7",
-      "title": "'No emotion': What happened in court as Russell Brand was sentenced",
-      "link": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T20:13:41.000Z",
-      "summary": "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault."
     }
   ]
 }
