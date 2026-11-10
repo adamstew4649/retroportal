@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T08:48:30.068Z",
+  "updatedAt": "2026-11-10T09:41:44.360Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-fmc2r4",
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T09:23:55.000Z",
+      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses."
+    },
     {
       "id": "feed-2309e4",
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -16,28 +24,12 @@
       "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
     },
     {
-      "id": "feed-1cm4rn7",
-      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T08:07:16.000Z",
-      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses."
-    },
-    {
       "id": "feed-vtjj0j",
       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
       "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po",
       "source": "BBC News",
       "publishedAt": "2026-11-10T05:22:39.000Z",
       "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
-    },
-    {
-      "id": "feed-s01mi9",
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T01:55:22.000Z",
-      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI."
     },
     {
       "id": "feed-1r9cxkn",
@@ -110,6 +102,14 @@
       "source": "BBC News",
       "publishedAt": "2026-11-06T18:32:16.000Z",
       "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time."
+    },
+    {
+      "id": "feed-1g4wcyc",
+      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-06T13:25:50.000Z",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
     },
     {
       "id": "feed-nzwtml",
