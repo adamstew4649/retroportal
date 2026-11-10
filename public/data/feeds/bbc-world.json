@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T05:39:17.454Z",
+  "updatedAt": "2026-11-10T06:44:11.851Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-xe5z6p",
+      "title": "Polish unity on show in silent march to honour Krakow shooting victims",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T05:38:53.000Z",
+      "summary": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford."
+    },
     {
       "id": "feed-6jyvqj",
       "title": "Trump says more US attacks on Iran 'highly unlikely'",
@@ -38,6 +46,14 @@
       "source": "BBC News",
       "publishedAt": "2026-11-10T01:55:22.000Z",
       "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI."
+    },
+    {
+      "id": "feed-vkvhev",
+      "title": "'Cruise for life' ship seized in Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T01:49:06.000Z",
+      "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money."
     },
     {
       "id": "feed-1aka9g6",
@@ -128,28 +144,12 @@
       "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
     },
     {
-      "id": "feed-1rrxjt3",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T19:58:01.000Z",
-      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
-    },
-    {
       "id": "feed-11ivloz",
       "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
       "link": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o",
       "source": "BBC News",
       "publishedAt": "2026-11-09T19:09:27.000Z",
       "summary": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer."
-    },
-    {
-      "id": "feed-1c0qent",
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T18:08:07.000Z",
-      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations."
     }
   ]
 }
