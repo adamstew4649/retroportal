@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T18:30:02.445Z",
-  "generatedAt": "2026-11-10T18:30:02.445Z",
+  "updatedAt": "2026-11-10T19:26:58.480Z",
+  "generatedAt": "2026-11-10T19:26:58.480Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "bbc-world",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "sky-technology",
@@ -104,34 +104,154 @@
   ],
   "articles": [
     {
+      "id": "feed-4e31qw",
+      "title": "Inter v Manchester City: Women’s Champions League – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/nov/10/inter-v-manchester-city-womens-champions-league-live",
+      "publishedAt": "2026-11-10T19:17:14.000Z",
+      "category": "uk",
+      "summary": "Women’s Champions League updates, 8pm GMT kick-off Live scores | Table | Kerstin Casparij interview | Mail Billy Early kick-offs: An all-action couple of minutes in Sweden as Alyssa Thompson has an effort cleared off the line for Chelsea after Livia Peng’s sav"
+    },
+    {
+      "id": "feed-1yy9lyt",
+      "title": "Senior US soldier arrested by UK counter-terror police",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo",
+      "publishedAt": "2026-11-10T19:12:31.000Z",
+      "category": "uk",
+      "summary": "The 41-year-old was arrested on suspicion of offences under the National Security Act which relate to Russia, police say."
+    },
+    {
       "id": "feed-7x9stu",
       "title": "Pete Hegseth defiant in wake of Republican’s impeachment effort as House prepares for key vote – US politics live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-      "publishedAt": "2026-11-10T18:18:32.000Z",
+      "publishedAt": "2026-11-10T19:10:09.000Z",
       "category": "uk",
       "summary": "Trump’s defense secretary calls impeachment effort ‘a political spectacle’ as he faces scrutiny; House has until Wednesday to take up articles of impeachment Here’s what to know about impeachment in the US Sign up for the US Breaking News email During his pres"
     },
     {
-      "id": "feed-j364m",
-      "title": "Eight people injured after car 'mounts pavement' in Glasgow",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c63elellg05lo",
-      "publishedAt": "2026-11-10T18:12:28.000Z",
+      "id": "feed-x7kn8p",
+      "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+      "publishedAt": "2026-11-10T19:01:33.000Z",
       "category": "uk",
-      "summary": "Unconfirmed reports suggest the vehicle may have struck a bus stop shelter on Hyndland Road and scaffolding."
+      "summary": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking development of its offshore oilfield, the attorney general f"
     },
     {
-      "id": "feed-1xkj3lv",
-      "title": "NFL trade deadline 2026: Bengals-Eagles nix deal, Vikings eye QB and more – live updates",
+      "id": "feed-weolk2",
+      "title": "NFL trade deadline 2026: Vikings eye Kirk Cousins reunion, Bengals-Eagles deal collapses – live updates",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/live/2026/nov/10/nfl-trade-deadline-2026-live-updates-deals-rumors-news",
-      "publishedAt": "2026-11-10T18:11:04.000Z",
+      "publishedAt": "2026-11-10T19:01:10.000Z",
       "category": "uk",
-      "summary": "All the latest news and deals before the today’s deadline Jaguars add Davis to help defense; Simmons boosts Bears Follow the buildup to the 4pm ET cutoff and fallout Email Ella with your thoughts on the deadline moves In NFL-adjacent news: Jordon Hudson is sui"
+      "summary": "All the latest news and deals before the today’s deadline Jaguars add Davis to help defense; Simmons boosts Bears Follow the buildup to the 4pm ET cutoff and fallout Email Bryan with your thoughts on the deadline moves In NFL-adjacent news: Jordon Hudson is su"
+    },
+    {
+      "id": "feed-1iydrzk",
+      "title": "How Paraguay's banking crisis ousted a president and left millions broke – explainer",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/video/2026/nov/10/how-paraguays-banking-crisis-ousted-a-president-and-left-millions-broke-explainer",
+      "publishedAt": "2026-11-10T18:55:12.000Z",
+      "category": "uk",
+      "summary": "More than half of Paraguay’s population woke up on 3 November unable to access their bank accounts. It was a day after payday, and Ueno - a bank that expanded exponentially under Santiago Peña's government - found itself at the centre of a political and econom"
+    },
+    {
+      "id": "feed-1e9yxk9",
+      "title": "Train attack driver's '10 seconds' to change line",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o",
+      "publishedAt": "2026-11-10T18:54:35.000Z",
+      "category": "uk",
+      "summary": "Andrew Johnson tells jurors he heard over the intercom \"'there's a knifeman stabbing people'\"."
+    },
+    {
+      "id": "feed-fwsdyo",
+      "title": "US army member arrested in UK over 'allegations of espionage' involving Russia",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/member-of-us-army-arrested-in-uk-over-allegations-of-espionage-involving-russia-13610748",
+      "publishedAt": "2026-11-10T18:50:00.000Z",
+      "category": "uk",
+      "summary": "A member of the US army has been arrested in the UK on suspicion of assisting a foreign intelligence service, which is allegedly Russia."
+    },
+    {
+      "id": "feed-wqjz88",
+      "title": "UN chief urges Cop31 hosts Turkey and Australia to turn fossil fuel promises into action",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/10/un-antonio-guterres-cop31-fossil-fuels-turkey-australia",
+      "publishedAt": "2026-11-10T18:49:36.000Z",
+      "category": "uk",
+      "summary": "António Guterres calls for ‘clear next steps’ as countries face pressure to agree concrete measures Turkey and Australia, the co-hosts of crucial climate talks, must urgently move from discussing the end of fossil fuels to delivering it, the UN chief has said."
+    },
+    {
+      "id": "feed-pjn58m",
+      "title": "House Republicans urge DoJ to further investigate ‘key witnesses’ in Epstein case",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/house-republicans-epstein-investigation",
+      "publishedAt": "2026-11-10T18:44:17.000Z",
+      "category": "world",
+      "summary": "Republicans on House panel criticize US government’s investigation into Jeffrey Epstein and Ghislaine Maxwell Republicans on the House oversight committee released a report on Tuesday criticizing the federal government’s handling of the investigations into Jef"
+    },
+    {
+      "id": "feed-saxdxd",
+      "title": "Seven in hospital after car 'mounts pavement' in Glasgow",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c63elellg05lo",
+      "publishedAt": "2026-11-10T18:42:09.000Z",
+      "category": "uk",
+      "summary": "Police said the driver was assessed by paramedics and treated at the scene of the incident, which happened at about 15:45 on Hyndland Road."
+    },
+    {
+      "id": "feed-av0utp",
+      "title": "Will Joseph poised to audition for leading role against Japan in Feyi-Waboso’s absence",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/10/rugby-union-england-japan-nations-championship-will-joseph",
+      "publishedAt": "2026-11-10T18:41:49.000Z",
+      "category": "uk",
+      "summary": "England require back-line reshuffle after several injuries Kevin Sinfield says collaboration with clubs will be key England need to find a talented understudy for their injured star winger Manny Feyi-Waboso and are poised to invite Gloucester’s Will Joseph to "
+    },
+    {
+      "id": "feed-1eo145j",
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o",
+      "publishedAt": "2026-11-10T18:35:35.000Z",
+      "category": "world",
+      "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining."
+    },
+    {
+      "id": "feed-1fgauem",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do",
+      "publishedAt": "2026-11-10T18:33:51.000Z",
+      "category": "world",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund."
+    },
+    {
+      "id": "feed-7rd6w2",
+      "title": "Stevie Wonder leaves cafe staff £1,000 tip after Manchester gig",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6j6jpwd62o",
+      "publishedAt": "2026-11-10T18:31:27.000Z",
+      "category": "uk",
+      "summary": "Stevie Wonder went to Cafe Continental in Staley Bridge after his gig at the Co-op Live on Sunday."
     },
     {
       "id": "feed-imz7ce",
@@ -184,18 +304,8 @@
       "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case."
     },
     {
-      "id": "feed-170if0d",
-      "title": "Jury discharged in Chloe Mitchell murder trial",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjvj4yljl3o",
-      "publishedAt": "2026-11-10T17:57:58.000Z",
-      "category": "uk",
-      "summary": "The judge has given no reasons for the decision but said he will give his reasons in due course, after the conclusion of the trial."
-    },
-    {
-      "id": "feed-1y5rquw",
-      "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "id": "feed-4evpo5",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
@@ -334,16 +444,6 @@
       "summary": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident."
     },
     {
-      "id": "feed-1hi5w8c",
-      "title": "F1 presses ahead with plan to hold season finale in Middle East despite safety concerns",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/10/f1-season-finale-middle-east-conflict-formula-one-abu-dhabi-imola-qatar",
-      "publishedAt": "2026-11-10T17:18:35.000Z",
-      "category": "uk",
-      "summary": "Imola stood down as back-up plan to finish the year Qatar and Abu Dhabi races set to go ahead as planned Imola has been stood down as a back-up plan for the Formula One season finale as the sport pushes ahead with its scheduled Middle East races. The Italian v"
-    },
-    {
       "id": "feed-1bn1c6c",
       "title": "Teens found guilty of murdering boy, 15, in park",
       "source": "BBC News",
@@ -390,7 +490,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/nov/10/john-crace-kemi-badenoch-tough-love-war-on-benefits",
       "publishedAt": "2026-11-10T17:04:29.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The Tory leader outlines her £36bn welfare cuts, again, to an audience of an age and a wealth that they don’t need to work Call it tough love. Only without any of the love bit. Let’s face it. There comes a time in every Conservative politician’s life when you "
     },
     {
@@ -424,44 +524,24 @@
       "summary": "First substantive peace talks since February include US proposal for ‘long-term security architecture’ between Moscow and Europe Europe live – latest updates US officials have said they are seeking a “final end” to the war between Russia and Ukraine as trilate"
     },
     {
-      "id": "feed-1y61342",
-      "title": "Train attack driver had '10 seconds' to change line",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o",
-      "publishedAt": "2026-11-10T16:56:26.000Z",
-      "category": "uk",
-      "summary": "Andrew Johnson tells jurors he heard over the intercom \"'there's a knifeman stabbing people'\"."
-    },
-    {
-      "id": "feed-381fmm",
-      "title": "Why murder mysteries and cryptic crosswords go hand in hand",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/puzzles/2026/nov/10/why-mysteries-and-cryptic-crosswords-go-hand-in-hand-cluesletter",
-      "publishedAt": "2026-11-10T16:55:31.000Z",
-      "category": "uk",
-      "summary": "From Agatha Christie to a new generation of crime writers, cryptic crosswords have long held a place in murder-mystery fiction. Debut novelist and Guardian crossword setter Alys Cummings explains why the two make such natural companions • Don’t get Cluesletter"
-    },
-    {
       "id": "feed-yxcc8y",
       "title": "Texas man charged with murder of woman aboard MSC cruise ship",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/10/msc-seascape-homicide-cruise-ship",
       "publishedAt": "2026-11-10T16:53:05.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Jason Leon Watford said he ‘snapped’ after verbal dispute with the woman, before allegedly killing her in a cabin A passenger of a Texas -based cruise ship has been charged with murdering a woman in their cabin on Sunday on the first day of their voyage. Crew "
     },
     {
-      "id": "feed-qqhblo",
-      "title": "Feast Q&A: ask Rukmini Iyer your questions about one-pan cooking and easy midweek meals",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/food/live/2026/nov/10/reader-q-and-a-ask-bestselling-roasting-tin-cookbook-recipe-writer-rukmini-iyer-a-question",
-      "publishedAt": "2026-11-10T16:46:30.000Z",
+      "id": "feed-19tk474",
+      "title": "Seven people taken to hospital after car collides with pedestrians in Glasgow",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/seven-people-taken-to-hospital-after-car-collides-with-pedestrians-in-glasgow-13610720",
+      "publishedAt": "2026-11-10T16:50:00.000Z",
       "category": "uk",
-      "summary": "Rukmini Iyer, author of the bestselling cookbook series Roasting Tin, will be answering your questions live from 1200 GMT on Wednesday 11 November. Her recipes for the Guardian include quick, simple weeknight dinners and ways to save time in the kitchen. Ask a"
+      "summary": "Seven people have been taken to hospital after a car collided with a \"number of pedestrians\" in Glasgow, police say."
     },
     {
       "id": "feed-1rlk05e",
@@ -472,16 +552,6 @@
       "publishedAt": "2026-11-10T16:46:21.000Z",
       "category": "business",
       "summary": "Students speak out as school dinner prices are set to increase for the second time in a year."
-    },
-    {
-      "id": "feed-qn7iwl",
-      "title": "Alleged spy told police he would harm himself - inquest",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cjqlnln57150o",
-      "publishedAt": "2026-11-10T16:45:51.000Z",
-      "category": "uk",
-      "summary": "Matthew Trickett had been put under constant supervision days before he was released."
     },
     {
       "id": "feed-30rcuj",
@@ -551,7 +621,7 @@
       "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
       "publishedAt": "2026-11-10T16:13:13.000Z",
       "category": "world",
-      "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.05tn) in its imminent stock market flotation , short of the $2tn that had been expected befor"
+      "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.1tn) in its imminent stock market flotation , short of the $2tn that had been expected before"
     },
     {
       "id": "feed-p90qiw",
@@ -572,16 +642,6 @@
       "publishedAt": "2026-11-10T16:03:46.000Z",
       "category": "business",
       "summary": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit."
-    },
-    {
-      "id": "feed-g6k64f",
-      "title": "Haitian boy, 8, detained by ICE is now unaccounted for, lawmaker says",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california",
-      "publishedAt": "2026-11-10T15:51:42.000Z",
-      "category": "world",
-      "summary": "Juan Vargas, a congressman, says he’s working to reunite the third-grader with loved ones Relatives of an eight-year-old Haitian boy who was taken into custody by federal immigration authorities in California are unable to locate the child, according to a Demo"
     },
     {
       "id": "feed-183q8py",
@@ -674,16 +734,6 @@
       "summary": "The entertainer shot to fame on Little Britain and also has best-selling series of children's books."
     },
     {
-      "id": "feed-1ra9uuw",
-      "title": "UK and Argentina clash over Falklands oil project as Hamburg tribunal starts",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-      "publishedAt": "2026-11-10T14:49:32.000Z",
-      "category": "world",
-      "summary": "Sea Lion project in the North Falkland basin threatens to deepen sovereignty dispute Argentina has told an international tribunal that Britain’s approval of oil drilling off the Falkland Islands has dramatically deepened a sovereignty dispute that led to war f"
-    },
-    {
       "id": "feed-eqnjf0",
       "title": "US inflation higher than expected in October - here's what is happening with prices",
       "source": "BBC News",
@@ -762,16 +812,6 @@
       "publishedAt": "2026-11-10T14:00:55.000Z",
       "category": "world",
       "summary": "Exclusive: Ellen Sandell says Labor’s decision not to back progressives in key inner-seat could hand power to right-wing coalition in close election Get our breaking news email , free app or daily news podcast The Victorian Greens say Labor’s “frankly unforgiv"
-    },
-    {
-      "id": "feed-1ib0n74",
-      "title": "Man who stole ambulance with patient inside jailed",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck98z82qzn65o",
-      "publishedAt": "2026-11-10T13:51:00.000Z",
-      "category": "uk",
-      "summary": "Marshall Leese went through red lights and was chased by police for two miles before stopping."
     },
     {
       "id": "feed-jvroxq",
@@ -1074,16 +1114,6 @@
       "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change."
     },
     {
-      "id": "feed-23m5zk",
-      "title": "Watch: Man smashes Chinese government building with excavator",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o",
-      "publishedAt": "2026-11-10T09:37:15.000Z",
-      "category": "world",
-      "summary": "Police say they have detained a 47-year-old suspect and no one was injured in the incident."
-    },
-    {
       "id": "feed-sd7ekx",
       "title": "Holiday hunger bill to face final Stormont hurdle",
       "source": "BBC News",
@@ -1110,7 +1140,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
       "publishedAt": "2026-11-10T09:23:55.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses."
     },
     {
@@ -1174,16 +1204,6 @@
       "summary": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective disorder, or Sad, and can "
     },
     {
-      "id": "feed-1r08vkd",
-      "title": "Author Jojo Moyes among UK travellers at risk of EU ban amid digital border system glitches",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/10/jojo-moyes-uk-travellers-eu-ban-digital-border-system-ees",
-      "publishedAt": "2026-11-10T07:00:32.000Z",
-      "category": "business",
-      "summary": "Errors in entry and exit records leave some Britons wrongly flagged as having overstayed post-Brexit 90-day limit EU sues IBM and two European firms over entry/exit border system The writer Jojo Moyes is facing a two-year EU travel ban and €10,000 (£8,300) fin"
-    },
-    {
       "id": "feed-13dz2rh",
       "title": "Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen",
       "source": "The Guardian",
@@ -1214,14 +1234,24 @@
       "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change."
     },
     {
-      "id": "feed-oig5dq",
-      "title": "Patch of one of UK's rarest flowers saved from falling into the sea",
+      "id": "feed-gb0ulo",
+      "title": "To the day I die, I will regret putting a cigarette in my mouth",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm70p087gnyko",
-      "publishedAt": "2026-11-10T06:28:18.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/cke8r704e8l6o",
+      "publishedAt": "2026-11-10T06:16:50.000Z",
       "category": "uk",
-      "summary": "The tiny one-flowered wintergreens were rescued from an area of eroded coastline at Culbin Sands."
+      "summary": "Joan McConville is calling for a national screening programme in Northern Ireland, like there is in England and Wales."
+    },
+    {
+      "id": "feed-1yysnd9",
+      "title": "Divorced after five days: 'My sham husband made me believe he loved me'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34mdlrp86o",
+      "publishedAt": "2026-11-10T06:13:46.000Z",
+      "category": "uk",
+      "summary": "Jane, who met her husband on a dating app, says he dropped the bombshell news in a text message."
     },
     {
       "id": "feed-yrcmny",
@@ -1290,7 +1320,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/uk-weather-high-air-pollution-alert-issued-in-londonb-as-fog-threatens-travel-disruption-13610427",
       "publishedAt": "2026-11-10T02:48:00.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Dense fog has led to a \"high\" air pollution alert being issued in London - as forecasters warn of difficult travel conditions and transport delays across much of the UK."
     },
     {
@@ -1792,16 +1822,6 @@
       "publishedAt": "2026-11-06T10:54:06.000Z",
       "category": "science",
       "summary": "Social media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is ‘ferritin face’ real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron levels up, how we can actu"
-    },
-    {
-      "id": "feed-19tzeb7",
-      "title": "Gunman suspected of killing six people in Polish city of Krakow has died, police say",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/gunman-suspected-of-killing-six-people-in-polish-city-of-krakow-has-died-police-say-13608464",
-      "publishedAt": "2026-11-05T15:39:00.000Z",
-      "category": "world",
-      "summary": "A gunman suspected of killing six people including a British national in Poland on Saturday has died in hospital."
     },
     {
       "id": "feed-gp1nly",
