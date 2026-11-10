@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T09:41:44.360Z",
+  "updatedAt": "2026-11-10T10:41:58.937Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,20 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-1f3hx4h",
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T09:57:49.000Z",
+      "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media."
+    },
+    {
+      "id": "feed-nc373u",
+      "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+      "link": "https://www.bbc.co.uk/news/articles/cm70p050824po",
+      "source": "BBC News",
+      "publishedAt": "2026-11-10T09:57:29.000Z",
+      "summary": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit."
+    },
+    {
       "id": "feed-sd7ekx",
       "title": "Holiday hunger bill to face final Stormont hurdle",
       "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo",
       "source": "BBC News",
       "publishedAt": "2026-11-10T09:35:03.000Z",
       "summary": "The new law would would help poorer families with food costs during school holidays."
-    },
-    {
-      "id": "feed-1f3hx4h",
-      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T09:26:59.000Z",
-      "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media."
     },
     {
       "id": "feed-fmc2r4",
@@ -48,8 +56,8 @@
       "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
     },
     {
-      "id": "feed-amikkx",
-      "title": "Independent bookshop closing after rise in bills",
+      "id": "feed-ayd8nq",
+      "title": "Final chapter for bookshop after rise in bills",
       "link": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo",
       "source": "BBC News",
       "publishedAt": "2026-11-10T06:22:52.000Z",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-09T18:40:31.000Z",
       "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years."
-    },
-    {
-      "id": "feed-1re2gx5",
-      "title": "Civil servant who secretly held five jobs found guilty of fraud",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T17:17:16.000Z",
-      "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries."
     }
   ]
 }
