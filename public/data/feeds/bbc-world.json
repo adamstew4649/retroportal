@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T03:39:43.747Z",
+  "updatedAt": "2026-11-11T04:43:29.923Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-eam3u0",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T03:44:06.000Z",
+      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites."
+    },
     {
       "id": "feed-5xpb93",
       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-10T18:35:35.000Z",
       "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining."
-    },
-    {
-      "id": "feed-1fgauem",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T18:33:51.000Z",
-      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund."
     }
   ]
 }
