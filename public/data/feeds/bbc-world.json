@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T22:37:25.716Z",
+  "updatedAt": "2026-11-11T23:13:59.742Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1ni5uj6",
+      "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T23:09:07.000Z",
+      "summary": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years."
+    },
     {
       "id": "feed-bfkodv",
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-11T00:26:02.000Z",
       "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy."
-    },
-    {
-      "id": "feed-1b005mp",
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T00:19:42.000Z",
-      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again."
     }
   ]
 }

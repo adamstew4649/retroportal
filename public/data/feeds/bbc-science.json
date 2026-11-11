@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T22:37:25.717Z",
+  "updatedAt": "2026-11-11T23:13:59.742Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-16cpe5k",
+      "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+      "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T22:48:59.000Z",
+      "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, says expert."
+    },
     {
       "id": "feed-1xwehh7",
       "title": "Toby Jones stars in film about UK Mars mission",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-09T07:30:12.000Z",
       "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens."
-    },
-    {
-      "id": "feed-ga5495",
-      "title": "Print commissioned by Nasa uncovered for exhibition",
-      "link": "https://www.bbc.co.uk/news/articles/cw98zm084dr3o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-09T06:18:19.000Z",
-      "summary": "The Pop Art at Cartwright Hall exhibition tells the story of the British International Print Biennale."
     }
   ]
 }
