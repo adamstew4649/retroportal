@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T13:38:07.808Z",
+  "updatedAt": "2026-11-11T14:40:38.473Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-105d3vv",
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T14:06:27.000Z",
+      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections."
+    },
     {
       "id": "feed-1q6whrd",
       "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
@@ -48,8 +56,8 @@
       "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis."
     },
     {
-      "id": "feed-5xpb93",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "id": "feed-hz2wb8",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
       "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
       "source": "BBC News",
       "publishedAt": "2026-11-11T11:47:22.000Z",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-11T00:18:07.000Z",
       "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya."
-    },
-    {
-      "id": "feed-1e11k22",
-      "title": "Why does Australia want Brits to swap Sydney for the outback?",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T21:17:00.000Z",
-      "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions."
     }
   ]
 }
