@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T15:34:45.487Z",
+  "updatedAt": "2026-11-11T16:39:58.520Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1eoaqys",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T15:05:11.000Z",
+      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
+    },
     {
       "id": "feed-1j22p3x",
       "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
@@ -56,12 +64,12 @@
       "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded."
     },
     {
-      "id": "feed-1orh5jg",
-      "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+      "id": "feed-lbt17a",
+      "title": "Six thousand Italian schools hit by threats in suspected bomb hoax",
       "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o",
       "source": "BBC News",
       "publishedAt": "2026-11-11T12:30:29.000Z",
-      "summary": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say."
+      "summary": "More than 700 schools in Scotland and Northern Ireland also received hoax bomb threats. It is unclear whether the incidents are connected."
     },
     {
       "id": "feed-1mv9ls0",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-11T00:19:42.000Z",
       "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again."
-    },
-    {
-      "id": "feed-qk4sta",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T00:18:07.000Z",
-      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya."
     }
   ]
 }
