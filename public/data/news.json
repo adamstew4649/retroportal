@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T05:46:13.698Z",
-  "generatedAt": "2026-11-12T05:46:13.698Z",
+  "updatedAt": "2026-11-12T06:50:24.561Z",
+  "generatedAt": "2026-11-12T06:50:24.561Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,224 @@
   ],
   "articles": [
     {
+      "id": "feed-1nkwy67",
+      "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+      "publishedAt": "2026-11-12T06:43:31.000Z",
+      "category": "world",
+      "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be"
+    },
+    {
       "id": "feed-5t01ha",
       "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "publishedAt": "2026-11-12T05:43:00.000Z",
+      "publishedAt": "2026-11-12T06:36:10.000Z",
+      "category": "world",
+      "summary": "This live blog is now paused – but you can read the latest report on Nvidia and Jensen Huang’s future as CEO here Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareh"
+    },
+    {
+      "id": "feed-k3ipb3",
+      "title": "South Park takes on the expensive, confusing world of club sports – with a nod to Heated Rivalry",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/south-park-episode-5-world-of-club-sports",
+      "publishedAt": "2026-11-12T06:25:08.000Z",
       "category": "uk",
-      "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting righ"
+      "summary": "The US midterms made it into this week’s episode, which focuses on gay couple Craig and Tweek as they join a ‘pay-to-play’ sport team which promises them a better future South Park (or South America, as it’s known this season) is renowned for its turning aroun"
+    },
+    {
+      "id": "feed-11w1xwm",
+      "title": "Campaigners want more land protected from housing",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmpw48zwnevlo",
+      "publishedAt": "2026-11-12T06:24:44.000Z",
+      "category": "science",
+      "summary": "After parkland was safeguarded from development, residents want the council to change a housing plan."
+    },
+    {
+      "id": "feed-qsm1ix",
+      "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
+      "publishedAt": "2026-11-12T06:21:20.000Z",
+      "category": "uk",
+      "summary": "The meeting comes after the executive and co-founder admitted to having a romantic relationship with a woman who is alleged to be a Chinese spy Nvidia’s board of directors met on Wednesday to decide whether to oust Jensen Huang as CEO of the world’s most valua"
+    },
+    {
+      "id": "feed-4xalaz",
+      "title": "Are branded cold and flu tablets REALLY worth the extra money?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cw4gnxm0y43po",
+      "publishedAt": "2026-11-12T06:17:06.000Z",
+      "category": "business",
+      "summary": "Are branded cold and flu tablets REALLY worth the extra money?"
+    },
+    {
+      "id": "feed-32y4b7",
+      "title": "Gas bills to rise as Middle East turmoil persists",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go",
+      "publishedAt": "2026-11-12T06:15:36.000Z",
+      "category": "business",
+      "summary": "Gas bills will increase by about 5% from 1 December, Island Energy announces."
+    },
+    {
+      "id": "feed-17glr8x",
+      "title": "TV tonight: Philomena Cunk is back – and taking on Hollywood",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/tv-tonight-philomena-cunk-is-back-and-taking-on-hollywood",
+      "publishedAt": "2026-11-12T06:15:10.000Z",
+      "category": "uk",
+      "summary": "More hilarious misinformation from Diane Morgan’s comedy creation. Plus: the beefy history between rockstar chefs. Here’s what to watch this evening 10pm, BBC Two Diane Morgan’s stealthy ascent to national treasure status has been supercharged by her brilliant"
+    },
+    {
+      "id": "feed-zvk574",
+      "title": "Art trail celebrates arrival of black bears at zoo",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c39wzv2vqgxvo",
+      "publishedAt": "2026-11-12T06:13:52.000Z",
+      "category": "science",
+      "summary": "Jersey Zoo says the art trail will celebrate the world's \"largest inhabitants to its smallest."
+    },
+    {
+      "id": "feed-yfwyzx",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+      "publishedAt": "2026-11-12T06:12:05.000Z",
+      "category": "world",
+      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says."
+    },
+    {
+      "id": "feed-mo2a1d",
+      "title": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
+      "publishedAt": "2026-11-12T06:09:21.000Z",
+      "category": "world",
+      "summary": "‘You just don’t mess or play with a 400-tonne train’, Sydney Trains says as 17-year-old suffers multiple injuries to head, chest and pelvis Get our breaking news email , free app or daily news podcast A 17-year-old boy is in a critical condition after falling "
+    },
+    {
+      "id": "feed-1lhthrp",
+      "title": "Nurdle impact to be researched for a year",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo",
+      "publishedAt": "2026-11-12T06:06:41.000Z",
+      "category": "science",
+      "summary": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July."
+    },
+    {
+      "id": "feed-16cpe5k",
+      "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro",
+      "publishedAt": "2026-11-12T06:02:55.000Z",
+      "category": "science",
+      "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says."
+    },
+    {
+      "id": "feed-1lgh59z",
+      "title": "Afghan women told to ‘go home’ after de facto ban on male doctors treating them",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/global-development/2026/nov/12/taliban-ban-male-doctors-treating-women-afghanistan",
+      "publishedAt": "2026-11-12T06:00:12.000Z",
+      "category": "uk",
+      "summary": "The unofficial Taliban restriction has forced women into desperate and absurd situations as they seek medical help, according to interviews given to the Guardian and Zan Times Farida*, 37, woke up in excruciating pain one night with a toothache. Over the next "
+    },
+    {
+      "id": "feed-1f8oie8",
+      "title": "‘You can almost smell the sweat’: striptease artists and steel pans light up this week’s free art shows",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/12/you-can-almost-smell-the-sweat-striptease-artists-and-steel-pans-light-up-this-weeks-free-art-shows",
+      "publishedAt": "2026-11-12T06:00:12.000Z",
+      "category": "uk",
+      "summary": "Four free exhibitions take you from a luxury white enclave in Rio de Janeiro to exhausted erotic dancers touring the US and a culture-changing London address ★★★★☆ Continue reading..."
+    },
+    {
+      "id": "feed-m8vogs",
+      "title": "‘I trusted a lot of people, and the wrong people, and I shouldn’t have’: Charlotte Kirk on navigating Hollywood",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/nov/12/charlotte-kirk-on-navigating-hollywood",
+      "publishedAt": "2026-11-12T06:00:11.000Z",
+      "category": "uk",
+      "summary": "The British actor took up writing and producing to have control over what she stars in after a scandal involving some of the most powerful men in the film business After a recent run as an assassin, a serial killer and a gangster, Charlotte Kirk was looking fo"
+    },
+    {
+      "id": "feed-1vmq6bz",
+      "title": "‘All-out war’: UK sports fear an uncertain future after new body created",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/12/uk-sports-fear-future-new-body-sport-org",
+      "publishedAt": "2026-11-12T06:00:11.000Z",
+      "category": "uk",
+      "summary": "Creation of Sport Org sparks disquiet at governing bodies Smaller sports concerned they might be taken over The leaders of Britain’s Olympic and Paralympic sports have been responsible for some of the country’s greatest successes over the past two decades. But"
+    },
+    {
+      "id": "feed-1h7hsez",
+      "title": "Rachel Roddy’s recipe for torta tenerina, or rich chocolate cake | A kitchen in Rome",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/food/2026/nov/12/torta-tenerina-rich-chocolate-cake-rachel-roddy-recipe",
+      "publishedAt": "2026-11-12T06:00:11.000Z",
+      "category": "uk",
+      "summary": "This soft-but-dense, velvety delight is cake at its most pudding-like. It’s at its prime still warm from the oven, but gets gloriously fudgy after a night in the fridge The note by Elizabeth David is helpful here: “This cake can also be eaten like a pudding” f"
+    },
+    {
+      "id": "feed-77cgam",
+      "title": "Thursday news quiz: Booker prize winners, GTA sinners and free dinners",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/12/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-272",
+      "publishedAt": "2026-11-12T06:00:10.000Z",
+      "category": "uk",
+      "summary": "Test yourself on topical news trivia, pop culture and general knowledge every Thursday. How will you fare? The recent US elections reminded the Thursday quiz that we have just passed the sixth anniversary of Rudy Giuliani’s Four Seasons Total Landscaping press"
+    },
+    {
+      "id": "feed-1m82kvk",
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
+      "publishedAt": "2026-11-12T05:59:18.000Z",
+      "category": "world",
+      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
+    },
+    {
+      "id": "feed-1hah9xf",
+      "title": "Beau Lamarre-Condon says he was diagnosed with cancer by naturopath but doesn’t recall which one, trial hears",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
+      "publishedAt": "2026-11-12T05:38:27.000Z",
+      "category": "world",
+      "summary": "Former police officer questioned about Instagram message he asked friend to send to Jessie Baird referencing ‘cancerous tumour’ Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has claimed in court that he was diagnosed with can"
+    },
+    {
+      "id": "feed-1gl4k85",
+      "title": "Country diary: An ancient bridge, laid low by one storm after another | Sara Hudston",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/12/country-diary-an-ancient-bridge-laid-low-by-one-storm-after-another",
+      "publishedAt": "2026-11-12T05:30:09.000Z",
+      "category": "uk",
+      "summary": "Exmoor, Somerset: Tarr Steps is no stranger to flooding, but the damage is becoming more and more frequent Fog cloaked the combe as we walked down to the River Barle, and for the first time in months I wished I were wearing gloves. A red kite wheeled overhead,"
     },
     {
       "id": "feed-109bvt6",
@@ -134,14 +344,14 @@
       "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon."
     },
     {
-      "id": "feed-yfwyzx",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-      "publishedAt": "2026-11-12T05:06:27.000Z",
-      "category": "world",
-      "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says."
+      "id": "feed-1ju6u3",
+      "title": "Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/erdogan-release-turkey-brightest-opposition-leader-selahattin-demirtas",
+      "publishedAt": "2026-11-12T05:00:11.000Z",
+      "category": "uk",
+      "summary": "Selahattin Demirtaş lit up the Turkish left in 2014, but was imprisoned for ‘terrorist propaganda’. His freedom would mark a new political era A decade and a half ago, a promising figure emerged on Turkey’s political scene: Selahattin Demirtaş. A tall, talente"
     },
     {
       "id": "feed-19sxpnd",
@@ -154,14 +364,14 @@
       "summary": "No one wants to slog away in the kitchen while everyone else gets festive. Thanks to these hacks and recipes from professionals, you won’t have to When it comes to cooking during the festive season, time is tight, fridge space is at a premium and the last thin"
     },
     {
-      "id": "feed-1ju6u3",
-      "title": "Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç",
+      "id": "feed-1f7vj33",
+      "title": "‘We can’t be at the bottom indefinitely’: Can Britain’s most maligned service station be turned around?",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/erdogan-release-turkey-brightest-opposition-leader-selahattin-demirtas",
-      "publishedAt": "2026-11-12T05:00:11.000Z",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/12/motorway-services",
+      "publishedAt": "2026-11-12T05:00:10.000Z",
       "category": "uk",
-      "summary": "Selahattin Demirtaş lit up the Turkish left in 2014, but was imprisoned for ‘terrorist propaganda’. His freedom would mark a new political era A decade and a half ago, a promising figure emerged on Turkey’s political scene: Selahattin Demirtaş. A tall, talente"
+      "summary": "In 2022 and 2023, Hartshead Moor East, near Leeds, was voted the worst in Great Britain. Ever since, staff have been on a mission to redeem its reputation The crime issue of the Long Read magazine is out now. Click here to order In October 2023, at a service s"
     },
     {
       "id": "feed-19cryr5",
@@ -172,16 +382,6 @@
       "publishedAt": "2026-11-12T05:00:10.000Z",
       "category": "uk",
       "summary": "Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead … the film-makers behind the remake of the dial-up classic will be facing an embarrassment of pitches Assuming you have already heard about the You’ve Got Mail reboot, you are probably"
-    },
-    {
-      "id": "feed-1f7vj33",
-      "title": "‘We can’t be at the bottom indefinitely’: Can Britain’s most maligned service station be turned around?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/12/motorway-services",
-      "publishedAt": "2026-11-12T05:00:10.000Z",
-      "category": "uk",
-      "summary": "In 2022 and 2023, Hartshead Moor East, near Leeds, was voted the worst in Great Britain. Ever since, staff have been on a mission to redeem its reputation The crime issue of the Long Read magazine is out now. Click here to order In October 2023, at a service s"
     },
     {
       "id": "feed-1g2ioka",
@@ -274,16 +474,6 @@
       "summary": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of Destin The historic SS United States has reached the end of its journey at sea, sinking Wednesday off the coast of Destin, Florida, where it will begin a "
     },
     {
-      "id": "feed-1xmc7nm",
-      "title": "The (alleged) spy who loved me: the Nvidia scandal - podcast",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/12/the-alleged-spy-who-loved-me-the-nvidia-scandal-podcast",
-      "publishedAt": "2026-11-12T03:00:07.000Z",
-      "category": "uk",
-      "summary": "Global technology editor Dan Milmo on the scandal rocking the world of AI: US intelligence believes the lover of Nvidia’s chief executive, Jensen Huang, is a Chinese spy Nvidia is one of the biggest companies in the world. Its chief executive, Jensen Huang, is"
-    },
-    {
       "id": "feed-gf54db",
       "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
       "source": "The Guardian",
@@ -292,26 +482,6 @@
       "publishedAt": "2026-11-12T03:00:07.000Z",
       "category": "uk",
       "summary": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife The vast, dark slicks in the strait of Hormuz are visible from space. Throughout October, oil tankers were struck by missiles or sea "
-    },
-    {
-      "id": "feed-1k9xlxv",
-      "title": "World heading for ‘irrevocable overshoot’ of global temperature thresholds, analysis warns",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/world-heading-for-irrevocable-overshoot-of-global-temperature-thresholds-analysis-warns",
-      "publishedAt": "2026-11-12T03:00:06.000Z",
-      "category": "uk",
-      "summary": "Failure to cut emissions will ‘consign humanity to disasters they are unable to adapt to’, report says The world is heading for an “irrecoverable overshoot” of global temperature thresholds that will plunge billions of people into disastrous climate impacts be"
-    },
-    {
-      "id": "feed-tfp3do",
-      "title": "Beau Lamarre-Condon admits throwing Jesse Baird’s phone off a bridge after alleged murders, trial hears",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
-      "publishedAt": "2026-11-12T02:46:16.000Z",
-      "category": "world",
-      "summary": "Court hears former police officer agrees he was trying to destroy evidence that might incriminate him Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has admitted he threw Jesse Baird’s phone off a bridge to destroy evidence af"
     },
     {
       "id": "feed-18z08c3",
@@ -340,7 +510,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
       "publishedAt": "2026-11-12T02:30:28.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region Get our breaking news email , free app or daily news podcast A teenager has shared an emotional reunion with his mother after being found alive followin"
     },
     {
@@ -350,7 +520,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
       "publishedAt": "2026-11-12T01:51:00.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Four critical in hospital as firefighters dig through rubble in Flatbush after building next to construction site collapses Firefighters dug through the rubble of a three-story building in Brooklyn on Wednesday after it collapsed at the edge of a construction "
     },
     {
@@ -361,7 +531,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
       "publishedAt": "2026-11-12T01:27:01.000Z",
       "category": "world",
-      "summary": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email , free app or daily news podcast New South Wales police have entered their second day searching for remains after"
+      "summary": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email , free app or daily news podcast New South Wales police have entered their second day searching for human remains"
     },
     {
       "id": "feed-1ebpfpo",
@@ -444,16 +614,6 @@
       "summary": "Ahead of a week which will focus minds on the UK's relationship with the bloc, the prime minister's stance on Europe is causing MPs to think about their leaders' individual strategy."
     },
     {
-      "id": "feed-1gehbrv",
-      "title": "Svitolina stays in WTA Finals hunt after remarkable fightback sees off Muchova",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/11/elina-svitolina-karolina-muchova-wta-finals-tennis",
-      "publishedAt": "2026-11-12T00:23:53.000Z",
-      "category": "uk",
-      "summary": "Ukrainian wins 3-6, 6-2, 6-2 after eight-minute timeout Andreeva beats Sabalenka 6-4, 6-0 to top Group B Elina Svitolina staged a remarkable comeback to beat Karolina Muchova and remain in the hunt for the WTA Finals title. The Ukrainian looked to be on her wa"
-    },
-    {
       "id": "feed-tmvzn5",
       "title": "Sunbed firms must not downplay cancer risk, says watchdog",
       "source": "BBC News",
@@ -484,26 +644,6 @@
       "summary": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen."
     },
     {
-      "id": "feed-pksre9",
-      "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
-      "publishedAt": "2026-11-12T00:11:12.000Z",
-      "category": "uk",
-      "summary": "Colom takes victory by razor-thin margin in state that has not elected a Democrat to the Senate since 1982 Democrat Scott Colom defeated Cindy Hyde-Smith, the incumbent Republican senator, to become the first Black senator in Mississippi elected since Reconstr"
-    },
-    {
-      "id": "feed-t70mow",
-      "title": "The bar singer, the K-pop veteran and the ‘railway track diva’: meet three Eurovision Asia 2026 hopefuls",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/meet-three-eurovision-asia-2026-hopefuls",
-      "publishedAt": "2026-11-12T00:09:55.000Z",
-      "category": "uk",
-      "summary": "For some, it’s their first big break, for others it’s a chance to secure their fame. But for all 11 acts, it’s an opportunity to be Asia’s first ever winner Eurovision is heading to Asia: here’s what to expect Next week the Eurovision juggernaut beloved by mil"
-    },
-    {
       "id": "feed-kwwxyb",
       "title": "From Paris to DC - why offices are being turned into apartments",
       "source": "BBC News",
@@ -514,34 +654,24 @@
       "summary": "Office buildings with low occupancy rates are being transformed into flats."
     },
     {
-      "id": "feed-1h3b64y",
-      "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
-      "publishedAt": "2026-11-12T00:01:03.000Z",
-      "category": "uk",
-      "summary": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checks Police officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, a"
-    },
-    {
       "id": "feed-1tj26ip",
       "title": "Bronze leg found in Scottish bog sheds new light on Roman occupation",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit",
       "publishedAt": "2026-11-12T00:01:03.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Once thought to have been looted by Scottish tribes, the gilded limb is the centrepiece of a new exhibition on Roman Scotland in Edinburgh A large bronze leg found in a bog in rural Scotland more than 200 years ago and then hidden away in a duke’s storeroom is"
     },
     {
-      "id": "feed-te7hv5",
-      "title": "Hacker claims to have sold VCE exam papers to hundreds of students after government website hack",
+      "id": "feed-1h3b64y",
+      "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/12/vce-exams-hack-year-12-papers-vcaa-victorian-curriculum-and-assessment-authority",
-      "publishedAt": "2026-11-11T23:28:17.000Z",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+      "publishedAt": "2026-11-12T00:01:03.000Z",
       "category": "world",
-      "summary": "With year 12 exams under way, VCAA says there is no evidence any have leaked and hacker is attempting to exploit ‘anxious students’ Get our breaking news email , free app or daily news podcast The Victorian Curriculum and Assessment Authority’s website has bee"
+      "summary": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checks Police officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, a"
     },
     {
       "id": "feed-15hy9qy",
@@ -574,16 +704,6 @@
       "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States"
     },
     {
-      "id": "feed-16cpe5k",
-      "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro",
-      "publishedAt": "2026-11-11T22:48:59.000Z",
-      "category": "science",
-      "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, says expert."
-    },
-    {
       "id": "feed-1nv92w",
       "title": "UK appoints world’s first special representative for climate security",
       "source": "The Guardian",
@@ -602,16 +722,6 @@
       "publishedAt": "2026-11-11T22:07:37.000Z",
       "category": "world",
       "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
-    },
-    {
-      "id": "feed-prd4ay",
-      "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-      "publishedAt": "2026-11-11T21:59:07.000Z",
-      "category": "business",
-      "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang"
     },
     {
       "id": "feed-15gjd6x",
@@ -692,16 +802,6 @@
       "publishedAt": "2026-11-11T19:03:40.000Z",
       "category": "uk",
       "summary": "Anthony Williams denies trying to kill 10 people on board a train which made an unscheduled stop."
-    },
-    {
-      "id": "feed-xv7n9n",
-      "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
-      "publishedAt": "2026-11-11T19:00:33.000Z",
-      "category": "world",
-      "summary": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina , the country’s security ministry confirme"
     },
     {
       "id": "feed-1n75mwu",
@@ -864,8 +964,8 @@
       "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns."
     },
     {
-      "id": "feed-1qz7g8a",
-      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "id": "feed-13akj7n",
+      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
@@ -882,16 +982,6 @@
       "publishedAt": "2026-11-11T16:26:00.000Z",
       "category": "uk",
       "summary": "A lack of evidence means it is not possible to prove that a defendant is guilty of abusing a woman advertised for sex by her husband, his lawyer has told a court."
-    },
-    {
-      "id": "feed-1bvt2no",
-      "title": "British soldier charged with rape of woman in Cyprus",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/british-soldier-charged-with-rape-of-woman-in-cyprus-13611160",
-      "publishedAt": "2026-11-11T16:16:00.000Z",
-      "category": "uk",
-      "summary": "A British soldier has been charged with the rape of a woman serving with UK forces in Cyprus."
     },
     {
       "id": "feed-im14do",
@@ -1044,16 +1134,6 @@
       "summary": "Researchers discover a potential diagnostic breakthrough for a disease often ⁠discovered after it has already spread A molecular signal in the blood helps identify microscopic changes that precede development of ovarian cancer, researchers have found, ⁠a poten"
     },
     {
-      "id": "feed-1x9xh1a",
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o",
-      "publishedAt": "2026-11-11T12:53:11.000Z",
-      "category": "world",
-      "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded."
-    },
-    {
       "id": "feed-rl5152",
       "title": "From blood group ID to cycle racks: I asked for little ways to fix broken Britain and the public’s ideas give me hope | Martin Lewis",
       "source": "The Guardian",
@@ -1154,6 +1234,16 @@
       "summary": "Tracking down the men who have made serious money from internet porn."
     },
     {
+      "id": "feed-b4ctay",
+      "title": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
+      "publishedAt": "2026-11-11T09:46:18.000Z",
+      "category": "business",
+      "summary": "Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfield Comment: KKR and RWE are rich firms. Why do they need a UK state loan for their windfarms? Andy Burnham has hailed a record investment in offshore "
+    },
+    {
       "id": "feed-2ov7v5",
       "title": "Germany reportedly bans Chinese drones at military bases over security concerns",
       "source": "The Guardian",
@@ -1244,26 +1334,6 @@
       "summary": "Office for Students says institutions in England should return to traditional exams and in-person presentations Universities should go back to traditional exams and in-person presentations to grade students after lecturers complained that AI has made it “close"
     },
     {
-      "id": "feed-baxj2i",
-      "title": "Back of the net! Scotland’s historic salmon fishers – in pictures",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/11/scotland-salmon-fishers-in-pictures-colin-mcpherson",
-      "publishedAt": "2026-11-11T07:00:33.000Z",
-      "category": "business",
-      "summary": "Colin McPherson has spent three decades working on Catching the Tide, his moving portrayal of fishers and an old way of life that is dying out Continue reading..."
-    },
-    {
-      "id": "feed-1vii6pk",
-      "title": "For Trump, Musk and Farage, the message is the same: voters don’t want to be hijacked by billionaires | Rafael Behr",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-elon-musk-nigel-farage-voters-billionaires-midterms",
-      "publishedAt": "2026-11-11T07:00:32.000Z",
-      "category": "business",
-      "summary": "A lesson from the US midterms is that electorates are repelled by the arrogant mega-rich buying democracy. This is a fight Labour can afford to pick For most people, $224m (£168m) is a lot of money, especially if you spend it and get nothing in return. But Elo"
-    },
-    {
       "id": "feed-3h0spy",
       "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
       "source": "BBC News",
@@ -1272,16 +1342,6 @@
       "publishedAt": "2026-11-11T06:37:12.000Z",
       "category": "science",
       "summary": "Hubs offering training in conservation work are to be set up in Torridon, Morvern and mid-Argyll."
-    },
-    {
-      "id": "feed-1nc9wcr",
-      "title": "Artist creates world's biggest soil painting",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wvvp5d1qzo",
-      "publishedAt": "2026-11-11T06:06:21.000Z",
-      "category": "science",
-      "summary": "Phil Lambert used four types of soil, including some collected from his mother, to create his work."
     },
     {
       "id": "feed-y7g1uu",
@@ -1372,16 +1432,6 @@
       "publishedAt": "2026-11-10T17:30:15.000Z",
       "category": "technology",
       "summary": "Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources say A substantial expansion of the social media ban for under-16s could inadvertently lead to a ban on YouTube Kids and other sites that had been th"
-    },
-    {
-      "id": "feed-1f3hx4h",
-      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko",
-      "publishedAt": "2026-11-10T17:04:55.000Z",
-      "category": "business",
-      "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media."
     },
     {
       "id": "feed-136uxzc",
@@ -1574,16 +1624,6 @@
       "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
     },
     {
-      "id": "feed-1d7nmrn",
-      "title": "Locals launch campaign to buy ancient wood",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c3rryynzqxwno",
-      "publishedAt": "2026-11-10T08:13:42.000Z",
-      "category": "science",
-      "summary": "Locals have a year to raise the money needed to buy Ruscombe Wood near Stroud."
-    },
-    {
       "id": "feed-1ty9j6b",
       "title": "Winter depression is real. Here’s what can help - podcast",
       "source": "The Guardian",
@@ -1714,16 +1754,6 @@
       "summary": "Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decision For more than 30 years, Jensen Huang has been the seemingly unshakable public face of Nvidia. He co-founded the com"
     },
     {
-      "id": "feed-1a1h8yl",
-      "title": "The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
-      "publishedAt": "2026-11-09T20:01:05.000Z",
-      "category": "technology",
-      "summary": "Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is under intense scrutiny A hand on the back, a kiss on the cheek; the footage of Alice Huang’s interaction with Jensen Huang in a Taipei ve"
-    },
-    {
       "id": "feed-1rrxjt3",
       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "source": "BBC News",
@@ -1782,16 +1812,6 @@
       "publishedAt": "2026-11-09T14:50:35.000Z",
       "category": "technology",
       "summary": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say."
-    },
-    {
-      "id": "feed-17gbvka",
-      "title": "Scientists predict 2026 hottest year on record as climate talks begin",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo",
-      "publishedAt": "2026-11-09T07:30:12.000Z",
-      "category": "science",
-      "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens."
     },
     {
       "id": "feed-yoz49t",
@@ -1882,26 +1902,6 @@
       "publishedAt": "2026-11-08T00:37:45.000Z",
       "category": "technology",
       "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict."
-    },
-    {
-      "id": "feed-10a2v80",
-      "title": "Steve Jones on dangerous tech innovations – cartoon",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire",
-      "publishedAt": "2026-11-07T11:00:09.000Z",
-      "category": "science",
-      "summary": "Continue reading..."
-    },
-    {
-      "id": "feed-16pav8t",
-      "title": "Anti-data centre groups set to march in Edinburgh as part of Europe-wide protest",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/dozens-of-anti-data-centre-groups-set-to-march-in-edinburgh-as-part-of-europe-wide-protest-13609164",
-      "publishedAt": "2026-11-07T08:19:00.000Z",
-      "category": "technology",
-      "summary": "A coalition of 75 organisations opposed to plans for AI data centres in Scotland is set to march in Edinburgh this month."
     }
   ]
 }
