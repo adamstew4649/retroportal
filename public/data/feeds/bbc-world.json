@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T11:23:23.077Z",
+  "updatedAt": "2026-11-12T12:17:31.041Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,11 +8,27 @@
   },
   "articles": [
     {
-      "id": "feed-mkgqd8",
-      "title": "New York building collapse kills at least two, officials say",
+      "id": "feed-3n40gw",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T12:14:51.000Z",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
+    },
+    {
+      "id": "feed-1rlxp86",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T12:03:47.000Z",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
+    },
+    {
+      "id": "feed-xlx4hi",
+      "title": "New York building collapse kills at least four people",
       "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
       "source": "BBC News",
-      "publishedAt": "2026-11-12T10:40:49.000Z",
+      "publishedAt": "2026-11-12T11:48:14.000Z",
       "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon."
     },
     {
@@ -24,28 +40,12 @@
       "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean."
     },
     {
-      "id": "feed-1ncxnd9",
-      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T10:08:38.000Z",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
-    },
-    {
       "id": "feed-t8ezgv",
       "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
       "source": "BBC News",
       "publishedAt": "2026-11-12T10:02:32.000Z",
       "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
-    },
-    {
-      "id": "feed-1rlxp86",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T09:43:11.000Z",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
     },
     {
       "id": "feed-13akj7n",
