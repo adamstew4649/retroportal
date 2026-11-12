@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T10:25:27.508Z",
+  "updatedAt": "2026-11-12T11:23:23.078Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,11 +8,19 @@
   },
   "articles": [
     {
+      "id": "feed-1r9qrkd",
+      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T11:21:25.000Z",
+      "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors."
+    },
+    {
       "id": "feed-17z0tb0",
       "title": "UK economy grows at fastest rate for more than two years",
       "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
       "source": "BBC News",
-      "publishedAt": "2026-11-12T09:43:03.000Z",
+      "publishedAt": "2026-11-12T11:20:25.000Z",
       "summary": "The UK economy grew by 0.7% in the three months to September, according to official figures."
     },
     {
@@ -20,7 +28,7 @@
       "title": "Some under-25s should get fewer benefits, Milburn review to say",
       "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
       "source": "BBC News",
-      "publishedAt": "2026-11-12T08:59:08.000Z",
+      "publishedAt": "2026-11-12T10:49:27.000Z",
       "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
     },
     {
@@ -85,7 +93,7 @@
       "link": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo",
       "source": "BBC News",
       "publishedAt": "2026-11-11T17:55:43.000Z",
-      "summary": "Exclusive interview with BBC Radio Shropshire, Brad Friedel on Shrewsbury Town takeover."
+      "summary": "New Shrewsbury Town sporting director Brad Friedel talks exclusively to BBC Radio Shropshire about the club's takeover."
     },
     {
       "id": "feed-1pof5tb",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-10T22:52:15.000Z",
       "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
-    },
-    {
-      "id": "feed-4evpo5",
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T17:56:12.000Z",
-      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected."
     }
   ]
 }
