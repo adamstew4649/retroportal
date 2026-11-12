@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T03:38:35.597Z",
-  "generatedAt": "2026-11-12T03:38:35.597Z",
+  "updatedAt": "2026-11-12T04:43:49.166Z",
+  "generatedAt": "2026-11-12T04:43:49.166Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,94 @@
   ],
   "articles": [
     {
-      "id": "feed-1kr4tjr",
-      "title": "Scott Colom claims victory as he addresses supporters in Mississippi following his historic Senate victory – live",
+      "id": "feed-dkrx1u",
+      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+      "publishedAt": "2026-11-12T04:18:33.000Z",
+      "category": "technology",
+      "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair."
+    },
+    {
+      "id": "feed-thjpem",
+      "title": "Famed ship SS United States sunk off coast of Florida",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
+      "publishedAt": "2026-11-12T04:03:13.000Z",
+      "category": "world",
+      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef."
+    },
+    {
+      "id": "feed-5t01ha",
+      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "publishedAt": "2026-11-12T04:02:56.000Z",
+      "category": "uk",
+      "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Jensen Huang has built up Nvidia to be one of the world’s biggest and most important companie"
+    },
+    {
+      "id": "feed-1fx9sv6",
+      "title": "Government could force media industry to improve safeguards after Walliams allegations",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o",
+      "publishedAt": "2026-11-12T04:01:50.000Z",
+      "category": "uk",
+      "summary": "Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands."
+    },
+    {
+      "id": "feed-2f7wtq",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+      "publishedAt": "2026-11-12T04:00:30.000Z",
+      "category": "world",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
+    },
+    {
+      "id": "feed-fl85pb",
+      "title": "Scott Colom claims victory as he addresses supporters in Mississippi following his historic Senate victory – as it happened",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-      "publishedAt": "2026-11-12T03:27:53.000Z",
-      "category": "uk",
+      "publishedAt": "2026-11-12T03:46:55.000Z",
+      "category": "world",
       "summary": "Colom beat Republican Cindy Hyde-Smith after race was called eight days after midterm election day Democrat Scott Colom wins race for US Senate in Mississippi How Colom won deep-red Mississippi with little help from Democrats Sign up for the US Breaking News e"
+    },
+    {
+      "id": "feed-1d3d4m3",
+      "title": "‘He’s the hottest thing right now’: how a $1 scarf seller became Seoul’s biggest attraction",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/12/how-namdaemun-scarf-man-became-seouls-biggest-attraction",
+      "publishedAt": "2026-11-12T03:33:38.000Z",
+      "category": "uk",
+      "summary": "Seoul’s ‘scarf uncle’ has become a South Korean sensation for a sales technique that consists of talking customers out of purchases By mid-morning the main alley of Namdaemun market in Seoul is ringed by private security guards and police, and the queue – penn"
+    },
+    {
+      "id": "feed-57hyow",
+      "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+      "publishedAt": "2026-11-12T03:32:54.000Z",
+      "category": "world",
+      "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says."
+    },
+    {
+      "id": "feed-a6kst1",
+      "title": "Bus driver shot dead was 'not the intended target,' police say",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/bus-driver-shot-dead-was-not-the-intended-target-police-say-13610991",
+      "publishedAt": "2026-11-12T03:26:00.000Z",
+      "category": "uk",
+      "summary": "Police believe a bus driver who was shot dead in south London was not the intended target - and was in the wrong place at the wrong time."
     },
     {
       "id": "feed-1tbzab3",
@@ -154,16 +234,6 @@
       "summary": "Failure to cut emissions will ‘consign humanity to disasters they are unable to adapt to’, report says The world is heading for an “irrecoverable overshoot” of global temperature thresholds that will plunge billions of people into disastrous climate impacts be"
     },
     {
-      "id": "feed-5t01ha",
-      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "publishedAt": "2026-11-12T02:58:16.000Z",
-      "category": "uk",
-      "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Donald Trump said on Monday he was “amazed” after the revelations concerning Jensen Huang – o"
-    },
-    {
       "id": "feed-tfp3do",
       "title": "Beau Lamarre-Condon admits throwing Jesse Baird’s phone off a bridge after alleged murders, trial hears",
       "source": "The Guardian",
@@ -184,44 +254,24 @@
       "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\"."
     },
     {
-      "id": "feed-qj01sf",
-      "title": "New York building collapse kills one person and injures 12",
+      "id": "feed-1jr1mvu",
+      "title": "Survivor pulled from rubble of deadly building collapse in New York",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go",
       "publishedAt": "2026-11-12T02:33:12.000Z",
       "category": "world",
-      "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn."
+      "summary": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn."
     },
     {
-      "id": "feed-1ywjqa5",
-      "title": "Australian teen who went missing in bushland wearing only shorts and boots found alive after six days",
+      "id": "feed-pewxzz",
+      "title": "‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
       "publishedAt": "2026-11-12T02:30:28.000Z",
-      "category": "world",
-      "summary": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region Get our breaking news email , free app or daily news podcast A teenage boy has been found alive after disappearing in dense bushland wearing only shorts"
-    },
-    {
-      "id": "feed-2f7wtq",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
-      "publishedAt": "2026-11-12T02:09:08.000Z",
-      "category": "world",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
-    },
-    {
-      "id": "feed-g3q8ar",
-      "title": "Ukraine war briefing: Zelenskyy sees ‘window of opportunity’ for peace as US envoys to meet Putin",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin",
-      "publishedAt": "2026-11-12T01:58:18.000Z",
       "category": "uk",
-      "summary": "Ukrainian president says he hopes Steve Witkoff and Jared Kushner get ‘specifics’ from Moscow meeting after trilateral talks in Abu Dhabi. What we know on day 1,723 Volodymyr Zelenskyy said there could be a chance to reach a breakthrough this year in negotiati"
+      "summary": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region Get our breaking news email , free app or daily news podcast A teenager has shared an emotional reunion with his mother after being found alive followin"
     },
     {
       "id": "feed-1i21qai",
@@ -230,7 +280,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
       "publishedAt": "2026-11-12T01:51:00.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Four critical in hospital as firefighters dig through rubble in Flatbush after building next to construction site collapses Firefighters dug through the rubble of a three-story building in Brooklyn on Wednesday after it collapsed at the edge of a construction "
     },
     {
@@ -251,7 +301,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
       "publishedAt": "2026-11-12T01:27:01.000Z",
       "category": "world",
-      "summary": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email , free app or daily news podcast New South Wales police have launched a homicide investigation after a human tors"
+      "summary": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email , free app or daily news podcast New South Wales police have entered their second day searching for remains after"
     },
     {
       "id": "feed-1ebpfpo",
@@ -280,7 +330,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
       "publishedAt": "2026-11-12T01:02:01.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Exclusive: Former barrister who helped legally establish that secondhand smoke causes lung cancer argues states could seek up to $50bn in compensation Get our breaking news email , free app or daily news podcast Australian state governments could sue tobacco c"
     },
     {
@@ -390,7 +440,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
       "publishedAt": "2026-11-12T00:11:12.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Colom takes victory by razor-thin margin in state that has not elected a Democrat to the Senate since 1982 Democrat Scott Colom defeated Cindy Hyde-Smith, the incumbent Republican senator, to become the first Black senator in Mississippi elected since Reconstr"
     },
     {
@@ -444,8 +494,8 @@
       "summary": "With year 12 exams under way, VCAA says there is no evidence any have leaked and hacker is attempting to exploit ‘anxious students’ Get our breaking news email , free app or daily news podcast The Victorian Curriculum and Assessment Authority’s website has bee"
     },
     {
-      "id": "feed-1uk9yia",
-      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "id": "feed-15hy9qy",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
@@ -540,7 +590,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
       "publishedAt": "2026-11-11T21:59:07.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang"
     },
     {
@@ -572,16 +622,6 @@
       "publishedAt": "2026-11-11T21:19:00.000Z",
       "category": "uk",
       "summary": "An Islamic centre that was given an official warning for hosting \"inflammatory, divisive\" sermons by the charities regulator is seeking legal advice."
-    },
-    {
-      "id": "feed-1hh134k",
-      "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o",
-      "publishedAt": "2026-11-11T20:40:47.000Z",
-      "category": "uk",
-      "summary": "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago."
     },
     {
       "id": "feed-18d7smq",
@@ -652,16 +692,6 @@
       "publishedAt": "2026-11-11T18:53:57.000Z",
       "category": "uk",
       "summary": "The man, who is understood to be James Thomas Campbell from Prestwick, died when a lone gunman opened fire in central Krakow on Saturday."
-    },
-    {
-      "id": "feed-1bwcodk",
-      "title": "Famed ship SS United States to be sunk off coast of Florida",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
-      "publishedAt": "2026-11-11T18:42:27.000Z",
-      "category": "world",
-      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef."
     },
     {
       "id": "feed-10p1i4o",
@@ -1034,16 +1064,6 @@
       "summary": "Industry experts pick out tiny turntable as one of their ‘15 hottest toys’ for the festive season A record player so small it belongs at a party in a Barbie Dreamhouse is one of this year’s must-have Christmas gifts as the vinyl revival takes an unexpected tur"
     },
     {
-      "id": "feed-1mv9ls0",
-      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo",
-      "publishedAt": "2026-11-11T12:14:12.000Z",
-      "category": "world",
-      "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis."
-    },
-    {
       "id": "feed-2zpfep",
       "title": "‘I’d steal 10-15 times a day’: ex-offenders on the addictions driving prolific shoplifting",
       "source": "The Guardian",
@@ -1174,16 +1194,6 @@
       "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity."
     },
     {
-      "id": "feed-1r9cxkn",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-      "publishedAt": "2026-11-11T07:44:24.000Z",
-      "category": "technology",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal."
-    },
-    {
       "id": "feed-18df1os",
       "title": "Aldi cuts hundreds of UK head office roles as part of global cost trimming",
       "source": "The Guardian",
@@ -1262,16 +1272,6 @@
       "publishedAt": "2026-11-11T03:04:00.000Z",
       "category": "technology",
       "summary": "Nvidia's market value has plummeted by about $430bn (£322bn) in two days after its CEO, Jensen Huang, admitted to having an affair with a woman alleged to be a Chinese spy."
-    },
-    {
-      "id": "feed-7vo84v",
-      "title": "US accuses three men of 'campaign of terror' against Jewish targets and plot against RAF Fairford",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/us-charges-three-men-allegedly-linked-to-raf-fairford-incident-13610779",
-      "publishedAt": "2026-11-11T02:45:00.000Z",
-      "category": "uk",
-      "summary": "The US has accused three men linked to Iran of masterminding a \"campaign of terror\" against Jewish targets in the UK and Europe, as well as a thwarted plot at RAF Fairford."
     },
     {
       "id": "feed-y7g1uu",
@@ -1724,16 +1724,6 @@
       "summary": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to "
     },
     {
-      "id": "feed-18n7nww",
-      "title": "France blames Iran for massive cyber attack on supermarket fridges",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/france-accuses-iran-of-being-behind-massive-cyber-attack-on-supermarket-fridges-13610319",
-      "publishedAt": "2026-11-09T17:04:00.000Z",
-      "category": "world",
-      "summary": "France has accused Iran of being behind the massive cyber attack on supermarket fridges last month."
-    },
-    {
       "id": "feed-kljr8f",
       "title": "Did you solve it? The multi-choice maths quiz taking over the world",
       "source": "The Guardian",
@@ -1900,6 +1890,16 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/science/video/2026/nov/06/is-ferritin-face-real-why-your-iron-levels-might-be-low-video",
       "publishedAt": "2026-11-06T10:54:06.000Z",
+      "category": "science",
+      "summary": "Social media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is ‘ferritin face’ real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron levels up, how we can actu"
+    },
+    {
+      "id": "feed-gp1nly",
+      "title": "‘Ferritin face’: what you need to know about low iron - podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/audio/2026/nov/05/ferritin-face-can-you-really-diagnose-low-iron-from-a-selfie-podcast",
+      "publishedAt": "2026-11-05T06:00:55.000Z",
       "category": "science",
       "summary": "Social media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is ‘ferritin face’ real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron levels up, how we can actu"
     }
