@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T18:37:30.659Z",
+  "updatedAt": "2026-11-12T19:41:55.855Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1wssdjc",
+      "title": "Rolls-Royce incident prompts emergency response",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg2w5pjj99o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T18:41:03.000Z",
+      "summary": "Derbyshire Fire and Rescue Service says it was called to the site in Raynesway shortly after 16:00 GMT."
+    },
     {
       "id": "feed-1qt06xk",
       "title": "Can Burnham avoid another Labour welfare rebellion?",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-12T10:58:58.000Z",
       "summary": "\"An accelerant may have been used before she was deliberately set on fire,\" Hertfordshire Police say."
-    },
-    {
-      "id": "feed-c69uzw",
-      "title": "Man arrested after sexual assaults at University of Huddersfield",
-      "link": "https://www.bbc.co.uk/news/articles/cm3egj0n3qyyo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T10:54:09.000Z",
-      "summary": "Seven women were approached and grabbed in Huddersfield, police say, with a 29-year-old man held."
     }
   ]
 }
