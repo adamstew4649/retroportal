@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T20:36:39.911Z",
-  "generatedAt": "2026-11-12T20:36:39.911Z",
+  "updatedAt": "2026-11-12T21:33:05.541Z",
+  "generatedAt": "2026-11-12T21:33:05.541Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "bbc-world",
@@ -109,9 +109,49 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
-      "publishedAt": "2026-11-12T20:29:54.000Z",
+      "publishedAt": "2026-11-12T21:29:27.000Z",
       "category": "uk",
       "summary": "⚽️ Nations League updates from 7.45pm GMT ⚽️ Kane sets cap record | Live scoreboard | Email Scott Pre-match postbag. “With tonight’s record being broken, spare a thought for the holder of a more unwanted record, Emlyn Hughes. He won 62 caps and never got to go"
+    },
+    {
+      "id": "feed-1wqy5gw",
+      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
+      "publishedAt": "2026-11-12T21:27:21.000Z",
+      "category": "uk",
+      "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean."
+    },
+    {
+      "id": "feed-19jyib8",
+      "title": "Washington DC shooting: police identify victim and suspect – latest updates",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+      "publishedAt": "2026-11-12T21:20:14.000Z",
+      "category": "uk",
+      "summary": "Police say James Stewart, 46, was the manager of the building where suspect Matt Wade Lambert lived; the suspect had an ongoing dispute with the building’s owners Multiple people shot in Washington DC as police warn people to stay inside The incident is shifti"
+    },
+    {
+      "id": "feed-hd7muy",
+      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "publishedAt": "2026-11-12T21:17:36.000Z",
+      "category": "business",
+      "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and"
+    },
+    {
+      "id": "feed-gyufy6",
+      "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "publishedAt": "2026-11-12T21:14:11.000Z",
+      "category": "uk",
+      "summary": "An alert on Microsoft’s site said it was ‘aggressively pursuing all pathways to reduce impact’ and blamed a server issue Microsoft says its servers are beginning to return to service after a global outage resulted in nearly 130,000 users globally reporting iss"
     },
     {
       "id": "feed-1jzfd91",
@@ -119,19 +159,79 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-      "publishedAt": "2026-11-12T20:28:20.000Z",
+      "publishedAt": "2026-11-12T21:14:05.000Z",
       "category": "world",
       "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps you"
     },
     {
-      "id": "feed-10pl3b0",
-      "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
+      "id": "feed-ilxsjf",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+      "publishedAt": "2026-11-12T21:00:42.000Z",
+      "category": "world",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
+    },
+    {
+      "id": "feed-zngz5h",
+      "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-      "publishedAt": "2026-11-12T20:23:05.000Z",
+      "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+      "publishedAt": "2026-11-12T21:00:12.000Z",
       "category": "uk",
-      "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical condition Multiple people shot in Washington DC as police warn people to stay inside The incident is shifting from an active shooter response to a barricaded subject response , a "
+      "summary": "Move by Norway ‘a further tightening’ of current rules Russians ‘have no business’ in Finland, says minister Norway’s government announced that it would prevent Russian and Belarusian professional athletes from coming to Norway to compete, hours after neighbou"
+    },
+    {
+      "id": "feed-ng5hiv",
+      "title": "BBC Inside Science",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa",
+      "publishedAt": "2026-11-12T21:00:00.000Z",
+      "category": "science",
+      "summary": "A weekly programme looking at the science that's changing our world."
+    },
+    {
+      "id": "feed-x8ox0r",
+      "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
+      "publishedAt": "2026-11-12T20:59:05.000Z",
+      "category": "uk",
+      "summary": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’ Andy Burnham has said he believes a “win-win” deal could be done with the EU that could be “more like the Brexit that people thought they were voting for in"
+    },
+    {
+      "id": "feed-1gv8zx2",
+      "title": "Woman, 18, admits murdering girl, 16, in Leeds",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
+      "publishedAt": "2026-11-12T20:57:07.000Z",
+      "category": "uk",
+      "summary": "Kayla Smith stabbed Chloe Watson Dransfield to death during planned fight over young man An 18-year-old woman who stabbed a teenage girl to death during a planned fight over a young man has pleaded guilty to murder. Chloe Watson Dransfield, 16, was attacked by"
+    },
+    {
+      "id": "feed-1lyhe6y",
+      "title": "Be sea-ing you: humpback whale spotted in New York’s Hudson River",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/humpback-whale-new-york-city-hudson-river",
+      "publishedAt": "2026-11-12T20:53:49.000Z",
+      "category": "world",
+      "summary": "Sightings of the species are becoming increasingly common as experts worry about danger posed by busy waterways A humpback whale was spotted on Thursday swimming in New York’s Hudson River, sparking a social media frenzy. Brad Hoylman-Sigal, president of Manha"
+    },
+    {
+      "id": "feed-pkf2i",
+      "title": "Harry Kane wins record 126th England cap, pulling clear of Peter Shilton",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap",
+      "publishedAt": "2026-11-12T20:32:55.000Z",
+      "category": "uk",
+      "summary": "Kane gets England men’s record against Croatia Striker starts Nations League game on record 91 goals Harry Kane was given a hero’s welcome after his Ballon d’Or win by breaking England’s appearance record during Thursday’s Nations League game against Croatia. "
     },
     {
       "id": "feed-12qu39z",
@@ -150,7 +250,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/12/cdc-measles-deaths",
       "publishedAt": "2026-11-12T20:19:45.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Figures highlight spread of virus, officially declared eliminated in US in 2000, but CDC does not identify which states accounted for deaths The Centers for Disease Control and Prevention (CDC) reported six measles-related deaths in the US this year, according"
     },
     {
@@ -174,16 +274,6 @@
       "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
     },
     {
-      "id": "feed-hd7muy",
-      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "publishedAt": "2026-11-12T20:06:26.000Z",
-      "category": "world",
-      "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and"
-    },
-    {
       "id": "feed-11s2yrd",
       "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
       "source": "The Guardian",
@@ -202,16 +292,6 @@
       "publishedAt": "2026-11-12T19:52:16.000Z",
       "category": "uk",
       "summary": "Leonardo Bertulazzi, ex-member of Italy’s radical far-left Red Brigades, fled in dramatic fashion, ‘like something out of a movie’ As dozens of police and sniffer dogs poured into San Telmo, a traditional Buenos Aires neighbourhood with cobblestone streets, on"
-    },
-    {
-      "id": "feed-rv74kj",
-      "title": "‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
-      "publishedAt": "2026-11-12T19:49:24.000Z",
-      "category": "world",
-      "summary": "New York City officials have confirmed at least eight casualties – six adults and two children – in the collapse Flatbush Ave in Flatbush, New York, stood still and in shock after a three-story apartment building collapsed on Wednesday afternoon near a constru"
     },
     {
       "id": "feed-kjdgih",
@@ -274,6 +354,16 @@
       "summary": "John Gizzi, 55, frequently assaulted Natasha Farah, 32, and sent her abusive messages."
     },
     {
+      "id": "feed-1omqru7",
+      "title": "Men who raped teenager are on the run after skipping trial",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/men-who-raped-teenage-girl-in-rotherham-are-on-the-run-after-skipping-trial-13611688",
+      "publishedAt": "2026-11-12T18:57:00.000Z",
+      "category": "uk",
+      "summary": "Two men convicted of raping a teenage girl who was groomed and trafficked in Rotherham 20 years ago are on the run."
+    },
+    {
       "id": "feed-l9rut",
       "title": "The Guardian view on Gaza’s misery: don’t let Palestinian deaths mount in this bleak winter | Editorial",
       "source": "The Guardian",
@@ -330,18 +420,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
       "publishedAt": "2026-11-12T18:38:13.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality Ministers are looking at ways to change the law quickly to expand protections that stop non-disclosure agreements being used to cover up harassment o"
-    },
-    {
-      "id": "feed-pkf2i",
-      "title": "Harry Kane wins record 126th England cap, pulling clear of Peter Shilton",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap",
-      "publishedAt": "2026-11-12T18:35:42.000Z",
-      "category": "uk",
-      "summary": "Kane gets England men’s record cap against Croatia Striker starts Nations League game on record 91 goals Harry Kane has broken the England men’s appearance record after being selected to start the Nations League match against Croatia at Wembley. The striker dr"
     },
     {
       "id": "feed-1wam0k9",
@@ -352,36 +432,6 @@
       "publishedAt": "2026-11-12T18:29:56.000Z",
       "category": "business",
       "summary": "At a time when individual men wield massive power, the ramifications of the Nvidia CEO’s affair could be enormous One of the reasons you want to distribute power and responsibility in powerful organizations and high-stakes enterprises is so that the narcissism"
-    },
-    {
-      "id": "feed-pj269l",
-      "title": "Ben Jennings on the abuse of women and girls in the entertainment industry – cartoon",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/12/ben-jennings-abuse-women-girls-entertainment-industry-cartoon",
-      "publishedAt": "2026-11-12T18:29:54.000Z",
-      "category": "uk",
-      "summary": "Continue reading..."
-    },
-    {
-      "id": "feed-ilxsjf",
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
-      "publishedAt": "2026-11-12T18:28:59.000Z",
-      "category": "world",
-      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
-    },
-    {
-      "id": "feed-19wvjtt",
-      "title": "Tommy Walsh obituary",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/tommy-walsh-obituary",
-      "publishedAt": "2026-11-12T18:25:22.000Z",
-      "category": "uk",
-      "summary": "Burly TV presenter who brought his building knowledge and power tools to the BBC’s gardening makeover show Ground Force Tommy Walsh, who has died aged 69, brought decking and pergolas, as well as rippling muscles and a brusque manner, to the BBC gardening show"
     },
     {
       "id": "feed-wciipi",
@@ -404,18 +454,8 @@
       "summary": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government."
     },
     {
-      "id": "feed-10s6242",
-      "title": "Robertson pays tribute to Dalglish as he matches Scotland cap record",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/12/robertson-pays-tribute-to-dalglish-as-he-matches-scotland-cap-record",
-      "publishedAt": "2026-11-12T18:06:56.000Z",
-      "category": "uk",
-      "summary": "Tottenham full-back will make 102nd appearance on Friday ‘It’s another reason to honour one of the greatest players’ Andy Robertson insists his matching of Kenny Dalglish’s Scotland cap record by no means brings reputational parity. Four decades after Dalglish"
-    },
-    {
-      "id": "feed-10v8twm",
-      "title": "Harry Kane becomes England's most-capped men's footballer",
+      "id": "feed-n1zrk6",
+      "title": "Harry Kane marks record England cap with a goal at Wembley",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/harry-kane-becomes-englands-most-capped-mens-footballer-13611667",
@@ -430,7 +470,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
       "publishedAt": "2026-11-12T18:00:50.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "F1 driver urges Israel to let aid into Gaza Trip involved tour of facilities with aid workers Formula One driver Lewis Hamilton said on Wednesday that Israel must allow aid ⁠trucks into Gaza, a day after he visited the Rafah border crossing in Egypt. Hamilton,"
     },
     {
@@ -514,16 +554,6 @@
       "summary": "The proposals would change how crimes committed by children are disclosed to bosses in England and Wales."
     },
     {
-      "id": "feed-qroiyt",
-      "title": "Finland bars Russian athletes from entering country over Ukraine war",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-      "publishedAt": "2026-11-12T17:23:51.000Z",
-      "category": "world",
-      "summary": "Russians ‘have no business’ in country, says minister Skating and cross-country skiing first to be affected Finland says it will restrict entry to the country for Russian athletes because of the war in Ukraine, potentially affecting a number of winter sports. "
-    },
-    {
       "id": "feed-147t8lj",
       "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
       "source": "The Guardian",
@@ -534,14 +564,14 @@
       "summary": "This blog is now closed Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises. “I have the privilege "
     },
     {
-      "id": "feed-1fihw6u",
-      "title": "Local funds for some young people losing Pip under Milburn plans",
+      "id": "feed-i8rryf",
+      "title": "Some young disabled people to lose Pip in Milburn plan – but can apply to local fund",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn",
       "publishedAt": "2026-11-12T17:14:34.000Z",
       "category": "world",
-      "summary": "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence payments Some young people with disabilities will lose their personal independence payments but will be able to apply to a local fund f"
+      "summary": "Exclusive: Former health secretary wants to ‘tear up the old approach’, and end ongoing payments to certain under-25s Some young people with disabilities will lose their personal independence payments but will be able to apply to a local fund for short-term ex"
     },
     {
       "id": "feed-ws3i82",
@@ -554,24 +584,14 @@
       "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
     },
     {
-      "id": "feed-1pbwy4w",
-      "title": "BBC Inside Science",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "category": "science",
-      "summary": "A weekly programme looking at the science that's changing our world."
-    },
-    {
       "id": "feed-aewgdt",
       "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
-      "publishedAt": "2026-11-12T16:57:34.000Z",
+      "publishedAt": "2026-11-12T16:57:33.000Z",
       "category": "technology",
-      "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employee Business live – latest updates From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen Huang has resigned as chief "
+      "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen Huang has resigned as chief executive of Nvidia after"
     },
     {
       "id": "feed-1rlxp86",
@@ -604,16 +624,6 @@
       "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days."
     },
     {
-      "id": "feed-1mmeqlk",
-      "title": "Farage was guest on Brand podcast after sexual assault investigation began",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began",
-      "publishedAt": "2026-11-12T16:43:33.000Z",
-      "category": "world",
-      "summary": "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedian Nigel Farage appeared on Russell Brand’s US podcast nine months after police opened an investigation into the comedian after allegations of sexual assaul"
-    },
-    {
       "id": "feed-1txnv9o",
       "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
       "source": "The Guardian",
@@ -630,8 +640,18 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
       "publishedAt": "2026-11-12T16:30:27.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "‘Rules of origin’ on vehicle batteries due to come into force on 1 January if deal on new delay is not reached Business live – latest updates The UK car industry is preparing to push for a two-year delay to Brexit tariffs on electric cars traded with the EU, a"
+    },
+    {
+      "id": "feed-9uhs5u",
+      "title": "Are cracks showing in the Burnham project? – podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/audio/2026/nov/12/are-cracks-showing-in-the-burnham-project-podcast",
+      "publishedAt": "2026-11-12T16:25:06.000Z",
+      "category": "business",
+      "summary": "This week, Kemi Badenoch roasted the prime minister at PMQs with gag after gag. But while the leader of the opposition looks feisty, are some Labour MPs also beginning to wonder if Andy Burnham has the substance to back his policy agenda? Plus, with the social"
     },
     {
       "id": "feed-1t1b9wr",
@@ -742,16 +762,6 @@
       "publishedAt": "2026-11-12T14:25:00.000Z",
       "category": "uk",
       "summary": "A panel of judges are considering a bid to privately prosecute former Scotland striker David Goodwillie and hope to issue a ruling \"as soon as practicable\"."
-    },
-    {
-      "id": "feed-177vsvy",
-      "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
-      "publishedAt": "2026-11-12T14:23:50.000Z",
-      "category": "world",
-      "summary": "Film features testimony from 24 Israeli officials involved in surveillance and remote killing of Palestinian civilians • NAZA is in cinemas worldwide and will screen for free on the Guardian’s website from early December. Sign up here to be the first to watch "
     },
     {
       "id": "feed-192n9c0",
@@ -1014,13 +1024,13 @@
       "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape."
     },
     {
-      "id": "feed-1thiuqz",
-      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership' in COP31 speech",
+      "id": "feed-1jarjwe",
+      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o",
       "publishedAt": "2026-11-12T11:03:53.000Z",
-      "category": "uk",
+      "category": "science",
       "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey."
     },
     {
@@ -1044,16 +1054,6 @@
       "summary": "It is built of wood, resembles an Ikea and its power is totally renewable. Plus, it was built with the local community in mind. Is this facility in Falun the best datacentre in the world? ‘It was pretty cool, when they were building it. It looked like a very l"
     },
     {
-      "id": "feed-cvdgt4",
-      "title": "UK drone maker founded by Ukrainians hits £4.5bn value after raising £500m",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/12/uk-drone-maker-ukraine-value-uforce",
-      "publishedAt": "2026-11-12T10:31:50.000Z",
-      "category": "business",
-      "summary": "Britain’s national wealth fund invests £113m in UForce, whose equipment has been used heavily in war with Russia A London-based naval drone maker founded by Ukrainians has reached a £4.5bn valuation after it raised more than £500m from investors including the "
-    },
-    {
       "id": "feed-tzbj9p",
       "title": "Under-fire Poundland owner 'among suitors' for footwear chain Dune",
       "source": "Sky News",
@@ -1062,16 +1062,6 @@
       "publishedAt": "2026-11-12T10:15:00.000Z",
       "category": "business",
       "summary": "The beleaguered owner of Poundland is among the parties who have been considering offers for Dune, the British footwear retailer, even as its biggest UK high street asset teeters on the brink of collapse."
-    },
-    {
-      "id": "feed-1852w7",
-      "title": "British woman missing from cruise ship in Atlantic",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
-      "publishedAt": "2026-11-12T10:13:35.000Z",
-      "category": "world",
-      "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean."
     },
     {
       "id": "feed-17sxqal",
@@ -1102,16 +1092,6 @@
       "publishedAt": "2026-11-12T09:27:00.000Z",
       "category": "uk",
       "summary": "A bomb alert at a French train station disrupted journeys including international travel, with Eurostar trains among those affected."
-    },
-    {
-      "id": "feed-5wsf96",
-      "title": "AI helps UK economy grow at fastest pace for more than two years",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
-      "publishedAt": "2026-11-12T09:12:52.000Z",
-      "category": "business",
-      "summary": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices AI helped the UK defy expectations – but will Britain’s resilience fizzle out? Business live – latest updates The UK economy grew by 0.7% in the third "
     },
     {
       "id": "feed-13akj7n",
@@ -1902,6 +1882,26 @@
       "publishedAt": "2026-11-05T06:00:55.000Z",
       "category": "science",
       "summary": "Social media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is ‘ferritin face’ real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron levels up, how we can actu"
+    },
+    {
+      "id": "feed-vwuj78",
+      "title": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king",
+      "publishedAt": "2026-11-05T05:00:54.000Z",
+      "category": "science",
+      "summary": "Controversial theory that Verica, who incited Emperor Claudius’s AD43 landing, was a woman could put a new spin on British history if true It was a moment that changed the course of British history: in AD43, Roman troops under the emperor Claudius landed in Ke"
+    },
+    {
+      "id": "feed-aihyai",
+      "title": "Tech Now",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "category": "technology",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
