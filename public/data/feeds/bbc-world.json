@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T00:06:42.220Z",
+  "updatedAt": "2026-11-12T01:40:53.547Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
-      "id": "feed-1ni5uj6",
-      "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+      "id": "feed-qj01sf",
+      "title": "New York building collapse kills one person and injures 12",
+      "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T01:34:58.000Z",
+      "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn."
+    },
+    {
+      "id": "feed-2f7wtq",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
       "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
       "source": "BBC News",
-      "publishedAt": "2026-11-11T23:52:30.000Z",
-      "summary": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years."
+      "publishedAt": "2026-11-12T01:00:04.000Z",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
+    },
+    {
+      "id": "feed-jouqs3",
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T00:36:11.000Z",
+      "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say."
     },
     {
       "id": "feed-bfkodv",
@@ -30,6 +46,14 @@
       "source": "BBC News",
       "publishedAt": "2026-11-11T20:00:54.000Z",
       "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine."
+    },
+    {
+      "id": "feed-1bwcodk",
+      "title": "Famed ship SS United States to be sunk off coast of Florida",
+      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T18:42:27.000Z",
+      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef."
     },
     {
       "id": "feed-10p1i4o",
@@ -126,30 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-11T11:47:22.000Z",
       "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
-    },
-    {
-      "id": "feed-1spn6wh",
-      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T11:34:50.000Z",
-      "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country."
-    },
-    {
-      "id": "feed-1j0zk8e",
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T09:28:36.000Z",
-      "summary": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024."
-    },
-    {
-      "id": "feed-jrnyr8",
-      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-      "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T00:26:02.000Z",
-      "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy."
     }
   ]
 }
