@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T02:33:55.213Z",
+  "updatedAt": "2026-11-13T03:38:06.737Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,11 +8,19 @@
   },
   "articles": [
     {
+      "id": "feed-1kcku9b",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T02:39:00.000Z",
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+    },
+    {
       "id": "feed-15ru4kv",
       "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
       "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
       "source": "BBC News",
-      "publishedAt": "2026-11-13T01:53:55.000Z",
+      "publishedAt": "2026-11-13T02:38:02.000Z",
       "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems."
     },
     {
@@ -38,14 +46,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T00:13:35.000Z",
       "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
-    },
-    {
-      "id": "feed-1kcku9b",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T23:34:05.000Z",
-      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
     },
     {
       "id": "feed-15hy9qy",
