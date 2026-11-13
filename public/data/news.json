@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T09:22:00.834Z",
-  "generatedAt": "2026-11-13T09:22:00.834Z",
+  "updatedAt": "2026-11-13T10:23:20.694Z",
+  "generatedAt": "2026-11-13T10:23:20.694Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -85,7 +85,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "id": "sky-technology",
@@ -104,14 +104,104 @@
   ],
   "articles": [
     {
-      "id": "feed-83obcg",
-      "title": "Pochettino to take over at Manchester United; Grealish apologises to Everton fans: football – live",
+      "id": "feed-bhqzeb",
+      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "publishedAt": "2026-11-13T10:15:13.000Z",
+      "category": "uk",
+      "summary": "Tech company ‘seeing positive results’ with efforts and says no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft i"
+    },
+    {
+      "id": "feed-1mipdjv",
+      "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o",
+      "publishedAt": "2026-11-13T10:12:52.000Z",
+      "category": "uk",
+      "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services."
+    },
+    {
+      "id": "feed-869egd",
+      "title": "Microsoft outage live: UK police, NHS services and schools affected amid ongoing disruption affecting millions globally",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "publishedAt": "2026-11-13T10:12:00.000Z",
+      "category": "uk",
+      "summary": "Microsoft reports it is seeing some ‘positive results’ in its efforts to get its services back online for millions of customers around the world. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook "
+    },
+    {
+      "id": "feed-dqh231",
+      "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+      "publishedAt": "2026-11-13T10:11:39.000Z",
+      "category": "world",
+      "summary": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptions Microsoft outage – live updates Hospitals, GPs and police forces across the UK have been hit by the global Microsoft outage, as key services "
+    },
+    {
+      "id": "feed-7j1spy",
+      "title": "Pochettino to sign two-and-a-half-year Manchester United deal; Fernandes rejects second contract offer: football – live",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
-      "publishedAt": "2026-11-13T09:14:20.000Z",
+      "publishedAt": "2026-11-13T10:10:14.000Z",
       "category": "uk",
-      "summary": "USMNT head coach is due to speak later on Friday Today’s fixtures | Follow us on TikTok | Mail David Ahead of Mauricio Pochettino’s unveiling at Manchester United , Andrew Beasley crunches the numbers to look at the Argentine’s possible impact. An elite manage"
+      "summary": "USMNT head coach is due to speak later on Friday Today’s fixtures | Follow us on TikTok | Mail David Here’s David Hytner’s report of England’s 2-1 win over Croatia in the Nations League last night. Comes complete with photo of Harry Kane in classic penalty-tak"
+    },
+    {
+      "id": "feed-1tqw2uq",
+      "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+      "publishedAt": "2026-11-13T10:07:18.000Z",
+      "category": "uk",
+      "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries EU foreign policy chief Kaja Kallas has warned against the EU agreeing to Russia’s proposed sequence of talks on Ukraine, saying it would allow Moscow to “divert "
+    },
+    {
+      "id": "feed-1hklq21",
+      "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+      "publishedAt": "2026-11-13T10:05:57.000Z",
+      "category": "uk",
+      "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next week Hello and welcome to the UK politics live blog. There will be a “growing pressure” for parliament to scrutinise EU legislation under new deals on food and emissions to be sealed ahe"
+    },
+    {
+      "id": "feed-15kal53",
+      "title": "Jilted bride gives marriage another go - on Friday 13th",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6d918yppq1ko",
+      "publishedAt": "2026-11-13T10:01:02.000Z",
+      "category": "uk",
+      "summary": "Kayley Stead went viral in 2022 after refusing to let her first fiancé spoil the day."
+    },
+    {
+      "id": "feed-128ejb8",
+      "title": "‘Never thought I’d eat that’: how vegetable prescriptions are helping Britons with diabetes",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/society/2026/nov/13/diabetes-wellfed-vegetable-prescriptions-cornwall",
+      "publishedAt": "2026-11-13T10:00:15.000Z",
+      "category": "uk",
+      "summary": "WellFed participants in Cornwall are reporting better blood sugar levels with help of free veg, cooking and gardening The participants admitted that throughout their life, their food choices had been far from ideal: egg and chips, hearty roasts, raw fry – a Co"
+    },
+    {
+      "id": "feed-1s2ac7n",
+      "title": "NFL quarterbacks are under more pressure than ever from rushers. Why?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/13/nfl-quarterbacks-are-under-more-pressure-than-ever-from-rushers-why",
+      "publishedAt": "2026-11-13T10:00:15.000Z",
+      "category": "uk",
+      "summary": "Despite all the advantages offenses have secured over the years, defenses are better at pressuring the QB than any other time in recent history The Baltimore Ravens are preparing to start their fourth quarterback this year, Jacoby Brissett, against the beleagu"
     },
     {
       "id": "feed-voe4b5",
@@ -119,29 +209,69 @@
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-      "publishedAt": "2026-11-13T09:10:57.000Z",
-      "category": "technology",
+      "publishedAt": "2026-11-13T09:59:20.000Z",
+      "category": "world",
       "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
     },
     {
-      "id": "feed-r47mbs",
-      "title": "Microsoft outage live: UK police, NHS services and schools affected amid ongoing global disruption",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-      "publishedAt": "2026-11-13T09:10:10.000Z",
+      "id": "feed-z8kpg7",
+      "title": "Piddington to bring legal challenge over asylum base plans",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo",
+      "publishedAt": "2026-11-13T09:51:07.000Z",
       "category": "uk",
-      "summary": "Microsoft reports it is seeing some ‘positive results’ in its efforts to get its services back online for millions of customers around the world. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook "
+      "summary": "Up to 1,256 men could be housed at the site near Piddington in Oxfordshire under the plans."
     },
     {
-      "id": "feed-bhqzeb",
-      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+      "id": "feed-14uwig6",
+      "title": "Elliott spreads out with interest in KKR-backed Flora Food Group",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/elliott-spreads-out-with-interest-in-kkr-backed-flora-food-group-13611837",
+      "publishedAt": "2026-11-13T09:50:00.000Z",
+      "category": "business",
+      "summary": "The American investment firm Elliott Management is circling Flora Food Group, the spreads and margarines producer, amid signs that its owner is struggling to convince bidders to meet a €7bn (£5.8bn) asking price."
+    },
+    {
+      "id": "feed-1l3du05",
+      "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-      "publishedAt": "2026-11-13T09:08:16.000Z",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "publishedAt": "2026-11-13T09:41:22.000Z",
       "category": "uk",
-      "summary": "Tech company ‘seeing positive results’ with efforts and says no indication problem was caused by cyber-attack Microsoft outage – live updates Microsoft is scrambling to fix an outage of some of its systems that has caused huge disruption to users, organisation"
+      "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? One of Donald "
+    },
+    {
+      "id": "feed-13474i5",
+      "title": "England thrashed by Australia in first ODI",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko",
+      "publishedAt": "2026-11-13T09:31:34.000Z",
+      "category": "uk",
+      "summary": "England meekly offer Australia respite from the ongoing sandpaper scandal by being bowled out for 131 in the first one-day international in Perth."
+    },
+    {
+      "id": "feed-v1cja3",
+      "title": "The best books to read in November and December: new paperbacks from Benjamin Myers, Jeanette Winterson and John Updike",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/13/the-best-books-to-read-in-november-and-december-new-paperbacks-from-benjamin-myers-jeanette-winterson-and-john-updike",
+      "publishedAt": "2026-11-13T09:30:14.000Z",
+      "category": "uk",
+      "summary": "Looking for a new reading recommendation? Here are some must-read new paperbacks, from an experimental novel about a German actor to a study of how the arts can boost our health *** Continue reading..."
+    },
+    {
+      "id": "feed-oxz8wb",
+      "title": "Heat pumps: How much heat does your home really need?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o",
+      "publishedAt": "2026-11-13T09:29:25.000Z",
+      "category": "technology",
+      "summary": "Knowing how much heat your home loses is important before installing a new heating system."
     },
     {
       "id": "feed-6kaqto",
@@ -152,16 +282,6 @@
       "publishedAt": "2026-11-13T09:00:14.000Z",
       "category": "uk",
       "summary": "A devastating drama of love and betrayal starring Léa Seydoux. Plus: Ralph Fiennes is superb in the Bafta-winning thriller about picking the new pope Marie Kreutzer’s follow-up to her bravura feminist historical reboot Corsage is a devastating drama of love, b"
-    },
-    {
-      "id": "feed-1tqw2uq",
-      "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-      "publishedAt": "2026-11-13T08:53:53.000Z",
-      "category": "uk",
-      "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries in Dublin EU leaders will continue talks on their diplomatic and financial support for Ukraine today, after Volodymyr Zelenskyy urged them to “pay attention” to V"
     },
     {
       "id": "feed-gbrloz",
@@ -204,14 +324,14 @@
       "summary": "Former England captain David Beckham is set to be inducted into the United States' National Soccer Hall of Fame as part of its 2027 class."
     },
     {
-      "id": "feed-g7x7py",
-      "title": "Asylum centre on military base near Piddington approved",
+      "id": "feed-ob3ddw",
+      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c58j4798874go",
-      "publishedAt": "2026-11-13T08:13:44.000Z",
-      "category": "uk",
-      "summary": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked."
+      "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
+      "publishedAt": "2026-11-13T08:20:28.000Z",
+      "category": "world",
+      "summary": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world."
     },
     {
       "id": "feed-1ntqveb",
@@ -274,23 +394,13 @@
       "summary": "(Stem) Her truly remarkable, Sade-ish voice is hypnotic against some dizzyingly plush production, but a modern spin on 80s pastiche sometimes veers too close to tribute Swedish-Iranian singer Snoh Aalegra has previously described her music – a lush, pastiche-y"
     },
     {
-      "id": "feed-9rbbsm",
-      "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/13/football-association-art-prize",
-      "publishedAt": "2026-11-13T08:00:12.000Z",
-      "category": "uk",
-      "summary": "Football and the art world have long remained distant but the breadth of entries for this year’s award revivals a healthy revival It may be the Beautiful Game, but in its early decades football was a rare subject for artists. The Italian Futurist Umberto Bocci"
-    },
-    {
       "id": "feed-1oimmbw",
       "title": "US terror case sheds light on RAF Fairford arrests mystery",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-terror-case-raf-fairford-arrests",
       "publishedAt": "2026-11-13T07:55:56.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Suspect held in New York jail has been linked to handler behind Iran-linked operations in Britain When the US took custody of Mohammad Baqer Saad Dawood al-Saadi in May, investigators hoped the string of terrorist and arson attacks he was accused of promoting "
     },
     {
@@ -304,13 +414,13 @@
       "summary": "Evanescence and Bring Me The Horizon will also top the bill at the rock and metal festival."
     },
     {
-      "id": "feed-1d0lguk",
-      "title": "What happened overnight with the Microsoft global outage",
+      "id": "feed-w8fioh",
+      "title": "Watch: How Microsoft services went down around the world",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o",
       "publishedAt": "2026-11-13T07:18:17.000Z",
-      "category": "technology",
+      "category": "world",
       "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
     },
     {
@@ -344,14 +454,14 @@
       "summary": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space."
     },
     {
-      "id": "feed-eorohm",
-      "title": "A new song gives Cop31 Eurovision vibes – but how should we score progress so far?",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/down-to-earth-eurovision-cop31-turkey-scotland",
-      "publishedAt": "2026-11-13T07:00:13.000Z",
-      "category": "uk",
-      "summary": "In this week’s newsletter: The climate summit has a new floor-filler to ‘bring down the heat’, but it may struggle to get countries to sing a different environmental tune • Don’t get Down to Earth delivered to your inbox? Sign up here The UN’s annual climate s"
+      "id": "feed-j25qjt",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo",
+      "publishedAt": "2026-11-13T07:01:43.000Z",
+      "category": "world",
+      "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles."
     },
     {
       "id": "feed-17se51o",
@@ -360,18 +470,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/money/gallery/2026/nov/13/homes-for-sale-close-to-cosy-pubs-in-england-in-pictures",
       "publishedAt": "2026-11-13T07:00:12.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "From a Cornish cottage not far from one that played a role in the TV series Doc Martin to a duplex in central London perched above a historic one Continue reading..."
-    },
-    {
-      "id": "feed-p4rghw",
-      "title": "‘Pretty weird’: How a viral video shows a striking discrepancy in men and women’s knitwear",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/fashion/2026/nov/12/wool-pricing-natural-fibre-menswear-knitwear-women",
-      "publishedAt": "2026-11-13T07:00:12.000Z",
-      "category": "uk",
-      "summary": "Men are routinely getting more wool for their money – are women really paying a pink tax when they buy a jumper? • Don’t get Fashion Statement delivered to your inbox? Sign up here It’s officially cosy season. But before you treat yourself to a new wooly jumpe"
     },
     {
       "id": "feed-116m7j5",
@@ -404,16 +504,6 @@
       "summary": "Grand Theft Auto VI is set to become one of the biggest releases in history but how is the rest of Scotland's gaming industry doing?"
     },
     {
-      "id": "feed-139hvv3",
-      "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-      "publishedAt": "2026-11-13T06:34:59.000Z",
-      "category": "world",
-      "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk Nvidia scandal – latest updates Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be bre"
-    },
-    {
       "id": "feed-1ccp47s",
       "title": "How many sewage spills have happened in your part of Scotland?",
       "source": "BBC News",
@@ -432,6 +522,16 @@
       "publishedAt": "2026-11-13T06:23:37.000Z",
       "category": "business",
       "summary": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\"."
+    },
+    {
+      "id": "feed-e3tv3e",
+      "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmyy4ee1pwo",
+      "publishedAt": "2026-11-13T06:22:12.000Z",
+      "category": "uk",
+      "summary": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\"."
     },
     {
       "id": "feed-9ec7ig",
@@ -644,14 +744,14 @@
       "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems."
     },
     {
-      "id": "feed-1rj9ut9",
-      "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
-      "publishedAt": "2026-11-13T02:30:07.000Z",
+      "id": "feed-19f3f8f",
+      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro",
+      "publishedAt": "2026-11-13T02:24:11.000Z",
       "category": "world",
-      "summary": "Maryland Democrat challenges party leader after midterms sweep, saying: ‘The American people called for change’ Chris Van Hollen, the Democratic senator of Maryland, announced on Thursday that he is challenging Chuck Schumer for the role of Senate majority lea"
+      "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday."
     },
     {
       "id": "feed-1k6ek4s",
@@ -694,6 +794,16 @@
       "summary": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests."
     },
     {
+      "id": "feed-1v0vsr0",
+      "title": "MI5 will need proof to be believed in future, says Leveson after BBC investigation",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7dlj6v2go",
+      "publishedAt": "2026-11-13T00:54:50.000Z",
+      "category": "uk",
+      "summary": "The BBC exposed how the security service had lied to three courts concerning Agent X."
+    },
+    {
       "id": "feed-175gaga",
       "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
       "source": "BBC News",
@@ -732,16 +842,6 @@
       "publishedAt": "2026-11-13T00:20:24.000Z",
       "category": "world",
       "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back."
-    },
-    {
-      "id": "feed-1mb6n5b",
-      "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
-      "publishedAt": "2026-11-13T00:19:54.000Z",
-      "category": "world",
-      "summary": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her university Nearly two months after ICE agents whisked a beloved California nurse and professor from her home in Lodi, her university has ramped up calls for her releas"
     },
     {
       "id": "feed-pl0t7x",
@@ -790,7 +890,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
       "publishedAt": "2026-11-12T22:51:18.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
     },
     {
@@ -822,16 +922,6 @@
       "publishedAt": "2026-11-12T22:01:39.000Z",
       "category": "business",
       "summary": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’ Andy Burnham has said he believes a “win-win” deal could be done with the EU that could be “more like the Brexit that people thought they were voting for in"
-    },
-    {
-      "id": "feed-1wqy5gw",
-      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
-      "publishedAt": "2026-11-12T21:27:21.000Z",
-      "category": "world",
-      "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean."
     },
     {
       "id": "feed-1ly3lt9",
@@ -882,16 +972,6 @@
       "publishedAt": "2026-11-12T19:23:02.000Z",
       "category": "world",
       "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
-    },
-    {
-      "id": "feed-1rsmpll",
-      "title": "Duran Duran drummer quits band due to tinnitus",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/crwy499k504do",
-      "publishedAt": "2026-11-12T19:00:15.000Z",
-      "category": "uk",
-      "summary": "Roger Taylor says his condition has been getting steadily worse, and he must now \"listen to my body and my doctors\"."
     },
     {
       "id": "feed-1omqru7",
@@ -954,16 +1034,6 @@
       "summary": "Many hemp companies are shipping their remaining inventory to Wisconsin, Minnesota and Tennessee, which have different regulations At midnight this morning in Illinois, hemp-derived THC drinks transformed from grocery store commodities into illegal narcotics, "
     },
     {
-      "id": "feed-1qt06xk",
-      "title": "Can Burnham avoid another Labour welfare rebellion?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o",
-      "publishedAt": "2026-11-12T18:21:38.000Z",
-      "category": "uk",
-      "summary": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government."
-    },
-    {
       "id": "feed-n1zrk6",
       "title": "Harry Kane marks record England cap with a goal at Wembley",
       "source": "Sky News",
@@ -994,16 +1064,6 @@
       "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by record-high mortgage rates and rising inflation, accordi"
     },
     {
-      "id": "feed-1rgl4r6",
-      "title": "Some childhood offenders may no longer have to reveal convictions to employers",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo",
-      "publishedAt": "2026-11-12T17:24:48.000Z",
-      "category": "uk",
-      "summary": "The proposals would change how crimes committed by children are disclosed to bosses in England and Wales."
-    },
-    {
       "id": "feed-ws3i82",
       "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
       "source": "BBC News",
@@ -1012,16 +1072,6 @@
       "publishedAt": "2026-11-12T17:11:48.000Z",
       "category": "world",
       "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
-    },
-    {
-      "id": "feed-1rlxp86",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-      "publishedAt": "2026-11-12T16:54:12.000Z",
-      "category": "world",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
     },
     {
       "id": "feed-flyuos",
@@ -1062,16 +1112,6 @@
       "publishedAt": "2026-11-12T15:26:39.000Z",
       "category": "technology",
       "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair."
-    },
-    {
-      "id": "feed-167j6ab",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
-      "publishedAt": "2026-11-12T15:18:20.000Z",
-      "category": "world",
-      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
     },
     {
       "id": "feed-1uim001",
@@ -1144,16 +1184,6 @@
       "summary": "Order a Diet Coke or invade Iran – that’s the choice facing the US president in one of several satirical games, as designers turn the gamification of politics back on the White House In early September, the Trump White House announced a surprising new addition"
     },
     {
-      "id": "feed-1kp17dq",
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno",
-      "publishedAt": "2026-11-12T13:58:49.000Z",
-      "category": "world",
-      "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says."
-    },
-    {
       "id": "feed-19iwaza",
       "title": "Man shot dead in Washington DC gym is named",
       "source": "Sky News",
@@ -1194,16 +1224,6 @@
       "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
     },
     {
-      "id": "feed-t8ezgv",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
-      "publishedAt": "2026-11-12T12:56:55.000Z",
-      "category": "world",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
-    },
-    {
       "id": "feed-1lhthrp",
       "title": "Nurdle impact to be researched for a year",
       "source": "BBC News",
@@ -1240,7 +1260,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
       "publishedAt": "2026-11-12T11:20:25.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The UK economy grew by 0.7% in the three months to September, according to official figures."
     },
     {
@@ -1382,16 +1402,6 @@
       "publishedAt": "2026-11-12T06:17:06.000Z",
       "category": "business",
       "summary": "Are branded cold and flu tablets REALLY worth the extra money?"
-    },
-    {
-      "id": "feed-32y4b7",
-      "title": "Gas bills to rise as Middle East turmoil persists",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go",
-      "publishedAt": "2026-11-12T06:15:36.000Z",
-      "category": "business",
-      "summary": "Gas bills will increase by about 5% from 1 December, Island Energy announces."
     },
     {
       "id": "feed-zvk574",
@@ -1600,7 +1610,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/ai-rollout-boosts-economy-as-slowdown-fears-mount-13610911",
       "publishedAt": "2026-11-11T10:26:00.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The UK economy grew 0.7% in the third quarter of the year, according to early official figures confirming a boost from AI investment."
     },
     {
@@ -1624,6 +1634,16 @@
       "summary": "Millions of people may have been misclassified on the body mass index (BMI) scale, research has suggested."
     },
     {
+      "id": "feed-y7g1uu",
+      "title": "Four grizzly bears killed mother and daughter in Canada",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/four-grizzly-bears-killed-mother-and-daughter-in-canada-officials-say-13610812",
+      "publishedAt": "2026-11-11T01:57:00.000Z",
+      "category": "world",
+      "summary": "Four grizzly bears captured in Canada were responsible for killing a mother and daughter earlier this month, officials have said."
+    },
+    {
       "id": "feed-1ac30by",
       "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
       "source": "BBC News",
@@ -1634,16 +1654,6 @@
       "summary": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England."
     },
     {
-      "id": "feed-1sozbgp",
-      "title": "Robot vessels take on the dangerous work of mine hunting",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o",
-      "publishedAt": "2026-11-11T00:19:13.000Z",
-      "category": "technology",
-      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems."
-    },
-    {
       "id": "feed-qk4sta",
       "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
       "source": "BBC News",
@@ -1652,16 +1662,6 @@
       "publishedAt": "2026-11-11T00:18:07.000Z",
       "category": "science",
       "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya."
-    },
-    {
-      "id": "feed-1btrq45",
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
-      "publishedAt": "2026-11-10T22:52:15.000Z",
-      "category": "technology",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
     },
     {
       "id": "feed-fnl7fv",
