@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T01:35:29.870Z",
+  "updatedAt": "2026-11-13T02:33:55.213Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-15ru4kv",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T01:53:55.000Z",
+      "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems."
+    },
     {
       "id": "feed-1v8ffhw",
       "title": "'My window faces a brick wall': What's your rent in NYC?",
@@ -46,14 +54,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-12T22:51:18.000Z",
       "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
-    },
-    {
-      "id": "feed-15ru4kv",
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T20:25:29.000Z",
-      "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\"."
     },
     {
       "id": "feed-12qu39z",
