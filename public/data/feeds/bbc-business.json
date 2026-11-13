@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T00:06:50.880Z",
+  "updatedAt": "2026-11-13T01:35:29.870Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,12 +8,36 @@
   },
   "articles": [
     {
+      "id": "feed-1v8ffhw",
+      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "link": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T01:30:31.000Z",
+      "summary": "We ask people in New York City how much they pay for their homes."
+    },
+    {
+      "id": "feed-1v8ffhw",
+      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "link": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T01:30:31.000Z",
+      "summary": "We ask people in New York City how much they pay for their homes."
+    },
+    {
+      "id": "feed-ehps32",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T00:13:35.000Z",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
+    },
+    {
       "id": "feed-1kcku9b",
       "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
       "source": "BBC News",
       "publishedAt": "2026-11-12T23:34:05.000Z",
-      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy."
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
     },
     {
       "id": "feed-15hy9qy",
@@ -22,6 +46,14 @@
       "source": "BBC News",
       "publishedAt": "2026-11-12T22:51:18.000Z",
       "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
+    },
+    {
+      "id": "feed-15ru4kv",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T20:25:29.000Z",
+      "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\"."
     },
     {
       "id": "feed-12qu39z",
@@ -118,38 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-11T17:59:35.000Z",
       "summary": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday."
-    },
-    {
-      "id": "feed-lncg88",
-      "title": "Brad Friedel on Shrewsbury Town takeover",
-      "link": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T17:55:43.000Z",
-      "summary": "New Shrewsbury Town sporting director Brad Friedel talks exclusively to BBC Radio Shropshire about the club's takeover."
-    },
-    {
-      "id": "feed-1pof5tb",
-      "title": "Workers across Spain stage first general strike in 14 years",
-      "link": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T17:01:07.000Z",
-      "summary": "People across Spain are striking, primarily over housing costs."
-    },
-    {
-      "id": "feed-im14do",
-      "title": "Protesters gather in Spain for first general strike in 14 years",
-      "link": "https://www.bbc.co.uk/news/videos/cwj0587gde88o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T16:12:12.000Z",
-      "summary": "Thousands are protesting across Spain over housing and the high cost of living."
-    },
-    {
-      "id": "feed-ma94wv",
-      "title": "What are cold weather payments and who can get them?",
-      "link": "https://www.bbc.co.uk/news/articles/c87470q4w21o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T12:49:31.000Z",
-      "summary": "Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells."
     }
   ]
 }

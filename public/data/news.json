@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T00:06:50.884Z",
-  "generatedAt": "2026-11-13T00:06:50.884Z",
+  "updatedAt": "2026-11-13T01:35:29.874Z",
+  "generatedAt": "2026-11-13T01:35:29.874Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "id": "bbc-world",
@@ -104,6 +104,116 @@
   ],
   "articles": [
     {
+      "id": "feed-1v8ffhw",
+      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o",
+      "publishedAt": "2026-11-13T01:30:31.000Z",
+      "category": "business",
+      "summary": "We ask people in New York City how much they pay for their homes."
+    },
+    {
+      "id": "feed-ez8v78",
+      "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
+      "publishedAt": "2026-11-13T01:30:00.000Z",
+      "category": "world",
+      "summary": "Cummins speaks about allegations in Usman Khawaja’s book about the 2018 ball-tampering incident ‘Complete and utter nonsense’: Australia captain Pat Cummins hits back at Khawaja ‘sandpapergate’ claims Cummins says there’s a ‘proper way to do things’ Cummins sa"
+    },
+    {
+      "id": "feed-th74x6",
+      "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+      "publishedAt": "2026-11-13T01:29:32.000Z",
+      "category": "world",
+      "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s gon"
+    },
+    {
+      "id": "feed-1jzfd91",
+      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+      "publishedAt": "2026-11-13T01:28:40.000Z",
+      "category": "world",
+      "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps you"
+    },
+    {
+      "id": "feed-6rtxkx",
+      "title": "Microsoft outage live: Outlook and Teams failures hit government agencies, schools and businesses",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "publishedAt": "2026-11-13T01:27:43.000Z",
+      "category": "uk",
+      "summary": "Microsoft says some servers are returning to service and streamlined recovery process under way to end a global outage Microsoft begins restoring services amid global outage affecting Outlook and Teams There are plenty of essential services that remain unaffec"
+    },
+    {
+      "id": "feed-ijkk3n",
+      "title": "Microsoft begins restoring services as global outage affects Outlook and Teams",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "publishedAt": "2026-11-13T01:19:53.000Z",
+      "category": "uk",
+      "summary": "Recovery process under way, company says, after nearly 130,000 users worldwide reported access issues Microsoft outage – live updates Microsoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more than five hours on Thursday, with "
+    },
+    {
+      "id": "feed-6012eb",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo",
+      "publishedAt": "2026-11-13T01:03:59.000Z",
+      "category": "world",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
+    },
+    {
+      "id": "feed-df4qkv",
+      "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
+      "publishedAt": "2026-11-13T00:34:23.000Z",
+      "category": "world",
+      "summary": "Former police officer tells court he was attempting to compile statements about ‘bullying from a certain sergeant’ but was worried about speaking publicly Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court "
+    },
+    {
+      "id": "feed-1n7lt3m",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o",
+      "publishedAt": "2026-11-13T00:20:24.000Z",
+      "category": "world",
+      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back."
+    },
+    {
+      "id": "feed-1mb6n5b",
+      "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
+      "publishedAt": "2026-11-13T00:19:54.000Z",
+      "category": "world",
+      "summary": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her university Nearly two months after ICE agents whisked a beloved California nurse and professor from her home in Lodi, her university has ramped up calls for her releas"
+    },
+    {
+      "id": "feed-ehps32",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
+      "publishedAt": "2026-11-13T00:13:35.000Z",
+      "category": "technology",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
+    },
+    {
       "id": "feed-h1ketd",
       "title": "Who could replace the departed Jensen Huang as Nvidia CEO?",
       "source": "The Guardian",
@@ -120,18 +230,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/13/fan-bay-plotting-room-national-trust-white-cliffs-dover",
       "publishedAt": "2026-11-13T00:01:03.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Hidden bunker, entered via a hatch in a field, controlled a gun battery used to attack German ships in Channel It has been kept secret for decades, buried four metres deep into the white cliffs of Dover. But from Friday, members of the public will finally be a"
-    },
-    {
-      "id": "feed-1jzfd91",
-      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-      "publishedAt": "2026-11-12T23:54:48.000Z",
-      "category": "world",
-      "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps you"
     },
     {
       "id": "feed-mavn4z",
@@ -144,16 +244,6 @@
       "summary": "Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on Monday Russell Brand has been accused of sexual misconduct and predatory behaviour by a further six women, according to a report. The comedian, 51, is accused o"
     },
     {
-      "id": "feed-ez8v78",
-      "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
-      "publishedAt": "2026-11-12T23:44:58.000Z",
-      "category": "world",
-      "summary": "Cummins speaks about allegations in Usman Khawaja’s book about the 2018 ball-tampering incident Cummins says there’s a ‘proper way to do things’ Cummins says he believes there was a proper way to handle the sandpaper incident, pointing to the Cricket Australia"
-    },
-    {
       "id": "feed-1mi97bo",
       "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
       "source": "The Guardian",
@@ -164,6 +254,16 @@
       "summary": "Authorities identify suspect as Matt Wade Lambert, 55, who died from a self-inflicted gunshot wound Washington DC shooting latest updates Four people were injured and one person died after a shooting in Northwest Washington DC on Thursday morning, local police"
     },
     {
+      "id": "feed-1i2xvh5",
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go",
+      "publishedAt": "2026-11-12T23:42:52.000Z",
+      "category": "world",
+      "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct."
+    },
+    {
       "id": "feed-1kcku9b",
       "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
       "source": "BBC News",
@@ -171,7 +271,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
       "publishedAt": "2026-11-12T23:34:05.000Z",
       "category": "world",
-      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy."
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
     },
     {
       "id": "feed-1l9uje5",
@@ -184,14 +284,14 @@
       "summary": "Cummins insists he did not know of ball tampering plot in South Africa ‘No masterplan around using illegal methods,’ Cummins says Pat Cummins press conference – live reaction Pat Cummins has flatly denied Usman Khawaja’s claims that the entire team was implica"
     },
     {
-      "id": "feed-lzyssr",
-      "title": "Washington DC shooting: police identify victim and suspect – as it happened",
+      "id": "feed-o9bfix",
+      "title": "Did Indonesia’s vice-president just resign because he didn’t have a high school diploma?",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-      "publishedAt": "2026-11-12T22:54:05.000Z",
-      "category": "world",
-      "summary": "This blog is now closed. You can read our full report here: Police identify suspect and victim in Washington DC shooting The incident is shifting from an active shooter response to a barricaded subject response , a federal law enforcement official has told NBC"
+      "url": "https://www.theguardian.com/world/2026/nov/13/indonesia-vice-president-diploma-resignation-explained",
+      "publishedAt": "2026-11-12T23:05:02.000Z",
+      "category": "uk",
+      "summary": "Gibran Rakabuming Raka, the son of former president Joko Widodo, has faced months of questions about his eligibility for office It has been a turbulent few weeks in Indonesia, with claims the president’s phone was tapped, an uneasy political alliance seemingly"
     },
     {
       "id": "feed-15hy9qy",
@@ -354,26 +454,6 @@
       "summary": "New York mayor Zohran Mamdani says crews are working in ‘extremely dangerous conditions’ to find anyone trapped Rescue crews have continued to search for survivors in the rubble of a collapsed building in Brooklyn, New York , as the death toll rose to eight. S"
     },
     {
-      "id": "feed-1oqejkl",
-      "title": "Harry Kane spot on to seal England win over Croatia on his record-breaking night",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
-      "publishedAt": "2026-11-12T21:58:39.000Z",
-      "category": "uk",
-      "summary": "It was an historic occasion for Harry Kane, the one when he made his 126th England appearance and overtook Peter Shilton as the nation’s most capped men’s player. And for much of the night, it felt as though the desire to celebrate him, certainly beforehand, w"
-    },
-    {
-      "id": "feed-mesv69",
-      "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-      "publishedAt": "2026-11-12T21:51:47.000Z",
-      "category": "uk",
-      "summary": "Streamlined recovery process under way, company says, after nearly 130,000 users worldwide reported access issues Microsoft says a portion of servers are returning to service, and a streamlined recovery process is under way to end a global outage that has resu"
-    },
-    {
       "id": "feed-ymdd14",
       "title": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
       "source": "The Guardian",
@@ -430,7 +510,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
       "publishedAt": "2026-11-12T20:57:07.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Kayla Smith stabbed Chloe Watson Dransfield to death during planned fight over young man An 18-year-old woman who stabbed a teenage girl to death during a planned fight over a young man has pleaded guilty to murder. Chloe Watson Dransfield, 16, was attacked by"
     },
     {
@@ -444,6 +524,16 @@
       "summary": "A mechanic accused of plotting to drug and rape a man's wife offered a \"special serum\" to make her unconscious, a court has heard."
     },
     {
+      "id": "feed-15ru4kv",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
+      "publishedAt": "2026-11-12T20:25:29.000Z",
+      "category": "business",
+      "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\"."
+    },
+    {
       "id": "feed-12qu39z",
       "title": "Jensen Huang has resigned, what's next for Nvidia?",
       "source": "BBC News",
@@ -452,16 +542,6 @@
       "publishedAt": "2026-11-12T20:21:03.000Z",
       "category": "business",
       "summary": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss."
-    },
-    {
-      "id": "feed-1qdg691",
-      "title": "CDC reports six measles deaths in 2026 as US battles worst outbreak in 35 years",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/cdc-measles-deaths",
-      "publishedAt": "2026-11-12T20:19:45.000Z",
-      "category": "uk",
-      "summary": "Figures highlight spread of virus, officially declared eliminated in US in 2000, but CDC does not identify which states accounted for deaths The Centers for Disease Control and Prevention (CDC) reported six measles-related deaths in the US this year, according"
     },
     {
       "id": "feed-11j6mi4",
@@ -544,16 +624,6 @@
       "summary": "CEO was viewed as ‘irreplaceable’, but recklessness of affair with a woman regarded by US officials as a Chinese spy made him a political liability Half the tech world made up its mind before the facts could be assessed properly. Jensen Huang was “irreplaceabl"
     },
     {
-      "id": "feed-6b8wa6",
-      "title": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
-      "publishedAt": "2026-11-12T18:38:13.000Z",
-      "category": "world",
-      "summary": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality Ministers are looking at ways to change the law quickly to expand protections that stop non-disclosure agreements being used to cover up harassment o"
-    },
-    {
       "id": "feed-1wam0k9",
       "title": "Thanks to American oligarchy, Jensen Huang’s midlife crisis is a problem for all of us | Moira Donegan",
       "source": "The Guardian",
@@ -610,7 +680,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
       "publishedAt": "2026-11-12T17:50:35.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what mig"
     },
     {
@@ -1154,16 +1224,6 @@
       "summary": "A bomb alert at a French train station disrupted journeys including international travel, with Eurostar trains among those affected."
     },
     {
-      "id": "feed-13akj7n",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
-      "publishedAt": "2026-11-12T08:46:57.000Z",
-      "category": "world",
-      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo."
-    },
-    {
       "id": "feed-1ac4uwo",
       "title": "Poundland secures extended deadline for possible rescue",
       "source": "Sky News",
@@ -1172,26 +1232,6 @@
       "publishedAt": "2026-11-12T08:24:00.000Z",
       "category": "uk",
       "summary": "Crisis-hit Poundland has secured an extended deadline for a potential rescue amid political pressure for a solvent sale of the chain."
-    },
-    {
-      "id": "feed-1p6vqti",
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo",
-      "publishedAt": "2026-11-12T07:45:52.000Z",
-      "category": "world",
-      "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from."
-    },
-    {
-      "id": "feed-s01ggy",
-      "title": "Can Nigeria's president regain voters' trust after painful first term?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
-      "publishedAt": "2026-11-12T07:30:44.000Z",
-      "category": "world",
-      "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say."
     },
     {
       "id": "feed-flvsn7",
@@ -1300,7 +1340,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/sharp-rise-in-life-threatening-antibiotic-resistant-infections-13611268",
       "publishedAt": "2026-11-12T00:45:00.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Hundreds of people are being diagnosed with potentially life-threatening antibiotic-resistant infections each week, new figures suggest."
     },
     {
@@ -1362,36 +1402,6 @@
       "publishedAt": "2026-11-11T17:59:35.000Z",
       "category": "business",
       "summary": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday."
-    },
-    {
-      "id": "feed-lncg88",
-      "title": "Brad Friedel on Shrewsbury Town takeover",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo",
-      "publishedAt": "2026-11-11T17:55:43.000Z",
-      "category": "business",
-      "summary": "New Shrewsbury Town sporting director Brad Friedel talks exclusively to BBC Radio Shropshire about the club's takeover."
-    },
-    {
-      "id": "feed-1pof5tb",
-      "title": "Workers across Spain stage first general strike in 14 years",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo",
-      "publishedAt": "2026-11-11T17:01:07.000Z",
-      "category": "business",
-      "summary": "People across Spain are striking, primarily over housing costs."
-    },
-    {
-      "id": "feed-im14do",
-      "title": "Protesters gather in Spain for first general strike in 14 years",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cwj0587gde88o",
-      "publishedAt": "2026-11-11T16:12:12.000Z",
-      "category": "business",
-      "summary": "Thousands are protesting across Spain over housing and the high cost of living."
     },
     {
       "id": "feed-1kd74gc",
@@ -1474,16 +1484,6 @@
       "summary": "Researchers discover a potential diagnostic breakthrough for a disease often ⁠discovered after it has already spread A molecular signal in the blood helps identify microscopic changes that precede development of ovarian cancer, researchers have found, ⁠a poten"
     },
     {
-      "id": "feed-ma94wv",
-      "title": "What are cold weather payments and who can get them?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c87470q4w21o",
-      "publishedAt": "2026-11-11T12:49:31.000Z",
-      "category": "business",
-      "summary": "Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells."
-    },
-    {
       "id": "feed-w3853u",
       "title": "Millions of pensioners start receiving up to £300 winter payment - what you need to know",
       "source": "Sky News",
@@ -1552,16 +1552,6 @@
       "publishedAt": "2026-11-11T09:36:00.000Z",
       "category": "technology",
       "summary": "Millions of people may have been misclassified on the body mass index (BMI) scale, research has suggested."
-    },
-    {
-      "id": "feed-12217n5",
-      "title": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
-      "publishedAt": "2026-11-11T07:00:33.000Z",
-      "category": "technology",
-      "summary": "Office for Students says institutions in England should return to traditional exams and in-person presentations Universities should go back to traditional exams and in-person presentations to grade students after lecturers complained that AI has made it “close"
     },
     {
       "id": "feed-1ac30by",
@@ -1702,16 +1692,6 @@
       "publishedAt": "2026-11-10T07:00:52.000Z",
       "category": "science",
       "summary": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective disorder, or Sad, and can "
-    },
-    {
-      "id": "feed-vtjj0j",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po",
-      "publishedAt": "2026-11-10T05:22:39.000Z",
-      "category": "technology",
-      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
     },
     {
       "id": "feed-b26zfq",

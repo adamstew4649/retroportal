@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T00:06:50.880Z",
+  "updatedAt": "2026-11-13T01:35:29.870Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
@@ -8,12 +8,20 @@
   },
   "articles": [
     {
+      "id": "feed-ehps32",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T00:13:35.000Z",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
+    },
+    {
       "id": "feed-1kcku9b",
       "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
       "source": "BBC News",
       "publishedAt": "2026-11-12T23:34:05.000Z",
-      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy."
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
     },
     {
       "id": "feed-ws3i82",
@@ -110,14 +118,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-10T08:23:21.000Z",
       "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
-    },
-    {
-      "id": "feed-vtjj0j",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T05:22:39.000Z",
-      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
     },
     {
       "id": "feed-nzwtml",
