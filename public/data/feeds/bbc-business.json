@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T23:28:08.628Z",
+  "updatedAt": "2026-11-13T00:06:50.880Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-1kcku9b",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T23:34:05.000Z",
+      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy."
+    },
     {
       "id": "feed-15hy9qy",
       "title": "Some under-25s should get fewer benefits, Milburn review to say",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-11T12:49:31.000Z",
       "summary": "Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells."
-    },
-    {
-      "id": "feed-1ji8sq6",
-      "title": "Christmas toy rush being driven by squishies and building sets",
-      "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T07:52:05.000Z",
-      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity."
     }
   ]
 }

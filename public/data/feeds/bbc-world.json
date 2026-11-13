@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T23:28:08.627Z",
+  "updatedAt": "2026-11-13T00:06:50.880Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-1kcku9b",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-12T23:34:05.000Z",
+      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy."
+    },
     {
       "id": "feed-1wqy5gw",
       "title": "Search for British woman missing from Tui cruise in Atlantic called off",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-12T07:30:44.000Z",
       "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say."
-    },
-    {
-      "id": "feed-44j5sk",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T04:03:13.000Z",
-      "summary": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef."
     }
   ]
 }
