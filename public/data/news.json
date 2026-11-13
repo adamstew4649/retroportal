@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T22:30:59.063Z",
-  "generatedAt": "2026-11-13T22:30:59.063Z",
+  "updatedAt": "2026-11-13T23:27:33.783Z",
+  "generatedAt": "2026-11-13T23:27:33.783Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -63,9 +63,8 @@
       "id": "guardian-technology",
       "name": "The Guardian",
       "url": "https://www.theguardian.com/uk/technology/rss",
-      "ok": false,
-      "error": "fetch failed",
-      "count": 0
+      "ok": true,
+      "count": 18
     },
     {
       "id": "guardian-business",
@@ -105,24 +104,104 @@
   ],
   "articles": [
     {
-      "id": "feed-1qp3puw",
-      "title": "Flights grounded at all US airports due to air traffic control ‘communication issue’, transport secretary says – live",
+      "id": "feed-1yrjkcz",
+      "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-      "publishedAt": "2026-11-13T22:16:39.000Z",
+      "publishedAt": "2026-11-13T23:10:48.000Z",
       "category": "uk",
-      "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating the issue, which has delayed thousands of flights FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up for the Breaking News US email In o"
+      "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump’s homeland security secretary says ‘no indication as of yet’ of cyberattack FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up fo"
     },
     {
-      "id": "feed-sni3j7",
-      "title": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates",
+      "id": "feed-16i39oj",
+      "title": "New Orleans boat crash live: all passengers and crew found alive in ‘miracle on the Mississippi’",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
-      "publishedAt": "2026-11-13T22:14:45.000Z",
+      "publishedAt": "2026-11-13T23:03:17.000Z",
       "category": "uk",
-      "summary": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans A video circulating around social media shows a different angle during the moment"
+      "summary": "New Orleans mayor says 32 people are being treated for minor injuries after ship narrowly missed striking a major bridge Tanker collides with cruise ship on Mississippi River in New Orleans A video circulating around social media shows a different angle during"
+    },
+    {
+      "id": "feed-fccpf6",
+      "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+      "publishedAt": "2026-11-13T23:01:06.000Z",
+      "category": "world",
+      "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ Flights grounded at all US airports due to communications outage – live The Federal Aviation Administration (FAA) has "
+    },
+    {
+      "id": "feed-85meng",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
+      "publishedAt": "2026-11-13T23:00:31.000Z",
+      "category": "world",
+      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
+    },
+    {
+      "id": "feed-1nrggwe",
+      "title": "Watch: Children in Need 2026... in 90 seconds",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cqdr1jvylv1xo",
+      "publishedAt": "2026-11-13T22:57:51.000Z",
+      "category": "uk",
+      "summary": "Some of the key moments from Children In Need 2026, which raised nearly £40m by the end of Friday night's live programme."
+    },
+    {
+      "id": "feed-zyjfwt",
+      "title": "Probation officers to take industrial action over pay and early release scheme",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6pv92pl02kpo",
+      "publishedAt": "2026-11-13T22:39:33.000Z",
+      "category": "uk",
+      "summary": "It comes as prisons prepare to free more inmates early in the coming months."
+    },
+    {
+      "id": "feed-1enyhfb",
+      "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+      "publishedAt": "2026-11-13T22:36:38.000Z",
+      "category": "uk",
+      "summary": "Statement a rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab Israelis Israeli prime ministerial hopeful Gadi Eisenkot accused caretaker premier Benjamin Netanyahu on Friday of fuelling a “racist” campaign against th"
+    },
+    {
+      "id": "feed-aei61x",
+      "title": "France cling on for furious victory against South Africa after Dupont sizzles",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/13/france-south-africa-nations-championship-match-report",
+      "publishedAt": "2026-11-13T22:35:06.000Z",
+      "category": "uk",
+      "summary": "France 21-19 South Africa Scrum-half key in thriller full of twists and turns Friday night at the Stade de France may just be the best show in sport. The French had laid on a full Cecil B DeMille production: fireworks, flamethrowers, floodlights, a multicolour"
+    },
+    {
+      "id": "feed-1yhzww",
+      "title": "US Air Force responds to suspected drone activity at RAF Lakenheath",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
+      "publishedAt": "2026-11-13T22:31:05.000Z",
+      "category": "uk",
+      "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US Air Force has said it responded to “suspected unauthorised drone activity” on Friday night at an RAF airbase in the east of England. No personnel, aircraft or infrastruc"
+    },
+    {
+      "id": "feed-zbwd1w",
+      "title": "John McGinn double saves Scotland’s blushes against North Macedonia",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
+      "publishedAt": "2026-11-13T22:16:31.000Z",
+      "category": "uk",
+      "summary": "A special occasion for Andy Robertson saw Scotland flirt with embarrassment. Collection of his 102nd cap moves him level with Kenny Dalglish in the all-time Scottish list. Robertson will soon be a record holder. This was, however, John McGinn’s night. A double"
     },
     {
       "id": "feed-1tgzqfz",
@@ -131,7 +210,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
       "publishedAt": "2026-11-13T22:12:54.000Z",
-      "category": "world",
+      "category": "uk",
       "summary": "Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribes Hungary’s anti-corruption agency said on Friday it had seized cash worth $19.5m (£14.8m) buried in forests and hidden elsewhere while investig"
     },
     {
@@ -145,26 +224,6 @@
       "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening."
     },
     {
-      "id": "feed-1sillxt",
-      "title": "Scotland 2-1 North Macedonia: Nations League – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/nov/13/scotland-v-north-macedonia-nations-league-live",
-      "publishedAt": "2026-11-13T22:12:22.000Z",
-      "category": "uk",
-      "summary": "Nations League updates from 7.45pm GMT kick-off Live scores | Follow us on BlueSky | And email Scott 3 min: Robertson is into the action quickly. He crosses from the left. The ball’s deflected and sent on a strange arc towards the top-left corner, but Musliu h"
-    },
-    {
-      "id": "feed-m4f573",
-      "title": "Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death",
-      "publishedAt": "2026-11-13T22:04:08.000Z",
-      "category": "uk",
-      "summary": "FC Andorra goalkeeper collided with De Miguel Owono: ‘I feel immense pain over the loss of Jesús’ The FC Andorra goalkeeper Jesús Owono was suspended for 12 matches by the Spanish football federation’s disciplinary committee on Friday after his challenge on Je"
-    },
-    {
       "id": "feed-17jkxwk",
       "title": "Tanker collides with cruise ship on Mississippi River in New Orleans",
       "source": "The Guardian",
@@ -173,16 +232,6 @@
       "publishedAt": "2026-11-13T21:49:50.000Z",
       "category": "world",
       "summary": "Large emergency response under way to rescue people from the water, with overnight cruise ship on its side New Orleans river collision – latest updates A tanker collided with a river cruise ship docked on the Mississippi River in New Orleans on Friday afternoo"
-    },
-    {
-      "id": "feed-at0kcz",
-      "title": "FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-      "publishedAt": "2026-11-13T21:44:48.000Z",
-      "category": "world",
-      "summary": "Transportation secretary Sean Duffy said stoppage is due to ‘communication issue’ and that FAA is looking into issue The Federal Aviation Administration (FAA) has issued a nationwide ground stop for all flights that are due to take off in the US on Friday, del"
     },
     {
       "id": "feed-nhjasr",
@@ -245,18 +294,8 @@
       "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
     },
     {
-      "id": "feed-yd9h3k",
-      "title": "US air force responds to suspected drone activity at RAF Lakenheath",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
-      "publishedAt": "2026-11-13T21:01:40.000Z",
-      "category": "uk",
-      "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US air force has said it responded to “suspected unauthorised drone activity” on Friday night at an airbase in the east of England. No personnel, aircraft or infrastructure"
-    },
-    {
-      "id": "feed-1v2k15n",
-      "title": "Probation officers in England and Wales vote for strike action over pay and workloads",
+      "id": "feed-73ctd",
+      "title": "Probation officers in England and Wales vote to strike over pay and workloads",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
@@ -281,7 +320,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
       "publishedAt": "2026-11-13T20:37:58.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "This live blog is now closed. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by "
     },
     {
@@ -291,7 +330,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
       "publishedAt": "2026-11-13T20:12:02.000Z",
-      "category": "science",
+      "category": "world",
       "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time."
     },
     {
@@ -421,18 +460,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
       "publishedAt": "2026-11-13T18:55:08.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Parents take action while several independent bookshops say they had already stopped stocking his titles In Sarah’s house, David Walliams has been a bedtime staple for years. Her children, aged eight, six and four, have dressed up as his characters for World B"
-    },
-    {
-      "id": "feed-po0wt2",
-      "title": "Police launch investigation into David Walliams over alleged serious sexual offences",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
-      "publishedAt": "2026-11-13T18:53:28.000Z",
-      "category": "uk",
-      "summary": "Met police say allegations are separate from those made by multiple women in Guardian and ITV investigation The Metropolitan police have launched a criminal investigation into David Walliams over alleged serious sexual offences. Walliams, 55, was accused in re"
     },
     {
       "id": "feed-6nausf",
@@ -755,6 +784,16 @@
       "summary": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation."
     },
     {
+      "id": "feed-1x5mdxi",
+      "title": "Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+      "publishedAt": "2026-11-13T14:17:09.000Z",
+      "category": "technology",
+      "summary": "Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief’s signature look is now being mocked as a midlife crisis cliche For nearly two decades a black leather jacket has been a key part of Jensen Huang’s look. Now it has become a punchline. As"
+    },
+    {
       "id": "feed-1bqzbhb",
       "title": "Shoplifters 'stealing to order' in Scottish shops",
       "source": "BBC News",
@@ -763,16 +802,6 @@
       "publishedAt": "2026-11-13T14:16:09.000Z",
       "category": "business",
       "summary": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically."
-    },
-    {
-      "id": "feed-njhnzo",
-      "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
-      "publishedAt": "2026-11-13T13:52:11.000Z",
-      "category": "world",
-      "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on"
     },
     {
       "id": "feed-hem0zy",
@@ -845,6 +874,16 @@
       "summary": "Big tech has used misdirection, disinformation and jargon to obscure the harm the facilities can cause to communities “Antifa”. “Commies”. “Chinese bots”. Everyone from tech leaders to the president has called datacenter resistance a “ documented psyop ” and a"
     },
     {
+      "id": "feed-9q2xaa",
+      "title": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
+      "publishedAt": "2026-11-13T12:54:16.000Z",
+      "category": "technology",
+      "summary": "Ministers consider banning under-16s from online marketplaces amid reported misuse of messaging functions and users’ photos In June, Hannah* listed her seven-year-old daughter’s pink swimming costume for sale on Vinted, hoping other parents surfing the reselli"
+    },
+    {
       "id": "feed-l1wlpr",
       "title": "New York is running out of room for its waste even with Statue of Liberty-sized landfill",
       "source": "The Guardian",
@@ -885,6 +924,26 @@
       "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed."
     },
     {
+      "id": "feed-1c6dyhy",
+      "title": "US university students tell surveillance cameras to Flock off",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+      "publishedAt": "2026-11-13T12:00:18.000Z",
+      "category": "technology",
+      "summary": "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the country Angela Nguyen, a senior at Stanford University, has been on a mission to make sure her school doesn’t use automated license plate readers, like thos"
+    },
+    {
+      "id": "feed-9i5x6q",
+      "title": "Why the Nvidia cheating scandal is bad for Trump | Politics Weekly America",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/video/2026/nov/13/why-the-nvidia-cheating-scandal-is-bad-for-trump-politics-weekly-america",
+      "publishedAt": "2026-11-13T12:00:18.000Z",
+      "category": "technology",
+      "summary": "Jonathan Freedland speaks to Susan Glasser of the New Yorker about why Trump’s judgment of high-profile men is questionable Continue reading..."
+    },
+    {
       "id": "feed-nsr55r",
       "title": "Jeffrey Donaldson's wife Eleanor placed on sex offenders' register after his rape conviction",
       "source": "Sky News",
@@ -915,16 +974,6 @@
       "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews."
     },
     {
-      "id": "feed-qp9g5j",
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o",
-      "publishedAt": "2026-11-13T11:37:08.000Z",
-      "category": "world",
-      "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths."
-    },
-    {
       "id": "feed-1b6y4jt",
       "title": "Go Compare owner Future eyes sale of business arm",
       "source": "Sky News",
@@ -941,7 +990,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/cybertruck-maga-hat-on-wheels-end",
       "publishedAt": "2026-11-13T11:00:17.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "Eccentric and overhyped, Tesla’s Cybertruck became a stand-in for Elon Musk during his ascent in the Republican party. It will join the ranks of other vehicles symbolic of their eras – for better or for worse Three days after a historic blue tsunami changed Am"
     },
     {
@@ -1065,16 +1114,6 @@
       "summary": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\"."
     },
     {
-      "id": "feed-e3tv3e",
-      "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmyy4ee1pwo",
-      "publishedAt": "2026-11-13T06:22:12.000Z",
-      "category": "uk",
-      "summary": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\"."
-    },
-    {
       "id": "feed-9ec7ig",
       "title": "Cider makers fear future for orchards as costs grow",
       "source": "BBC News",
@@ -1093,16 +1132,6 @@
       "publishedAt": "2026-11-13T06:12:20.000Z",
       "category": "world",
       "summary": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?"
-    },
-    {
-      "id": "feed-pbfbj9",
-      "title": "How Children in Need is helping young people grow in confidence",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmx232131d14o",
-      "publishedAt": "2026-11-13T06:09:31.000Z",
-      "category": "uk",
-      "summary": "Rachel, who is a young carer for her brother Reuben, is among those supported by the campaign's funding."
     },
     {
       "id": "feed-1tr3h5h",
@@ -1165,16 +1194,6 @@
       "summary": "Chief financial officer, reportedly disparaged by Huang during summer meeting, to take over on short-term basis The hunt is on for a new Nvidia CEO. It comes after a whirlwind week, which saw the company head and co-founder, Jensen Huang, resign amid multiple "
     },
     {
-      "id": "feed-3pe6s",
-      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
-      "publishedAt": "2026-11-13T02:48:29.000Z",
-      "category": "world",
-      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
-    },
-    {
       "id": "feed-4ujeyj",
       "title": "Global Microsoft outage affecting tens of thousands of users",
       "source": "BBC News",
@@ -1221,7 +1240,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
       "publishedAt": "2026-11-13T00:13:35.000Z",
-      "category": "technology",
+      "category": "business",
       "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
     },
     {
@@ -1265,6 +1284,26 @@
       "summary": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss."
     },
     {
+      "id": "feed-w1bprq",
+      "title": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
+      "publishedAt": "2026-11-12T18:46:48.000Z",
+      "category": "technology",
+      "summary": "CEO was viewed as ‘irreplaceable’, but recklessness of affair with a woman regarded by US officials as a Chinese spy made him a political liability Half the tech world made up its mind before the facts could be assessed properly. Jensen Huang was “irreplaceabl"
+    },
+    {
+      "id": "feed-g4w0ht",
+      "title": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
+      "publishedAt": "2026-11-12T17:50:35.000Z",
+      "category": "technology",
+      "summary": "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what mig"
+    },
+    {
       "id": "feed-ws3i82",
       "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
       "source": "BBC News",
@@ -1275,6 +1314,26 @@
       "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
     },
     {
+      "id": "feed-oee2nu",
+      "title": "US public workers are fighting to protect their jobs from AI – and some are winning",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
+      "publishedAt": "2026-11-12T15:00:44.000Z",
+      "category": "technology",
+      "summary": "As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms In the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillanc"
+    },
+    {
+      "id": "feed-bs41wl",
+      "title": "‘To them, we’re just NPCs’: the artists and activists challenging Trump’s video game propaganda",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
+      "publishedAt": "2026-11-12T14:00:43.000Z",
+      "category": "technology",
+      "summary": "Order a Diet Coke or invade Iran – that’s the choice facing the US president in one of several satirical games, as designers turn the gamification of politics back on the White House In early September, the Trump White House announced a surprising new addition"
+    },
+    {
       "id": "feed-19iwaza",
       "title": "Man shot dead in Washington DC gym is named",
       "source": "Sky News",
@@ -1283,6 +1342,16 @@
       "publishedAt": "2026-11-12T13:34:00.000Z",
       "category": "world",
       "summary": "A man shot dead in a Washington DC gym on Thursday has been named."
+    },
+    {
+      "id": "feed-1qbq2wg",
+      "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+      "publishedAt": "2026-11-12T13:14:38.000Z",
+      "category": "technology",
+      "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, afte"
     },
     {
       "id": "feed-1lhthrp",
@@ -1345,6 +1414,26 @@
       "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey."
     },
     {
+      "id": "feed-1tvu2wz",
+      "title": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
+      "publishedAt": "2026-11-12T11:00:47.000Z",
+      "category": "technology",
+      "summary": "Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data tech NHS England has deleted a claim from its website stating 137 hospital trusts are benefiting from Palantir’s AI health data system after the Guardia"
+    },
+    {
+      "id": "feed-wodyl0",
+      "title": "Datacentres are deeply unpopular. Has Sweden made one we can all love?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun",
+      "publishedAt": "2026-11-12T11:00:46.000Z",
+      "category": "technology",
+      "summary": "It is built of wood, resembles an Ikea and its power is totally renewable. Plus, it was built with the local community in mind. Is this facility in Falun the best datacentre in the world? ‘It was pretty cool, when they were building it. It looked like a very l"
+    },
+    {
       "id": "feed-tzbj9p",
       "title": "Under-fire Poundland owner 'among suitors' for footwear chain Dune",
       "source": "Sky News",
@@ -1353,6 +1442,16 @@
       "publishedAt": "2026-11-12T10:15:00.000Z",
       "category": "business",
       "summary": "The beleaguered owner of Poundland is among the parties who have been considering offers for Dune, the British footwear retailer, even as its biggest UK high street asset teeters on the brink of collapse."
+    },
+    {
+      "id": "feed-17sxqal",
+      "title": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/games/2026/nov/12/tanuki-pons-summer-review",
+      "publishedAt": "2026-11-12T10:00:15.000Z",
+      "category": "technology",
+      "summary": "Nintendo Switch/2, PlayStation 4/5, Xbox One/series X/S, PC; Denkiworks/Inpleron Limited This gentle game of fixing and fetching, in which you play as a furry post office worker on a BMX, has a slow, calming magic that delights in routine and restoration Arriv"
     },
     {
       "id": "feed-1s8i5rv",
@@ -1373,6 +1472,16 @@
       "publishedAt": "2026-11-12T08:24:00.000Z",
       "category": "business",
       "summary": "Crisis-hit Poundland has secured an extended deadline for a potential rescue amid political pressure for a solvent sale of the chain."
+    },
+    {
+      "id": "feed-flvsn7",
+      "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+      "publishedAt": "2026-11-12T06:55:44.000Z",
+      "category": "technology",
+      "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Get our daily political email , free app or daily news podcast Entry-level jobs will be the first to be automated due to AI, but it could "
     },
     {
       "id": "feed-11w1xwm",
@@ -1423,6 +1532,16 @@
       "publishedAt": "2026-11-12T00:45:00.000Z",
       "category": "technology",
       "summary": "Hundreds of people are being diagnosed with potentially life-threatening antibiotic-resistant infections each week, new figures suggest."
+    },
+    {
+      "id": "feed-1h3b64y",
+      "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+      "publishedAt": "2026-11-12T00:01:03.000Z",
+      "category": "technology",
+      "summary": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checks Police officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, a"
     },
     {
       "id": "feed-1kd74gc",

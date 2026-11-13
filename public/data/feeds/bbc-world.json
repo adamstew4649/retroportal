@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T22:30:59.055Z",
+  "updatedAt": "2026-11-13T23:27:33.777Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-85meng",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T23:00:31.000Z",
+      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
+    },
+    {
       "id": "feed-7q7fz2",
       "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
       "source": "BBC News",
       "publishedAt": "2026-11-13T21:14:22.000Z",
       "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+    },
+    {
+      "id": "feed-19y15w9",
+      "title": "SpaceX to attempt double catch of huge Starship rocket",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T20:12:02.000Z",
+      "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time."
     },
     {
       "id": "feed-12igqqh",
@@ -112,14 +128,6 @@
       "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews."
     },
     {
-      "id": "feed-qp9g5j",
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T11:37:08.000Z",
-      "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths."
-    },
-    {
       "id": "feed-ob3ddw",
       "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
       "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T06:12:20.000Z",
       "summary": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?"
-    },
-    {
-      "id": "feed-3pe6s",
-      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T02:48:29.000Z",
-      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
     }
   ]
 }
