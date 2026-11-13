@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T04:43:21.081Z",
-  "generatedAt": "2026-11-13T04:43:21.081Z",
+  "updatedAt": "2026-11-13T05:46:08.440Z",
+  "generatedAt": "2026-11-13T05:46:08.440Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -92,7 +92,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/technology.xml",
       "ok": true,
-      "count": 9
+      "count": 10
     },
     {
       "id": "sky-business",
@@ -104,24 +104,74 @@
   ],
   "articles": [
     {
-      "id": "feed-171msbv",
-      "title": "Australia v England: first men’s cricket one-day international – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/13/australia-vs-england-cricket-odi-perth-live-scores",
-      "publishedAt": "2026-11-13T04:30:03.000Z",
-      "category": "uk",
-      "summary": "Updates from the ODI series opener at Perth Stadium Any thoughts? Get in touch with an email All the talk of past deeds and perhaps even future global tournaments can be pushed aside as Xavier Bartlett stands at the top of his mark with Tom Banton on strike an"
-    },
-    {
       "id": "feed-ph98ea",
       "title": "Microsoft outage live: Microsoft scrambling for new ways to fix global outage after initial attempts fail to restore Outlook services",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-      "publishedAt": "2026-11-13T04:27:51.000Z",
+      "publishedAt": "2026-11-13T05:29:29.000Z",
       "category": "uk",
       "summary": "Microsoft says some servers are returning to service and a recovery process is under way to end global outage Microsoft begins restoring services amid global outage affecting Outlook and Teams There are plenty of essential services that remain unaffected by th"
+    },
+    {
+      "id": "feed-171msbv",
+      "title": "Australia v England: first men’s cricket one-day international – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/13/australia-vs-england-cricket-odi-perth-live-scores",
+      "publishedAt": "2026-11-13T05:28:28.000Z",
+      "category": "uk",
+      "summary": "Updates from the ODI series opener at Perth Stadium Any thoughts? Get in touch with an email All the talk of past deeds and perhaps even future global tournaments can be pushed aside as Xavier Bartlett stands at the top of his mark with Tom Banton on strike an"
+    },
+    {
+      "id": "feed-th74x6",
+      "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+      "publishedAt": "2026-11-13T05:22:37.000Z",
+      "category": "world",
+      "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s gon"
+    },
+    {
+      "id": "feed-6i9rc6",
+      "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse",
+      "publishedAt": "2026-11-13T05:00:09.000Z",
+      "category": "world",
+      "summary": "Defence minister says extent of sexual misconduct found by study is ‘unacceptable’, as military tries to attract more recruits Germany’s defence minister has promised a “zero tolerance” approach to sexual abuse in the armed forces after a study found soldiers,"
+    },
+    {
+      "id": "feed-1d261cs",
+      "title": "Minister’s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
+      "publishedAt": "2026-11-13T04:51:17.000Z",
+      "category": "world",
+      "summary": "Royal commission also hears from construction company employee who says workers were ‘fearful’ of union Get our breaking news email , free app or daily news podcast A major contractor on a troubled Victorian rail project shut down by union officials was warned"
+    },
+    {
+      "id": "feed-iex4qa",
+      "title": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
+      "publishedAt": "2026-11-13T04:40:14.000Z",
+      "category": "world",
+      "summary": "Government services and schools impacted by Outlook and Teams issue as company says fix not ‘taking as expected’ Microsoft outage – live updates Microsoft struggles to fix huge outage affecting Outlook and Teams Australian schools, courts and government servic"
+    },
+    {
+      "id": "feed-1ud81vg",
+      "title": "Microsoft suffers global outage - as fix not going 'as expected'",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/microsoft-suffers-global-outage-as-fix-not-going-as-expected-13611760",
+      "publishedAt": "2026-11-13T04:33:00.000Z",
+      "category": "technology",
+      "summary": "A widespread outage has hit Microsoft platforms, with a fix \"not taking as expected\"."
     },
     {
       "id": "feed-veclcb",
@@ -132,26 +182,6 @@
       "publishedAt": "2026-11-13T04:24:26.000Z",
       "category": "uk",
       "summary": "Company has ruled out a cyber attack but says fixes to help thousands of affected users have not been successful Microsoft outage – live updates Microsoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more than nine hours on Thur"
-    },
-    {
-      "id": "feed-1d261cs",
-      "title": "Minister’s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
-      "publishedAt": "2026-11-13T04:18:06.000Z",
-      "category": "world",
-      "summary": "Royal commission also hears from construction company employee who says workers were ‘fearful’ of union Get our breaking news email , free app or daily news podcast A major contractor on a troubled Victorian rail project shut down by union officials was warned"
-    },
-    {
-      "id": "feed-th74x6",
-      "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-      "publishedAt": "2026-11-13T04:15:57.000Z",
-      "category": "world",
-      "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s gon"
     },
     {
       "id": "feed-1p0w5ge",
@@ -254,8 +284,8 @@
       "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
     },
     {
-      "id": "feed-15ru4kv",
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "id": "feed-4ujeyj",
+      "title": "Global Microsoft outage affecting tens of thousands of users",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
@@ -282,16 +312,6 @@
       "publishedAt": "2026-11-13T02:30:07.000Z",
       "category": "world",
       "summary": "Maryland Democrat challenges party leader after midterms sweep, saying: ‘The American people called for change’ Chris Van Hollen, the Democratic senator of Maryland, announced on Thursday that he is challenging Chuck Schumer for the role of Senate majority lea"
-    },
-    {
-      "id": "feed-1hxu03v",
-      "title": "Pat Cummins addresses ball-tampering claims in marathon press conference – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
-      "publishedAt": "2026-11-13T02:08:37.000Z",
-      "category": "world",
-      "summary": "This blog is now closed ‘Complete and utter nonsense’: Australia captain Pat Cummins hits back at Khawaja ‘sandpapergate’ claims Cummins says there’s a ‘proper way to do things’ Cummins says he believes there was a proper way to handle the sandpaper incident, "
     },
     {
       "id": "feed-1k6ek4s",
@@ -484,14 +504,14 @@
       "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found."
     },
     {
-      "id": "feed-1kau82r",
-      "title": "Gauff saves three set points to beat Kostyuk and keep WTA Finals hopes alive",
+      "id": "feed-8xb7gv",
+      "title": "Pegula saves match point to reach WTA Finals semi-finals as Gauff exits",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
       "publishedAt": "2026-11-12T22:40:15.000Z",
       "category": "uk",
-      "summary": "American saves three set points in second-set rally Gauff wins six straight games to seal 6-4, 7-5 victory World No 4 needs Noskova help to reach last four Coco Gauff clawed out a 6-4, 7-5 round-robin victory over Marta Kostyuk on Thursday to keep her WTA Fina"
+      "summary": "American saves match point in 7-6, 4-6, 7-5 victory Pegula advances as compatriot Gauff is eliminated Hot-mic controversy adds spice to Andreeva semi Jessica Pegula saved a match point en route to a gritty 7-6 (7-2), 4-6, 7-5 win over Linda Noskova on Thursday"
     },
     {
       "id": "feed-u3ppqx",
@@ -604,21 +624,11 @@
       "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean."
     },
     {
-      "id": "feed-zngz5h",
-      "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-      "publishedAt": "2026-11-12T21:00:12.000Z",
-      "category": "world",
-      "summary": "Move by Norway ‘a further tightening’ of current rules Russians ‘have no business’ in Finland, says minister Norway’s government announced that it would prevent Russian and Belarusian professional athletes from coming to Norway to compete, hours after neighbou"
-    },
-    {
-      "id": "feed-1ly3lt9",
+      "id": "feed-s7t8qd",
       "title": "BBC Inside Science",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct978l",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia",
       "publishedAt": "2026-11-12T21:00:00.000Z",
       "category": "science",
       "summary": "A weekly programme looking at the science that's changing our world."
