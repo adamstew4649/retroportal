@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T06:49:11.256Z",
+  "updatedAt": "2026-11-13T08:05:48.457Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-voe4b5",
+      "title": "What we know about the global Microsoft outage",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T08:01:25.000Z",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+    },
+    {
+      "id": "feed-1d0lguk",
+      "title": "What happened overnight with the Microsoft global outage",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T07:18:17.000Z",
+      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
+    },
     {
       "id": "feed-1p0w5ge",
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
@@ -102,22 +118,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-10T20:30:00.000Z",
       "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout."
-    },
-    {
-      "id": "feed-4evpo5",
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T17:56:12.000Z",
-      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected."
-    },
-    {
-      "id": "feed-fmc2r4",
-      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T09:23:55.000Z",
-      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses."
     },
     {
       "id": "feed-nzwtml",
