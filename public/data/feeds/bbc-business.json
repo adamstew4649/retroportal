@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T20:39:00.738Z",
+  "updatedAt": "2026-11-13T21:34:21.732Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "link": "https://www.bbc.co.uk/news/business"
   },
   "articles": [
+    {
+      "id": "feed-7q7fz2",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T21:14:22.000Z",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+    },
     {
       "id": "feed-oo09hf",
       "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-12T17:11:48.000Z",
       "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
-    },
-    {
-      "id": "feed-1uim001",
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T15:10:32.000Z",
-      "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors."
     }
   ]
 }

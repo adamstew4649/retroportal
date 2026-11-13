@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T20:39:00.737Z",
+  "updatedAt": "2026-11-13T21:34:21.732Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://www.bbc.co.uk/news/world"
   },
   "articles": [
+    {
+      "id": "feed-7q7fz2",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T21:14:22.000Z",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+    },
     {
       "id": "feed-12igqqh",
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T02:48:29.000Z",
       "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
-    },
-    {
-      "id": "feed-19f3f8f",
-      "title": "Will the Eurovision Song Contest succeed in Asia?",
-      "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T02:24:11.000Z",
-      "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday."
     }
   ]
 }
