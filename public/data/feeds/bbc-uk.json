@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T14:39:58.817Z",
+  "updatedAt": "2026-11-13T15:33:23.598Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1ga5uys",
+      "title": "Former Hamas bodyguard guilty of UK knife attack",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T15:17:37.000Z",
+      "summary": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020."
+    },
     {
       "id": "feed-l4u04x",
       "title": "'Hardest challenge of my life' - Owain Wyn Evans completes Children in Need ride",
@@ -32,14 +40,6 @@
       "summary": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation."
     },
     {
-      "id": "feed-1ga5uys",
-      "title": "Former Hamas bodyguard guilty of UK knife attack",
-      "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T14:16:48.000Z",
-      "summary": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020."
-    },
-    {
       "id": "feed-hem0zy",
       "title": "Arrest after woman, 80, 'doused and set on fire'",
       "link": "https://www.bbc.co.uk/news/articles/ck9q8vezxvdro",
@@ -48,12 +48,12 @@
       "summary": "The man, 33, from Watford is suspected of conspiracy to commit arson with intent to endanger life."
     },
     {
-      "id": "feed-1mipdjv",
-      "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+      "id": "feed-1ywcnsv",
+      "title": "NHS, schools and police forces hit by Microsoft outage",
       "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o",
       "source": "BBC News",
       "publishedAt": "2026-11-13T13:41:25.000Z",
-      "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services."
+      "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact."
     },
     {
       "id": "feed-eeymds",

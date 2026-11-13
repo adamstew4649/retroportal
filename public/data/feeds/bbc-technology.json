@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T14:39:58.818Z",
+  "updatedAt": "2026-11-13T15:33:23.599Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
@@ -8,20 +8,28 @@
   },
   "articles": [
     {
-      "id": "feed-voe4b5",
-      "title": "What we know about the global Microsoft outage",
+      "id": "feed-1l6w9d8",
+      "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T15:04:42.000Z",
+      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
+    },
+    {
+      "id": "feed-1k7pezx",
+      "title": "Why is the Microsoft outage lasting so long?",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
       "source": "BBC News",
       "publishedAt": "2026-11-13T14:21:26.000Z",
-      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+      "summary": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing."
     },
     {
-      "id": "feed-1mipdjv",
-      "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+      "id": "feed-1ywcnsv",
+      "title": "NHS, schools and police forces hit by Microsoft outage",
       "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o",
       "source": "BBC News",
       "publishedAt": "2026-11-13T13:41:25.000Z",
-      "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services."
+      "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact."
     },
     {
       "id": "feed-cu76zp",
@@ -102,14 +110,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-12T16:43:36.000Z",
       "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days."
-    },
-    {
-      "id": "feed-1ewioby",
-      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T15:26:39.000Z",
-      "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair."
     },
     {
       "id": "feed-fnl7fv",
