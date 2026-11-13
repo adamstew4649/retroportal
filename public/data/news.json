@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T16:39:58.127Z",
-  "generatedAt": "2026-11-13T16:39:58.127Z",
+  "updatedAt": "2026-11-13T17:37:31.833Z",
+  "generatedAt": "2026-11-13T17:37:31.833Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "bbc-world",
@@ -104,14 +104,244 @@
   ],
   "articles": [
     {
-      "id": "feed-h5jxv7",
-      "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+      "id": "feed-cu76zp",
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro",
+      "publishedAt": "2026-11-13T17:34:58.000Z",
+      "category": "technology",
+      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world."
+    },
+    {
+      "id": "feed-uym4yt",
+      "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
+      "publishedAt": "2026-11-13T17:31:16.000Z",
+      "category": "uk",
+      "summary": "Pochettino speaks in emotional press conference Today’s fixtures | Follow us on TikTok | Mail Dominic Barney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day. “And as the teams lined up there was a surprise appearance from the real star"
+    },
+    {
+      "id": "feed-1sxj3uo",
+      "title": "Microsoft outage live: disruption continues to affect millions as company says service is improving",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-      "publishedAt": "2026-11-13T16:32:21.000Z",
+      "publishedAt": "2026-11-13T17:21:56.000Z",
       "category": "technology",
       "summary": "Microsoft reports it is ‘continuing to see improvements in service availability’, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook"
+    },
+    {
+      "id": "feed-1mfavea",
+      "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+      "publishedAt": "2026-11-13T17:20:32.000Z",
+      "category": "world",
+      "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high mortgage rates and rising inflation, according to n"
+    },
+    {
+      "id": "feed-lshit7",
+      "title": "Eleanor Donaldson given supervision order and placed on sex offenders' register",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cme87dnngnwjo",
+      "publishedAt": "2026-11-13T17:19:35.000Z",
+      "category": "uk",
+      "summary": "Eleanor Donaldson was found to have done the acts in relation to five charges, including four of aiding and abetting his offending, in a 'trial of the facts'."
+    },
+    {
+      "id": "feed-1qtgtvw",
+      "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "publishedAt": "2026-11-13T17:17:45.000Z",
+      "category": "world",
+      "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-rela"
+    },
+    {
+      "id": "feed-kc52u7",
+      "title": "Microsoft outage shakes up companies, schools and local governments across US",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+      "publishedAt": "2026-11-13T17:17:00.000Z",
+      "category": "world",
+      "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of"
+    },
+    {
+      "id": "feed-135km3c",
+      "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany",
+      "publishedAt": "2026-11-13T17:14:56.000Z",
+      "category": "world",
+      "summary": "Mohammed Alfatih rearrested over alleged plot to target Israelis in Europe while detained for attack on bailiff A former Hamas bodyguard convicted of knife crime in the UK is wanted in Germany for allegedly plotting to murder Jewish people. Details of the plot"
+    },
+    {
+      "id": "feed-76lm2b",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+      "publishedAt": "2026-11-13T17:12:46.000Z",
+      "category": "world",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
+    },
+    {
+      "id": "feed-lluluk",
+      "title": "Man jailed for grooming at least 70 girls online",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo",
+      "publishedAt": "2026-11-13T17:10:27.000Z",
+      "category": "uk",
+      "summary": "Bilal Kazi targeted his victims - aged between 10 and 17 - using Snapchat, Wink and Roblox."
+    },
+    {
+      "id": "feed-18kodmj",
+      "title": "Fight the climate crisis or go for growth? There is a way Burnham can do both | Jonathan Freedland",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/fight-climate-crisis-growth-andy-burnham-economic-leaders",
+      "publishedAt": "2026-11-13T17:10:23.000Z",
+      "category": "uk",
+      "summary": "The environmental and economic dilemmas he faces are formidable but, with a bold plan, he could set an example for leaders around the world For politicians of the centre-left especially, it’s the great dilemma of the age. How do you do what everyone can see is"
+    },
+    {
+      "id": "feed-12qt0ct",
+      "title": "Mother whose newborn died after failed hospital checks was 'terrified and alone'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cv62pdgj9g77o",
+      "publishedAt": "2026-11-13T17:07:11.000Z",
+      "category": "uk",
+      "summary": "Sonny Taylor died after hospital staff failed to wake up his mother, Eve, for monitoring."
+    },
+    {
+      "id": "feed-nhjasr",
+      "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
+      "publishedAt": "2026-11-13T17:05:23.000Z",
+      "category": "uk",
+      "summary": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to entice shoppers The long decline of the high street is a problem that has gripped British governments for years. But what if there was a solution no one had considere"
+    },
+    {
+      "id": "feed-cvda2x",
+      "title": "She gets 16 pap smears a day – so yours don’t hurt",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/nov/13/pap-smear-pain-medical-students",
+      "publishedAt": "2026-11-13T17:00:20.000Z",
+      "category": "uk",
+      "summary": "Molly Callahan, a gynecological teaching assistant, helps medical students practice pap smears and breast exams On her busiest days, Molly Callahan, has 16 speculums inserted into her vagina. She works full-time as a gynecological teaching assistant ( GTA ) – "
+    },
+    {
+      "id": "feed-g545l",
+      "title": "‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/cop31-antonio-guterres-united-nations-climate-action",
+      "publishedAt": "2026-11-13T17:00:14.000Z",
+      "category": "uk",
+      "summary": "António Guterres says climate action central to every aspect of UN’s work, as leaders depart Cop31 and talks go on Tackling the climate crisis is central to all of human life and must be at the forefront of global governance, the outgoing UN secretary general "
+    },
+    {
+      "id": "feed-16uwh6k",
+      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o",
+      "publishedAt": "2026-11-13T16:53:50.000Z",
+      "category": "uk",
+      "summary": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week."
+    },
+    {
+      "id": "feed-1gsgvmb",
+      "title": "The best electric toothbrushes in the UK for every budget",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/thefilter/2024/dec/29/best-electric-toothbrushes",
+      "publishedAt": "2026-11-13T16:45:39.000Z",
+      "category": "uk",
+      "summary": "We put 32 electric toothbrushes to the test, from oscillating Oral-B models to sustainable brands like Suri, to find the best for cleaning power and value for money • How to make your toothbrush last longer If you grew up using a conventional toothbrush – esse"
+    },
+    {
+      "id": "feed-30qo75",
+      "title": "Man who transported Omagh bomb was an MI5 and Garda agent, inquiry told",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr0jxwv1v266o",
+      "publishedAt": "2026-11-13T16:43:39.000Z",
+      "category": "uk",
+      "summary": "The Policeman who headed up the investigation told the inquiry the bomb carrier may have been a Garda and MI5 agent."
+    },
+    {
+      "id": "feed-m3epao",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
+      "publishedAt": "2026-11-13T16:40:31.000Z",
+      "category": "world",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
+    },
+    {
+      "id": "feed-y8ia1s",
+      "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+      "publishedAt": "2026-11-13T16:39:34.000Z",
+      "category": "world",
+      "summary": "This blog is now closed Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of Guinness. Continue reading..."
+    },
+    {
+      "id": "feed-tstd6o",
+      "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "publishedAt": "2026-11-13T16:38:27.000Z",
+      "category": "uk",
+      "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the most original thinkers of the 20th century. His two incompleten"
+    },
+    {
+      "id": "feed-tucse0",
+      "title": "Met police launch investigation into David Walliams allegations",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
+      "publishedAt": "2026-11-13T16:36:21.000Z",
+      "category": "uk",
+      "summary": "Police say allegations of sexual misconduct are separate from those made by multiple women in Guardian and ITN investigation The Metropolitan police have announced a criminal investigation into David Walliams over alleged sexual misconduct. In reports by the G"
+    },
+    {
+      "id": "feed-1vfzjfw",
+      "title": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
+      "publishedAt": "2026-11-13T16:35:02.000Z",
+      "category": "uk",
+      "summary": "Gunman killed one person and injured at least five others in and around condo building not far from the White House More details were emerging on Friday about the previous morning’s shooting in north-west Washington DC, as a manager at the shooter’s residentia"
+    },
+    {
+      "id": "feed-6s93oo",
+      "title": "England have licence to thrill against Japan after acing audition against Australia | Ugo Monye",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/13/england-have-licence-to-thrill-against-japan-after-acing-audition-against-australia",
+      "publishedAt": "2026-11-13T16:32:17.000Z",
+      "category": "uk",
+      "summary": "Steve Borthwick has picked a team to excite fans – let’s see them beat the Brave Blossoms at their own game on Saturday Based on England’s performance last week, there was part of me that thought about writing a piece that would light another fire under the sq"
     },
     {
       "id": "feed-6nzotx",
@@ -124,46 +354,6 @@
       "summary": "From cider to candy canes: What people are emergency stockpiling"
     },
     {
-      "id": "feed-uym4yt",
-      "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
-      "publishedAt": "2026-11-13T16:30:42.000Z",
-      "category": "uk",
-      "summary": "Pochettino speaks in emotional press conference Today’s fixtures | Follow us on TikTok | Mail Simon Barney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day. “And as the teams lined up there was a surprise appearance from the real star o"
-    },
-    {
-      "id": "feed-1i7bdkk",
-      "title": "Police investigating David Walliams over alleged serious sexual offences",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o",
-      "publishedAt": "2026-11-13T16:29:30.000Z",
-      "category": "uk",
-      "summary": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week."
-    },
-    {
-      "id": "feed-1qtgtvw",
-      "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-      "publishedAt": "2026-11-13T16:24:50.000Z",
-      "category": "world",
-      "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the"
-    },
-    {
-      "id": "feed-eam46",
-      "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-      "publishedAt": "2026-11-13T16:24:34.000Z",
-      "category": "world",
-      "summary": "Kaja Kallas warns against agreeing to Russia’s proposed sequence of events on talks on Ukraine Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour "
-    },
-    {
       "id": "feed-5tfdjf",
       "title": "Jaguar Land Rover reports £451m quarterly loss after cutting 4,000 jobs",
       "source": "The Guardian",
@@ -171,7 +361,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts",
       "publishedAt": "2026-11-13T16:22:16.000Z",
       "category": "uk",
-      "summary": "JLR chief executive calls for EU and Britain to join forces amid competition from rival Chinese electric carmakers Jaguar Land Rover has reported a £451m quarterly loss as it counts the cost of cutting 4,000 jobs, while its chief executive has called for the E"
+      "summary": "JLR chief executive calls for EU and Britain to join forces amid competition from Chinese electric carmakers Jaguar Land Rover has reported a £451m quarterly loss as it counts the cost of cutting 4,000 jobs, while its chief executive has called for the EU and "
     },
     {
       "id": "feed-1rq3ger",
@@ -181,17 +371,17 @@
       "url": "https://www.theguardian.com/books/2026/nov/13/sheds-cakes-and-photos-of-me-prince-williams-country-life-digested-by-john-crace",
       "publishedAt": "2026-11-13T16:12:29.000Z",
       "category": "uk",
-      "summary": "Saintly heir to the throne breaks his hectic schedule for a magazine lowdown on life in the country Country Life: Guest Edited by HRH The Prince of Wales Front Cover: Photo of me outdoors. I love the country, me. Continue reading..."
+      "summary": "Saintly heir to the throne breaks his hectic schedule for a magazine lowdown on life in the country Country Life: Guest Edited by HRH the Prince of Wales Front Cover: Photo of me outdoors. I love the country, me. Continue reading..."
     },
     {
-      "id": "feed-tucse0",
-      "title": "Met police launch investigation into David Walliams allegations",
+      "id": "feed-1hjd18x",
+      "title": "Branding it like Beckham: how Jude Bellingham is future-proofing his fame",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
-      "publishedAt": "2026-11-13T16:07:59.000Z",
+      "url": "https://www.theguardian.com/football/2026/nov/13/jude-bellingham-branding-it-like-beckham",
+      "publishedAt": "2026-11-13T16:03:19.000Z",
       "category": "uk",
-      "summary": "Police say allegations of sexual misconduct are separate from those made by multiple women in Guardian and ITN investigation The Metropolitan police have announced a criminal investigation into David Walliams over alleged sexual misconduct. In reports by the G"
+      "summary": "From Calvin Klein to British Vogue, the Real Madrid man is leading the way when it comes to football’s foray into fashion. But is he playing it safe? This Sunday, Jude Bellingham will line up with his England teammates for a match against Spain. But the footba"
     },
     {
       "id": "feed-cqaikr",
@@ -224,24 +414,34 @@
       "summary": "Up to 1,256 men could be housed at the site near Piddington in Oxfordshire under the plans."
     },
     {
-      "id": "feed-cu76zp",
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "id": "feed-1qcvolv",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro",
-      "publishedAt": "2026-11-13T15:44:48.000Z",
-      "category": "technology",
-      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world."
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
+      "publishedAt": "2026-11-13T15:48:07.000Z",
+      "category": "world",
+      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
     },
     {
-      "id": "feed-1l6w9d8",
-      "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+      "id": "feed-r0neon",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go",
+      "publishedAt": "2026-11-13T15:42:52.000Z",
+      "category": "world",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
+    },
+    {
+      "id": "feed-12igqqh",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
       "publishedAt": "2026-11-13T15:40:08.000Z",
-      "category": "technology",
-      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
+      "category": "world",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
     },
     {
       "id": "feed-8bowea",
@@ -260,28 +460,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
       "publishedAt": "2026-11-13T15:27:43.000Z",
-      "category": "uk",
-      "summary": "Exclusive: Government in ‘private meetings’ about removing cost cap protections under Aarhus convention UK politics live – latest updates The government is considering stripping back legal protections that limit the costs community groups face when challenging"
-    },
-    {
-      "id": "feed-4tfwbh",
-      "title": "Tories and Reform clash over migration as asylum centre is approved",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
-      "publishedAt": "2026-11-13T15:25:38.000Z",
       "category": "world",
-      "summary": "Chris Philp and Zia Yusuf trade barbs in Oxfordshire village planning legal action to block conversion of military base UK politics – live updates Senior Tory and Reform politicians have clashed over immigration policy in the Oxfordshire village of Piddington "
-    },
-    {
-      "id": "feed-1vfzjfw",
-      "title": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
-      "publishedAt": "2026-11-13T15:25:28.000Z",
-      "category": "uk",
-      "summary": "Gunman killed one person and injured at least four others in and around condo building not far from the White House More details were emerging on Friday about the previous morning’s shooting in north-west Washington DC, as a manager at the shooter’s residentia"
+      "summary": "Exclusive: Government in ‘private meetings’ about removing cost cap protections under Aarhus convention UK politics live – latest updates The government is considering stripping back legal protections that limit the costs community groups face when challenging"
     },
     {
       "id": "feed-1dxxtpk",
@@ -292,6 +472,26 @@
       "publishedAt": "2026-11-13T15:21:47.000Z",
       "category": "uk",
       "summary": "Sign up now! Sign up now! Sign up now? Sign up now! So farewell then, Pierre Sage . Many coaches leave under a cloud, not many have their departures completely obscured by the foul, retch-inducing one emanating from another team’s managerial circus, but such w"
+    },
+    {
+      "id": "feed-55497l",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo",
+      "publishedAt": "2026-11-13T15:16:50.000Z",
+      "category": "world",
+      "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified."
+    },
+    {
+      "id": "feed-12sv1zk",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo",
+      "publishedAt": "2026-11-13T15:09:40.000Z",
+      "category": "world",
+      "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef."
     },
     {
       "id": "feed-11lxfqe",
@@ -324,16 +524,6 @@
       "summary": "Judge imposes three-year treatment order on Donaldson for aiding and abetting sexual offences by her husband, Jeffrey Jeffrey Donaldson’s wife, Eleanor, has been placed on the sex offender register for five years for aiding and abetting sexual offences by her "
     },
     {
-      "id": "feed-ckli6v",
-      "title": "Maasai celebrations and alpacas in a care home: photos of the day – Friday",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/gallery/2026/nov/13/maasai-celebrations-and-alpacas-in-a-care-home-photos-of-the-day-friday",
-      "publishedAt": "2026-11-13T14:46:42.000Z",
-      "category": "uk",
-      "summary": "The Guardian’s picture editors select photographs from around the world Continue reading..."
-    },
-    {
       "id": "feed-1fdv3s3",
       "title": "'Face' of mystery woman found dead in bin bag in park released by police",
       "source": "Sky News",
@@ -364,16 +554,6 @@
       "summary": "Owain Wyn Evans cycled almost 400 miles, setting off from Glasgow and finishing in Cardiff."
     },
     {
-      "id": "feed-1im42m",
-      "title": "Nigel Farage’s security paid for by Reform UK despite claim over £5m gift",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/nov/13/nigel-farage-personal-security-costs-reform-uk",
-      "publishedAt": "2026-11-13T14:37:23.000Z",
-      "category": "uk",
-      "summary": "Exclusive: Sources reveal party is covering costs – raising fresh questions about leader’s explanation for billionaire’s gift Nigel Farage’s personal security has been paid for out of Reform UK’s central funds despite his claim that these expenses would be cov"
-    },
-    {
       "id": "feed-1yj629z",
       "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
       "source": "BBC News",
@@ -384,34 +564,14 @@
       "summary": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation."
     },
     {
-      "id": "feed-19nm2yk",
-      "title": "Kisses galore, seaside shenigans, McRoman adventures and street feats – the week in art",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/13/nicole-eisenman-the-last-human-kiss-roman-scotland-the-week-in-art",
-      "publishedAt": "2026-11-13T14:26:05.000Z",
-      "category": "uk",
-      "summary": "Nicole Eisenman hits the coast, Scotland remembers its Roman days, while Wolfgang Tillmans and Tracey Emin get romantic – all in your weekly dispatch Nicole Eisenman A free display beside the seaside from the witty and imaginative sort-of-figurative artist. • "
-    },
-    {
       "id": "feed-vwc16n",
       "title": "Banned books from Ireland’s room of ‘evil literature’ finally see the light of day",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/13/ireland-banned-books-room-censorship",
       "publishedAt": "2026-11-13T14:25:24.000Z",
-      "category": "uk",
-      "summary": "Censored books spanning 1926-96 contained themes ‘likely to corrupt or deprave’, or references to contraception or violence For almost a century, an Irish government building in the heart of Dublin has hosted a secret sanctum: the banned books room. The depart"
-    },
-    {
-      "id": "feed-1k7pezx",
-      "title": "Why is the Microsoft outage lasting so long?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-      "publishedAt": "2026-11-13T14:21:26.000Z",
       "category": "world",
-      "summary": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing."
+      "summary": "Censored books spanning 1926-96 contained themes ‘likely to corrupt or deprave’, or references to contraception or violence For almost a century, an Irish government building in the heart of Dublin has hosted a secret sanctum: the banned books room. The depart"
     },
     {
       "id": "feed-1x5mdxi",
@@ -420,7 +580,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
       "publishedAt": "2026-11-13T14:17:09.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief’s signature look is now being mocked as a midlife crisis cliche For nearly two decades a black leather jacket has been a key part of Jensen Huang’s look. Now it has become a punchline. As"
     },
     {
@@ -432,26 +592,6 @@
       "publishedAt": "2026-11-13T14:16:09.000Z",
       "category": "business",
       "summary": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically."
-    },
-    {
-      "id": "feed-crb943",
-      "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-      "publishedAt": "2026-11-13T14:14:44.000Z",
-      "category": "world",
-      "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security Europe live – latest updates The EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she said Moscow was"
-    },
-    {
-      "id": "feed-16e8jjh",
-      "title": "Why Chelsea and Manchester City’s WSL clash is not as season-defining as you think",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/13/why-chelsea-and-manchester-citys-wsl-clash-is-not-as-season-defining-as-you-think",
-      "publishedAt": "2026-11-13T14:05:44.000Z",
-      "category": "uk",
-      "summary": "Neither side have lost in the league yet but a more competitive division should take title race to the wire There was a time when the games between the top three – traditionally Chelsea, Manchester City and Arsenal – were title-deciders. Where every point take"
     },
     {
       "id": "feed-njhnzo",
@@ -530,7 +670,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
       "publishedAt": "2026-11-13T12:54:16.000Z",
-      "category": "business",
+      "category": "technology",
       "summary": "Ministers consider banning under-16s from online marketplaces amid reported misuse of messaging functions and users’ photos In June, Hannah* listed her seven-year-old daughter’s pink swimming costume for sale on Vinted, hoping other parents surfing the reselli"
     },
     {
@@ -572,16 +712,6 @@
       "publishedAt": "2026-11-13T12:22:30.000Z",
       "category": "world",
       "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself."
-    },
-    {
-      "id": "feed-1pyvpqt",
-      "title": "First Thing: Global Microsoft outage chaos as tech firm says there are ‘signs of stabilisation’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/first-thing-global-microsoft-outage-chaos-signs-of-stabilisation",
-      "publishedAt": "2026-11-13T12:16:44.000Z",
-      "category": "world",
-      "summary": "Users of Microsoft Teams and Outlook in businesses and public services reporting problems. Plus would you like to spend time as a helpful furry little post delivery service? Don’t already get First Thing in your inbox? Sign up here Good morning. A global outag"
     },
     {
       "id": "feed-6qqkok",
@@ -634,6 +764,16 @@
       "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
     },
     {
+      "id": "feed-1onf6p5",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o",
+      "publishedAt": "2026-11-13T11:38:54.000Z",
+      "category": "world",
+      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews."
+    },
+    {
       "id": "feed-qp9g5j",
       "title": "Nigerian university in mourning after four students die at post-exam party",
       "source": "BBC News",
@@ -664,16 +804,6 @@
       "summary": "The London-listed company which owns Go Compare, the price comparison platform, is exploring a sale of its business-to-business arm."
     },
     {
-      "id": "feed-vi5mxe",
-      "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
-      "publishedAt": "2026-11-13T11:24:30.000Z",
-      "category": "world",
-      "summary": "Volodymyr Zelenskyy says speed restrictions on Starshield system made it harder for Ukraine to shoot down drones Europe live – latest updates Russia has attacked a hospital in the centre of Kyiv, close to several western embassies, after Volodymyr Zelenskyy sa"
-    },
-    {
       "id": "feed-8gjp17",
       "title": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times",
       "source": "The Guardian",
@@ -682,16 +812,6 @@
       "publishedAt": "2026-11-13T11:00:17.000Z",
       "category": "technology",
       "summary": "Eccentric and overhyped, Tesla’s Cybertruck became a stand-in for Elon Musk during his ascent in the Republican party. It will join the ranks of other vehicles symbolic of their eras – for better or for worse Three days after a historic blue tsunami changed Am"
-    },
-    {
-      "id": "feed-aagmzz",
-      "title": "Former NSW Liberal MP Rory Amon found guilty of raping 13-year-old boy",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/13/former-nsw-liberal-mp-rory-amon-found-guilty-of-raping-13-year-old-boy",
-      "publishedAt": "2026-11-13T10:45:48.000Z",
-      "category": "world",
-      "summary": "The 37-year-old was convicted in the state’s supreme court months after a different jury failed to reach a verdict on the same charges Get our breaking news email , free app or daily news podcast A former NSW Liberal politician is facing the possibility of a s"
     },
     {
       "id": "feed-eeymds",
@@ -712,6 +832,16 @@
       "publishedAt": "2026-11-13T09:50:00.000Z",
       "category": "business",
       "summary": "The American investment firm Elliott Management is circling Flora Food Group, the spreads and margarines producer, amid signs that its owner is struggling to convince bidders to meet a €7bn (£5.8bn) asking price."
+    },
+    {
+      "id": "feed-4nsoag",
+      "title": "Online sexual predator jailed for 30 years",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/online-sexual-predator-jailed-for-30-years-13611836",
+      "publishedAt": "2026-11-13T09:44:00.000Z",
+      "category": "uk",
+      "summary": "An Indian student who used the internet to groom and exploit 70 girls from across the UK has been jailed for at least 30 years with eight years on licence."
     },
     {
       "id": "feed-1l3du05",
@@ -874,16 +1004,6 @@
       "summary": "Bournemouth became a hub for thousands of finance jobs after the 1980s big bang, but new tech risks hurting Dorset’s economy A few minutes’ drive from Bournemouth’s sandy beachfront, on the site of a former farm, lies an unlikely nerve centre of international "
     },
     {
-      "id": "feed-yni5x7",
-      "title": "World is now in ‘age of electricity’, energy agency chief says",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
-      "publishedAt": "2026-11-13T05:00:11.000Z",
-      "category": "business",
-      "summary": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge The world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the world’s leading energy economist has"
-    },
-    {
       "id": "feed-1st4o03",
       "title": "‘I spend less, that’s all that matters’: life in the world’s most electrified countries",
       "source": "The Guardian",
@@ -920,18 +1040,8 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
       "publishedAt": "2026-11-13T03:57:01.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
-    },
-    {
-      "id": "feed-6012eb",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo",
-      "publishedAt": "2026-11-13T03:02:54.000Z",
-      "category": "world",
-      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
     },
     {
       "id": "feed-avwyui",
@@ -974,16 +1084,6 @@
       "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday."
     },
     {
-      "id": "feed-1k6ek4s",
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
-      "publishedAt": "2026-11-13T02:01:35.000Z",
-      "category": "world",
-      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
-    },
-    {
       "id": "feed-1v8ffhw",
       "title": "'My window faces a brick wall': What's your rent in NYC?",
       "source": "BBC News",
@@ -1014,26 +1114,6 @@
       "summary": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests."
     },
     {
-      "id": "feed-1v0vsr0",
-      "title": "MI5 will need proof to be believed in future, says Leveson after BBC investigation",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7dlj6v2go",
-      "publishedAt": "2026-11-13T00:54:50.000Z",
-      "category": "uk",
-      "summary": "The BBC exposed how the security service had lied to three courts concerning Agent X."
-    },
-    {
-      "id": "feed-9m0qhc",
-      "title": "The school where white working-class pupils defy the odds",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o",
-      "publishedAt": "2026-11-13T00:53:49.000Z",
-      "category": "uk",
-      "summary": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderland seems to have defied gravity"
-    },
-    {
       "id": "feed-1fuhlpj",
       "title": "FBI seizes $1.2bn stolen in Binance cryptocurrency hack",
       "source": "Sky News",
@@ -1054,44 +1134,14 @@
       "summary": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola."
     },
     {
-      "id": "feed-1n7lt3m",
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o",
-      "publishedAt": "2026-11-13T00:20:24.000Z",
-      "category": "world",
-      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back."
-    },
-    {
-      "id": "feed-pl0t7x",
-      "title": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o",
-      "publishedAt": "2026-11-13T00:15:27.000Z",
-      "category": "uk",
-      "summary": "The disgraced entertainer was sentenced to 10 years and six months for rape and sexual assault."
-    },
-    {
       "id": "feed-ehps32",
       "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
       "publishedAt": "2026-11-13T00:13:35.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
-    },
-    {
-      "id": "feed-1i2xvh5",
-      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go",
-      "publishedAt": "2026-11-12T23:42:52.000Z",
-      "category": "world",
-      "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct."
     },
     {
       "id": "feed-e3lr1v",
@@ -1154,26 +1204,6 @@
       "summary": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss."
     },
     {
-      "id": "feed-11j6mi4",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
-      "publishedAt": "2026-11-12T20:09:16.000Z",
-      "category": "world",
-      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
-    },
-    {
-      "id": "feed-186c0lo",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
-      "publishedAt": "2026-11-12T18:47:35.000Z",
-      "category": "world",
-      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
-    },
-    {
       "id": "feed-w1bprq",
       "title": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
       "source": "The Guardian",
@@ -1234,8 +1264,8 @@
       "summary": "As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms In the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillanc"
     },
     {
-      "id": "feed-l07of7",
-      "title": "Police to investigate David Walliams over alleged 'serious' sexual offences",
+      "id": "feed-s5nwdu",
+      "title": "David Walliams to be investigated over alleged 'serious' sexual offences",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/police-to-investigate-david-walliams-over-alleged-serious-sexual-offences-13611548",
@@ -1414,16 +1444,6 @@
       "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Get our daily political email , free app or daily news podcast Entry-level jobs will be the first to be automated due to AI, but it could "
     },
     {
-      "id": "feed-1nkwy67",
-      "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-      "publishedAt": "2026-11-12T06:43:31.000Z",
-      "category": "technology",
-      "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be"
-    },
-    {
       "id": "feed-11w1xwm",
       "title": "Campaigners want more land protected from housing",
       "source": "BBC News",
@@ -1442,16 +1462,6 @@
       "publishedAt": "2026-11-12T06:02:55.000Z",
       "category": "science",
       "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says."
-    },
-    {
-      "id": "feed-19cryr5",
-      "title": "You had me at LOL: some notes for the You’ve Got Mail reboot",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/nov/12/youve-got-mail-reboot-email",
-      "publishedAt": "2026-11-12T05:00:10.000Z",
-      "category": "technology",
-      "summary": "Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead … the film-makers behind the remake of the dial-up classic will be facing an embarrassment of pitches Assuming you have already heard about the You’ve Got Mail reboot, you are probably"
     },
     {
       "id": "feed-1hf2rv6",
