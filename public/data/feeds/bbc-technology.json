@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T17:37:31.829Z",
+  "updatedAt": "2026-11-13T18:33:47.024Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-1vf7vue",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T17:38:19.000Z",
+      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure."
+    },
     {
       "id": "feed-cu76zp",
       "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
@@ -102,14 +110,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-12T17:11:48.000Z",
       "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
-    },
-    {
-      "id": "feed-flyuos",
-      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-12T16:43:36.000Z",
-      "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days."
     },
     {
       "id": "feed-fnl7fv",
