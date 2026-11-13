@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T18:33:47.024Z",
+  "updatedAt": "2026-11-13T19:41:01.612Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-76lm2b",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T18:36:57.000Z",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
+    },
     {
       "id": "feed-1vf7vue",
       "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
@@ -22,14 +30,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T17:34:58.000Z",
       "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world."
-    },
-    {
-      "id": "feed-76lm2b",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T17:12:46.000Z",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
     },
     {
       "id": "feed-oo09hf",

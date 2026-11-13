@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T18:33:47.025Z",
+  "updatedAt": "2026-11-13T19:41:01.612Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-6nausf",
+      "title": "What could El Niño mean for winter weather in the US and Canada?",
+      "link": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T18:50:15.000Z",
+      "summary": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex."
+    },
     {
       "id": "feed-1wlxhbw",
       "title": "Climate action discussed at youth COP meeting",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-11T13:24:29.000Z",
       "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month."
-    },
-    {
-      "id": "feed-1ac30by",
-      "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-      "link": "https://www.bbc.co.uk/news/articles/cwm242plggldo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T00:35:14.000Z",
-      "summary": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England."
     }
   ]
 }
