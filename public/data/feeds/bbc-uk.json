@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T15:33:23.598Z",
+  "updatedAt": "2026-11-13T16:39:58.117Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
+      "id": "feed-1i7bdkk",
+      "title": "Police investigating David Walliams over alleged serious sexual offences",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T16:29:30.000Z",
+      "summary": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week."
+    },
+    {
       "id": "feed-1ga5uys",
       "title": "Former Hamas bodyguard guilty of UK knife attack",
       "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo",
       "source": "BBC News",
-      "publishedAt": "2026-11-13T15:17:37.000Z",
+      "publishedAt": "2026-11-13T15:51:24.000Z",
       "summary": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020."
+    },
+    {
+      "id": "feed-z8kpg7",
+      "title": "Piddington to bring legal challenge over asylum base plans",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-13T15:50:53.000Z",
+      "summary": "Up to 1,256 men could be housed at the site near Piddington in Oxfordshire under the plans."
     },
     {
       "id": "feed-l4u04x",
@@ -22,14 +38,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T14:38:39.000Z",
       "summary": "Owain Wyn Evans cycled almost 400 miles, setting off from Glasgow and finishing in Cardiff."
-    },
-    {
-      "id": "feed-z8kpg7",
-      "title": "Piddington to bring legal challenge over asylum base plans",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T14:34:47.000Z",
-      "summary": "Up to 1,256 men could be housed at the site near Piddington in Oxfordshire under the plans."
     },
     {
       "id": "feed-1yj629z",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T00:13:35.000Z",
       "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
-    },
-    {
-      "id": "feed-55xvdj",
-      "title": "Ex-parliamentary aide acquitted for spying tells BBC he was 'fall guy' but also 'naive'",
-      "link": "https://www.bbc.co.uk/news/videos/cknv4y5j4ge9o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-11T17:42:10.000Z",
-      "summary": "The man, charged with spying for China, said he was \"unprofessional\" to send \"gossiping\" texts to a friend."
     }
   ]
 }
