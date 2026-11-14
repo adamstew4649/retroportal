@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T03:26:44.346Z",
+  "updatedAt": "2026-11-14T10:44:11.987Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-wiidv",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T06:42:27.000Z",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+    },
     {
       "id": "feed-1ivtu9n",
       "title": "Tech Now",
@@ -38,14 +46,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T21:15:41.000Z",
       "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure."
-    },
-    {
-      "id": "feed-kjqxke",
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T21:14:22.000Z",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
     },
     {
       "id": "feed-oo09hf",
