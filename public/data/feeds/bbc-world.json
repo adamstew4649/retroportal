@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T10:44:11.987Z",
+  "updatedAt": "2026-11-14T16:47:07.624Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,11 +8,35 @@
   },
   "articles": [
     {
+      "id": "feed-s2n2ps",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T16:29:48.000Z",
+      "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos."
+    },
+    {
+      "id": "feed-1m69540",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T15:53:55.000Z",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+    },
+    {
+      "id": "feed-ystwj0",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T15:42:54.000Z",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa."
+    },
+    {
       "id": "feed-inq16",
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
       "source": "BBC News",
-      "publishedAt": "2026-11-14T10:30:38.000Z",
+      "publishedAt": "2026-11-14T15:15:57.000Z",
       "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
     },
     {
@@ -20,8 +44,32 @@
       "title": "What we know about the ground stop and what to do if you're affected",
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
       "source": "BBC News",
-      "publishedAt": "2026-11-14T07:42:11.000Z",
+      "publishedAt": "2026-11-14T14:20:57.000Z",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+    },
+    {
+      "id": "feed-1tvo2vy",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T14:18:41.000Z",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean."
+    },
+    {
+      "id": "feed-aocg",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T11:30:10.000Z",
+      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday."
+    },
+    {
+      "id": "feed-13odvhm",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T10:42:20.000Z",
+      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April."
     },
     {
       "id": "feed-wiidv",
@@ -30,14 +78,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-14T06:42:27.000Z",
       "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
-    },
-    {
-      "id": "feed-1m69540",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T05:52:31.000Z",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
     },
     {
       "id": "feed-s3bl6f",
@@ -64,14 +104,6 @@
       "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession."
     },
     {
-      "id": "feed-1w7k4p0",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T00:01:01.000Z",
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
-    },
-    {
       "id": "feed-krdsoy",
       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
@@ -96,14 +128,6 @@
       "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
     },
     {
-      "id": "feed-6f7t0v",
-      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T21:15:24.000Z",
-      "summary": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship."
-    },
-    {
       "id": "feed-12igqqh",
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
@@ -126,30 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T19:01:36.000Z",
       "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory."
-    },
-    {
-      "id": "feed-1c4uoyu",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T18:34:45.000Z",
-      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer."
-    },
-    {
-      "id": "feed-16n7jgh",
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T17:54:33.000Z",
-      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine."
-    },
-    {
-      "id": "feed-m3epao",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T16:40:31.000Z",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
     }
   ]
 }
