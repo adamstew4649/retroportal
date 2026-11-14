@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T16:47:07.624Z",
+  "updatedAt": "2026-11-14T20:59:47.978Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,68 @@
   },
   "articles": [
     {
+      "id": "feed-inq16",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T20:41:45.000Z",
+      "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin."
+    },
+    {
+      "id": "feed-krdsoy",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T20:23:06.000Z",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
+    },
+    {
+      "id": "feed-om6l91",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T20:03:48.000Z",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+    },
+    {
+      "id": "feed-aocg",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T19:14:33.000Z",
+      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday."
+    },
+    {
+      "id": "feed-o2x9wg",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T19:12:25.000Z",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+    },
+    {
       "id": "feed-s2n2ps",
       "title": "Italy fines Meta €805m over accessing users' photos",
       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
       "source": "BBC News",
-      "publishedAt": "2026-11-14T16:29:48.000Z",
-      "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos."
+      "publishedAt": "2026-11-14T18:28:06.000Z",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos."
+    },
+    {
+      "id": "feed-1bjdzi1",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T18:17:58.000Z",
+      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
+    },
+    {
+      "id": "feed-10dn1vj",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T18:00:10.000Z",
+      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution."
     },
     {
       "id": "feed-1m69540",
@@ -32,36 +88,12 @@
       "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa."
     },
     {
-      "id": "feed-inq16",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T15:15:57.000Z",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
-    },
-    {
-      "id": "feed-126j73x",
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T14:20:57.000Z",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
-    },
-    {
       "id": "feed-1tvo2vy",
       "title": "Second catch attempt for SpaceX Starship rocket",
       "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
       "source": "BBC News",
       "publishedAt": "2026-11-14T14:18:41.000Z",
       "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean."
-    },
-    {
-      "id": "feed-aocg",
-      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T11:30:10.000Z",
-      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday."
     },
     {
       "id": "feed-13odvhm",
@@ -104,14 +136,6 @@
       "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession."
     },
     {
-      "id": "feed-krdsoy",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T23:40:45.000Z",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
-    },
-    {
       "id": "feed-f7uycg",
       "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
       "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo",
@@ -126,30 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T23:00:31.000Z",
       "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
-    },
-    {
-      "id": "feed-12igqqh",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T19:53:57.000Z",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
-    },
-    {
-      "id": "feed-1qcvolv",
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T19:03:10.000Z",
-      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
-    },
-    {
-      "id": "feed-etjb07",
-      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T19:01:36.000Z",
-      "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory."
     }
   ]
 }
