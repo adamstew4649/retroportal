@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T23:27:33.777Z",
+  "updatedAt": "2026-11-14T03:26:44.346Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-1ivtu9n",
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T01:00:00.000Z",
+      "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides."
+    },
+    {
+      "id": "feed-79c51x",
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-14T00:37:01.000Z",
+      "summary": "The next title in the series is expected to be the biggest video game release ever."
+    },
     {
       "id": "feed-85meng",
       "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
@@ -24,8 +40,8 @@
       "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure."
     },
     {
-      "id": "feed-7q7fz2",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "id": "feed-kjqxke",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
       "source": "BBC News",
       "publishedAt": "2026-11-13T21:14:22.000Z",
@@ -104,14 +120,6 @@
       "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
     },
     {
-      "id": "feed-4ujeyj",
-      "title": "Global Microsoft outage affecting tens of thousands of users",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T02:38:02.000Z",
-      "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems."
-    },
-    {
       "id": "feed-fnl7fv",
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-20T19:45:00.000Z",
       "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
-    },
-    {
-      "id": "feed-aihyai",
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng",
-      "source": "BBC News",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
     }
   ]
 }
