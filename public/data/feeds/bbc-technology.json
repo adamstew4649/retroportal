@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T14:52:30.229Z",
+  "updatedAt": "2026-11-15T20:00:28.697Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-1xnl4wk",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-15T14:56:21.000Z",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+    },
     {
       "id": "feed-9dnq9l",
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
@@ -110,14 +118,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T11:43:27.000Z",
       "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
-    },
-    {
-      "id": "feed-oxz8wb",
-      "title": "Heat pumps: How much heat does your home really need?",
-      "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T09:29:25.000Z",
-      "summary": "Knowing how much heat your home loses is important before installing a new heating system."
     },
     {
       "id": "feed-fnl7fv",
