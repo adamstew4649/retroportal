@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T00:48:11.762Z",
-  "generatedAt": "2026-11-15T00:48:11.762Z",
+  "updatedAt": "2026-11-15T07:19:20.120Z",
+  "generatedAt": "2026-11-15T07:19:20.120Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,14 +85,14 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "id": "sky-technology",
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/technology.xml",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "id": "sky-business",
@@ -104,13 +104,303 @@
   ],
   "articles": [
     {
+      "id": "feed-1h4cpzl",
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
+      "publishedAt": "2026-11-15T07:10:31.000Z",
+      "category": "world",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+    },
+    {
+      "id": "feed-riykgs",
+      "title": "Australia v England: second men’s cricket one-day international – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
+      "publishedAt": "2026-11-15T07:04:57.000Z",
+      "category": "uk",
+      "summary": "Updates as the arch-rivals clash in an ODI at Adelaide Oval Any thoughts? Get in touch with an email Duckett survives a huge LBW shout early in the over from Bartlett, surviving a bail trimmer on Umpire’s call but then rather gives his wicket away with a slash"
+    },
+    {
+      "id": "feed-142q3m5",
+      "title": "Australia 34-10 New Zealand: Women’s Rugby League World Cup final – live reaction",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/15/australia-jillaroos-vs-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-live-updates",
+      "publishedAt": "2026-11-15T07:03:33.000Z",
+      "category": "uk",
+      "summary": "Jillaroos claim fourth consecutive title with dominant win against Ferns Any thoughts? Send us an email 2 mins: A good kick off from the Ferns to get us started and Taufa gets the first run of the final. It’s a good first set from the Jillaroos and they make t"
+    },
+    {
+      "id": "feed-1dzxn3z",
+      "title": "Return of the wild oyster: conservationists bring shellfish back from local extinction off Scottish coast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/15/return-of-the-wild-oyster-conservationists-bring-shellfish-back-from-local-extinction-off-scottish-coast",
+      "publishedAt": "2026-11-15T07:00:07.000Z",
+      "category": "uk",
+      "summary": "Scientists succeed in breeding wild oysters in Dornoch Firth, near Inverness, from where they disappeared more than 100 years ago The baby oysters, with their rough cream-coloured shells and ragged edges, are about the size of a 50 pence piece. But off the nor"
+    },
+    {
+      "id": "feed-bw0qld",
+      "title": "‘I’m scared about my future’: young people on the stress and desperation of jobseeking",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/15/young-people-stress-seeking-a-job-mental-physical-health",
+      "publishedAt": "2026-11-15T07:00:07.000Z",
+      "category": "uk",
+      "summary": "In the second in our series, four young Britons reveal how the search has taken a toll on their mental and physical health ‘The social contract is broken’: young people on feeling shut out of careers Guardian to follow lives of eight young people in their sear"
+    },
+    {
+      "id": "feed-1c51vs7",
+      "title": "Entangled Past: how descendants of enslaved and enslavers in Grenada embarked on journey of repair",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/news/2026/nov/15/entangled-past-how-descendants-of-enslaved-and-enslavers-in-grenada-embarked-on-journey-of-repair",
+      "publishedAt": "2026-11-15T07:00:07.000Z",
+      "category": "uk",
+      "summary": "In their book, the historian Nicole Phillip and journalist Laura Trevelyan use connected experiences to show how reparations can work in practice When the Grenadian historian Nicole Phillip opened an email from the then BBC journalist Laura Trevelyan in 2022, "
+    },
+    {
+      "id": "feed-1xwizz4",
+      "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
+      "publishedAt": "2026-11-15T07:00:06.000Z",
+      "category": "uk",
+      "summary": "Unlike familiar Captcha tests, this con asks you to press a series of keys. And that’s a way in for fraudsters to install malicious software You are looking for some gifts for Christmas and want to support small businesses when you shop. When you visit the sit"
+    },
+    {
+      "id": "feed-1rxfg66",
+      "title": "‘I was nervous before my solo stay in a remote Scottish Highlands cabin – but the solitude is glorious’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/travel/2026/nov/15/solo-stay-remote-cabin-highlands-scotland-rannoch-moor",
+      "publishedAt": "2026-11-15T07:00:06.000Z",
+      "category": "uk",
+      "summary": "As a lone female traveller, the prospect of staying in a hut on Rannoch Moor is daunting, but the silence of the mountains and lochs turns out to be ‘the ultimate luxury’ In the gloaming, the trees stand dark and impenetrable on either side of the path. An owl"
+    },
+    {
+      "id": "feed-1yv2upj",
+      "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+      "publishedAt": "2026-11-15T06:22:32.000Z",
+      "category": "world",
+      "summary": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as Europ"
+    },
+    {
+      "id": "feed-1qzrdw8",
+      "title": "TV tonight: a tough look inside Crowborough asylum camp",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/15/tv-tonight-a-tough-look-inside-crowborough-asylum-camp",
+      "publishedAt": "2026-11-15T06:15:05.000Z",
+      "category": "uk",
+      "summary": "Undercover cameras paint a bleak portrait of the situation. Plus, it’s sea lion v black neck swan in Blue Planet III. Here’s what to watch this evening 10pm, ITV1 Continue reading..."
+    },
+    {
+      "id": "feed-qcm079",
+      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o",
+      "publishedAt": "2026-11-15T06:01:46.000Z",
+      "category": "uk",
+      "summary": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room."
+    },
+    {
+      "id": "feed-15iszif",
+      "title": "‘Like many men of his generation, he tends to push his feelings down from his heart to his toes’: Meera Sodha on her father’s homecoming",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/meera-sodha-father-homecoming-uganda",
+      "publishedAt": "2026-11-15T06:00:07.000Z",
+      "category": "uk",
+      "summary": "After a childhood of grief, hardship and hunger, the Guardian food writer’s father Raj always resisted going back to Uganda. What happened when he finally agreed to accompany her on a bittersweet journey into the past? The moment I step off the plane and on to"
+    },
+    {
+      "id": "feed-f4t7jd",
+      "title": "Britain’s veto could stop the UAE’s choice from running the United Nations. Miliband must use it | Steve Bloomfield",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/15/britain-veto-uae-united-nations-miliband-lana-nusseibeh-russia-us-sudan",
+      "publishedAt": "2026-11-15T06:00:07.000Z",
+      "category": "uk",
+      "summary": "Lana Nusseibeh appears to have the support of Russia and the US, but her role glossing the horror in Sudan makes her unsuitable – and we should say so Since the devastating war in Sudan began in 2023, some of the best investigative work uncovering those respon"
+    },
+    {
+      "id": "feed-wuj7hb",
+      "title": "Gymshark in trademark battle that threatens future of small fitness business",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
+      "publishedAt": "2026-11-15T06:00:07.000Z",
+      "category": "uk",
+      "summary": "Exclusive: British sportswear firm is seeking to obtain rights to The Conditioning Club, which is also the name of a Gloucestershire gym Gymshark, the £1bn British sportswear firm started in a family garage , is locked in a trademark battle that threatens the "
+    },
+    {
+      "id": "feed-xpe3xx",
+      "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+      "publishedAt": "2026-11-15T06:00:06.000Z",
+      "category": "uk",
+      "summary": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espi"
+    },
+    {
+      "id": "feed-wby3i9",
+      "title": "Blacklock, Birmingham B3: ‘A very, very cool version of an Angus Steakhouse’ – restaurant review",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/food/2026/nov/15/blacklock-birmingham-b3-grace-dent-restaurant-review",
+      "publishedAt": "2026-11-15T06:00:06.000Z",
+      "category": "uk",
+      "summary": "Ever-open, eminently relatable, sensibly priced spots of this sort will always have an audience A London chophouse has taken up residence on St Philip’s Place, Birmingham, on the edge of Cathedral Square, or “Pigeon Park”, as the locals call it. This particula"
+    },
+    {
+      "id": "feed-bust71",
+      "title": "I’m really hurt that my parents didn’t give me a 40th birthday gift | Ask Annalisa Barbieri",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/hurt-parents-didnt-give-me-40th-birthday-gift-annalisa-barbieri",
+      "publishedAt": "2026-11-15T06:00:06.000Z",
+      "category": "uk",
+      "summary": "You feel overlooked, but your parents’ disappointing behaviour does not necessarily mean they don’t love you I turned 40 a few years ago . For my 21st and 30th birthdays I got jewellery from my parents, so when they didn’t ask what I wanted, I assumed they wou"
+    },
+    {
+      "id": "feed-1ao40yg",
+      "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
+      "publishedAt": "2026-11-15T06:00:05.000Z",
+      "category": "uk",
+      "summary": "Thames Water says detainees at proposed accommodation should expect to experience insect swarms and strong smells A Home Office plan to build asylum seeker detention facilities next to a sewage pump is facing objections after water company officials warned tha"
+    },
+    {
+      "id": "feed-141gt94",
+      "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
+      "publishedAt": "2026-11-15T06:00:05.000Z",
+      "category": "uk",
+      "summary": "International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against Israel The world’s top court will deliver a judgment this week on whether Myanmar committed genocide against its Rohingya minor"
+    },
+    {
+      "id": "feed-3fidic",
+      "title": "UK papers: 'I was only 16' says alleged Brand victim, as disgraced comedian 'moved to soft jail'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6elm8lj2zo",
+      "publishedAt": "2026-11-15T05:16:44.000Z",
+      "category": "uk",
+      "summary": "Russell Brand continues to feature on Sunday's front pages, nearly a week after he was jailed."
+    },
+    {
+      "id": "feed-18i2evf",
+      "title": "At 17, I dated a 36-year-old. That decision looks very different to me now | Polly Hudson",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/15/at-17-i-dated-a-36-year-old-that-decision-looks-very-different-to-me-now",
+      "publishedAt": "2026-11-15T05:00:04.000Z",
+      "category": "uk",
+      "summary": "As teenagers, my friends and I thought it was glamorous to have relationships with older men. But after the revelations about Russell Brand and David Walliams, I have started to see that period of my life in a new light It has been a strange time to be a “woma"
+    },
+    {
+      "id": "feed-gf4ysg",
+      "title": "‘We need to get back to class’: some teachers lose patience as France enters its eighth week of student protests",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/15/we-need-to-get-back-to-class-some-teachers-lose-patience-as-france-enters-its-eighth-week-of-student-protests",
+      "publishedAt": "2026-11-15T05:00:04.000Z",
+      "category": "uk",
+      "summary": "Educators voice concerns as thousands of children facing exams miss up to 150 hours of class For several weeks, Alex, 16, has woken at 4am and walked 90 minutes in the dark from his northern Paris suburb so he can help gather wheelie bins to blockade his high "
+    },
+    {
+      "id": "feed-8k6nna",
+      "title": "World leaders head to Asia for back-to-back diplomatic summits",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+      "publishedAt": "2026-11-15T04:00:02.000Z",
+      "category": "world",
+      "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings The global political centre of gravity will be firmly in Asia this week as world leaders fly in for back-to-back high-level summits again"
+    },
+    {
+      "id": "feed-iqd2yk",
+      "title": "More cold health alerts to take effect after temperatures drop to -6C",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/more-cold-health-alerts-to-take-effect-after-temperatures-drop-to-6c-13612383",
+      "publishedAt": "2026-11-15T03:51:00.000Z",
+      "category": "uk",
+      "summary": "Frosty conditions are expected to persist into next week, as more cold health alerts have been issued for parts of the UK on Sunday night until Thursday morning."
+    },
+    {
+      "id": "feed-1av6n4b",
+      "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
+      "publishedAt": "2026-11-15T03:49:21.000Z",
+      "category": "world",
+      "summary": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phones Get our daily political email , free app or daily news podcast Anthony Albanese has apologised for a hot-mic gaffe at the UN"
+    },
+    {
+      "id": "feed-q3aa6q",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+      "publishedAt": "2026-11-15T03:21:04.000Z",
+      "category": "world",
+      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links."
+    },
+    {
+      "id": "feed-qhoniu",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
+      "publishedAt": "2026-11-15T02:49:45.000Z",
+      "category": "world",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023."
+    },
+    {
+      "id": "feed-1328lxn",
+      "title": "Katherine Deves among four NSW upper house candidates revealed by One Nation",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb",
+      "publishedAt": "2026-11-15T02:13:20.000Z",
+      "category": "world",
+      "summary": "Party’s NSW leader Mike Newman says contenders are ‘people from the real world’ and not ‘career politicians’ Get our breaking news email , free app or daily news podcast The failed federal Liberal candidate Katherine Deves, who campaigned to exclude transgende"
+    },
+    {
+      "id": "feed-1x020e3",
+      "title": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
+      "publishedAt": "2026-11-15T01:52:37.000Z",
+      "category": "world",
+      "summary": "Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast Get our breaking news email , free app or daily news podcast Dangerous and severe “supercell” thunderstorms with the potential fo"
+    },
+    {
       "id": "feed-xxjsay",
       "title": "UK government to consider changing age of consent after allegations against Russell Brand",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
       "publishedAt": "2026-11-15T00:17:14.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly claim she was raped b"
     },
     {
@@ -164,24 +454,14 @@
       "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers."
     },
     {
-      "id": "feed-3fidic",
-      "title": "UK papers: 'I was only 16' says alleged Brand victim, as disgraced comedian 'moved to soft jail'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6elm8lj2zo",
-      "publishedAt": "2026-11-14T23:56:54.000Z",
+      "id": "feed-1mgts1s",
+      "title": "Minister says 'changing age of consent deserves proper consideration' after Brand allegations",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/minister-says-changing-age-of-consent-deserves-proper-consideration-after-brand-allegations-13612375",
+      "publishedAt": "2026-11-14T23:47:00.000Z",
       "category": "uk",
-      "summary": "Russell Brand continues to feature on Sunday's front pages, nearly a week after he was jailed."
-    },
-    {
-      "id": "feed-uxtu26",
-      "title": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells",
-      "publishedAt": "2026-11-14T23:46:09.000Z",
-      "category": "uk",
-      "summary": "Russian teen will face Ukraine star in the final Sabalenka issues public apology after social media storm The rise of Mirra Andreeva has seemed inevitable ever since she burst on to the tour as a precocious 15-year-old more than three years ago, but this week,"
+      "summary": "The government will consider changing the age of consent after a woman campaigning for a change in the law waived her right to anonymity to publicly claim she was raped by Russell Brand at 16."
     },
     {
       "id": "feed-3vihf2",
@@ -240,18 +520,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
       "publishedAt": "2026-11-14T22:35:06.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human "
-    },
-    {
-      "id": "feed-1gixrrj",
-      "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
-      "publishedAt": "2026-11-14T22:23:39.000Z",
-      "category": "uk",
-      "summary": "Portugal thrashed 4-1 at home by Denmark Wales bottom of Group A4 after 3-1 loss Portugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo after his retirement from international foo"
     },
     {
       "id": "feed-1eeivqa",
@@ -261,7 +531,7 @@
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
       "publishedAt": "2026-11-14T22:15:52.000Z",
       "category": "science",
-      "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”."
+      "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\"."
     },
     {
       "id": "feed-yy1gyv",
@@ -274,16 +544,6 @@
       "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
     },
     {
-      "id": "feed-1x3q2h2",
-      "title": "Honey review – a hugely entertaining Killing Eve prequel that’s packed with naughty jokes",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/honey-review-killing-eve-prequel-bbc-one-iplayer",
-      "publishedAt": "2026-11-14T21:50:01.000Z",
-      "category": "uk",
-      "summary": "This tale of a young female spy in 1980s East Berlin is a visual delight. Around every corner is a fun comic twist Is there any more alluring aesthetic in screen fiction than the iron curtain thriller? Any TV show dealing in 1980s cold war chic – Deutschland 8"
-    },
-    {
       "id": "feed-fix74o",
       "title": "UK ethics watchdog chief steps back from role over sexual misconduct claims",
       "source": "BBC News",
@@ -294,54 +554,14 @@
       "summary": "The government says Stuart Sterling has stepped back from his role after claims made during the early 2000s emerged."
     },
     {
-      "id": "feed-1w3luxb",
-      "title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
-      "publishedAt": "2026-11-14T20:30:00.000Z",
-      "category": "uk",
-      "summary": "Midfielder needed a break ‘to come back stronger’ James Trafford selected to start in goal for England Declan Rice has admitted he had an “average” World Cup at the end of a gruelling season and needed time out during the international window in September and "
-    },
-    {
-      "id": "feed-krdsoy",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
-      "publishedAt": "2026-11-14T20:23:06.000Z",
-      "category": "world",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
-    },
-    {
       "id": "feed-1xombwx",
       "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
       "publishedAt": "2026-11-14T20:14:27.000Z",
-      "category": "uk",
-      "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol- and"
-    },
-    {
-      "id": "feed-tu1ybl",
-      "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
-      "publishedAt": "2026-11-14T20:00:53.000Z",
-      "category": "uk",
-      "summary": "Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts ... now! What is paleontology? Smithers: Yes, absolutely correct. Magnusson: What’s the name of the directory that"
-    },
-    {
-      "id": "feed-hwj09n",
-      "title": "New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tanker crash",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/new-orleans-mississippi-river-tanker-crash-lawsuit",
-      "publishedAt": "2026-11-14T19:54:38.000Z",
-      "category": "uk",
-      "summary": "Port also succeeds in seizing tanker, Atlantic Asphalt, to recoup damages after it crashes into cruise ship New Orleans port officials have filed a lawsuit seeking more than $1m in damages from the owner and operator of an asphalt tanker that crashed into a do"
+      "category": "world",
+      "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol prod"
     },
     {
       "id": "feed-bqgeda",
@@ -364,54 +584,14 @@
       "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday."
     },
     {
-      "id": "feed-wts1ga",
-      "title": "Portugal immortalise Cristiano Ronaldo’s No 7 shirt in tribute to national legend",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/14/portugal-immortalise-cristiano-ronaldos-no-7-shirt-in-tribute-to-national-legend",
-      "publishedAt": "2026-11-14T19:13:43.000Z",
-      "category": "uk",
-      "summary": "Original No 7 design preserved to honour player Career brought 146 goals and three major titles Portugal have made a permanent change to the No 7 shirt to honour the legacy of Cristiano Ronaldo and ensure the number remains forever associated with their greate"
-    },
-    {
-      "id": "feed-o2x9wg",
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
-      "publishedAt": "2026-11-14T19:12:25.000Z",
-      "category": "world",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
-    },
-    {
       "id": "feed-1b3hmsz",
       "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
       "publishedAt": "2026-11-14T19:01:32.000Z",
-      "category": "uk",
-      "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the f"
-    },
-    {
-      "id": "feed-f9mtrg",
-      "title": "‘I’m still trying to find out who I am’: the little-understood plight of Forgotten Australians",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/ng-interactive/2026/nov/15/forgotten-australians-trauma-childrens-homes-orphanages-ntwnfb",
-      "publishedAt": "2026-11-14T19:00:53.000Z",
-      "category": "uk",
-      "summary": "They number more than half a million yet the ongoing trauma from their time in orphanages and institutions remains poorly known When Judy Leonard entered the orphanage, she was given a bed with a number. That was how the staff would refer to her. Not by her na"
-    },
-    {
-      "id": "feed-15711vc",
-      "title": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb",
-      "publishedAt": "2026-11-14T19:00:53.000Z",
       "category": "world",
-      "summary": "Parliamentarians across factional lines share concerns about policy that legal expert says ‘paints the imprisonment of children as therapeutic’ Get our daily political email , free app or daily news podcast Until December last year, Meena Singh was Victoria’s "
+      "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the f"
     },
     {
       "id": "feed-12isa3n",
@@ -420,28 +600,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
       "publishedAt": "2026-11-14T19:00:52.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast The outspoken Liberal senator Andrew McLachlan has "
-    },
-    {
-      "id": "feed-2n3dkf",
-      "title": "The moment I knew: He quoted my favourite TV show. I blurted out, ‘Marry me!’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/the-moment-i-knew-he-quoted-my-favourite-tv-show",
-      "publishedAt": "2026-11-14T19:00:51.000Z",
-      "category": "uk",
-      "summary": "On Anthony Ashdown’s first date with Jake, their mutual love of nerd culture felt revolutionary. Then Jake referenced a catchphrase from The Golden Girls. Find more stories from the moment I knew series Picture it. Sydney. 2015. I had weathered a nasty breakup"
-    },
-    {
-      "id": "feed-sg7g2b",
-      "title": "Five-try Will Joseph equals record as England steamroller Japan",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/14/england-japan-nations-championship-match-report",
-      "publishedAt": "2026-11-14T18:39:16.000Z",
-      "category": "uk",
-      "summary": "England 78-15 Japan Steve Borthwick’s men score 13 tries Not every game of rugby can deliver a result for the ages and this one never stood a chance of eclipsing the weekend’s remarkable events in Cardiff and Paris. In terms of one-sided contests at Twickenham"
     },
     {
       "id": "feed-s2n2ps",
@@ -464,16 +624,6 @@
       "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
     },
     {
-      "id": "feed-664iq4",
-      "title": "Wales’ Dewi Lake calls historic win against New Zealand ‘amazing feeling’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/14/wales-dewi-lake-new-zealand-victory-amazing-feeling-historic-win",
-      "publishedAt": "2026-11-14T18:00:28.000Z",
-      "category": "uk",
-      "summary": "‘It’s nothing this group doesn’t deserve for their work’ Beauden Barrett: ‘Their defence felt like a brick wall’ Dewi Lake, the first Wales captain to lead his team to victory over New Zealand in 73 years, paid tribute to his teammates, who chiselled this win "
-    },
-    {
       "id": "feed-10dn1vj",
       "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
       "source": "BBC News",
@@ -490,7 +640,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
       "publishedAt": "2026-11-14T17:59:12.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Appeal for information comes after Brenda Raymond, 80, was set on fire outside her flat on Monday The family of an elderly woman who was set on fire outside a block of flats in Watford have said they are “desperate for answers”. Brenda Raymond, 80, was found s"
     },
     {
@@ -520,18 +670,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
       "publishedAt": "2026-11-14T17:11:18.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding The Trump administration says Friday’s four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or canceled thousands of fligh"
-    },
-    {
-      "id": "feed-1b1pjz2",
-      "title": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
-      "publishedAt": "2026-11-14T17:08:18.000Z",
-      "category": "uk",
-      "summary": "Civil society campaigners form protective cordon around LGBTQ+ campaigners as they unfurl flags and placards Queer and gay protesters defied a crackdown on LGBTQ+ rights in Turkey to lead a civil society climate march on Saturday in the city hosting this year’"
     },
     {
       "id": "feed-1ferspa",
@@ -552,16 +692,6 @@
       "publishedAt": "2026-11-14T16:58:33.000Z",
       "category": "world",
       "summary": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout Democrats have captured Alaska ’s governor’s seat for the first time in nearly three decades, marking another major victory for their party in a midterm el"
-    },
-    {
-      "id": "feed-se2d03",
-      "title": "Cold weather health alerts issued for parts of UK on Sunday night",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
-      "publishedAt": "2026-11-14T16:42:04.000Z",
-      "category": "world",
-      "summary": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until Thursday More cold health alerts have been issued for parts of the UK on Sunday night and next week. The alerts were issued by the UK Health Security Agency (UKHSA) for th"
     },
     {
       "id": "feed-mcf00v",
@@ -610,7 +740,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
       "publishedAt": "2026-11-14T16:00:48.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% n"
     },
     {
@@ -694,16 +824,6 @@
       "summary": "Police say a 27-year-old man died after being stabbed in the \"shocking and tragic attack\" in Crumpsall."
     },
     {
-      "id": "feed-12dc59o",
-      "title": "Napping Kansas driver whose truck sped on to soccer field and killed two won’t be charged",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
-      "publishedAt": "2026-11-14T14:38:36.000Z",
-      "category": "world",
-      "summary": "Authorities declined to file charges against napping woman whose truck accelerated on to field during youth game A soccer mom napping in her pickup truck when it suddenly accelerated on to the field at a Kansas youth tournament where her child was playing, kil"
-    },
-    {
       "id": "feed-hermsg",
       "title": "Former SAS chief blames state for breaking 'moral contract' with soldiers",
       "source": "Sky News",
@@ -754,14 +874,14 @@
       "summary": "The US has asked for the first time whether Ukraine would withdraw from parts of the Donbas region if Kyiv were admitted to NATO, Volodymyr Zelenskyy said."
     },
     {
-      "id": "feed-1sq49wk",
-      "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+      "id": "feed-qyrk8l",
+      "title": "Health is wealth? Polymarket and Kalshi now host bets on measles and other US health crises",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
-      "publishedAt": "2026-11-14T13:00:44.000Z",
-      "category": "world",
-      "summary": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high "
+      "url": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting",
+      "publishedAt": "2026-11-14T12:00:44.000Z",
+      "category": "business",
+      "summary": "Experts warn of risks of platforms hosting bets tied to US public health – including vaccine mandates and drug trials The sign was pasted on a construction fence next to an elementary school in the Brooklyn borough of New York City. “Vaccines,” it proclaimed i"
     },
     {
       "id": "feed-1v0acy8",
@@ -772,16 +892,6 @@
       "publishedAt": "2026-11-14T12:00:44.000Z",
       "category": "business",
       "summary": "City has failed to build infrastructure that could reduce threat, and saw 400 fires, 83 injuries and 12 deaths this year Fires from lithium-ion batteries, which power ebikes and scooters, have become regular occurrences in New York, causing deaths and fear amo"
-    },
-    {
-      "id": "feed-qyrk8l",
-      "title": "Health is wealth? Polymarket and Kalshi now host bets on measles and other US health crises",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting",
-      "publishedAt": "2026-11-14T12:00:44.000Z",
-      "category": "business",
-      "summary": "Experts warn of risks of platforms hosting bets tied to US public health – including vaccine mandates and drug trials The sign was pasted on a construction fence next to an elementary school in the Brooklyn borough of New York City. “Vaccines,” it proclaimed i"
     },
     {
       "id": "feed-1hlr8jl",
@@ -802,26 +912,6 @@
       "publishedAt": "2026-11-14T11:54:31.000Z",
       "category": "technology",
       "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that resulted in widespread disruption to governments, businesses and"
-    },
-    {
-      "id": "feed-dhbjm0",
-      "title": "I never thought I'd make it as an actor but now I'm up for a Bafta",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmgwkv7kjxo",
-      "publishedAt": "2026-11-14T11:48:23.000Z",
-      "category": "uk",
-      "summary": "Scott Ellis Watson, 16, portrayed John Davidson's teenage experience with Tourette's in the hit film I Swear."
-    },
-    {
-      "id": "feed-wrtumi",
-      "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-      "publishedAt": "2026-11-14T11:11:03.000Z",
-      "category": "world",
-      "summary": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab cit"
     },
     {
       "id": "feed-sdnmmm",
@@ -1024,26 +1114,6 @@
       "summary": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?"
     },
     {
-      "id": "feed-q85654",
-      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
-      "publishedAt": "2026-11-14T07:00:38.000Z",
-      "category": "world",
-      "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars Airport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an attempt to prevent “short-term and long"
-    },
-    {
-      "id": "feed-978s1g",
-      "title": "Bristol aims to become UK’s first ‘wetland city’ and reduce flood risk",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/nov/14/bristol-first-uk-wetland-city-flood",
-      "publishedAt": "2026-11-14T07:00:37.000Z",
-      "category": "business",
-      "summary": "Five-year project will create wildlife corridors by building wetlands and increase access to green and blue spaces Bristol could become home to the UK’s first “wetland city” thanks to a charity’s efforts to create vast wildlife corridors that will reduce flood"
-    },
-    {
       "id": "feed-aoyfys",
       "title": "Bluetongue virus confirmed on County Down farm",
       "source": "BBC News",
@@ -1060,7 +1130,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
       "publishedAt": "2026-11-14T06:42:27.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
     },
     {
@@ -1082,16 +1152,6 @@
       "publishedAt": "2026-11-14T06:20:00.000Z",
       "category": "uk",
       "summary": "A 27-year-old man was stabbed to death in a north Manchester suburb in the early hours of Saturday morning."
-    },
-    {
-      "id": "feed-1tlib2k",
-      "title": "‘An environmental and welfare disaster’: British salmon loses its organic status",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/environment/2026/nov/14/salmon-organic-british-farmed-environmental-welfare",
-      "publishedAt": "2026-11-14T06:00:37.000Z",
-      "category": "business",
-      "summary": "This week the Soil Association withdrew certification from organic salmon after 20 years. What went wrong? The first haul of farmed salmon in Britain was a relatively modest 14 tonnes, produced off the west coast of Scotland near Fort William in 1971. For Unil"
     },
     {
       "id": "feed-s3bl6f",
@@ -1194,16 +1254,6 @@
       "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of"
     },
     {
-      "id": "feed-g5p3r9",
-      "title": "Why the Nvidia scandal is far from over - The Latest",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest",
-      "publishedAt": "2026-11-13T19:20:53.000Z",
-      "category": "business",
-      "summary": "Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting"
-    },
-    {
       "id": "feed-6nausf",
       "title": "What could El Niño mean for winter weather in the US and Canada?",
       "source": "BBC News",
@@ -1294,16 +1344,6 @@
       "summary": "US personnel were told to take shelter at RAF Lakenheath, a major base hosting American forces in the UK, following \"suspected unauthorised drone activity\"."
     },
     {
-      "id": "feed-1fdv3s3",
-      "title": "'Face' of mystery woman found dead in bin bag in park released by police",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/face-of-mystery-woman-found-dead-in-bin-bag-in-liverpool-park-released-by-police-13611925",
-      "publishedAt": "2026-11-13T14:40:00.000Z",
-      "category": "uk",
-      "summary": "The face of a woman whose body was found in a bin bag in a park has been reconstructed as detectives try to identify her."
-    },
-    {
       "id": "feed-1wlxhbw",
       "title": "Climate action discussed at youth COP meeting",
       "source": "BBC News",
@@ -1392,16 +1432,6 @@
       "publishedAt": "2026-11-13T12:00:18.000Z",
       "category": "technology",
       "summary": "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the country Angela Nguyen, a senior at Stanford University, has been on a mission to make sure her school doesn’t use automated license plate readers, like thos"
-    },
-    {
-      "id": "feed-nsr55r",
-      "title": "Jeffrey Donaldson's wife Eleanor placed on sex offenders' register after his rape conviction",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/jeffrey-donaldsons-wife-eleanor-placed-on-sex-offenders-register-after-his-rape-conviction-13611873",
-      "publishedAt": "2026-11-13T11:55:00.000Z",
-      "category": "uk",
-      "summary": "Eleanor Donaldson, the wife of disgraced former DUP leader Jeffrey Donaldson, has been placed on the sex offenders' register."
     },
     {
       "id": "feed-1wiw3fh",
@@ -1614,16 +1644,6 @@
       "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, afte"
     },
     {
-      "id": "feed-vqkkmr",
-      "title": "Israeli strike on Gaza hospital kills six, health ministry says",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/israeli-strike-on-gaza-hospital-kills-six-including-doctor-health-ministry-says-13611456",
-      "publishedAt": "2026-11-12T11:32:00.000Z",
-      "category": "world",
-      "summary": "An Israeli airstrike on a Palestinian hospital has killed at least six and wounded 28, Gaza's Health Ministry said."
-    },
-    {
       "id": "feed-1go7hid",
       "title": "Warburg Pincus eyes takeover of small business lender iwoca",
       "source": "Sky News",
@@ -1692,16 +1712,6 @@
       "publishedAt": "2026-11-12T08:24:00.000Z",
       "category": "business",
       "summary": "Crisis-hit Poundland has secured an extended deadline for a potential rescue amid political pressure for a solvent sale of the chain."
-    },
-    {
-      "id": "feed-flvsn7",
-      "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
-      "publishedAt": "2026-11-12T06:55:44.000Z",
-      "category": "technology",
-      "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Get our daily political email , free app or daily news podcast Entry-level jobs will be the first to be automated due to AI, but it could "
     },
     {
       "id": "feed-1hf2rv6",
@@ -1842,16 +1852,6 @@
       "publishedAt": "2026-11-10T03:22:00.000Z",
       "category": "technology",
       "summary": "Storms Austen and Boelo striking different parts of the UK at the same time contributed to 24 October being one of the wettest days Britain has ever seen."
-    },
-    {
-      "id": "feed-19ky6mp",
-      "title": "FBI investigating Nvidia CEO over affair with alleged Chinese spy",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/fbi-to-investigate-nvidia-ceo-over-affair-with-alleged-chinese-spy-trump-says-13610382",
-      "publishedAt": "2026-11-10T02:06:00.000Z",
-      "category": "technology",
-      "summary": "Donald Trump has said the FBI is looking into Nvidia CEO Jensen Huang's affair with an alleged Chinese spy - but insisted he is a \"very honourable man\"."
     },
     {
       "id": "feed-azeq8w",
