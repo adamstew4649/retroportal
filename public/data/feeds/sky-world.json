@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T07:19:20.116Z",
+  "updatedAt": "2026-11-15T14:52:30.232Z",
   "feed": {
     "title": "World News - Breaking international news and headlines | Sky News",
     "url": "https://feeds.skynews.com/feeds/rss/world.xml",
@@ -8,20 +8,20 @@
   },
   "articles": [
     {
+      "id": "feed-bwvlb8",
+      "title": "Hamas says senior commander killed in Israeli airstrike",
+      "link": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
+      "source": "Sky News",
+      "publishedAt": "2026-11-15T05:16:00.000Z",
+      "summary": "A senior Hamas commander who helped plan and oversee the 7 October 2023 attack had been killed in an Israeli airstrike, according to the Palestinian militant group."
+    },
+    {
       "id": "feed-1i9ey3k",
       "title": "Microsoft confirms all services are restored after global outage",
       "link": "https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219",
       "source": "Sky News",
       "publishedAt": "2026-11-14T14:56:00.000Z",
       "summary": "Microsoft has said that all services have been fully restored after a global outage which affected the NHS, police, schools and other services across the UK."
-    },
-    {
-      "id": "feed-hermsg",
-      "title": "Former SAS chief blames state for breaking 'moral contract' with soldiers",
-      "link": "https://news.sky.com/story/former-sas-chief-blames-state-for-breaking-moral-contract-with-soldiers-13612211",
-      "source": "Sky News",
-      "publishedAt": "2026-11-14T14:33:00.000Z",
-      "summary": "A former commanding officer of the SAS blamed the state for breaking a \"moral contract\" between the country and its top soldiers by setting up an inquiry into war crimes which has failed to reach conclusions four years on."
     },
     {
       "id": "feed-o3763x",
@@ -54,6 +54,14 @@
       "source": "Sky News",
       "publishedAt": "2026-11-13T18:04:00.000Z",
       "summary": "British representatives will be part of a team representing Europe in Ukraine peace talks."
+    },
+    {
+      "id": "feed-vqkkmr",
+      "title": "Israeli strike on Gaza hospital kills six, health ministry says",
+      "link": "https://news.sky.com/story/israeli-strike-on-gaza-hospital-kills-six-including-doctor-health-ministry-says-13611456",
+      "source": "Sky News",
+      "publishedAt": "2026-11-12T11:32:00.000Z",
+      "summary": "An Israeli airstrike on a Palestinian hospital has killed at least six and wounded 28, Gaza's Health Ministry said."
     }
   ]
 }
