@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T06:54:46.546Z",
+  "updatedAt": "2026-11-16T16:33:56.966Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
@@ -8,8 +8,16 @@
   },
   "articles": [
     {
-      "id": "feed-45zi1s",
-      "title": "Beavers could return to river separating counties",
+      "id": "feed-zb0ezc",
+      "title": "Yellow weather warnings issued for snow as temperatures plummet",
+      "link": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T10:02:04.000Z",
+      "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times."
+    },
+    {
+      "id": "feed-168h3vg",
+      "title": "Experts explore returning beavers to River Waveney",
       "link": "https://www.bbc.co.uk/news/articles/cm3rglzqjl90o",
       "source": "BBC News",
       "publishedAt": "2026-11-16T06:27:27.000Z",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T07:04:09.000Z",
       "summary": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space."
-    },
-    {
-      "id": "feed-1ccp47s",
-      "title": "How many sewage spills have happened in your part of Scotland?",
-      "link": "https://www.bbc.co.uk/news/articles/c0re545l8jdo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T06:31:51.000Z",
-      "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found."
     }
   ]
 }

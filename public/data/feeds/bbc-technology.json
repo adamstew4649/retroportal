@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T06:54:46.545Z",
+  "updatedAt": "2026-11-16T16:33:56.966Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
-      "id": "feed-14352w4",
-      "title": "Investors sue chip giant Intel after 29% stock plunge",
+      "id": "feed-12i4tr0",
+      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T15:31:20.000Z",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back."
+    },
+    {
+      "id": "feed-ssh4j9",
+      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+      "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T13:34:22.000Z",
+      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager."
+    },
+    {
+      "id": "feed-9y740j",
+      "title": "Intel sued by investors after PC sales slump hits share price",
       "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
       "source": "BBC News",
       "publishedAt": "2026-11-16T03:04:01.000Z",
-      "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares."
+      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders."
     },
     {
       "id": "feed-1xnl4wk",
@@ -102,22 +118,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T17:34:58.000Z",
       "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world."
-    },
-    {
-      "id": "feed-1ywcnsv",
-      "title": "NHS, schools and police forces hit by Microsoft outage",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T13:41:25.000Z",
-      "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact."
-    },
-    {
-      "id": "feed-1q0jz72",
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T12:22:30.000Z",
-      "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself."
     },
     {
       "id": "feed-fnl7fv",
