@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T16:33:56.966Z",
+  "updatedAt": "2026-11-17T00:33:01.962Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,20 +8,68 @@
   },
   "articles": [
     {
+      "id": "feed-z9x4d2",
+      "title": "Customers report service outages at major US banks",
+      "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-17T00:18:01.000Z",
+      "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\"."
+    },
+    {
+      "id": "feed-1hm4r54",
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
+      "source": "BBC News",
+      "publishedAt": "2026-11-17T00:00:03.000Z",
+      "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?"
+    },
+    {
+      "id": "feed-li6j8",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-17T00:00:02.000Z",
+      "summary": "People who can't afford to get on the housing ladder are buying homes with people they don't know."
+    },
+    {
+      "id": "feed-99ssy9",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T23:12:24.000Z",
+      "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public"
+    },
+    {
+      "id": "feed-zes7sj",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T22:32:47.000Z",
+      "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems."
+    },
+    {
+      "id": "feed-uaikn0",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T22:21:27.000Z",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
+    },
+    {
+      "id": "feed-1wg0hp7",
+      "title": "'Parents are offering to pay kids' wages': Salon owner",
+      "link": "https://www.bbc.co.uk/news/videos/c60rkn7vdjxxo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T18:05:17.000Z",
+      "summary": "National Insurance (NI) paid by firms on under-25s should be gradually lowered to help create more jobs, according to a new report from former government minister Alan Milburn, due to be published on Tuesday."
+    },
+    {
       "id": "feed-16npz3a",
       "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
       "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
       "source": "BBC News",
       "publishedAt": "2026-11-16T15:40:16.000Z",
       "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
-    },
-    {
-      "id": "feed-12i4tr0",
-      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-      "source": "BBC News",
-      "publishedAt": "2026-11-16T15:31:20.000Z",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back."
     },
     {
       "id": "feed-1yo782t",
@@ -102,54 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-15T00:01:07.000Z",
       "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers."
-    },
-    {
-      "id": "feed-1thad7q",
-      "title": "Consumer Fight Back",
-      "link": "https://www.bbc.co.uk/sounds/play/m003498k",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T11:00:00.000Z",
-      "summary": "Black Friday promises huge savings, but are the deals really as good as they seem?"
-    },
-    {
-      "id": "feed-1rsnjmm",
-      "title": "Football kit giveaway aims to boost participation",
-      "link": "https://www.bbc.co.uk/news/articles/ck20v651473qo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T08:13:40.000Z",
-      "summary": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs."
-    },
-    {
-      "id": "feed-18ogr7y",
-      "title": "The rise of 'housefishing' by estate agents",
-      "link": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T07:45:50.000Z",
-      "summary": "The rise of 'housefishing' by estate agents."
-    },
-    {
-      "id": "feed-wiidv",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T06:42:27.000Z",
-      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
-    },
-    {
-      "id": "feed-85meng",
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T23:00:31.000Z",
-      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
-    },
-    {
-      "id": "feed-oo09hf",
-      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T19:53:57.000Z",
-      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
     }
   ]
 }

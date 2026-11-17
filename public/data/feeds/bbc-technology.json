@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T16:33:56.966Z",
+  "updatedAt": "2026-11-17T00:33:01.961Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
@@ -8,12 +8,28 @@
   },
   "articles": [
     {
-      "id": "feed-12i4tr0",
-      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+      "id": "feed-r5fz8o",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T23:25:53.000Z",
+      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges."
+    },
+    {
+      "id": "feed-99ssy9",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T23:12:24.000Z",
+      "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public"
+    },
+    {
+      "id": "feed-uaikn0",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
       "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
       "source": "BBC News",
-      "publishedAt": "2026-11-16T15:31:20.000Z",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back."
+      "publishedAt": "2026-11-16T22:21:27.000Z",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
     },
     {
       "id": "feed-ssh4j9",
@@ -102,22 +118,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T19:53:57.000Z",
       "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
-    },
-    {
-      "id": "feed-76lm2b",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T18:36:57.000Z",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
-    },
-    {
-      "id": "feed-cu76zp",
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T17:34:58.000Z",
-      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world."
     },
     {
       "id": "feed-fnl7fv",

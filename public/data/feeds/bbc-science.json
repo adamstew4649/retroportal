@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T16:33:56.966Z",
+  "updatedAt": "2026-11-17T00:33:01.962Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-17mvmkl",
+      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+      "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-17T00:09:54.000Z",
+      "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains."
+    },
     {
       "id": "feed-zb0ezc",
       "title": "Yellow weather warnings issued for snow as temperatures plummet",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T12:03:04.000Z",
       "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed."
-    },
-    {
-      "id": "feed-1jmj51w",
-      "title": "National Trust takes back land for nature restoration",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg257kl440o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T07:04:09.000Z",
-      "summary": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space."
     }
   ]
 }
