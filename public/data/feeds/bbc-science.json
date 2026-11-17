@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T00:33:01.962Z",
+  "updatedAt": "2026-11-17T08:38:39.841Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
@@ -8,11 +8,19 @@
   },
   "articles": [
     {
+      "id": "feed-1sw3xig",
+      "title": "How and when to see the peak of the Leonid meteor shower",
+      "link": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-17T08:01:47.000Z",
+      "summary": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night."
+    },
+    {
       "id": "feed-17mvmkl",
       "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
       "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o",
       "source": "BBC News",
-      "publishedAt": "2026-11-17T00:09:54.000Z",
+      "publishedAt": "2026-11-17T08:01:38.000Z",
       "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains."
     },
     {
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-13T14:39:06.000Z",
       "summary": "School children gather to discuss climate issues to coincide with the COP31 conference in Turkey."
-    },
-    {
-      "id": "feed-6qqkok",
-      "title": "Summer heatwave put bin crews lives at risk, says council worker",
-      "link": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-13T12:03:04.000Z",
-      "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed."
     }
   ]
 }
