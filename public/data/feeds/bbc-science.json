@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T16:46:25.018Z",
+  "updatedAt": "2026-11-18T23:11:55.695Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
     "link": "https://www.bbc.co.uk/news/science_and_environment"
   },
   "articles": [
+    {
+      "id": "feed-19pkg95",
+      "title": "Torrential rain causes widespread flooding in South Florida",
+      "link": "https://www.bbc.co.uk/news/videos/crgj3205jv98o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-18T20:29:18.000Z",
+      "summary": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports."
+    },
     {
       "id": "feed-162itxj",
       "title": "The seven Anthropic founders who are about to become multi-billionaires",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-17T12:04:38.000Z",
       "summary": "People can see the 6m-wide sculpture in St Helier until 29 November."
-    },
-    {
-      "id": "feed-15ykf2e",
-      "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
-      "link": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T09:46:31.000Z",
-      "summary": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix."
     }
   ]
 }
