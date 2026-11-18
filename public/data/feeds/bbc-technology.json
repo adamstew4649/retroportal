@@ -1,12 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T17:57:56.505Z",
+  "updatedAt": "2026-11-18T00:26:15.974Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-152il08",
+      "title": "Europe plans to catch the next computer chip wave",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-18T00:00:24.000Z",
+      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data."
+    },
+    {
+      "id": "feed-1ag691h",
+      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-17T23:03:39.000Z",
+      "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang."
+    },
+    {
+      "id": "feed-jzrnn4",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw",
+      "source": "BBC News",
+      "publishedAt": "2026-11-17T20:30:00.000Z",
+      "summary": "Video gaming is huge - it's more lucrative than the movies and music combined."
+    },
     {
       "id": "feed-zgvx5k",
       "title": "How new US chip restrictions on South East Asia will hit China",
@@ -96,22 +120,6 @@
       "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
     },
     {
-      "id": "feed-9dnq9l",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-15T13:37:45.000Z",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
-    },
-    {
-      "id": "feed-s2n2ps",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T18:28:06.000Z",
-      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos."
-    },
-    {
       "id": "feed-1ivtu9n",
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-10-27T20:30:00.000Z",
       "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis."
-    },
-    {
-      "id": "feed-1o4g26t",
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl",
-      "source": "BBC News",
-      "publishedAt": "2026-10-20T19:45:00.000Z",
-      "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon."
     }
   ]
 }
