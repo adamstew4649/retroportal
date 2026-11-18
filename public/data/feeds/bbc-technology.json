@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T00:26:15.974Z",
+  "updatedAt": "2026-11-18T07:46:51.017Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
@@ -8,20 +8,52 @@
   },
   "articles": [
     {
+      "id": "feed-1lg4mpv",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-18T06:04:21.000Z",
+      "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom."
+    },
+    {
+      "id": "feed-gmn4ce",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-18T05:33:13.000Z",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs."
+    },
+    {
+      "id": "feed-klrjkm",
+      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-18T05:10:02.000Z",
+      "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches."
+    },
+    {
+      "id": "feed-2st6zs",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-18T03:07:22.000Z",
+      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents."
+    },
+    {
+      "id": "feed-1n5smwj",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-18T01:18:18.000Z",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+    },
+    {
       "id": "feed-152il08",
       "title": "Europe plans to catch the next computer chip wave",
       "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o",
       "source": "BBC News",
       "publishedAt": "2026-11-18T00:00:24.000Z",
       "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data."
-    },
-    {
-      "id": "feed-1ag691h",
-      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-17T23:03:39.000Z",
-      "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang."
     },
     {
       "id": "feed-jzrnn4",
@@ -86,38 +118,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-16T23:25:53.000Z",
       "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges."
-    },
-    {
-      "id": "feed-fzkdyd",
-      "title": "OpenAI sued by California over Hugging Face attack",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-16T23:12:24.000Z",
-      "summary": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public."
-    },
-    {
-      "id": "feed-ssh4j9",
-      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-16T13:34:22.000Z",
-      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager."
-    },
-    {
-      "id": "feed-9y740j",
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
-      "source": "BBC News",
-      "publishedAt": "2026-11-16T03:04:01.000Z",
-      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders."
-    },
-    {
-      "id": "feed-1xnl4wk",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-16T01:47:57.000Z",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
     },
     {
       "id": "feed-1ivtu9n",
