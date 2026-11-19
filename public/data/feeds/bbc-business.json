@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T04:17:47.674Z",
+  "updatedAt": "2026-11-19T13:38:10.946Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,20 +8,60 @@
   },
   "articles": [
     {
-      "id": "feed-vzsuip",
-      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "id": "feed-dvj7ri",
+      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T13:35:52.000Z",
+      "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing."
+    },
+    {
+      "id": "feed-1l6q28c",
+      "title": "Indian driver wins $1.3m in life-changing lottery prize",
+      "link": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T11:38:09.000Z",
+      "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab."
+    },
+    {
+      "id": "feed-1piaj4q",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T10:48:04.000Z",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world."
+    },
+    {
+      "id": "feed-1wt358k",
+      "title": "Increase in direct cremations since pandemic",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T06:23:22.000Z",
+      "summary": "A 2026 Cost of Dying Report found direct cremation was now chosen for around one in five funerals."
+    },
+    {
+      "id": "feed-1vv1qr8",
+      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T06:15:57.000Z",
+      "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market."
+    },
+    {
+      "id": "feed-k257eo",
+      "title": "Leftover pumpkins help deliver 1,000th free meal",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T06:04:30.000Z",
+      "summary": "\"It's a really tough time for a lot of people,\" a sustainable food organisation says."
+    },
+    {
+      "id": "feed-wksmmu",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
       "source": "BBC News",
       "publishedAt": "2026-11-19T02:59:06.000Z",
       "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
-    },
-    {
-      "id": "feed-1tqulzj",
-      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T02:20:15.000Z",
-      "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence."
     },
     {
       "id": "feed-1gqv52s",
@@ -30,6 +70,14 @@
       "source": "BBC News",
       "publishedAt": "2026-11-19T01:22:38.000Z",
       "summary": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday."
+    },
+    {
+      "id": "feed-16cbjjt",
+      "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+      "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T00:05:31.000Z",
+      "summary": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch."
     },
     {
       "id": "feed-7zvywg",
@@ -56,14 +104,6 @@
       "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
     },
     {
-      "id": "feed-1vv1qr8",
-      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T23:01:09.000Z",
-      "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?"
-    },
-    {
       "id": "feed-1k4bvfi",
       "title": "Business Daily",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8gm9",
@@ -72,8 +112,8 @@
       "summary": "We examine the business of the Claude chatbot maker as it starts selling shares"
     },
     {
-      "id": "feed-kbpolt",
-      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "id": "feed-pjkk5i",
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
       "source": "BBC News",
       "publishedAt": "2026-11-18T21:28:08.000Z",
@@ -110,46 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-18T13:17:06.000Z",
       "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year."
-    },
-    {
-      "id": "feed-j1jh4q",
-      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-      "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T13:17:06.000Z",
-      "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year."
-    },
-    {
-      "id": "feed-8fd0bm",
-      "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-      "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T13:10:01.000Z",
-      "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way."
-    },
-    {
-      "id": "feed-8fd0bm",
-      "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-      "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T13:10:01.000Z",
-      "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way."
-    },
-    {
-      "id": "feed-1qwjonx",
-      "title": "MP urges council to speed up heating oil payments",
-      "link": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T08:48:26.000Z",
-      "summary": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter."
-    },
-    {
-      "id": "feed-gmn4ce",
-      "title": "Security flaw found in Java, world's third-largest programming language",
-      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T08:47:06.000Z",
-      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs."
     }
   ]
 }

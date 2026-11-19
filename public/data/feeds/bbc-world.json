@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T04:17:47.674Z",
+  "updatedAt": "2026-11-19T13:38:10.946Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,28 +8,76 @@
   },
   "articles": [
     {
-      "id": "feed-vzsuip",
-      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "id": "feed-od2ro7",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T13:07:35.000Z",
+      "summary": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes."
+    },
+    {
+      "id": "feed-q2ui7i",
+      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T12:56:30.000Z",
+      "summary": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn)."
+    },
+    {
+      "id": "feed-7di7s0",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T11:07:37.000Z",
+      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation."
+    },
+    {
+      "id": "feed-1piaj4q",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T10:48:04.000Z",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world."
+    },
+    {
+      "id": "feed-1bntmsm",
+      "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
+      "link": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T10:32:10.000Z",
+      "summary": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6."
+    },
+    {
+      "id": "feed-1p6zld1",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T09:21:54.000Z",
+      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods"
+    },
+    {
+      "id": "feed-1t70uol",
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+      "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T09:02:52.000Z",
+      "summary": "Some local media report that at least four bodies have been recovered."
+    },
+    {
+      "id": "feed-1mbjnbk",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T04:42:52.000Z",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump."
+    },
+    {
+      "id": "feed-wksmmu",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
       "source": "BBC News",
       "publishedAt": "2026-11-19T02:59:06.000Z",
       "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
-    },
-    {
-      "id": "feed-1tqulzj",
-      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T02:20:15.000Z",
-      "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence."
-    },
-    {
-      "id": "feed-5vbtx1",
-      "title": "Crimean Bridge attacked again, Russian official says",
-      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T01:05:03.000Z",
-      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory."
     },
     {
       "id": "feed-12v9jqo",
@@ -56,28 +104,20 @@
       "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles."
     },
     {
+      "id": "feed-162itxj",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-18T23:42:07.000Z",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
+    },
+    {
       "id": "feed-1y7jj70",
       "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
       "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o",
       "source": "BBC News",
       "publishedAt": "2026-11-18T23:28:03.000Z",
       "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say."
-    },
-    {
-      "id": "feed-3ivh0x",
-      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T23:04:06.000Z",
-      "summary": "No state has ever been found guilty by an international court of committing genocide."
-    },
-    {
-      "id": "feed-13bs1sx",
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T22:34:56.000Z",
-      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation."
     },
     {
       "id": "feed-1kd6i4f",
@@ -88,8 +128,8 @@
       "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022."
     },
     {
-      "id": "feed-kbpolt",
-      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "id": "feed-pjkk5i",
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
       "source": "BBC News",
       "publishedAt": "2026-11-18T21:28:08.000Z",
@@ -110,46 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-18T20:07:08.000Z",
       "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize"
-    },
-    {
-      "id": "feed-ss1th5",
-      "title": "New video shows explosions moments before part of Crimea Bridge collapses",
-      "link": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T17:09:43.000Z",
-      "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction."
-    },
-    {
-      "id": "feed-1ga29ox",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T17:00:40.000Z",
-      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
-    },
-    {
-      "id": "feed-1ejbv5n",
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T17:00:04.000Z",
-      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
-    },
-    {
-      "id": "feed-n4i3qo",
-      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T16:33:16.000Z",
-      "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021."
-    },
-    {
-      "id": "feed-aq1c4a",
-      "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T16:05:26.000Z",
-      "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat."
     }
   ]
 }
