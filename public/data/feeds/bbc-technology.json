@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T02:43:26.281Z",
+  "updatedAt": "2026-11-20T10:40:13.123Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
@@ -8,11 +8,27 @@
   },
   "articles": [
     {
-      "id": "feed-1tlmhzx",
-      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "id": "feed-1jzcqe8",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T09:37:59.000Z",
+      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
+    },
+    {
+      "id": "feed-1qpdb77",
+      "title": "Should AI be judging our credit worthiness?",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T07:32:19.000Z",
+      "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?"
+    },
+    {
+      "id": "feed-kmemhv",
+      "title": "GTA 6 breaks records as estimated sales top $2.3bn",
       "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
       "source": "BBC News",
-      "publishedAt": "2026-11-20T02:13:05.000Z",
+      "publishedAt": "2026-11-20T02:54:40.000Z",
       "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
     },
     {
@@ -96,25 +112,9 @@
       "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving."
     },
     {
-      "id": "feed-1p16gyb",
-      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T09:28:35.000Z",
-      "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager."
-    },
-    {
-      "id": "feed-gmn4ce",
-      "title": "Security flaw found in Java, world's third-largest programming language",
-      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-18T08:47:06.000Z",
-      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs."
-    },
-    {
-      "id": "feed-17j2cdh",
+      "id": "feed-jzrnn4",
       "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyw",
       "source": "BBC News",
       "publishedAt": "2026-11-17T20:30:00.000Z",
       "summary": "Video gaming is huge - it's more lucrative than the movies and music combined."

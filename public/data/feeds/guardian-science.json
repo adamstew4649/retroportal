@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T02:43:26.282Z",
+  "updatedAt": "2026-11-20T10:40:13.124Z",
   "feed": {
     "title": "Science | The Guardian",
     "url": "https://www.theguardian.com/science/rss",
@@ -8,12 +8,36 @@
   },
   "articles": [
     {
+      "id": "feed-dwh054",
+      "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-20T09:36:10.000Z",
+      "summary": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing A pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment for the cancer in d"
+    },
+    {
       "id": "feed-167qxad",
       "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
       "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
       "source": "The Guardian",
       "publishedAt": "2026-11-20T00:01:15.000Z",
       "summary": "BepiColombo double probe will map planet’s surface and study its interior to shed light on its unusually large core After a voyage of more than eight years and 6bn miles, a joint European-Japanese space mission has arrived at Mercury and is preparing to swing "
+    },
+    {
+      "id": "feed-rwtod4",
+      "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
+      "link": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-19T23:30:26.000Z",
+      "summary": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment invo"
+    },
+    {
+      "id": "feed-d4bkka",
+      "title": "Spuds in space: scientists say potatoes could be key food source for future moon base",
+      "link": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-19T18:49:54.000Z",
+      "summary": "New report details how potatoes were successfully cultivated in simulated lunar soil The humble potato could be the key to sustaining human life on the moon , according to a new scientific report asserting that prolonged lunar exploration will depend on life s"
     },
     {
       "id": "feed-1f439qt",
@@ -40,36 +64,12 @@
       "summary": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guar"
     },
     {
-      "id": "feed-4qtivg",
-      "title": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
-      "link": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-18T17:55:14.000Z",
-      "summary": "Scientists tell Commons exposure to colibactin in early life is potential driver of early-onset colorectal cancer Exposure to a bacterial toxin in early life has emerged as a leading suspect in the rise of bowel cancer among those under 50, MPs have heard. Cas"
-    },
-    {
       "id": "feed-12u0oq5",
       "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
       "link": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
       "source": "The Guardian",
       "publishedAt": "2026-11-18T17:46:34.000Z",
       "summary": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he “did not do enou"
-    },
-    {
-      "id": "feed-eetv4z",
-      "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? | Kim Heacox",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-18T11:00:56.000Z",
-      "summary": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves Imagine traveling nonstop for 49 years, alone in the dark with no destination in sight, powered by curi"
-    },
-    {
-      "id": "feed-1qgyvex",
-      "title": "Nasa’s Voyager 1 just reached a massive milestone in space - video",
-      "link": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-18T10:39:51.000Z",
-      "summary": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more"
     },
     {
       "id": "feed-1390i17",
@@ -94,14 +94,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-11-18T05:00:33.000Z",
       "summary": "Experts call trial results of medication that slowed cognitive decline by almost a third ‘very promising’ A pill that mimics Viagra by relaxing blood vessels and increasing blood flow to the brain can slow cognitive decline in people with Alzheimer’s disease b"
-    },
-    {
-      "id": "feed-12kbwgq",
-      "title": "US loses measles elimination status amid worst outbreak since 1991",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
-      "source": "The Guardian",
-      "publishedAt": "2026-11-17T22:18:53.000Z",
-      "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US has lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endem"
     },
     {
       "id": "feed-1acen9w",
@@ -150,6 +142,14 @@
       "source": "The Guardian",
       "publishedAt": "2026-11-12T12:49:36.000Z",
       "summary": "An alternative to BMI for diagnosing obesity could prevent misdiagnosis in millions of people worldwide, according to doctors who found it more accurately distinguished healthy people from those with harmful excess body fat. Guardian Science editor Ian Sample "
+    },
+    {
+      "id": "feed-1hf2rv6",
+      "title": "Is BMI working? Cop31 latest, the science of great conversation – podcast",
+      "link": "https://www.theguardian.com/science/audio/2026/nov/12/is-bmi-working-cop31-latest-the-science-of-great-conversation-podcast",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-12T05:00:09.000Z",
+      "summary": "Madeleine Finlay and co-host Ian Sample discuss the three science stories you need to know about this week, including an alternative to BMI for diagnosing obesity which could ‘prevent misdiagnosis for millions’. Also on the agenda: an update from this year’s C"
     }
   ]
 }
