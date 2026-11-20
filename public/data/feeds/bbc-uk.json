@@ -1,12 +1,116 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T10:40:13.121Z",
+  "updatedAt": "2026-11-20T18:53:53.825Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
     "link": "https://www.bbc.co.uk/news/uk"
   },
   "articles": [
+    {
+      "id": "feed-1rp8xkw",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T17:49:48.000Z",
+      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+    },
+    {
+      "id": "feed-1qgg3hl",
+      "title": "Calls for consent defence change after Joanne Young rape case",
+      "link": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T17:41:23.000Z",
+      "summary": "Joanne Young's daughter joins her mother in calling for a change to the law on consent."
+    },
+    {
+      "id": "feed-t2lrao",
+      "title": "No sign of missing men after fishing boat Kilda recovered near Orkney",
+      "link": "https://www.bbc.co.uk/news/articles/cmp86k870wz6o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T17:09:46.000Z",
+      "summary": "The Kilda and its three crew were reported missing near Lewis on 13 October."
+    },
+    {
+      "id": "feed-bg0i5a",
+      "title": "Sex abuse teacher arrested for missing sentencing",
+      "link": "https://www.bbc.co.uk/news/articles/c3qj5d25jprpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T17:05:50.000Z",
+      "summary": "Sally-Anne Bowen is in custody after police found her in Hampshire on Friday afternoon."
+    },
+    {
+      "id": "feed-1snl8sf",
+      "title": "Man jailed for murder of woman drowned in Thames",
+      "link": "https://www.bbc.co.uk/news/articles/c67423wvdnpyo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T16:59:20.000Z",
+      "summary": "Nelio Gouveia, 45, is jailed for killing Jennifer Symonds, who drowned in the River Thames."
+    },
+    {
+      "id": "feed-xo0gre",
+      "title": "Two men dead after glider crashes into Loch Leven",
+      "link": "https://www.bbc.co.uk/news/articles/cm8791qw0y79o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T16:54:52.000Z",
+      "summary": "The Scottish Gliding Centre said a two-seater Perkoz aircraft had \"crashed whilst on a local training flight\"."
+    },
+    {
+      "id": "feed-13rum0",
+      "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+      "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T16:39:49.000Z",
+      "summary": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews."
+    },
+    {
+      "id": "feed-1yealed",
+      "title": "Pontins fined £1m after grandmother's death",
+      "link": "https://www.bbc.co.uk/news/articles/cw7829emdvxro",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T16:33:30.000Z",
+      "summary": "A grandmother died after a part of an air conditioning duct and ceiling collapsed onto guests."
+    },
+    {
+      "id": "feed-18qcilt",
+      "title": "Airbnb's divisive new house rules come into force",
+      "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T15:48:35.000Z",
+      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers."
+    },
+    {
+      "id": "feed-5bgpje",
+      "title": "Man charged after 'knives and other weapons' seized from train",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9dg89w20o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T15:39:55.000Z",
+      "summary": "Army bomb disposal experts were called out following reports of a man 'acting suspiciously' on the train."
+    },
+    {
+      "id": "feed-7k461z",
+      "title": "House ramming charges in connection with A66 crash",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr1xlk7egyo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T14:59:03.000Z",
+      "summary": "A number of men are charged over events before a fatal head-on crash near Middlesbrough."
+    },
+    {
+      "id": "feed-o03siy",
+      "title": "'Dishonest' police officers sacked for lying over fatal crash searches",
+      "link": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T14:56:06.000Z",
+      "summary": "PC Richard Hardwick and PC Lauren Livingstone have been dismissed without notice."
+    },
+    {
+      "id": "feed-porkd2",
+      "title": "What does the new Brexit deal mean for Northern Ireland?",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xw1v99o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T14:41:53.000Z",
+      "summary": "The agreement is expected to be confirmed when Andy Burnham and Ursula von der Leyen meet in Brussels."
+    },
     {
       "id": "feed-oz9kei",
       "title": "Babydoll singer Jamie Miller covers Christmas classic",
@@ -24,44 +128,12 @@
       "summary": "The Northern line becomes second Tube line accessible to drivers with colour blindness."
     },
     {
-      "id": "feed-18qcilt",
-      "title": "Airbnb's divisive new house rules come into force",
-      "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T09:55:20.000Z",
-      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers."
-    },
-    {
       "id": "feed-12ii72b",
       "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
       "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
       "source": "BBC News",
       "publishedAt": "2026-11-20T09:44:56.000Z",
       "summary": "People stocking up on long-life food drove retail sales higher October, according to official data."
-    },
-    {
-      "id": "feed-1xptfl6",
-      "title": "New EU-UK deal should reduce 'Irish Sea border' impact",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xw1v99o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T09:15:34.000Z",
-      "summary": "The agreement is expected to be confirmed when Andy Burnham and Ursula von der Leyen meet in Brussels."
-    },
-    {
-      "id": "feed-kpjq92",
-      "title": "Attempted murder arrest after councillor stabbed",
-      "link": "https://www.bbc.co.uk/news/articles/cmj6l7kp2w22o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T09:09:23.000Z",
-      "summary": "Bradford Moor councillor Ibrar Ali is in hospital with serious injuries."
-    },
-    {
-      "id": "feed-1bvhjxx",
-      "title": "Calls for consent law change after Joanne Young rape case",
-      "link": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T09:00:02.000Z",
-      "summary": "Joanne Young's daughter joins her mother in calling for a change to the law on consent."
     },
     {
       "id": "feed-1cqfq5v",
@@ -72,84 +144,12 @@
       "summary": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?"
     },
     {
-      "id": "feed-1sgdaqi",
-      "title": "Girls as young as five targeted for upskirting as charges continue to rise",
-      "link": "https://www.bbc.co.uk/news/articles/cq808rerxxp3o",
+      "id": "feed-3ncddm",
+      "title": "'My frustrating 10-year wait for arthritis diagnosis'",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvrrnv6l6eo",
       "source": "BBC News",
-      "publishedAt": "2026-11-20T06:06:56.000Z",
-      "summary": "Police forces have received complaints involving girls as young as five and women as old as 87."
-    },
-    {
-      "id": "feed-ptwefv",
-      "title": "More young hikers lost using Google Maps, say rescuers",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k65n7202zo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T06:06:42.000Z",
-      "summary": "Lake District mountaineering instructors say more education on navigation will help on the fells."
-    },
-    {
-      "id": "feed-1ygemr5",
-      "title": "Does our ethnicity change how we experience dying?",
-      "link": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T01:29:43.000Z",
-      "summary": "Death is the one certainty we all share - but could our ethnicity change how we go through it?"
-    },
-    {
-      "id": "feed-16p4824",
-      "title": "Next round of BBC cuts will be more noticeable to audiences, report warns",
-      "link": "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T00:38:57.000Z",
-      "summary": "The BBC has already cut jobs, programmes and services but has further to go to reach its £500m target."
-    },
-    {
-      "id": "feed-a2rdye",
-      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T00:08:37.000Z",
-      "summary": "What is acceptable to eat at your desk, without annoying your colleagues?"
-    },
-    {
-      "id": "feed-ehwqtc",
-      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-      "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T00:08:22.000Z",
-      "summary": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers."
-    },
-    {
-      "id": "feed-1g6gja1",
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T00:02:07.000Z",
-      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe."
-    },
-    {
-      "id": "feed-19b5syy",
-      "title": "England fined for fans' anti-Catholic chants in Spain",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T19:11:03.000Z",
-      "summary": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain."
-    },
-    {
-      "id": "feed-r73whn",
-      "title": "Weekly quiz: Which star played cricket with Catherine in India?",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2edq12nno",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T18:43:15.000Z",
-      "summary": "How much attention did you pay to what happened in the world over the past seven days?"
-    },
-    {
-      "id": "feed-wbnqnu",
-      "title": "Irish government denies 'foot-dragging' over Omagh Bombing Inquiry",
-      "link": "https://www.bbc.co.uk/news/articles/cx1l0p50g23ro",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T17:53:57.000Z",
-      "summary": "Sir Chris Bryant urged Irish ministers to hold an inquiry when they met for the British Irish Intergovernmental Conference."
+      "publishedAt": "2026-11-20T06:10:35.000Z",
+      "summary": "Clare Base lived with persistent pain before her Axial Spondyloarthritis diagnosis."
     }
   ]
 }
