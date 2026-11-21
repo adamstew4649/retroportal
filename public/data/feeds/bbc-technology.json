@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T00:25:04.337Z",
+  "updatedAt": "2026-11-21T07:29:14.873Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-1j7i6p5",
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc",
+      "source": "BBC News",
+      "publishedAt": "2026-11-21T01:00:00.000Z",
+      "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race."
+    },
     {
       "id": "feed-1b51sky",
       "title": "Can AI really help spot Black Friday deals? We put it to the test",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-03T20:30:00.000Z",
       "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show."
-    },
-    {
-      "id": "feed-19p3gr8",
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jys",
-      "source": "BBC News",
-      "publishedAt": "2026-10-27T20:30:00.000Z",
-      "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis."
     }
   ]
 }
