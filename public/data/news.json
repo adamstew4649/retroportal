@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T18:53:53.830Z",
-  "generatedAt": "2026-11-20T18:53:53.830Z",
+  "updatedAt": "2026-11-21T00:25:04.343Z",
+  "generatedAt": "2026-11-21T00:25:04.343Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,14 +85,14 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "id": "sky-technology",
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/technology.xml",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "id": "sky-business",
@@ -104,14 +104,444 @@
   ],
   "articles": [
     {
-      "id": "feed-19s2l1w",
-      "title": "Pochettino demands say on big United decisions; Arteta takes fantasy football action; Nations League draw – live",
+      "id": "feed-1b51sky",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o",
+      "publishedAt": "2026-11-21T00:06:11.000Z",
+      "category": "technology",
+      "summary": "We put four AI models to the test to see if they could save us money on a new TV."
+    },
+    {
+      "id": "feed-yz5f3o",
+      "title": "‘A source of inspiration’: California celebrates the late civil rights icon Dolores Huerta",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
-      "publishedAt": "2026-11-20T18:46:49.000Z",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
+      "publishedAt": "2026-11-21T00:03:47.000Z",
+      "category": "world",
+      "summary": "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers union Hundreds of people came out to honor and celebrate the life and legacy of the California civil rights activist Dolores Huerta at a celebration-of"
+    },
+    {
+      "id": "feed-1vxu9f5",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
+      "publishedAt": "2026-11-21T00:01:39.000Z",
+      "category": "world",
+      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
+    },
+    {
+      "id": "feed-m6uwft",
+      "title": "NHS warns of 'alarming' rise in hospital admissions for 'silent killer'",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/nhs-warns-of-alarming-rise-in-hospital-admissions-for-high-blood-pressure-13614403",
+      "publishedAt": "2026-11-21T00:01:00.000Z",
       "category": "uk",
-      "summary": "⚽ All the latest football news going into the weekend ⚽ Fixtures | Tables | Ten things to look out for | Mail Michael A Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward withdrew his support f"
+      "summary": "NHS leaders are warning of an \"alarming\" rise in hospital admissions for high blood pressure across the UK."
+    },
+    {
+      "id": "feed-1jseq7t",
+      "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
+      "publishedAt": "2026-11-20T23:48:38.000Z",
+      "category": "world",
+      "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat, has reportedly blocked a confirmation vo"
+    },
+    {
+      "id": "feed-1wy5qms",
+      "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+      "publishedAt": "2026-11-20T23:42:43.000Z",
+      "category": "uk",
+      "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigat"
+    },
+    {
+      "id": "feed-z0vksu",
+      "title": "Josh Hazlewood suggests he could quit if any action taken against Pat Cummins over ‘sandpapergate’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/21/josh-hazlewood-pat-cummins-cricket-australia-sandpapergate",
+      "publishedAt": "2026-11-20T23:33:22.000Z",
+      "category": "uk",
+      "summary": "Bowler throws support behind Australia’s embattled Test captain Cricket Australia expected to reinforce support of Cummins Josh Hazlewood has thrown his full support behind Pat Cummins, denying they knew anything about “sandpapergate” while suggesting he could"
+    },
+    {
+      "id": "feed-hyk2ho",
+      "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo",
+      "publishedAt": "2026-11-20T23:28:17.000Z",
+      "category": "world",
+      "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart."
+    },
+    {
+      "id": "feed-15mkje5",
+      "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
+      "publishedAt": "2026-11-20T23:20:33.000Z",
+      "category": "world",
+      "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for."
+    },
+    {
+      "id": "feed-9z145b",
+      "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+      "publishedAt": "2026-11-20T23:20:29.000Z",
+      "category": "world",
+      "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that ca"
+    },
+    {
+      "id": "feed-au9a87",
+      "title": "US declassifies more UFO footage filmed in the Middle East",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko",
+      "publishedAt": "2026-11-20T23:15:20.000Z",
+      "category": "world",
+      "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026."
+    },
+    {
+      "id": "feed-m9hmf1",
+      "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+      "publishedAt": "2026-11-20T23:09:57.000Z",
+      "category": "world",
+      "summary": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’ Get our breaking news email , free app or daily news podcast The New South Wales government has passe"
+    },
+    {
+      "id": "feed-1y2souy",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+      "publishedAt": "2026-11-20T23:08:57.000Z",
+      "category": "world",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
+    },
+    {
+      "id": "feed-5vhg2h",
+      "title": "US police departments warn GTA VI users to ‘keep it in the game’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa",
+      "publishedAt": "2026-11-20T23:02:30.000Z",
+      "category": "uk",
+      "summary": "Although there is no definitive link between violent video games and behavior, departments take to social media While critics have been raving after the recent and long-awaited arrival of Grand Theft Auto VI, the latest entry in the famously violent video game"
+    },
+    {
+      "id": "feed-7hth6z",
+      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o",
+      "publishedAt": "2026-11-20T22:57:26.000Z",
+      "category": "science",
+      "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns."
+    },
+    {
+      "id": "feed-1r3xtp8",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+      "publishedAt": "2026-11-20T22:53:24.000Z",
+      "category": "technology",
+      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record."
+    },
+    {
+      "id": "feed-l323p0",
+      "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+      "publishedAt": "2026-11-20T22:43:40.000Z",
+      "category": "uk",
+      "summary": "England forward injured in Friday’s 1-1 draw with Cologne Club statement confirms ‘tear of ligament in left ankle’ Bayern Munich have confirmed Harry Kane will be “out for the next few months” with ankle ligament damage sustained in their 1-1 draw with Cologne"
+    },
+    {
+      "id": "feed-v9jjou",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+      "publishedAt": "2026-11-20T22:42:47.000Z",
+      "category": "world",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+    },
+    {
+      "id": "feed-l6nst",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo",
+      "publishedAt": "2026-11-20T22:37:09.000Z",
+      "category": "world",
+      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+    },
+    {
+      "id": "feed-5f7cwt",
+      "title": "French police officers found guilty of racist assault on black music producer",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+      "publishedAt": "2026-11-20T22:23:53.000Z",
+      "category": "uk",
+      "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security cameras Three French police officers who beat a black music producer they said was not wearing a face mask during the Covid pandemic have been found guilty o"
+    },
+    {
+      "id": "feed-igsjb3",
+      "title": "UK and France believed to have vetoed UAE choice for UN secretary general",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/20/uk-france-veto-uae-choice-lana-nusseibeh-next-un-secretary-general",
+      "publishedAt": "2026-11-20T22:14:46.000Z",
+      "category": "uk",
+      "summary": "Costa Rican diplomat remains frontrunner but needs to win over two more permanent members of security council The UK and France are believed to have effectively vetoed a controversial United Arab Emirates diplomat in a vote for the next UN secretary general, o"
+    },
+    {
+      "id": "feed-1n027oy",
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
+      "publishedAt": "2026-11-20T22:14:17.000Z",
+      "category": "world",
+      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks."
+    },
+    {
+      "id": "feed-1pkj351",
+      "title": "Bill’s Included review – Rob Brydon’s new character is as glorious as Gavin & Stacey’s Uncle Bryn",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/20/bills-included-review-rob-brydon-sitcom-bbc",
+      "publishedAt": "2026-11-20T22:00:40.000Z",
+      "category": "uk",
+      "summary": "The comic is sublime as a middle-aged landlord attempting to befriend student tenants. It’s very sweet – but the storylines and supporting characters are flimsy to say the least Bill Beam (Rob Brydon) is a chump, a sap, a bejumpered limpet clinging to the peri"
+    },
+    {
+      "id": "feed-1iiy6u8",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+      "publishedAt": "2026-11-20T21:57:07.000Z",
+      "category": "world",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
+    },
+    {
+      "id": "feed-68m30g",
+      "title": "Cold weather alert extended - as temperatures could drop to minus 10C",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/cold-weather-alert-extended-as-temperatures-could-drop-to-minus-10c-13614551",
+      "publishedAt": "2026-11-20T21:55:00.000Z",
+      "category": "uk",
+      "summary": "A cold weather warning has been extended as temperatures could drop to minus 10C (14F) overnight into Saturday."
+    },
+    {
+      "id": "feed-6zyc4o",
+      "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+      "publishedAt": "2026-11-20T21:47:41.000Z",
+      "category": "uk",
+      "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he"
+    },
+    {
+      "id": "feed-t1qcio",
+      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo",
+      "publishedAt": "2026-11-20T21:43:22.000Z",
+      "category": "uk",
+      "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU."
+    },
+    {
+      "id": "feed-tk5vj2",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "publishedAt": "2026-11-20T21:38:17.000Z",
+      "category": "uk",
+      "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of tradin"
+    },
+    {
+      "id": "feed-5fd58q",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+      "publishedAt": "2026-11-20T20:54:12.000Z",
+      "category": "world",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+    },
+    {
+      "id": "feed-18r90to",
+      "title": "Dmitri Kasterine obituary",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/20/dmitri-kasterine-obituary",
+      "publishedAt": "2026-11-20T20:26:49.000Z",
+      "category": "uk",
+      "summary": "Photographer who captured the humanity of subjects including Queen Elizabeth II, Dirk Bogarde, Jean-Michel Basquiat and Tom Stoppard In 1963, the photographer Dmitri Kasterine heard that Stanley Kubrick was in London filming Dr Strangelove. Kasterine was a fan"
+    },
+    {
+      "id": "feed-tuo4dj",
+      "title": "We’ve tried everything to get off our phones. These 11 things work (and make great gifts)",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
+      "publishedAt": "2026-11-20T20:15:38.000Z",
+      "category": "technology",
+      "summary": "Our favorite screen alternatives, including guided watercolor books, jigsaw puzzles and a Mexican cookbook The best holiday gifts – obsessively tested Logging off is en vogue. From touting analog bags to playing vinyl records , many of us are tired of living l"
+    },
+    {
+      "id": "feed-1ea3zqy",
+      "title": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+      "publishedAt": "2026-11-20T20:04:46.000Z",
+      "category": "uk",
+      "summary": "African ministers say they ‘didn’t come here to beg’, with civil society groups calling it the ‘worst Cop ever’ Crucial climate talks headed into overtime on the last official day of the Cop31 UN summit as countries continued to argue over a draft deal that wa"
+    },
+    {
+      "id": "feed-1scpar6",
+      "title": "England and New Zealand collide with final spots and reputations on the line",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/20/rugby-union-england-new-zealand-nations-championship",
+      "publishedAt": "2026-11-20T20:00:37.000Z",
+      "category": "uk",
+      "summary": "Discipline, bench impact and the breakdown will be pivotal in what home captain Maro Itoje says is a ‘massive game’ In the brave new world of the Nations Championship things are not as black and white as they used to be. Of course, England against New Zealand "
+    },
+    {
+      "id": "feed-vnpccm",
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo",
+      "publishedAt": "2026-11-20T19:45:20.000Z",
+      "category": "world",
+      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
+    },
+    {
+      "id": "feed-rs7blz",
+      "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o",
+      "publishedAt": "2026-11-20T19:41:30.000Z",
+      "category": "uk",
+      "summary": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales."
+    },
+    {
+      "id": "feed-19gxg2j",
+      "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
+      "publishedAt": "2026-11-20T19:38:59.000Z",
+      "category": "uk",
+      "summary": "Jamie Dimon says he is ‘setting an example’ in seeking to claw back Labour’s increase in surcharge, from 3% to 6% Jamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset the chancellor’s tax rise for banks, calling the increase unfa"
+    },
+    {
+      "id": "feed-1y8w4hq",
+      "title": "The week around the world in 20 pictures",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/20/the-week-around-the-world-in-20-pictures",
+      "publishedAt": "2026-11-20T19:35:27.000Z",
+      "category": "uk",
+      "summary": "Trump in China, blackouts in Kyiv, Israeli strikes in Gaza and the launch of Grand Theft Auto VI – the past seven days as captured by the world’s leading photojournalists Warning: this gallery contains images some readers may find distressing Continue reading."
+    },
+    {
+      "id": "feed-1ykxb7f",
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
+      "publishedAt": "2026-11-20T19:27:49.000Z",
+      "category": "world",
+      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
+    },
+    {
+      "id": "feed-x2spm2",
+      "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+      "publishedAt": "2026-11-20T19:18:20.000Z",
+      "category": "uk",
+      "summary": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producer A Home Alone sequel is reportedly in development with original star Macaulay Culkin set to return. According to Puck’s Matthew Belloni , Cul"
+    },
+    {
+      "id": "feed-1jzcqe8",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
+      "publishedAt": "2026-11-20T19:03:56.000Z",
+      "category": "technology",
+      "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports."
+    },
+    {
+      "id": "feed-g7env1",
+      "title": "Pochettino the connector: will human touch lift Manchester United?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
+      "publishedAt": "2026-11-20T19:00:37.000Z",
+      "category": "uk",
+      "summary": "Argentinian has excelled in man-management – but will need his powers to energise new squad and impress owners Mauricio Pochettino celebrated his 50th birthday in style. It was March 2022, he was in charge at Paris Saint-Germain and the venue was a stunning bo"
+    },
+    {
+      "id": "feed-uzomjq",
+      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+      "publishedAt": "2026-11-20T19:00:37.000Z",
+      "category": "uk",
+      "summary": "The 30-year-old former England star combines Twitch streaming with working to return to the top as a player Consider the training regime Dele Alli has followed since he left Como 18 months ago and it becomes clear why he takes exception to suggestions he has g"
+    },
+    {
+      "id": "feed-516l9a",
+      "title": "The Super Bowl of F1: how Las Vegas GP has hit the jackpot after turbulent start",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/20/super-bowl-formula-one-las-vegas-grand-prix-jackpot",
+      "publishedAt": "2026-11-20T19:00:37.000Z",
+      "category": "uk",
+      "summary": "George Russell calls it the biggest race on the Formula One calendar bar Monaco – and the numbers back him up That Formula One has achieved a palpable success in hosting a race in Las Vegas is impossible to ignore. Even with this year’s outing a dead rubber an"
+    },
+    {
+      "id": "feed-13k53qb",
+      "title": "Police arrest teacher who missed sentencing after indecent assault conviction",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+      "publishedAt": "2026-11-20T19:00:11.000Z",
+      "category": "world",
+      "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980s A chemistry teacher who had sexual relationships with two pupils at a boys’ school in the late 1980s has been arrested by police in Hampshire after "
     },
     {
       "id": "feed-12riz1r",
@@ -124,14 +554,14 @@
       "summary": "A 24-year-old white supremacist has been convicted of plotting to firebomb a migrant hotel and kill as many occupants as possible."
     },
     {
-      "id": "feed-tc3bs8",
-      "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-      "publishedAt": "2026-11-20T18:38:47.000Z",
+      "id": "feed-f7v38m",
+      "title": "Man jailed for murder of British woman he groomed on fetish website",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/alpha-sadist-jailed-for-life-for-murder-of-british-woman-he-groomed-on-fetish-website-13614463",
+      "publishedAt": "2026-11-20T18:39:00.000Z",
       "category": "uk",
-      "summary": "US president again claims Republicans’ midterms losses were because he ‘wasn’t on the ballot’, vows to fight for datacenters and boasts of his relationship with Xi Jinping Sign up for the Breaking News US email We’re also following the latest on Capitol Hill a"
+      "summary": "A sadistic predator has been sentenced to life in prison after being found guilty of the kidnap and first-degree murder of a vulnerable British woman."
     },
     {
       "id": "feed-ix1160",
@@ -141,7 +571,7 @@
       "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
       "publishedAt": "2026-11-20T18:36:30.000Z",
       "category": "world",
-      "summary": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illness A Florida mechanic has been found guilty of stabbing to death a British music teacher, who he convinced to travel to the United States. Dwain Ha"
+      "summary": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illness A Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he convinced to travel to the United States. Dwain H"
     },
     {
       "id": "feed-bqbs9",
@@ -150,22 +580,12 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
       "publishedAt": "2026-11-20T18:34:13.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Pro-Palestinian donor James ‘Fergie’ Chambers released as court considers extradition request In a blur of events surrounding the Trump administration’s effort to extradite James “Fergie” Chambers, Spain released the wealthy US activist and donor on bail even "
     },
     {
-      "id": "feed-1szc9lb",
-      "title": "Princeton doctoral student reportedly detained by ICE on way back from conference",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
-      "publishedAt": "2026-11-20T18:33:17.000Z",
-      "category": "world",
-      "summary": "Eva Yi Xie was taken into custody at Washington DC airport after presenting research at neuroscience conference A Princeton University doctoral student has reportedly been taken into custody by US Immigration and Customs Enforcement (ICE) after traveling to Wa"
-    },
-    {
-      "id": "feed-beyzde",
-      "title": "Anthropic hits over $1 trillion: is it worth the hype? - The Latest",
+      "id": "feed-13sonh0",
+      "title": "Is Anthropic really worth $1.3 trillion? - The Latest",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest",
@@ -190,8 +610,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
       "publishedAt": "2026-11-20T18:22:50.000Z",
-      "category": "uk",
-      "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hope Several sentences in to a slightly convoluted answer about where UK-EU relations might go next, Andy Burnham abruptly changed tack. “The important p"
+      "category": "world",
+      "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hope Several sentences into a slightly convoluted answer about where UK-EU relations might go next, Andy Burnham abruptly changed tack. “The important po"
     },
     {
       "id": "feed-ogkw0u",
@@ -200,8 +620,18 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
       "publishedAt": "2026-11-20T18:20:09.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "The pair had taken off from the Scottish Gliding Centre at nearby Portmoak on a training flight Two men have been killed after their glider crashed into Loch Leven, a large body of water in Perth and Kinross, on Friday morning. Police Scotland said their bodie"
+    },
+    {
+      "id": "feed-13v6vs9",
+      "title": "What exactly is in the deal between the UK and the EU?",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+      "publishedAt": "2026-11-20T18:19:53.000Z",
+      "category": "business",
+      "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off negotiations, leaks and late nights, the EU and UK h"
     },
     {
       "id": "feed-1t5sp9u",
@@ -220,18 +650,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-britain-and-europe-burnhams-reset-cannot-be-the-final-destination",
       "publishedAt": "2026-11-20T18:13:24.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "It’s welcome news that Labour has reopened doors that the Conservatives slammed shut. But the fundamental dilemma over European integration remains Andy Burnham on Friday announced a long-awaited deal to ease some of Brexit’s barriers. But EU sources say the a"
-    },
-    {
-      "id": "feed-1aqfxlu",
-      "title": "The Guardian view on Jan van Eyck’s portraits: what it means to be human | Editorial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-jan-van-eycks-portraits-what-it-means-to-be-human",
-      "publishedAt": "2026-11-20T18:12:47.000Z",
-      "category": "uk",
-      "summary": "A tiny scar, bloodshot eyes and sagging jowls – it is the intimate details of these 15th-century masterpieces that make them so relatable today The word “human” may have been crowned the Cambridge dictionary’s word of 2026 , but its meaning is nowhere more man"
     },
     {
       "id": "feed-1aeliep",
@@ -240,7 +660,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
       "publishedAt": "2026-11-20T18:11:25.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’ Nigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot to potential rivals"
     },
     {
@@ -250,7 +670,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
       "publishedAt": "2026-11-20T18:06:52.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacks A secret government cybersecurity operation recently warded off the risk of a cyber-attack on fridges and freezers in UK supermarkets, warehouses, restaurants"
     },
     {
@@ -260,58 +680,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review",
       "publishedAt": "2026-11-20T18:04:15.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "Rockstar’s newest installment of its hit franchise still has plenty of action, along with a dose of ‘healthy masculinity’ Described as the biggest entertainment launch in history, the new Grand Theft Auto game has prompted avid fans around the world to take th"
-    },
-    {
-      "id": "feed-1r8npaa",
-      "title": "Premier League team news: predicted lineups for the weekend action",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "publishedAt": "2026-11-20T18:03:15.000Z",
-      "category": "uk",
-      "summary": "Newcastle host Arsenal on Saturday while Mauricio Pochettino’s Manchester United visit Liverpool on Sunday Saturday 12.30pm TNT Sports 1 Venue Etihad Stadium Continue reading..."
-    },
-    {
-      "id": "feed-6a10hm",
-      "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-      "publishedAt": "2026-11-20T17:59:55.000Z",
-      "category": "world",
-      "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise t"
-    },
-    {
-      "id": "feed-c9t90x",
-      "title": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
-      "publishedAt": "2026-11-20T17:57:10.000Z",
-      "category": "uk",
-      "summary": "Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees Andy Burnham has taken the biggest step towards deeper ties with the EU since Brexit, sealing deals to ease trade and crea"
-    },
-    {
-      "id": "feed-1ykxb7f",
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
-      "publishedAt": "2026-11-20T17:54:37.000Z",
-      "category": "world",
-      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
-    },
-    {
-      "id": "feed-1yt34gy",
-      "title": "After Russell Brand, and now another horrific rape verdict, shame really does have to change sides | Jonathan Freedland",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/20/russell-brand-rape-verdict-shame-men-women",
-      "publishedAt": "2026-11-20T17:52:43.000Z",
-      "category": "uk",
-      "summary": "From predatory male celebrities to ordinary men who connive to abuse women, there is no doubt where the problem lies – and the solution too The only thing they have in common is that they are men. Those convicted of the rape and sexual assault of Joanne Young "
     },
     {
       "id": "feed-1rp8xkw",
@@ -332,66 +702,6 @@
       "publishedAt": "2026-11-20T17:41:23.000Z",
       "category": "uk",
       "summary": "Joanne Young's daughter joins her mother in calling for a change to the law on consent."
-    },
-    {
-      "id": "feed-1qz65nk",
-      "title": "Racing rocked by death threats to Bowens after De Boinville security incident",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/20/champion-jockey-death-threats-jockeys-after-de-boinville-incident-horse-racing-tips",
-      "publishedAt": "2026-11-20T17:40:16.000Z",
-      "category": "uk",
-      "summary": "Abuse and threats are becoming a grimly familiar part of daily routine for riders, confirms jockeys’ association When Nico de Boinville received a security escort back to his car after racing at Plumpton on Monday, following a telephone threat to harm the jock"
-    },
-    {
-      "id": "feed-ll3y8u",
-      "title": "Joanne Young’s faith in justice system is sign of real change, but courts are still catching up",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
-      "publishedAt": "2026-11-20T17:39:06.000Z",
-      "category": "uk",
-      "summary": "Young’s abusers were convicted through suspect-centric prosecution, though much more needs to be done for victims Hope can be found in the darkest of places. Joanne Young stood outside Winchester crown court on Thursday and said she was relieved – not just for"
-    },
-    {
-      "id": "feed-9h9i3z",
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-      "publishedAt": "2026-11-20T17:36:29.000Z",
-      "category": "world",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump."
-    },
-    {
-      "id": "feed-o1lntw",
-      "title": "Martin Rowson on the summits in Shenzhen and Brussels – cartoon",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/20/martin-rowson-summits-shenzhen-brussels-trump-xi-putin-cartoon",
-      "publishedAt": "2026-11-20T17:30:16.000Z",
-      "category": "uk",
-      "summary": "Continue reading..."
-    },
-    {
-      "id": "feed-15xd1lo",
-      "title": "A textural moment: why the fashion world is falling in love with opera coats",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/fashion/2026/nov/20/fashion-world-singing-opera-coats-trend",
-      "publishedAt": "2026-11-20T17:16:48.000Z",
-      "category": "uk",
-      "summary": "From Jennifer Lawrence to Kate Moss, the fuzz-trimmed garments are proving popular with celebrities, while others are DIY-ing their way into the trend While puffer jackets have dominated winter wardrobes for years, this winter an alternative is emerging: the f"
-    },
-    {
-      "id": "feed-1q0vs3t",
-      "title": "Roll up, roll up! Marc Chagall’s Circus is the most mesmerising big top you’ve ever seen – review",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/20/marc-chagall-the-circus-review-hepworth-wakefield-west-yorkshire",
-      "publishedAt": "2026-11-20T17:16:10.000Z",
-      "category": "uk",
-      "summary": "Hepworth Wakefield, West Yorkshire He spent over 60 years painting clowns, ringmasters and acrobats – and the results transport you to a dazzling magical world At the opening of The Circus, a self-portrait of Marc Chagall is placed next to a lithograph of a cl"
     },
     {
       "id": "feed-t2lrao",
@@ -464,36 +774,6 @@
       "summary": "The bodies of two men have been recovered after a microlight glider crashed into a Scottish loch."
     },
     {
-      "id": "feed-1nyo4y9",
-      "title": "Police search for teacher who missed sentencing after indecent assault conviction",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
-      "publishedAt": "2026-11-20T16:50:47.000Z",
-      "category": "world",
-      "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980s Police are searching for a missing chemistry teacher convicted of sexual relationships with two pupils at a boys’ school in the late 1980s after she"
-    },
-    {
-      "id": "feed-11a0ifv",
-      "title": "Latest botched execution prompts calls for US moratorium on lethal injections",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/botched-execution-texas",
-      "publishedAt": "2026-11-20T16:48:08.000Z",
-      "category": "world",
-      "summary": "Reinaldo Dennes screamed in pain and took over an hour to die – but Texas officials branded the execution a success A botched execution in Texas on Thursday night that lasted more than an hour and caused the prisoner to scream out, begging the Lord to end his "
-    },
-    {
-      "id": "feed-wcj0cj",
-      "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
-      "publishedAt": "2026-11-20T16:46:05.000Z",
-      "category": "world",
-      "summary": "Zacharia’s spokesperson called allegations she falsely represented herself as an attorney ‘baseless’ US politics live – latest updates Katie Zacharia, the former White House press secretary hired and fired in the same week , is under investigation by the state"
-    },
-    {
       "id": "feed-1vq2mkb",
       "title": "Cost of living protests sweep across Europe",
       "source": "BBC News",
@@ -534,16 +814,6 @@
       "summary": "A grandmother died after a part of an air conditioning duct and ceiling collapsed onto guests."
     },
     {
-      "id": "feed-9t7eu3",
-      "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "publishedAt": "2026-11-20T16:26:07.000Z",
-      "category": "world",
-      "summary": "Nasdaq erases 2026 gains and Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares fell at the start of its second day of trading, a"
-    },
-    {
       "id": "feed-10uv8nv",
       "title": "'Danny Tommo' jailed for slashing migrant dinghy",
       "source": "Sky News",
@@ -552,16 +822,6 @@
       "publishedAt": "2026-11-20T16:17:00.000Z",
       "category": "uk",
       "summary": "Anti-migrant activist Danny Tommo has been sentenced to 15 months in prison after using a knife to slash a boat in the English Channel."
-    },
-    {
-      "id": "feed-mqblob",
-      "title": "Onlookers say botched Texas prison execution is like nothing they have ever seen",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/reinaldo-dennes-texas-execution-lethal-injection-botched",
-      "publishedAt": "2026-11-20T16:00:44.000Z",
-      "category": "world",
-      "summary": "Reinaldo Dennes’ execution took more than an hour as workers struggled to find suitable veins An observer of the botched execution of Texas prisoner Reinaldo Dennes this week has said the effects of the lethal injection were like nothing he’d ever seen before."
     },
     {
       "id": "feed-wq1235",
@@ -620,18 +880,8 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/poundland-chief-shares-pain-with-staff-amid-last-ditch-rescue-talks-13614407",
       "publishedAt": "2026-11-20T15:32:00.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Poundland's boss has told thousands of employees at the discount chain of his \"hurt\" at the parlous position in which it finds itself, days before it faces collapsing into administration."
-    },
-    {
-      "id": "feed-1d0lv4d",
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o",
-      "publishedAt": "2026-11-20T15:14:01.000Z",
-      "category": "world",
-      "summary": "What we know about the latest Russian missile strikes on Ukraine."
     },
     {
       "id": "feed-1hppn9e",
@@ -642,6 +892,16 @@
       "publishedAt": "2026-11-20T15:08:16.000Z",
       "category": "business",
       "summary": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned."
+    },
+    {
+      "id": "feed-h3uvbe",
+      "title": "Care workers conspired together to abuse and rape vulnerable men they cared for",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/fife-care-workers-conspired-together-to-abuse-and-rape-vulnerable-men-they-cared-for-13614339",
+      "publishedAt": "2026-11-20T15:08:00.000Z",
+      "category": "uk",
+      "summary": "Two senior support workers have admitted conspiring together to abuse and rape highly vulnerable men left in their care."
     },
     {
       "id": "feed-p9ln85",
@@ -660,7 +920,7 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/british-gas-owner-centrica-cuts-hundreds-of-jobs-in-business-unit-13614396",
       "publishedAt": "2026-11-20T15:01:00.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The FTSE 100 energy company Centrica is cutting hundreds of jobs as part of a cost-saving drive."
     },
     {
@@ -724,14 +984,14 @@
       "summary": "Wendy Jones, 68, was fatally injured when part of a ceiling collapsed during a bingo game at Pontins Brean Sands The owner of Pontins holiday parks has been fined £1m over the death of a woman who was fatally injured when part of a ceiling collapsed during a b"
     },
     {
-      "id": "feed-1noouqx",
-      "title": "As the Coalition stares down One Nation in NSW, a new threat is rising: the teals",
+      "id": "feed-1622ek1",
+      "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
-      "publishedAt": "2026-11-20T14:00:32.000Z",
-      "category": "world",
-      "summary": "The opposition’s struggle is creating an opportunity for progressive independents who are boosted by shrewd political operator Chris Minns Get our daily political email , free app or daily news podcast The New South Wales Coalition is facing a renewed threat t"
+      "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+      "publishedAt": "2026-11-20T14:00:31.000Z",
+      "category": "business",
+      "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, docked in New Bedfor"
     },
     {
       "id": "feed-o4fyco",
@@ -744,16 +1004,6 @@
       "summary": "Shares in Anthropic have fallen by more than 10% at Friday's open on Wall Street, just a day after their record-breaking Nasdaq debut, as part of a global stock market rout."
     },
     {
-      "id": "feed-1jzcqe8",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
-      "publishedAt": "2026-11-20T13:28:32.000Z",
-      "category": "world",
-      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
-    },
-    {
       "id": "feed-ddrqma",
       "title": "Train attack knifeman was 'in clutches of acute psychotic episode', court told",
       "source": "Sky News",
@@ -762,26 +1012,6 @@
       "publishedAt": "2026-11-20T13:14:00.000Z",
       "category": "uk",
       "summary": "A knifeman who stabbed 10 people on a London-bound train was \"in the clutches of an acute psychotic episode\", a jury has been told."
-    },
-    {
-      "id": "feed-15gazkm",
-      "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
-      "publishedAt": "2026-11-20T13:08:30.000Z",
-      "category": "technology",
-      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
-    },
-    {
-      "id": "feed-a6t6r3",
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
-      "publishedAt": "2026-11-20T13:01:16.000Z",
-      "category": "world",
-      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine."
     },
     {
       "id": "feed-18thus7",
@@ -794,16 +1024,6 @@
       "summary": "Jeff Vinokur is using his newly minted wealth from the sale of his edtech company to hold the retail store accountable Late in the afternoon of 28 June, Jeff Vinokur received a call from his mother that sent him running. “I was assaulted,” Vinokur, a popular s"
     },
     {
-      "id": "feed-156v7e8",
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo",
-      "publishedAt": "2026-11-20T12:42:37.000Z",
-      "category": "world",
-      "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug."
-    },
-    {
       "id": "feed-ytxlb0",
       "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
       "source": "The Guardian",
@@ -811,7 +1031,7 @@
       "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
       "publishedAt": "2026-11-20T12:28:12.000Z",
       "category": "business",
-      "summary": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies Business live – latest updates Retail sales in Great Britain surged last month as the public rushed to buy products including tinne"
+      "summary": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, afte"
     },
     {
       "id": "feed-zharrk",
@@ -882,16 +1102,6 @@
       "publishedAt": "2026-11-20T10:18:00.000Z",
       "category": "uk",
       "summary": "The Northern line becomes second Tube line accessible to drivers with colour blindness."
-    },
-    {
-      "id": "feed-i7xn0n",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo",
-      "publishedAt": "2026-11-20T10:16:19.000Z",
-      "category": "world",
-      "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam."
     },
     {
       "id": "feed-146u1tn",
@@ -994,16 +1204,6 @@
       "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?"
     },
     {
-      "id": "feed-vhw4u9",
-      "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
-      "publishedAt": "2026-11-20T07:25:31.000Z",
-      "category": "business",
-      "summary": "UK economy defies City predictions and Iran war fallout, with gap between spending and income about £1bn lower than expected in October, at £17bn The UK government borrowed less than expected in October despite a rise in debt interest costs, in a boost for cha"
-    },
-    {
       "id": "feed-1xmds63",
       "title": "Households stockpiling 'emergency items' boosts retail sales",
       "source": "Sky News",
@@ -1012,26 +1212,6 @@
       "publishedAt": "2026-11-20T07:04:00.000Z",
       "category": "business",
       "summary": "Shoppers appear to be heeding government warnings to stock-up on essentials amid a surprise leap in retail sales."
-    },
-    {
-      "id": "feed-yx2rgv",
-      "title": "Light-filled homes for sale in England – in pictures",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/money/gallery/2026/nov/20/light-filled-homes-for-sale-in-england-in-pictures",
-      "publishedAt": "2026-11-20T07:00:25.000Z",
-      "category": "business",
-      "summary": "From a grand house that looks like a miniature fantasy castle to a converted Methodist chapel, properties that bring the sunshine in Continue reading..."
-    },
-    {
-      "id": "feed-1p12v8w",
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o",
-      "publishedAt": "2026-11-20T06:32:17.000Z",
-      "category": "world",
-      "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill."
     },
     {
       "id": "feed-4169mm",
@@ -1054,16 +1234,6 @@
       "summary": "A poker league in Fenland sees a 35% rise in players since 2022."
     },
     {
-      "id": "feed-1cqfq5v",
-      "title": "Loneliness & mood swings - what's it like to miss a season through injury?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo",
-      "publishedAt": "2026-11-20T06:13:23.000Z",
-      "category": "uk",
-      "summary": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?"
-    },
-    {
       "id": "feed-d4vl6f",
       "title": "Survey reveals 'major increase' in cost of living",
       "source": "BBC News",
@@ -1072,16 +1242,6 @@
       "publishedAt": "2026-11-20T06:12:28.000Z",
       "category": "business",
       "summary": "More than two thirds of respondents reported noticing rises in the cost of living."
-    },
-    {
-      "id": "feed-3ncddm",
-      "title": "'My frustrating 10-year wait for arthritis diagnosis'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cxyvrrnv6l6eo",
-      "publishedAt": "2026-11-20T06:10:35.000Z",
-      "category": "uk",
-      "summary": "Clare Base lived with persistent pain before her Axial Spondyloarthritis diagnosis."
     },
     {
       "id": "feed-x91xx4",
@@ -1100,7 +1260,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro",
       "publishedAt": "2026-11-20T05:59:56.000Z",
-      "category": "world",
+      "category": "science",
       "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
     },
     {
@@ -1110,7 +1270,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko",
       "publishedAt": "2026-11-20T05:03:43.000Z",
-      "category": "world",
+      "category": "science",
       "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change."
     },
     {
@@ -1134,26 +1294,6 @@
       "summary": "Public expectations around datacentres have changed in the age of AI, chief executive Craig Scroggie says Get our breaking news email , free app or daily news podcast Community backlash to a datacentre expansion in inner Melbourne that resulted in NextDC’s sha"
     },
     {
-      "id": "feed-1vuk01m",
-      "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
-      "publishedAt": "2026-11-20T03:33:45.000Z",
-      "category": "business",
-      "summary": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO In th"
-    },
-    {
-      "id": "feed-1mn4wr3",
-      "title": "Man accused of killing British woman sent knife with her blood on to friend",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/man-accused-of-murdering-british-woman-sent-knife-with-her-blood-on-to-friend-us-court-told-13614220",
-      "publishedAt": "2026-11-20T02:48:00.000Z",
-      "category": "uk",
-      "summary": "A man accused of murdering a British woman he met on a fetish website sent a knife with her blood on it to a friend, a US court has heard."
-    },
-    {
       "id": "feed-6r4dsu",
       "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
       "source": "The Guardian",
@@ -1162,36 +1302,6 @@
       "publishedAt": "2026-11-20T02:00:18.000Z",
       "category": "technology",
       "summary": "If the government bends to AI companies, artists, creatives and journalists will be the sacrificial lamb – and Australia will become a global pariah Get our breaking news email , free app or daily news podcast Right now, the prime minister faces a choice. Does"
-    },
-    {
-      "id": "feed-leqrxb",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
-      "publishedAt": "2026-11-20T00:50:24.000Z",
-      "category": "world",
-      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
-    },
-    {
-      "id": "feed-1xc0hgi",
-      "title": "Why Canada is embracing AI data centres while the US pushes back",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo",
-      "publishedAt": "2026-11-20T00:13:24.000Z",
-      "category": "world",
-      "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition."
-    },
-    {
-      "id": "feed-1n027oy",
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
-      "publishedAt": "2026-11-20T00:13:21.000Z",
-      "category": "world",
-      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks."
     },
     {
       "id": "feed-fmrdck",
@@ -1224,16 +1334,6 @@
       "summary": "BepiColombo double probe will map planet’s surface and study its interior to shed light on its unusually large core After a voyage of more than eight years and 6bn miles, a joint European-Japanese space mission has arrived at Mercury and is preparing to swing "
     },
     {
-      "id": "feed-1aoajl2",
-      "title": "How did Anthropic's stock market debut unfold?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o",
-      "publishedAt": "2026-11-19T23:52:25.000Z",
-      "category": "business",
-      "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%."
-    },
-    {
       "id": "feed-1wjy42",
       "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
       "source": "BBC News",
@@ -1252,16 +1352,6 @@
       "publishedAt": "2026-11-19T23:30:26.000Z",
       "category": "science",
       "summary": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment invo"
-    },
-    {
-      "id": "feed-1rme4gl",
-      "title": "Anti-monarchy group hands over 'evidence' on Andrew as it calls for investigation",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/republic-hands-over-evidence-on-andrew-mountbatten-windsor-to-police-and-cps-as-it-calls-for-investigation-13614007",
-      "publishedAt": "2026-11-19T23:00:00.000Z",
-      "category": "uk",
-      "summary": "An anti-monarchy campaign group says it has given police and the Crown Prosecution Service \"evidence\" on Andrew Mountbatten-Windsor."
     },
     {
       "id": "feed-1tn4v98",
@@ -1394,6 +1484,16 @@
       "summary": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species."
     },
     {
+      "id": "feed-gn3mdp",
+      "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
+      "publishedAt": "2026-11-19T16:24:13.000Z",
+      "category": "technology",
+      "summary": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at Nasdaq Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbus"
+    },
+    {
       "id": "feed-1piaj4q",
       "title": "Anthropic raises $81bn in record-breaking stock market debut",
       "source": "BBC News",
@@ -1410,18 +1510,8 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
       "publishedAt": "2026-11-19T15:38:00.000Z",
-      "category": "world",
-      "summary": "The EU has revealed it suffered a cyber attack powered by AI last month and some of its digital tools are still offline as a result."
-    },
-    {
-      "id": "feed-eb6zac",
-      "title": "‘Communities are really angry’: how Australia’s datacentre opposition has gone from marginal to mainstream in five months",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months",
-      "publishedAt": "2026-11-19T14:00:50.000Z",
       "category": "technology",
-      "summary": "A network of grassroots campaigners around the country is sharing information to help push back against the development boom Get our breaking news email , free app or daily news podcast When Heather Champion raised a council motion in March opposing a massive "
+      "summary": "The EU has revealed it suffered a cyber attack powered by AI last month and some of its digital tools are still offline as a result."
     },
     {
       "id": "feed-wi802o",
@@ -1544,26 +1634,6 @@
       "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
     },
     {
-      "id": "feed-162itxj",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
-      "publishedAt": "2026-11-18T23:42:07.000Z",
-      "category": "technology",
-      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
-    },
-    {
-      "id": "feed-pjkk5i",
-      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
-      "publishedAt": "2026-11-18T21:28:08.000Z",
-      "category": "technology",
-      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain."
-    },
-    {
       "id": "feed-12u0oq5",
       "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
       "source": "The Guardian",
@@ -1572,16 +1642,6 @@
       "publishedAt": "2026-11-18T17:46:34.000Z",
       "category": "science",
       "summary": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he “did not do enou"
-    },
-    {
-      "id": "feed-sbj5wo",
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
-      "publishedAt": "2026-11-18T17:34:25.000Z",
-      "category": "technology",
-      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype."
     },
     {
       "id": "feed-1xkkcbo",

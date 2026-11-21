@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T18:53:53.827Z",
+  "updatedAt": "2026-11-21T00:25:04.337Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -8,12 +8,36 @@
   },
   "articles": [
     {
-      "id": "feed-9h9i3z",
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "id": "feed-1r3xtp8",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T22:53:24.000Z",
+      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record."
+    },
+    {
+      "id": "feed-v9jjou",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
       "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
       "source": "BBC News",
-      "publishedAt": "2026-11-20T17:36:29.000Z",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump."
+      "publishedAt": "2026-11-20T22:42:47.000Z",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+    },
+    {
+      "id": "feed-5fd58q",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T20:54:12.000Z",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+    },
+    {
+      "id": "feed-1rp8xkw",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T17:49:48.000Z",
+      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
     },
     {
       "id": "feed-1enirfr",
@@ -62,14 +86,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-20T14:43:39.000Z",
       "summary": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education."
-    },
-    {
-      "id": "feed-15gazkm",
-      "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T13:08:30.000Z",
-      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
     },
     {
       "id": "feed-12ii72b",
@@ -134,22 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-20T00:02:07.000Z",
       "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe."
-    },
-    {
-      "id": "feed-1aoajl2",
-      "title": "How did Anthropic's stock market debut unfold?",
-      "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T23:52:25.000Z",
-      "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%."
-    },
-    {
-      "id": "feed-1wjy42",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-19T23:33:51.000Z",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
     }
   ]
 }
