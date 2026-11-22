@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T16:29:03.552Z",
+  "updatedAt": "2026-11-22T21:55:57.980Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,12 +8,84 @@
   },
   "articles": [
     {
+      "id": "feed-1f4ras3",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-22T21:22:40.000Z",
+      "summary": "The couple have been together for four years and were engaged in 2025."
+    },
+    {
       "id": "feed-qx8bhn",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
       "source": "BBC News",
-      "publishedAt": "2026-11-22T16:05:25.000Z",
-      "summary": "Libya's eastern government says it is working with Russia to investigate the incident."
+      "publishedAt": "2026-11-22T20:28:09.000Z",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+    },
+    {
+      "id": "feed-19us7mo",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
+      "source": "BBC News",
+      "publishedAt": "2026-11-22T20:26:24.000Z",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats."
+    },
+    {
+      "id": "feed-1mngfqm",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-22T18:57:24.000Z",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+    },
+    {
+      "id": "feed-1mngfqm",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-22T18:57:24.000Z",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+    },
+    {
+      "id": "feed-7fihko",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-22T18:29:46.000Z",
+      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa."
+    },
+    {
+      "id": "feed-iikv32",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-22T18:17:59.000Z",
+      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels."
+    },
+    {
+      "id": "feed-s37jsm",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-22T17:57:43.000Z",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+    },
+    {
+      "id": "feed-s37jsm",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-22T17:57:43.000Z",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+    },
+    {
+      "id": "feed-19i7zyc",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+      "source": "BBC News",
+      "publishedAt": "2026-11-22T17:18:26.000Z",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
     },
     {
       "id": "feed-b52xwv",
@@ -22,14 +94,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-22T14:05:20.000Z",
       "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory."
-    },
-    {
-      "id": "feed-1dn78f7",
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
-      "source": "BBC News",
-      "publishedAt": "2026-11-22T11:25:14.000Z",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
     },
     {
       "id": "feed-1ckhrab",
@@ -86,70 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-21T22:01:19.000Z",
       "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner."
-    },
-    {
-      "id": "feed-1uqglw9",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T13:17:38.000Z",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
-    },
-    {
-      "id": "feed-1iiy6u8",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T10:26:36.000Z",
-      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
-    },
-    {
-      "id": "feed-sxpq7v",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T09:40:55.000Z",
-      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
-    },
-    {
-      "id": "feed-12hx42i",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T08:10:25.000Z",
-      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
-    },
-    {
-      "id": "feed-vrwjyx",
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T08:10:03.000Z",
-      "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two."
-    },
-    {
-      "id": "feed-5ud1f3",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T04:34:00.000Z",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
-    },
-    {
-      "id": "feed-12jqnx4",
-      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T01:02:39.000Z",
-      "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars."
-    },
-    {
-      "id": "feed-14v80gb",
-      "title": "ANC fights to keep control of South Africa's key cities after election setback",
-      "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T00:34:51.000Z",
-      "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level."
     }
   ]
 }
