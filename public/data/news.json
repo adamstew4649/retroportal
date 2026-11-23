@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T21:55:57.984Z",
-  "generatedAt": "2026-11-22T21:55:57.984Z",
+  "updatedAt": "2026-11-23T02:04:03.041Z",
+  "generatedAt": "2026-11-23T02:04:03.041Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -85,14 +85,14 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "id": "sky-technology",
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/technology.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "id": "sky-business",
@@ -104,14 +104,234 @@
   ],
   "articles": [
     {
-      "id": "feed-1uvzn41",
-      "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
+      "id": "feed-18s2lnl",
+      "title": "Australian politics live: PM’s staff numbers exceed crossbench’s allocation combined; Minns ends presser after heckling",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-      "publishedAt": "2026-11-22T21:37:11.000Z",
+      "publishedAt": "2026-11-23T01:35:52.000Z",
       "category": "world",
       "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit"
+    },
+    {
+      "id": "feed-19us7mo",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
+      "publishedAt": "2026-11-23T01:23:43.000Z",
+      "category": "world",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats."
+    },
+    {
+      "id": "feed-ied45j",
+      "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+      "publishedAt": "2026-11-23T01:23:07.000Z",
+      "category": "world",
+      "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’ Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83 Molly Meldrum – a life in pictures Ian ‘Molly’ Meldr"
+    },
+    {
+      "id": "feed-z2fxsy",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+      "publishedAt": "2026-11-23T01:05:07.000Z",
+      "category": "business",
+      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure."
+    },
+    {
+      "id": "feed-17jif7i",
+      "title": "Beau Lamarre-Condon ‘executed’ Jesse Baird and Luke Davies then lied about it, prosecution argues",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+      "publishedAt": "2026-11-23T00:54:02.000Z",
+      "category": "world",
+      "summary": "Crown urges jury to reject accused’s claim of self-defence and find him guilty of murdering Sydney couple Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon is a “proven a"
+    },
+    {
+      "id": "feed-svxm8v",
+      "title": "US army to blow up bomb-making chemicals despite safety concerns",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
+      "publishedAt": "2026-11-23T00:50:39.000Z",
+      "category": "uk",
+      "summary": "Army invokes emergency provisions in Iowa to avoid court order despite worries about health and environment risks The US army plans to invoke emergency provisions to avoid a court order that had put on hold plans to detonate several tons of bomb-making chemica"
+    },
+    {
+      "id": "feed-iikv32",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+      "publishedAt": "2026-11-23T00:50:35.000Z",
+      "category": "world",
+      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
+    },
+    {
+      "id": "feed-1uusyx4",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+      "publishedAt": "2026-11-23T00:33:36.000Z",
+      "category": "world",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
+    },
+    {
+      "id": "feed-1l7k1wi",
+      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+      "publishedAt": "2026-11-23T00:31:31.000Z",
+      "category": "uk",
+      "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders of his own"
+    },
+    {
+      "id": "feed-1f2fhmu",
+      "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
+      "publishedAt": "2026-11-23T00:25:40.000Z",
+      "category": "world",
+      "summary": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music – and vice versa Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great Molly Meldrum – a life in pictures Ian ‘Molly"
+    },
+    {
+      "id": "feed-6r8lhj",
+      "title": "What is going on with Poundland?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
+      "publishedAt": "2026-11-23T00:22:27.000Z",
+      "category": "business",
+      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?"
+    },
+    {
+      "id": "feed-1bmasdk",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+      "publishedAt": "2026-11-23T00:08:00.000Z",
+      "category": "technology",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
+    },
+    {
+      "id": "feed-ch6bip",
+      "title": "Cat’s whiskers: Nan Goldin proves that she’s the greatest US artist since Warhol – review",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/23/nan-goldin-review-hayward-gallery-london",
+      "publishedAt": "2026-11-23T00:01:41.000Z",
+      "category": "uk",
+      "summary": "Hayward Gallery, London The photographer finds echoes of Caravaggio and Greek myth in her erotic images, while her disturbing animal montages show that while humans can be beautiful, we are far from innocent It’s the dirty realism of Nan Goldin ’s images, her "
+    },
+    {
+      "id": "feed-1uk49ny",
+      "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
+      "publishedAt": "2026-11-23T00:01:40.000Z",
+      "category": "science",
+      "summary": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) "
+    },
+    {
+      "id": "feed-j26zpr",
+      "title": "Major trial to examine if AI can help detect breast cancer earlier",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/major-trial-to-examine-if-ai-can-help-detect-breast-cancer-earlier-13615166",
+      "publishedAt": "2026-11-23T00:01:00.000Z",
+      "category": "uk",
+      "summary": "Hundreds of thousands of women taking part in the NHS breast cancer screening programme could have their scans assessed by AI to see if it leads to earlier diagnosis."
+    },
+    {
+      "id": "feed-s37jsm",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
+      "publishedAt": "2026-11-22T22:37:43.000Z",
+      "category": "world",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+    },
+    {
+      "id": "feed-vwgyec",
+      "title": "The good news out of Cop31? That most of the world’s governments said no to an agreement stripped of meaning | Bill Hare",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement",
+      "publishedAt": "2026-11-22T22:30:48.000Z",
+      "category": "uk",
+      "summary": "Co-chairing global climate talks is clearly not something to be repeated, certainly not by Australia, which is exporting climate pain The failure of Cop31 in Antalya was a line in the sand moment, a victory for multiculturalism as countries stood up to the big"
+    },
+    {
+      "id": "feed-131v56z",
+      "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+      "publishedAt": "2026-11-22T22:01:17.000Z",
+      "category": "uk",
+      "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass Michigan US senator-elect Abdul El-Sayed on Sunday doubled down on naming healthcare reform legislation after Donald Trump as long as it mean"
+    },
+    {
+      "id": "feed-kbeo3j",
+      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+      "publishedAt": "2026-11-22T22:00:58.000Z",
+      "category": "uk",
+      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit "
+    },
+    {
+      "id": "feed-jv8ig",
+      "title": "The Witch Farm review – this creepy tale is laugh-out-loud funny … without meaning to be",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/22/the-witch-farm-review",
+      "publishedAt": "2026-11-22T22:00:38.000Z",
+      "category": "uk",
+      "summary": "Danny Robins follows up his Uncanny paranormal documentary about a Welsh farm with this drama. Subtle it isn’t – it’s bedlam from the get-go and at times it’s so OTT it’s unwittingly hilarious A lot of strange and scary stuff happened in 1989 at Heol Fanog, a "
+    },
+    {
+      "id": "feed-1xq16gh",
+      "title": "NFL roundup: Chiefs, Lions and Bills march on; Metcalf ejected for eye poke in Steelers loss",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/nfl-roundup-sunday-football-scores",
+      "publishedAt": "2026-11-22T21:57:54.000Z",
+      "category": "uk",
+      "summary": "Bears also continue strong start to season Ravens go down to sixth-straight loss Greg Rousseau had two sacks, including his team-leading 10th of the season, and Buffalo’s defense bailed out the Bills’ sputtering Josh Allen-led offense in a win over the injury-"
+    },
+    {
+      "id": "feed-1t55df",
+      "title": "Gerwyn Price ends barren run with Grand Slam of Darts win: ‘Now they can stop talking’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/gerwyn-price-ends-barren-run-with-grand-slam-victory-in-wolverhampton",
+      "publishedAt": "2026-11-22T21:54:55.000Z",
+      "category": "uk",
+      "summary": "Price beats Gian van Veen 16-11 to secure title Welshman lost ‘so many finals’ in four years of pain Gerwyn Price finally ended his major trophy drought by winning the Grand Slam of Darts and is delighted to silence his critics. The Welshman had not won a majo"
+    },
+    {
+      "id": "feed-x1xdgj",
+      "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
+      "publishedAt": "2026-11-22T21:46:40.000Z",
+      "category": "world",
+      "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in Turkey last week, the Australian prime minis"
     },
     {
       "id": "feed-wk995j",
@@ -124,14 +344,14 @@
       "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a"
     },
     {
-      "id": "feed-1u0kjdc",
-      "title": "NFL week 11: Dolphins 9-26 Bills, Buccaneers 21-31 Lions, Saints 13-21 Bears, and more – as it happened",
+      "id": "feed-17ds2o4",
+      "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/22/nfl-week-11-dolphins-v-bills-buccaneers-v-lions-saints-v-bears-and-more-live",
-      "publishedAt": "2026-11-22T21:29:02.000Z",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+      "publishedAt": "2026-11-22T21:31:03.000Z",
       "category": "uk",
-      "summary": "Lions and Bears move to 8-2 with comfortable wins Panthers beat Ravens 35-33 in rollercoaster thriller TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter J Brissett to R Bateman for 52 yards J Williams one yard rush Continue reading..."
+      "summary": "Manchester United lose 4-0 to Liverpool after early red Argentinian suffers club’s joint-heaviest debut defeat Mauricio Pochettino argued that Leny Yoro was wrongly sent off and that Manchester United were earlier denied a penalty against Liverpool after suffe"
     },
     {
       "id": "feed-1f4ras3",
@@ -184,16 +404,6 @@
       "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
     },
     {
-      "id": "feed-19us7mo",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
-      "publishedAt": "2026-11-22T20:26:24.000Z",
-      "category": "world",
-      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats."
-    },
-    {
       "id": "feed-1jig9b3",
       "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
       "source": "The Guardian",
@@ -211,7 +421,7 @@
       "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
       "publishedAt": "2026-11-22T19:17:56.000Z",
       "category": "world",
-      "summary": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep unseen since 1992 that"
+      "summary": "Milestone reached Sunday after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina Democrats have won their largest majority in the House in more than three decades after Chuck Hubbard defeated Republican representative Virginia Foxx in "
     },
     {
       "id": "feed-jpbmsj",
@@ -230,7 +440,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
       "publishedAt": "2026-11-22T19:00:34.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings wi"
     },
     {
@@ -271,7 +481,7 @@
       "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
       "publishedAt": "2026-11-22T18:35:14.000Z",
       "category": "uk",
-      "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at ­Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism of fire from the eighth minute onwards wh"
+      "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism of fire from the eighth minute onwards whe"
     },
     {
       "id": "feed-7fihko",
@@ -294,26 +504,6 @@
       "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal."
     },
     {
-      "id": "feed-1e654yj",
-      "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
-      "publishedAt": "2026-11-22T18:25:42.000Z",
-      "category": "world",
-      "summary": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systems The incoming US House speaker, Hakeem Jeffries , has said he and his fellow Democrats are focused on affordability, expanding healthcare and fixin"
-    },
-    {
-      "id": "feed-iikv32",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
-      "publishedAt": "2026-11-22T18:17:59.000Z",
-      "category": "world",
-      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels."
-    },
-    {
       "id": "feed-1fb1lzt",
       "title": "Long-lost Chevalier landscape found in charity shop",
       "source": "BBC News",
@@ -334,23 +524,13 @@
       "summary": "The summit’s failure was due to a refusal to admit we cannot confront the climate crisis without shifting to renewables The failure of Cop31 will be measured not in inches of negotiating text, or bland promises made by ministers and officials, but in lives and"
     },
     {
-      "id": "feed-s37jsm",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
-      "publishedAt": "2026-11-22T17:57:43.000Z",
-      "category": "world",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
-    },
-    {
       "id": "feed-1ifddjd",
       "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
       "publishedAt": "2026-11-22T17:55:27.000Z",
-      "category": "world",
+      "category": "technology",
       "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the "
     },
     {
@@ -370,18 +550,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
       "publishedAt": "2026-11-22T17:49:12.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Laura Brand says in new video on YouTube she will continue Sunday Service series she started with Brand Russell Brand’s wife, Laura, has promised to “absolutely honour” rules set by the prison where her convicted sex offender husband is being held, in another "
-    },
-    {
-      "id": "feed-1t59te6",
-      "title": "Peter Fluck obituary",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/22/peter-fluck-obituary",
-      "publishedAt": "2026-11-22T17:47:04.000Z",
-      "category": "uk",
-      "summary": "Artist and caricaturist who co-created the hugely popular ITV satire Sptting Image with Roger Law Peter Fluck, who has died aged 85, was, with his fellow artist Roger Law, half of the Fluck & Law partnership that revived satire on TV with Spitting Image, the I"
     },
     {
       "id": "feed-f33nie",
@@ -390,28 +560,8 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
       "publishedAt": "2026-11-22T17:32:14.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Recommendations overseen by Stephen Timms would retain system for all ages, unlike last week’s Milburn review A long-awaited review of the personal independence payment (Pip) system will this week recommend that it is overhauled, a week after another report ca"
-    },
-    {
-      "id": "feed-1nq81s9",
-      "title": "The Guardian view on Serbia’s new political era: a generational opportunity must not be wasted | Editorial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/22/the-guardian-view-on-serbias-new-political-era-a-generational-opportunity-must-not-be-wasted",
-      "publishedAt": "2026-11-22T17:30:32.000Z",
-      "category": "uk",
-      "summary": "Brussels must find ways to show concrete support for a new government that will genuinely share the EU’s democratic values Following the extraordinary election that swept Aleksandar Vučić’s autocratic government from power, Serbia’s new political era has begun"
-    },
-    {
-      "id": "feed-9xyhfx",
-      "title": "The Guardian view on Ofsted: its damaged relationship with schools in England needs fixing | Editorial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/22/the-guardian-view-on-ofsted-its-damaged-relationship-with-schools-in-england-needs-fixing",
-      "publishedAt": "2026-11-22T17:25:32.000Z",
-      "category": "uk",
-      "summary": "The government, as well as the inspectorate, must take responsibility for reforms that have not worked out The inspection and rating of schools is, by definition, a fraught process. There are few things that parents care more about than the education of their "
     },
     {
       "id": "feed-19i7zyc",
@@ -424,36 +574,6 @@
       "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
     },
     {
-      "id": "feed-1umgin5",
-      "title": "Nicola Jennings on Farage’s reaction to Burnham’s EU deal – cartoon",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/22/nicola-jennings-nigel-farage-reaction-andy-burnham-eu-deal-cartoon",
-      "publishedAt": "2026-11-22T17:10:33.000Z",
-      "category": "uk",
-      "summary": "Continue reading..."
-    },
-    {
-      "id": "feed-6cw6li",
-      "title": "Sounds may seem louder or even painful as you age. Here’s why",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/wellness/2026/nov/22/loud-noise-sound-hypersensitivity",
-      "publishedAt": "2026-11-22T17:00:32.000Z",
-      "category": "uk",
-      "summary": "For some, everyday loud noise becomes bothersome. Researchers call this sound hypersensitivity and it’s worth knowing whether it’s due to ageing or not Loud noises bother some people more as they get older – the clatter of plates or shrieking children, which o"
-    },
-    {
-      "id": "feed-1iewpuv",
-      "title": "An age gap isn’t always a problem, partner abuse is | Letters",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/22/an-age-gap-isnt-always-a-problem-partner-abuse-is",
-      "publishedAt": "2026-11-22T16:52:05.000Z",
-      "category": "uk",
-      "summary": "Readers respond to articles on relationships and the age of consent Regarding Polly Hudson’s article ( At 17, I dated a 36-year-old. That decision looks very different to me now, 15 November ), I met and lived with a 35-year-old man when I was 17. It is obviou"
-    },
-    {
       "id": "feed-1k854cq",
       "title": "Russell Brand's wife says she'll honour prison rules after message row",
       "source": "BBC News",
@@ -464,16 +584,6 @@
       "summary": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband."
     },
     {
-      "id": "feed-poqndo",
-      "title": "Let refugees work and contribute to our society | Letters",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/22/let-refugees-work-and-contribute-to-our-society",
-      "publishedAt": "2026-11-22T16:51:20.000Z",
-      "category": "uk",
-      "summary": "Shirley Hart urges us to look beyond the labels of ‘asylum seeker’ and ‘refugee’ to see human beings forced to leave their homes. Plus a letter from Steve Wells Congratulations to Zoe Williams on her excellent article ( Hero, villain or victim: why are refugee"
-    },
-    {
       "id": "feed-18o0y78",
       "title": "Cop31 climate talks break down as key deal rejected",
       "source": "The Guardian",
@@ -482,26 +592,6 @@
       "publishedAt": "2026-11-22T16:14:46.000Z",
       "category": "world",
       "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels The EU, the UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate, which faile"
-    },
-    {
-      "id": "feed-kbeo3j",
-      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-      "publishedAt": "2026-11-22T16:12:54.000Z",
-      "category": "world",
-      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit "
-    },
-    {
-      "id": "feed-nm6m2l",
-      "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
-      "publishedAt": "2026-11-22T15:53:24.000Z",
-      "category": "world",
-      "summary": "Forest Service releases files months after residents in rural Ontario reported encounters with massive figures Bigfoot has quietly appeared again. Well, not Sasquatch directly, but new files about the cryptid. “The stride of the tracks did not change with slop"
     },
     {
       "id": "feed-pchx00",
@@ -522,16 +612,6 @@
       "publishedAt": "2026-11-22T15:43:01.000Z",
       "category": "world",
       "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time, raising concerns a"
-    },
-    {
-      "id": "feed-18n6z7e",
-      "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
-      "publishedAt": "2026-11-22T15:22:38.000Z",
-      "category": "world",
-      "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing con"
     },
     {
       "id": "feed-1guqb3w",
@@ -562,26 +642,6 @@
       "publishedAt": "2026-11-22T14:05:20.000Z",
       "category": "world",
       "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory."
-    },
-    {
-      "id": "feed-j5xv3x",
-      "title": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
-      "publishedAt": "2026-11-22T14:00:32.000Z",
-      "category": "world",
-      "summary": "One serial swearing offender, Jacqui Lambie, says it wouldn’t be an Australian parliament ‘without a few swear words thrown in’ Want to get more charts in your inbox every fortnight? Sign up for The Crunch here When Liberal MP Garth Hamilton stormed out of par"
-    },
-    {
-      "id": "feed-as8gvq",
-      "title": "Australia urged to wean off imported fossil fuels amid global supply shocks",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
-      "publishedAt": "2026-11-22T14:00:29.000Z",
-      "category": "world",
-      "summary": "Grattan Institute report calls on government to seize opportunity to cap diesel tax credits, introduce EV subsidies for less wealthy and build ‘clean’ refineries Get our daily political email , free app or daily news podcast Capping lucrative diesel tax handou"
     },
     {
       "id": "feed-puvu55",
@@ -852,16 +912,6 @@
       "publishedAt": "2026-11-22T07:14:14.000Z",
       "category": "uk",
       "summary": "A petition calling for changes to bereavement support is due to be debated by MPs on Monday."
-    },
-    {
-      "id": "feed-1uusyx4",
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
-      "publishedAt": "2026-11-22T07:12:41.000Z",
-      "category": "world",
-      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
     },
     {
       "id": "feed-11vtl3j",
@@ -1204,16 +1254,6 @@
       "summary": "The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that Just outside Luton, in an Amazon warehouse the "
     },
     {
-      "id": "feed-1arote6",
-      "title": "Denmark says it thwarted 'Russian plot' to kill US-Ukrainian rapper",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/denmark-says-it-thwarted-russian-plot-to-kill-us-ukrainian-rapper-kyivstoner-13614604",
-      "publishedAt": "2026-11-21T05:15:00.000Z",
-      "category": "world",
-      "summary": "Police thwarted a Russian plot to kill a US-Ukrainian rapper who was performing in Denmark, according to authorities."
-    },
-    {
       "id": "feed-m5z9cd",
       "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
       "source": "The Guardian",
@@ -1222,16 +1262,6 @@
       "publishedAt": "2026-11-21T03:51:03.000Z",
       "category": "technology",
       "summary": "The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time Grand Theft Auto VI generated $3.79bn in retail sales on its first day , publisher Rockstar Games has announc"
-    },
-    {
-      "id": "feed-vs60g7",
-      "title": "Harry Kane shares image from hospital bed after injury",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/england-captain-harry-kane-expected-to-be-out-for-next-few-months-with-ankle-injury-13614594",
-      "publishedAt": "2026-11-21T03:03:00.000Z",
-      "category": "uk",
-      "summary": "England captain Harry Kane has vowed to be back for the \"business end of the season\" after undergoing surgery on a torn ligament in his left ankle."
     },
     {
       "id": "feed-1j7i6p5",
@@ -1354,16 +1384,6 @@
       "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
     },
     {
-      "id": "feed-18qcilt",
-      "title": "Airbnb's divisive new house rules come into force",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo",
-      "publishedAt": "2026-11-20T15:48:35.000Z",
-      "category": "business",
-      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers."
-    },
-    {
       "id": "feed-1sogpk2",
       "title": "Could you spot a fake banknote?",
       "source": "BBC News",
@@ -1384,16 +1404,6 @@
       "summary": "Poundland's boss has told thousands of employees at the discount chain of his \"hurt\" at the parlous position in which it finds itself, days before it faces collapsing into administration."
     },
     {
-      "id": "feed-1hppn9e",
-      "title": "The secret cyber scramble to protect UK fridge freezers",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o",
-      "publishedAt": "2026-11-20T15:08:16.000Z",
-      "category": "business",
-      "summary": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned."
-    },
-    {
       "id": "feed-1jgo0jk",
       "title": "British Gas owner Centrica cuts hundreds of jobs in Business unit",
       "source": "Sky News",
@@ -1402,16 +1412,6 @@
       "publishedAt": "2026-11-20T15:01:00.000Z",
       "category": "business",
       "summary": "The FTSE 100 energy company Centrica is cutting hundreds of jobs as part of a cost-saving drive."
-    },
-    {
-      "id": "feed-18evlz4",
-      "title": "Thousands join cost of living protests across Europe",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko",
-      "publishedAt": "2026-11-20T14:43:39.000Z",
-      "category": "business",
-      "summary": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education."
     },
     {
       "id": "feed-o4fyco",
@@ -1452,16 +1452,6 @@
       "publishedAt": "2026-11-20T10:24:52.000Z",
       "category": "science",
       "summary": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills."
-    },
-    {
-      "id": "feed-12ii72b",
-      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
-      "publishedAt": "2026-11-20T09:44:56.000Z",
-      "category": "business",
-      "summary": "People stocking up on long-life food drove retail sales higher October, according to official data."
     },
     {
       "id": "feed-dwh054",
@@ -1514,8 +1504,8 @@
       "summary": "Shoppers appear to be heeding government warnings to stock-up on essentials amid a surprise leap in retail sales."
     },
     {
-      "id": "feed-6r4dsu",
-      "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
+      "id": "feed-15aohb3",
+      "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes? | Sarah Hanson-Young",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
@@ -1644,16 +1634,6 @@
       "summary": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific"
     },
     {
-      "id": "feed-wksmmu",
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
-      "publishedAt": "2026-11-19T02:59:06.000Z",
-      "category": "technology",
-      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
-    },
-    {
       "id": "feed-12u0oq5",
       "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
       "source": "The Guardian",
@@ -1692,16 +1672,6 @@
       "publishedAt": "2026-11-18T08:00:36.000Z",
       "category": "science",
       "summary": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland ’s most venerable cold case has concluded that the victim was decapitated more than 2,000 ye"
-    },
-    {
-      "id": "feed-qpbce1",
-      "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
-      "publishedAt": "2026-11-18T07:00:36.000Z",
-      "category": "science",
-      "summary": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers a"
     },
     {
       "id": "feed-1xjklwh",
