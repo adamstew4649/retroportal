@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T10:56:53.979Z",
+  "updatedAt": "2026-11-23T22:21:20.442Z",
   "feed": {
     "title": "World News - Breaking international news and headlines | Sky News",
     "url": "https://feeds.skynews.com/feeds/rss/world.xml",
     "link": "https://news.sky.com/world"
   },
   "articles": [
+    {
+      "id": "feed-1k18hls",
+      "title": "Deadly fire at confectionery factory kills 24 as rescuers search for dozens still missing",
+      "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577",
+      "source": "Sky News",
+      "publishedAt": "2026-11-23T10:52:00.000Z",
+      "summary": "A deadly fire that tore through a confectionery factory in Indonesia has claimed the lives of 24 people, with 34 others still missing."
+    },
     {
       "id": "feed-1guqb3w",
       "title": "Man who was lured to remote villa and held for 15 hours rescued after being tied up and beaten",
@@ -38,14 +46,6 @@
       "source": "Sky News",
       "publishedAt": "2026-11-21T13:34:00.000Z",
       "summary": "An outburst of violence has killed at least 11 people after Mexican authorities captured suspected cartel leader Fausto Isidro Meza Flores, known as El Chapo Isidro."
-    },
-    {
-      "id": "feed-o4fyco",
-      "title": "Anthropic among big fallers in global stock market rout",
-      "link": "https://news.sky.com/story/anthropic-among-big-fallers-in-global-stock-market-rout-13614361",
-      "source": "Sky News",
-      "publishedAt": "2026-11-20T13:39:00.000Z",
-      "summary": "Shares in Anthropic have fallen by more than 10% at Friday's open on Wall Street, just a day after their record-breaking Nasdaq debut, as part of a global stock market rout."
     }
   ]
 }
