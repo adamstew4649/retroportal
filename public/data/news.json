@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T22:21:20.445Z",
-  "generatedAt": "2026-11-23T22:21:20.445Z",
+  "updatedAt": "2026-11-24T06:10:54.662Z",
+  "generatedAt": "2026-11-24T06:10:54.662Z",
   "feeds": [
     {
       "id": "bbc-uk",
@@ -22,7 +22,7 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "id": "bbc-world",
@@ -85,14 +85,14 @@
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "id": "sky-technology",
       "name": "Sky News",
       "url": "https://feeds.skynews.com/feeds/rss/technology.xml",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "id": "sky-business",
@@ -104,24 +104,534 @@
   ],
   "articles": [
     {
+      "id": "feed-15jwzn2",
+      "title": "State failing to keep public safe, warns victims' commissioner",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cr0jx7dw234jo",
+      "publishedAt": "2026-11-24T06:02:10.000Z",
+      "category": "uk",
+      "summary": "Claire Waxman tells the BBC Andy Burnham needs to put justice in his 10-year plan for government."
+    },
+    {
+      "id": "feed-ueeb3k",
+      "title": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po",
+      "publishedAt": "2026-11-24T06:01:37.000Z",
+      "category": "uk",
+      "summary": "The content creator's self-shot videos of her dancing on the London Underground blew up online in 2023."
+    },
+    {
+      "id": "feed-wbnthw",
+      "title": "Afghan women with UK university offers 'heartbroken' after visas stopped",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg25e1v17wo",
+      "publishedAt": "2026-11-24T06:00:47.000Z",
+      "category": "uk",
+      "summary": "In March this year, the UK Home Office announced an \"emergency visa brake\" on study visas for applicants from Afghanistan."
+    },
+    {
+      "id": "feed-1gzh6zr",
+      "title": "Cold War missile tucked away in a field hides love story for man's late wife",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cre3d45key2xo",
+      "publishedAt": "2026-11-24T06:00:43.000Z",
+      "category": "uk",
+      "summary": "Adrian Hyde and his wife Janette spent years talking about owning a military vehicle."
+    },
+    {
+      "id": "feed-1lwpkad",
+      "title": "Soaring popularity of pickleball linked to eye injuries and disease, doctors warn",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/society/2026/nov/24/pickleball-eye-injuries-disease-doctors-warn",
+      "publishedAt": "2026-11-24T06:00:08.000Z",
+      "category": "uk",
+      "summary": "Woman hit in eye developed glaucoma as a result, with other injuries including retinal tears Doctors have issued a warning about eye injuries linked to the rapid rise in popularity of pickleball, after a woman in her early 50s who was hit in the eye during a g"
+    },
+    {
+      "id": "feed-1lajm11",
+      "title": "A year of deadly floods and fires – and yet Cop31 still collapsed. When will our leaders grasp the scale of this crisis? | Bill McGuire",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/24/deadly-floods-fires-cop31-collapsed-climate-crisis",
+      "publishedAt": "2026-11-24T06:00:08.000Z",
+      "category": "uk",
+      "summary": "Fossil fuel producers are choking off progress while we reap the whirlwind of our inaction. This is what sleepwalking to disaster looks like It’s sometimes said that we are sleepwalking into climate catastrophe. But the reality is that we are walking into it w"
+    },
+    {
+      "id": "feed-uj39pa",
+      "title": "Thomasina Miers’ recipe for fried fish with red pipián, and celeriac and leek rice",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/food/2026/nov/24/fried-fish-red-pipian-celeriac-leek-rice-recipes-thomasina-miers",
+      "publishedAt": "2026-11-24T06:00:08.000Z",
+      "category": "uk",
+      "summary": "Packed with flavour and natural goodness, spicy Mexican pipián sauce goes brilliantly with white fish, while a garlicky vegetable rice is perfect on the side As the weather closes in, I find my cooking naturally moving towards comfort as well as goodness. I ha"
+    },
+    {
+      "id": "feed-1bgiyh",
+      "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+      "publishedAt": "2026-11-24T06:00:07.000Z",
+      "category": "uk",
+      "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Want to avoid the Christmas shopping hordes? Then let your AI agent do it. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encoura"
+    },
+    {
+      "id": "feed-utkz8o",
+      "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
+      "publishedAt": "2026-11-24T05:58:15.000Z",
+      "category": "uk",
+      "summary": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Kate Bush, Grace Jones and Sir Ian Rankin have joined 7,000 artists and creatives around the world pleading for the Australian government not "
+    },
+    {
+      "id": "feed-nj7w86",
+      "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
+      "publishedAt": "2026-11-24T05:54:14.000Z",
+      "category": "uk",
+      "summary": "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migrants and refugees back to Myanmar, despite acknowledging that many asylum seeker"
+    },
+    {
+      "id": "feed-1u7fcr2",
+      "title": "Australian politics live: Government lacks ‘moral authority’ on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "publishedAt": "2026-11-24T05:51:48.000Z",
+      "category": "world",
+      "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed "
+    },
+    {
+      "id": "feed-1jk1fme",
+      "title": "Beau Lamarre-Condon could have told crown ‘do your worst’ and not given evidence, defence says",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
+      "publishedAt": "2026-11-24T05:49:34.000Z",
+      "category": "world",
+      "summary": "Former police officer has pleaded not guilty to murders of Jesse Baird and Luke Davies in Baird’s Paddington home in February 2024 Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon could have sat in silence and told the crown “do"
+    },
+    {
+      "id": "feed-5a6dop",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
+      "publishedAt": "2026-11-24T05:33:07.000Z",
+      "category": "world",
+      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\"."
+    },
+    {
+      "id": "feed-1co47et",
+      "title": "Country diary: A close watch on this autumn’s leaf fall – it’s been unpredictable | Elizabeth-Jane Burnett",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/24/country-diary-a-close-watch-on-this-autumns-leaf-fall-its-been-unpredictable",
+      "publishedAt": "2026-11-24T05:30:07.000Z",
+      "category": "uk",
+      "summary": "Creedy Valley, Devon: Three oaks in a row – one is green, one is bronze and the other is shedding its golden leaves like a shaken snow globe Leaves fall from the oak on the brow of the hill in a flurry. There is only a slight wind, yet it is as though a snow g"
+    },
+    {
+      "id": "feed-unu6ul",
+      "title": "UK papers: 'Huang returns to Nvidia hotseat' and 'Burnham opens door to second referendum'",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o",
+      "publishedAt": "2026-11-24T05:19:37.000Z",
+      "category": "uk",
+      "summary": "The reinstatement of Nvidia's chief executive Jensen Huang is a major focus of Tuesday's front pages."
+    },
+    {
+      "id": "feed-1uhqrzv",
+      "title": "Channel 4 hit as Unilever switches from TV to influencer marketing",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
+      "publishedAt": "2026-11-24T05:00:07.000Z",
+      "category": "uk",
+      "summary": "Exclusive: Gogglebox broadcaster is bigger loser than its rivals after Dove owner’s strategy shift, analysis shows Channel 4 has suffered a blow after one of Britain’s biggest advertisers ditched almost all of its TV spending with the troubled broadcaster, in "
+    },
+    {
+      "id": "feed-11e1k00",
+      "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture",
+      "publishedAt": "2026-11-24T05:00:07.000Z",
+      "category": "uk",
+      "summary": "Awareness campaign reminds public ‘traffic is a team sport’ amid less civility and more collisions on roads For decades the Netherlands has been famed for its proud cycling culture, with a network of 23,000 miles of bike paths used by everyone from children un"
+    },
+    {
+      "id": "feed-1kr2igj",
+      "title": "‘Two million people tuned in to see me mash potatoes!’ Gregor Fisher on his remarkable rebirth after Rab C Nesbitt",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/24/two-million-people-tuned-in-to-see-me-mash-potatoes-gregor-fisher-on-his-remarkable-rebirth-after-rab-c-nesbitt",
+      "publishedAt": "2026-11-24T05:00:07.000Z",
+      "category": "uk",
+      "summary": "For almost 30 years Fisher played a drunk in a string vest. Now a new generation has come to know him through his cooking videos. He talks about family secrets, cancelled shows and the correct approach to butter Gregor Fisher’s kitchen is so tidy – it looks as"
+    },
+    {
+      "id": "feed-xu50ef",
+      "title": "Simon Brodkin: ‘Which of my pranks went badly wrong? Well, Boris Johnson became PM after the Theresa May one’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/stage/2026/nov/24/simon-brodkin-comedy-q-and-a-pranks-theresa-may-lee-nelson",
+      "publishedAt": "2026-11-24T05:00:07.000Z",
+      "category": "uk",
+      "summary": "The character comedian AKA Lee Nelson handed May a P45 and threw golf balls at Donald Trump. He explains why the pranking’s now on ice – and which funny footballers inspired him How did you get into comedy? I was booted out of every class for making jokes and "
+    },
+    {
+      "id": "feed-milo6m",
+      "title": "Europe’s big threat is not Trump and Putin redrawing the map. It’s our own learned helplessness | Natalie Tocci",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/24/europes-big-threat-is-not-trump-and-putin-redrawing-the-map-its-our-own-learned-helpnessness",
+      "publishedAt": "2026-11-24T05:00:06.000Z",
+      "category": "uk",
+      "summary": "The US and Russia lack the power to impose their will on the continent – the Shenzhen summit was no Yalta 2.0 The first ever trilateral summit between Xi Jinping, Donald Trump and Vladimir Putin was rich in symbolism and empty of substance. Many Europeans, fil"
+    },
+    {
+      "id": "feed-1mjqa94",
+      "title": "‘Produce a good result by any means’: how AI is testing South Korea’s exam obsession",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/24/produce-a-good-result-by-any-means-how-ai-is-testing-south-koreas-exam-obsession",
+      "publishedAt": "2026-11-24T04:47:11.000Z",
+      "category": "uk",
+      "summary": "South Korea has made exams a career-defining way to level the playing field, but AI has plunged the system into chaos “I have never worn glasses in my life,” Yun Jeong-hu says to the camera, holding up a tax law textbook, and flipping through pages plastered w"
+    },
+    {
+      "id": "feed-1wftqz0",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+      "publishedAt": "2026-11-24T04:36:31.000Z",
+      "category": "world",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
+    },
+    {
+      "id": "feed-1yab158",
+      "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+      "publishedAt": "2026-11-24T04:14:43.000Z",
+      "category": "uk",
+      "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close "
+    },
+    {
+      "id": "feed-93iofk",
+      "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
+      "publishedAt": "2026-11-24T04:03:16.000Z",
+      "category": "uk",
+      "summary": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Big tech companies may face “mult"
+    },
+    {
+      "id": "feed-r601lq",
+      "title": "Nearly four million in destitution across UK, study suggests",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/nearly-four-million-people-in-destitution-across-uk-study-suggests-13615711",
+      "publishedAt": "2026-11-24T03:17:00.000Z",
+      "category": "uk",
+      "summary": "The number of people in destitution across the UK is at a record level, according to new research, as approximately 3.8 million struggled to access basic necessities last year."
+    },
+    {
+      "id": "feed-1w3k04u",
+      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "publishedAt": "2026-11-24T03:04:41.000Z",
+      "category": "world",
+      "summary": "This live blog is now closed. Jensen Huang reinstated as Nvidia CEO after Trump intervenes Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly ha"
+    },
+    {
+      "id": "feed-972k5",
+      "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
+      "publishedAt": "2026-11-24T03:00:04.000Z",
+      "category": "world",
+      "summary": "The international court of justice has for the first time ruled that a state has committed genocide. Yasmin Ullah explains what it means for the Rohingya people, while Kaamil Ahmed lays out how the case unfolded For seven years, Yasmin Ullah had been part of t"
+    },
+    {
+      "id": "feed-1fgua9a",
+      "title": "Gisele Pelicot 'deeply shocked' as nude photos of her sent to media",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/gisele-pelicot-deeply-shocked-after-nude-photos-used-to-promote-book-13615849",
+      "publishedAt": "2026-11-24T02:54:00.000Z",
+      "category": "world",
+      "summary": "Gisele Pelicot has said she is \"deeply shocked\" and \"humiliated\" after nude images of her were sent to the media without her consent to promote a new book about coercive control."
+    },
+    {
+      "id": "feed-zkewtw",
+      "title": "China sentences official to death for spying for foreign country",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+      "publishedAt": "2026-11-24T02:37:36.000Z",
+      "category": "uk",
+      "summary": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said. Gold Wal"
+    },
+    {
+      "id": "feed-1kujm4e",
+      "title": "Federal court clears way for army to detonate bomb-making chemicals in Iowa",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+      "publishedAt": "2026-11-24T02:25:49.000Z",
+      "category": "world",
+      "summary": "Trump, on social media, tried to push responsibility of ‘any and all death or destruction’ on Democratic governor-elect The US army can proceed with detonating several tons of degraded bomb-making chemicals in Iowa, a federal appeals court ruled on Monday. The"
+    },
+    {
+      "id": "feed-9hbqcq",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+      "publishedAt": "2026-11-24T02:15:59.000Z",
+      "category": "world",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks."
+    },
+    {
+      "id": "feed-qak9rk",
+      "title": "Sky News documentary wins International Emmy",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/24-hours-in-the-kill-zone-sky-news-documentary-wins-international-emmy-13615753",
+      "publishedAt": "2026-11-24T02:06:00.000Z",
+      "category": "world",
+      "summary": "Sky News has won an International Emmy for 24 Hours In The Kill Zone."
+    },
+    {
+      "id": "feed-1v6s6h9",
+      "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+      "publishedAt": "2026-11-24T01:47:15.000Z",
+      "category": "world",
+      "summary": "Singapore-based company entangled in scandal over alleged spy Alice Huang’s affair with Jensen Huang The US commerce department published an official notice on Monday adding the Singapore-based company Megaspeed, and its subsidiaries in Thailand and Malaysia, "
+    },
+    {
+      "id": "feed-1wi8j02",
+      "title": "Illicit substances found in one in eight vapes seized from students",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/children-using-vapes-spiked-with-spice-and-thc-police-warn-13615742",
+      "publishedAt": "2026-11-24T01:45:00.000Z",
+      "category": "uk",
+      "summary": "One in eight vapes seized in schools by the Metropolitan Police contained illicit drugs including spice and THC, a new operation has shown."
+    },
+    {
+      "id": "feed-2qr1sm",
+      "title": "Victims failed at every step of criminal justice system - report",
+      "source": "Sky News",
+      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
+      "url": "https://news.sky.com/story/victims-of-crime-being-failed-at-every-step-of-justice-system-report-warns-13615855",
+      "publishedAt": "2026-11-24T01:37:00.000Z",
+      "category": "uk",
+      "summary": "Victims of crime are being failed at every step of the criminal justice system, a major new report has warned."
+    },
+    {
+      "id": "feed-196csv4",
+      "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
+      "publishedAt": "2026-11-24T01:34:39.000Z",
+      "category": "uk",
+      "summary": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure Jensen Huang made his return to Nvidia’s headquarters with a hero’s welcome on Monday. Hours earlier he’d been reinstated as the CEO of the world’s most"
+    },
+    {
+      "id": "feed-1xsr2nv",
+      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo",
+      "publishedAt": "2026-11-24T01:21:41.000Z",
+      "category": "world",
+      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal."
+    },
+    {
+      "id": "feed-17n6c02",
+      "title": "Ukraine war briefing: Kyiv’s strike on Russian ships in Benghazi condemned by Libya’s UN-backed government",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/world/2026/nov/24/ukraine-war-briefing-kyiv-strike-on-russian-ships-in-benghazi-condemned-by-un-backed-libya-government",
+      "publishedAt": "2026-11-24T01:08:35.000Z",
+      "category": "uk",
+      "summary": "Tripoli-based foreign ministry demands explanation from Kyiv; Guardian analysis identifies more than 460,000 Russian deaths linked to the war. What we know on day 1,735 Continue reading..."
+    },
+    {
+      "id": "feed-106hqio",
+      "title": "Benefits review to suggest quicker payment for some disabled people",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro",
+      "publishedAt": "2026-11-24T00:53:31.000Z",
+      "category": "uk",
+      "summary": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip."
+    },
+    {
+      "id": "feed-16j14py",
+      "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no",
+      "publishedAt": "2026-11-24T00:45:53.000Z",
+      "category": "uk",
+      "summary": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM."
+    },
+    {
+      "id": "feed-1b7pics",
+      "title": "No 10 North will face greater scrutiny as Burnham's 10-year plan looms",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7jx5gdgo",
+      "publishedAt": "2026-11-24T00:31:28.000Z",
+      "category": "uk",
+      "summary": "The work of Number 10 North in Manchester has been kept largely away from the headlines since it opened in July."
+    },
+    {
+      "id": "feed-1i4g1ny",
+      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o",
+      "publishedAt": "2026-11-24T00:28:48.000Z",
+      "category": "uk",
+      "summary": "Increasing numbers of corporate landlords could usher in big changes for renters"
+    },
+    {
+      "id": "feed-199u85i",
+      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o",
+      "publishedAt": "2026-11-24T00:23:25.000Z",
+      "category": "world",
+      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades."
+    },
+    {
+      "id": "feed-1efiil6",
+      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po",
+      "publishedAt": "2026-11-24T00:11:08.000Z",
+      "category": "uk",
+      "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds."
+    },
+    {
+      "id": "feed-1e02alh",
+      "title": "Coldest spell of autumn continues with risk of hill snow, ice and heavy rain",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/weather/articles/cmz9dyk4y8xdo",
+      "publishedAt": "2026-11-24T00:03:36.000Z",
+      "category": "uk",
+      "summary": "Colder weather continues for much of the UK with some ice and hill snow but milder and wetter in the south and west, as Simon King explains"
+    },
+    {
+      "id": "feed-pen85h",
+      "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo",
+      "publishedAt": "2026-11-24T00:02:15.000Z",
+      "category": "world",
+      "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings."
+    },
+    {
+      "id": "feed-3t5heo",
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno",
+      "publishedAt": "2026-11-24T00:01:04.000Z",
+      "category": "uk",
+      "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists."
+    },
+    {
+      "id": "feed-1lnjq45",
+      "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
+      "publishedAt": "2026-11-24T00:01:01.000Z",
+      "category": "world",
+      "summary": "Position contrasts with Green party’s policies before 2024 election, as polls show just 17% of voters trust them on defence Zack Polanski has given his backing to a paper that endorses Britain’s membership of Nato and the maintenance of the country’s nuclear w"
+    },
+    {
+      "id": "feed-v4ju2a",
+      "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/uk/rss",
+      "url": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
+      "publishedAt": "2026-11-24T00:01:00.000Z",
+      "category": "world",
+      "summary": "Nature writer reveals in his first Reith lecture that he finds ‘much more hope’ in emerging alliances We are “misplacing our trust” in the Cop climate summits and their “capacity to deliver consequential change”, according to Robert Macfarlane in this year’s R"
+    },
+    {
+      "id": "feed-1o75kq9",
+      "title": "Why I don't always tell potential employers I'm dyslexic",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero",
+      "publishedAt": "2026-11-24T00:00:47.000Z",
+      "category": "uk",
+      "summary": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests."
+    },
+    {
       "id": "feed-1osvco0",
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
-      "publishedAt": "2026-11-23T22:15:26.000Z",
+      "publishedAt": "2026-11-23T23:16:08.000Z",
       "category": "world",
       "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
     },
     {
-      "id": "feed-1l5vyyq",
-      "title": "Brentford 4-0 Everton: Premier League – live",
+      "id": "feed-lcy564",
+      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o",
+      "publishedAt": "2026-11-23T22:59:07.000Z",
+      "category": "world",
+      "summary": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday."
+    },
+    {
+      "id": "feed-wlh7nf",
+      "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/live/2026/nov/23/brentford-v-everton-premier-league-live",
-      "publishedAt": "2026-11-23T22:08:45.000Z",
-      "category": "uk",
-      "summary": "Minute-by-minute updates on the 8pm UK kick-off Haaland must be worried’: Moyes on Barry | Email Daniel Later tonight, Sky are doing something on the best centre-back partnerships in the Premier League era. Is this one even close? I can’t for the life of me th"
+      "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+      "publishedAt": "2026-11-23T22:41:48.000Z",
+      "category": "world",
+      "summary": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laugh"
     },
     {
       "id": "feed-agtubk",
@@ -129,49 +639,9 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-      "publishedAt": "2026-11-23T22:05:49.000Z",
-      "category": "uk",
-      "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeline: fall and comeback of Jensen Huang Nv"
-    },
-    {
-      "id": "feed-7e1gvq",
-      "title": "Lucy Worsley’s Keys to the Castle review – heavenly TV that instantly brightens up your day",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/23/lucy-worsleys-keys-to-the-castle-review",
-      "publishedAt": "2026-11-23T22:00:58.000Z",
-      "category": "uk",
-      "summary": "The brilliant historian has a gift for cheering everybody up. In this series, she discovers the delights of European castles – and makes you want to spontaneously book a holiday When I think of Lucy Worsley, I am immediately cheered up. Partly it’s the coats. "
-    },
-    {
-      "id": "feed-1vmku0m",
-      "title": "Federal appeals court hands Trump way out of conviction for hush-money payment",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/23/legal-path-erase-donald-trump-hush-money-conviction",
-      "publishedAt": "2026-11-23T21:59:59.000Z",
-      "category": "uk",
-      "summary": "Three-judge panel reverses order of keeping case in state court, allowing president to seek dismissal on immunity grounds A federal appeals court on Monday gave Donald Trump a new pathway to erasing his hush money criminal conviction, moving the case to a fede"
-    },
-    {
-      "id": "feed-1sqcsgi",
-      "title": "Australian politics live: Labor to ‘save more than we spend’ in budget update, Chalmers says; rental affordability plummets to 14-year low",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-      "publishedAt": "2026-11-23T21:58:35.000Z",
+      "publishedAt": "2026-11-23T22:23:40.000Z",
       "category": "world",
-      "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed "
-    },
-    {
-      "id": "feed-303jvf",
-      "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-      "publishedAt": "2026-11-23T21:56:38.000Z",
-      "category": "world",
-      "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return – b"
+      "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment Timeline: fall and comeback of Jensen Huang Nvidia has reinstated Jensen "
     },
     {
       "id": "feed-1gu26nr",
@@ -179,9 +649,19 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
-      "publishedAt": "2026-11-23T21:53:33.000Z",
+      "publishedAt": "2026-11-23T22:21:45.000Z",
       "category": "world",
       "summary": "Democrat, who lost re-election bid, found to have made ‘unwelcome sexual advances’ towards House staffer Jimmy Gomez will resign from Congress after a House ethics report released on Monday found “substantial evidence” that the California Democrat had “engaged"
+    },
+    {
+      "id": "feed-v5a78a",
+      "title": "'Life is not infinite': Catherine talks about 'mortality' in new documentary clip",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/videos/c920x1534e31o",
+      "publishedAt": "2026-11-23T22:01:09.000Z",
+      "category": "uk",
+      "summary": "The Princess of Wales talks about her cancer journey in a new clip from the upcoming BBC documentary, Heal."
     },
     {
       "id": "feed-584p5i",
@@ -192,6 +672,16 @@
       "publishedAt": "2026-11-23T21:40:30.000Z",
       "category": "business",
       "summary": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback."
+    },
+    {
+      "id": "feed-1fdky43",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o",
+      "publishedAt": "2026-11-23T21:24:47.000Z",
+      "category": "world",
+      "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\"."
     },
     {
       "id": "feed-726f2m",
@@ -214,44 +704,14 @@
       "summary": "The first minister asks for urgent meeting after Andy Burnham rejected calls for more powers in Cardiff."
     },
     {
-      "id": "feed-x1fk9g",
-      "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
-      "publishedAt": "2026-11-23T21:09:10.000Z",
+      "id": "feed-1npwcro",
+      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo",
+      "publishedAt": "2026-11-23T21:03:34.000Z",
       "category": "world",
-      "summary": "Outcry builds over Trump-backed move to bring back CEO as lawmakers call for Huang’s testimony before Congress US politics – live updates Republican lawmakers roundly criticized the Nvidia board’s decision to reinstate chief executive Jensen Huang, even after "
-    },
-    {
-      "id": "feed-fdwkc3",
-      "title": "Republican sheriff racked up $3m security bill for California taxpayers, including Ritz-Carlton stays and steak",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate",
-      "publishedAt": "2026-11-23T21:04:31.000Z",
-      "category": "world",
-      "summary": "High costs during Chad Bianco’s failed run for governor, including a $665 steak dinner, have raised concerns A southern California county spent more than $3m in a year on a security detail for its sheriff, Chad Bianco, a former Republican candidate for governo"
-    },
-    {
-      "id": "feed-jy7fqr",
-      "title": "The 2035 Women’s World Cup has huge potential for women and girls in UK",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
-      "publishedAt": "2026-11-23T21:02:10.000Z",
-      "category": "uk",
-      "summary": "Maximising the societal impact of the tournament, especially combating misogyny, should be a top priority The announcement that the 2035 Women’s World Cup will be hosted in England, Scotland, Wales and Northern Ireland has finally come and, if we aim high enou"
-    },
-    {
-      "id": "feed-aekbtj",
-      "title": "Clashing Through the Snow review – Amazon’s Christmas romcom is a bust",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/film/2026/nov/23/clashing-through-the-snow-review-amazon",
-      "publishedAt": "2026-11-23T20:59:28.000Z",
-      "category": "uk",
-      "summary": "The Summer I Turned Pretty’s Christopher Briney and 1923’s Michelle Randolph try their best, but this chaotic cross-country journey is not worth taking Credit where credit is due: it takes some nerve for Amazon to open its latest holiday romcom, Clashing Throu"
+      "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide."
     },
     {
       "id": "feed-1gs2xhe",
@@ -260,7 +720,7 @@
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
       "publishedAt": "2026-11-23T20:56:17.000Z",
-      "category": "uk",
+      "category": "world",
       "summary": "Western governments and rights groups have criticised flogging as torture and a violation of international law An Iranian singer and four members of her production team ⁠have each received 74 lashes after being sentenced for “offending public decency by produc"
     },
     {
@@ -284,36 +744,6 @@
       "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner."
     },
     {
-      "id": "feed-crs7pi",
-      "title": "Metropolitan police seize 893kg of cocaine hidden in boxes of oranges",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/23/metropolitan-police-seize-cocaine-hidden-boxes-oranges-new-spitalfields",
-      "publishedAt": "2026-11-23T20:41:43.000Z",
-      "category": "uk",
-      "summary": "London force also makes eight arrests in operation centred on New Spitalfields Market in the capital A tonne of cocaine was found hidden in boxes of oranges as part of one of the biggest drug seizures in the history of the Metropolitan police. Suspected cocain"
-    },
-    {
-      "id": "feed-o15atx",
-      "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
-      "publishedAt": "2026-11-23T19:48:58.000Z",
-      "category": "uk",
-      "summary": "Mahdi Tounsi appeared with visible bruising after being interrogated by police on his association with Israeli-Palestinian organisations Israeli professors, students and rights activists are calling for the immediate release of Mahdi Tounsi, a sociology studen"
-    },
-    {
-      "id": "feed-1ig83xy",
-      "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-      "publishedAt": "2026-11-23T19:42:40.000Z",
-      "category": "uk",
-      "summary": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns Donald Trump on Monday said he would defer to a federal appeals court on whether the administration moves ahead with plans to detonate several to"
-    },
-    {
       "id": "feed-jt4fqp",
       "title": "Andrew received £750,000 from Turkish millionaire, court told",
       "source": "BBC News",
@@ -324,24 +754,14 @@
       "summary": "The former Duke of York is expected to give evidence in the complex court case next month."
     },
     {
-      "id": "feed-1nc575u",
-      "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
-      "publishedAt": "2026-11-23T19:26:01.000Z",
-      "category": "uk",
-      "summary": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’ UK politics live – latest updates Andy Burnham has said it would be “unthinkable” for the UK to rejoin the EU without holding another referendum,"
-    },
-    {
-      "id": "feed-1ld01p8",
-      "title": "My approach to EU is pragmatic, says Burnham",
+      "id": "feed-11ck9f8",
+      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o",
-      "publishedAt": "2026-11-23T19:10:44.000Z",
-      "category": "uk",
-      "summary": "The prime minister also said his predecessors who have urged him not to reopen the Brexit debate are \"stuck in the past\"."
+      "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo",
+      "publishedAt": "2026-11-23T18:49:19.000Z",
+      "category": "world",
+      "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin."
     },
     {
       "id": "feed-1i07vhe",
@@ -364,46 +784,6 @@
       "summary": "From Monday, maternity services at Daisy Hill Hospital will move to Craigavon Area Hospital."
     },
     {
-      "id": "feed-w3x2e3",
-      "title": "Ben Jennings on the failure of Cop31 – cartoon",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/23/ben-jennings-failure-cop31-cartoon",
-      "publishedAt": "2026-11-23T18:32:07.000Z",
-      "category": "uk",
-      "summary": "Continue reading..."
-    },
-    {
-      "id": "feed-z3utfb",
-      "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – as it happened",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-      "publishedAt": "2026-11-23T18:31:17.000Z",
-      "category": "world",
-      "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindu"
-    },
-    {
-      "id": "feed-20sxlh",
-      "title": "The Guardian view on Cop31: a just transition needs more than fine words | Editorial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-cop31-a-just-transition-needs-more-than-fine-words",
-      "publishedAt": "2026-11-23T18:29:05.000Z",
-      "category": "uk",
-      "summary": "Petrostates blocked ambition while wealthy nations withheld cash support. The climate crisis demands the next UN summit turns promises into action In a negotiation the maxim is usually that no deal is better than a bad deal. But the failure of Cop31 in Turkey "
-    },
-    {
-      "id": "feed-e60q2",
-      "title": "The Guardian view on Andy Burnham’s EU intentions: undogmatic consensus building is a sensible strategy | Editorial",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-andy-burnhams-eu-intentions-undogmatic-consensus-building-is-the-sensible-strategy",
-      "publishedAt": "2026-11-23T18:28:47.000Z",
-      "category": "uk",
-      "summary": "On treacherous political terrain, the government is right to want to proceed with caution and at a pace of its own choosing During the 1980s and 90s, the French president of the European Commission, Jacques Delors, consciously pursued deeper EU integration via"
-    },
-    {
       "id": "feed-vo09lb",
       "title": "Cop31 failed. What happens now? – podcast",
       "source": "The Guardian",
@@ -412,56 +792,6 @@
       "publishedAt": "2026-11-23T18:22:29.000Z",
       "category": "science",
       "summary": "The longest ever Cop climate talks have ended in failure after countries were unable to agree a deal. The key sticking point was the omission of any mention of fossil fuels in the final draft. To find out how it all went so wrong and what could come next, Made"
-    },
-    {
-      "id": "feed-42pknd",
-      "title": "Former prince Andrew was paid £750,000 in hope of helping Turkish woman with passport, high court told",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told",
-      "publishedAt": "2026-11-23T18:20:03.000Z",
-      "category": "uk",
-      "summary": "Nebahat Isbilen claims her former adviser paid bribe in return for help with passport, but money was returned Andrew Mountbatten-Windsor was paid a £750,000 “bribe” in the hope of helping a Turkish woman with her passport, the high court has been told. Nebahat"
-    },
-    {
-      "id": "feed-1mti0vr",
-      "title": "Game over? How playing Grand Theft Auto VI is affecting elite athletes’ performances | Sean Ingle",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/sport/2026/nov/23/game-over-how-playing-grand-theft-auto-vi-is-affecting-elite-athletes-performances",
-      "publishedAt": "2026-11-23T18:14:03.000Z",
-      "category": "uk",
-      "summary": "Burning the midnight oil playing video games is not ideal preparation for professional sport – but it’s not all bad “They miss games, the cheque’s still clearing. And you’re trying to tell me they got this kind of addiction to a video game that they sitting th"
-    },
-    {
-      "id": "feed-thfbyh",
-      "title": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
-      "publishedAt": "2026-11-23T18:12:48.000Z",
-      "category": "uk",
-      "summary": "French woman says she will pursue legal action against publisher and author over use of photos taken by convicted husband Gisèle Pelicot has said she is “deeply shocked” that nude photographs of her had been used without her consent to promote a psychoanalyst’"
-    },
-    {
-      "id": "feed-c9z8me",
-      "title": "Andy Burnham’s EU deal leaves Brexit open to question | Letters",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnhams-eu-deal-leaves-brexit-open-to-question",
-      "publishedAt": "2026-11-23T18:11:21.000Z",
-      "category": "uk",
-      "summary": "Stuart Finegan says the PM deserves credit for his practical steps to rebuild European relations, while Julian Roberts says the point of democracy is surely the right of the people to change their minds. Plus letters from Lindsay Bray , Helen Elliott and Nick "
-    },
-    {
-      "id": "feed-aw43fd",
-      "title": "Only six beds for trans victims of domestic abuse in UK, report finds",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/society/2026/nov/23/only-six-beds-for-trans-victims-of-domestic-abuse-in-uk-report-finds",
-      "publishedAt": "2026-11-23T18:07:04.000Z",
-      "category": "world",
-      "summary": "Exclusive: Services say supreme court ruling on single-sex spaces has made it ‘almost impossible’ to find refuges for trans people There are only six beds specifically for trans victims of domestic abuse in the UK, a report has found, with services saying it i"
     },
     {
       "id": "feed-18wavm0",
@@ -480,7 +810,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo",
       "publishedAt": "2026-11-23T17:59:55.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment."
     },
     {
@@ -494,23 +824,13 @@
       "summary": "The longest ever Cop climate talks have ended in failure after countries were unable to agree a deal. The key sticking point was the omission of any mention of fossil fuels in the final draft. To find out how it all went so wrong and what could come next, Made"
     },
     {
-      "id": "feed-95gym6",
-      "title": "‘Scapegoating’: green groups condemn plan to axe Environment Agency and Natural England",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
-      "publishedAt": "2026-11-23T17:47:58.000Z",
-      "category": "world",
-      "summary": "Ministers proposing to abolish the quangos in attempt to give politicians more control over what gets built and where Scientists have accused the government of scapegoating nature for proposing to scrap the only environmental regulator with a legal duty to pro"
-    },
-    {
       "id": "feed-15lmw97",
       "title": "What tactics will Burnham use to sell his EU plans? – podcast",
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/uk/rss",
       "url": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast",
       "publishedAt": "2026-11-23T17:42:13.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "Andy Burnham has set out his plans to win parliamentary backing for a new EU deal. But the various options for how Britain could rejoin the EU, or ‘Breturn’, will not be outlined until December. Pippa Crerar has been speaking to the prime minister about how he"
     },
     {
@@ -521,7 +841,7 @@
       "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return",
       "publishedAt": "2026-11-23T17:37:10.000Z",
       "category": "technology",
-      "summary": "Jensen Huang’s return as CEO comes despite fact board hasn’t completed investigation into reports of affair with alleged Chinese spy Jensen Huang reinstated as Nvidia CEO Business live – latest updates What was it that Nvidia’s board was saying about there bei"
+      "summary": "Jensen Huang’s return as CEO comes despite fact board hasn’t completed investigation into reports of affair with alleged Chinese spy Jensen Huang reinstated as Nvidia CEO What was it that Nvidia’s board was saying about there being no chance of Jensen Huang co"
     },
     {
       "id": "feed-1ff43l2",
@@ -532,26 +852,6 @@
       "publishedAt": "2026-11-23T17:24:25.000Z",
       "category": "world",
       "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks."
-    },
-    {
-      "id": "feed-4lra9v",
-      "title": "Teenage girl stabbed multiple times by 14-year-old boy, murder trial told",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmlydn1zye23o",
-      "publishedAt": "2026-11-23T17:24:13.000Z",
-      "category": "uk",
-      "summary": "Lilly Jones's body was found near Duffryn Park in Blaina two days after she was reported missing."
-    },
-    {
-      "id": "feed-vgx4t8",
-      "title": "Cop31 collapses: why did climate talks fall apart? - The Latest",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest",
-      "publishedAt": "2026-11-23T17:19:55.000Z",
-      "category": "world",
-      "summary": "Countries at the Cop31 climate summit failed to reach a keystone agreement for the first time in 17 years. The talks, co-chaired by Turkey and Australia, were intended to produce a pact that would have injected urgency into climate action and financing for vul"
     },
     {
       "id": "feed-oq1yab",
@@ -614,26 +914,6 @@
       "summary": "As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft Outlook outages grinding business operations to a halt. Zoom, "
     },
     {
-      "id": "feed-142yv2k",
-      "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
-      "publishedAt": "2026-11-23T16:53:13.000Z",
-      "category": "world",
-      "summary": "Island’s labour minister, Tony Dyer, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a centu"
-    },
-    {
-      "id": "feed-1ecvug0",
-      "title": "'People were screaming in pain' during Co-op Live evacuation",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmgqx3ve732jo",
-      "publishedAt": "2026-11-23T16:43:42.000Z",
-      "category": "uk",
-      "summary": "Rap fans say people were \"choking\" and \"coughing up blood\" after \"some smoke\" went off in Co-op Live."
-    },
-    {
       "id": "feed-1lg4mpv",
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
       "source": "BBC News",
@@ -642,16 +922,6 @@
       "publishedAt": "2026-11-23T16:12:35.000Z",
       "category": "technology",
       "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom."
-    },
-    {
-      "id": "feed-13gq0pq",
-      "title": "Jury out in train stabbing attempted murder trial",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70z6e5d3jo",
-      "publishedAt": "2026-11-23T16:06:10.000Z",
-      "category": "uk",
-      "summary": "Anthony Williams, 33, denies attempting to murder 10 passengers he stabbed on a London-bound train."
     },
     {
       "id": "feed-leb8po",
@@ -674,26 +944,6 @@
       "summary": "Campaigners call for restrictions on sewage treatment plant discharging effluent during drought"
     },
     {
-      "id": "feed-1j65aaz",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
-      "publishedAt": "2026-11-23T15:41:23.000Z",
-      "category": "world",
-      "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya."
-    },
-    {
-      "id": "feed-1w1hqro",
-      "title": "Mother and son riot ringleaders jailed for 'disgraceful' acts",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6qj57y4gwlyo",
-      "publishedAt": "2026-11-23T15:24:20.000Z",
-      "category": "uk",
-      "summary": "The judge said Kelvin and Tracy Kane were both \"a total disgrace to the decent law-abiding citizens of Ballymena\"."
-    },
-    {
       "id": "feed-1uahxwg",
       "title": "Cranberry jam: warming winters and extreme weather threaten a traditional holiday fruit",
       "source": "The Guardian",
@@ -704,26 +954,6 @@
       "summary": "Scientists are racing to identify and breed new berry varieties that can thrive on an increasingly warmer planet It is harvest time in rural Wisconsin , and the Badger state’s most vibrant crop is painting the rolling countryside a brilliant, unmistakable red."
     },
     {
-      "id": "feed-z5ufbw",
-      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo",
-      "publishedAt": "2026-11-23T14:55:14.000Z",
-      "category": "world",
-      "summary": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries."
-    },
-    {
-      "id": "feed-ib1bqd",
-      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o",
-      "publishedAt": "2026-11-23T14:54:03.000Z",
-      "category": "world",
-      "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'."
-    },
-    {
       "id": "feed-538ucd",
       "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
       "source": "The Guardian",
@@ -731,7 +961,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
       "publishedAt": "2026-11-23T14:51:44.000Z",
       "category": "business",
-      "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too Business live – latest updates It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There have been s"
+      "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There have been signs in recent weeks that inves"
     },
     {
       "id": "feed-1e6f15z",
@@ -751,7 +981,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
       "publishedAt": "2026-11-23T14:50:31.000Z",
       "category": "business",
-      "summary": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier Business live – latest updates Next has warned that hackers have gained access to data relating to the clothing and homewares retailer through a"
+      "summary": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier Next has warned that hackers have gained access to data relating to the clothing and homewares retailer through a technology supplier. The compa"
     },
     {
       "id": "feed-10w9y4o",
@@ -764,33 +994,13 @@
       "summary": "A restaurateur and his sister have been cleared of murdering their 100-year-old mother with morphine."
     },
     {
-      "id": "feed-1r2tifv",
-      "title": "Friends were wary of me holidaying with my ex's former wife and kids - but our blended family works",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c617kj1j1x4jo",
-      "publishedAt": "2026-11-23T14:30:04.000Z",
-      "category": "uk",
-      "summary": "Expert tips on how to get along with the mums and dads of your child's half-siblings."
-    },
-    {
-      "id": "feed-h3iexb",
-      "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o",
-      "publishedAt": "2026-11-23T14:26:33.000Z",
-      "category": "world",
-      "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians."
-    },
-    {
       "id": "feed-1pop5t2",
       "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro",
       "publishedAt": "2026-11-23T14:08:50.000Z",
-      "category": "uk",
+      "category": "technology",
       "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager."
     },
     {
@@ -824,33 +1034,13 @@
       "summary": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits."
     },
     {
-      "id": "feed-uqorkn",
-      "title": "India pledges $1.6bn to Nepal in reset of ties",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko",
-      "publishedAt": "2026-11-23T13:39:30.000Z",
-      "category": "world",
-      "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service."
-    },
-    {
-      "id": "feed-334sqv",
-      "title": "Two men admit sex offences in drugged wife case",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c52e83zy4ye0o",
-      "publishedAt": "2026-11-23T13:35:30.000Z",
-      "category": "uk",
-      "summary": "Two more men have admitted to sexual offences against the Stockport woman."
-    },
-    {
       "id": "feed-gdcksp",
       "title": "Flights cancelled in Belgium due to cost-of-living strike",
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o",
       "publishedAt": "2026-11-23T13:34:02.000Z",
-      "category": "world",
+      "category": "business",
       "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs."
     },
     {
@@ -862,16 +1052,6 @@
       "publishedAt": "2026-11-23T13:09:52.000Z",
       "category": "world",
       "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic."
-    },
-    {
-      "id": "feed-19us7mo",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
-      "publishedAt": "2026-11-23T13:02:05.000Z",
-      "category": "world",
-      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats."
     },
     {
       "id": "feed-1lwyid0",
@@ -904,26 +1084,6 @@
       "summary": "Marks & Spencer (M&S) is to transfer its remaining wholly owned international stores to new franchise partners as part of a shift under Stuart Machin, the group's boss."
     },
     {
-      "id": "feed-bjl4fq",
-      "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po",
-      "publishedAt": "2026-11-23T12:43:40.000Z",
-      "category": "world",
-      "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents."
-    },
-    {
-      "id": "feed-e2ctxk",
-      "title": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo",
-      "publishedAt": "2026-11-23T12:41:42.000Z",
-      "category": "uk",
-      "summary": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere"
-    },
-    {
       "id": "feed-1qpgo38",
       "title": "Next data accessed in cyber breach",
       "source": "BBC News",
@@ -944,16 +1104,6 @@
       "summary": "Tata-owned Agratas plant to build EV batteries for sister company Jaguar Land Rover seen as crucial for long-term health of British car industry One of the UK’s flagship electric vehicle battery projects has been thrown into turmoil after its second building c"
     },
     {
-      "id": "feed-1q0218y",
-      "title": "Paralympian charged with 11 counts of rape",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2xj4j33d1o",
-      "publishedAt": "2026-11-23T12:25:46.000Z",
-      "category": "uk",
-      "summary": "Paris 2024 silver medalist Lee Fryer will stand trial in March charged with 11 counts of rape."
-    },
-    {
       "id": "feed-1y2c3h9",
       "title": "Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
       "source": "The Guardian",
@@ -964,23 +1114,13 @@
       "summary": "Management team were in line for huge payouts Fifa denies Infantino would have profited from plan Gianni Infantino’s failed Fifa Forward Enterprise plan could have locked football in for up to 96 years while paying its management up to 5% of the scheme’s multi"
     },
     {
-      "id": "feed-7vq7ws",
-      "title": "Ukraine shares video of strikes on Russian ships off Libya",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo",
-      "publishedAt": "2026-11-23T11:34:10.000Z",
-      "category": "world",
-      "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit."
-    },
-    {
       "id": "feed-1otmya6",
       "title": "Martin Property Group makes last-gasp pitch to seal Poundland rescue",
       "source": "Sky News",
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/martin-property-group-makes-last-gasp-pitch-to-seal-poundland-rescue-13615589",
       "publishedAt": "2026-11-23T11:33:00.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "The Northern Irish company which has been attempting to seal a solvent rescue of Poundland for more than six weeks has made a last-gasp plea to its owner to engage in talks on a deal which could save thousands of high street jobs."
     },
     {
@@ -990,7 +1130,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo",
       "publishedAt": "2026-11-23T11:24:37.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year."
     },
     {
@@ -1021,17 +1161,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/23/nhs-caterer-compass-plans-stock-market-switch-in-blow-to-london",
       "publishedAt": "2026-11-23T10:51:40.000Z",
       "category": "business",
-      "summary": "The £43bn firm’s decision to move primary listing to New York would mark latest loss for FTSE 100 Business live – latest updates Compass, one of the biggest companies in the FTSE 100, is planning to switch its primary listing from London to the US in the lates"
-    },
-    {
-      "id": "feed-146wzg1",
-      "title": "'I was left broken' - Woman taking civil case against 'church that failed her'",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cwzd9n2m035lo",
-      "publishedAt": "2026-11-23T10:25:58.000Z",
-      "category": "uk",
-      "summary": "Jessica had been a member of a youth group in a Church of Ireland parish when she said she was first sexually assaulted at the age of 17."
+      "summary": "The £43bn firm’s decision to move primary listing to New York would mark latest loss for FTSE 100 Compass, one of the biggest companies in the FTSE 100, is planning to switch its primary listing from London to the US in the latest blow to the struggling UK sto"
     },
     {
       "id": "feed-11vo11d",
@@ -1050,7 +1180,7 @@
       "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
       "publishedAt": "2026-11-23T10:09:25.000Z",
-      "category": "uk",
+      "category": "business",
       "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?"
     },
     {
@@ -1084,26 +1214,6 @@
       "summary": "President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?"
     },
     {
-      "id": "feed-1grejso",
-      "title": "Snow forecast as cold health alerts in parts of UK",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/snow-and-frost-forecast-for-parts-of-the-uk-as-wintry-conditions-arrive-13615538",
-      "publishedAt": "2026-11-23T09:25:00.000Z",
-      "category": "uk",
-      "summary": "Wintry conditions are set for parts of the UK in the coming days, with snow, frost and sub-zero temperatures forecast."
-    },
-    {
-      "id": "feed-1p2abps",
-      "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro",
-      "publishedAt": "2026-11-23T08:53:01.000Z",
-      "category": "world",
-      "summary": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\"."
-    },
-    {
       "id": "feed-1cbktyb",
       "title": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
       "source": "The Guardian",
@@ -1111,7 +1221,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
       "publishedAt": "2026-11-23T08:45:13.000Z",
       "category": "business",
-      "summary": "Jump in price follows slowdown in Qatar supplies and depleted summer stocks due to heatwaves Business live – latest updates European gas prices surged on Monday as a forecast cold snap in the coming weeks fed fears across the continent’s over depleted supply t"
+      "summary": "Jump in price follows slowdown in Qatar supplies and depleted summer stocks due to heatwaves European gas prices surged on Monday as a forecast cold snap in the coming weeks fed fears across the continent’s over depleted supply this winter and costly household"
     },
     {
       "id": "feed-nwlxll",
@@ -1184,16 +1294,6 @@
       "summary": "The folding iPhone is early-adopter gold, changing the way iOS works and successfully condensing a tablet into your pocket, but it is not for everyone Apple’s first folding phone has upended the usual order of things with some interesting choices about how you"
     },
     {
-      "id": "feed-mmdlb",
-      "title": "Witness History",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8r4b",
-      "publishedAt": "2026-11-23T07:00:00.000Z",
-      "category": "business",
-      "summary": "In 1994, the agreement that created the World Trade Organization was signed in Morrocco"
-    },
-    {
       "id": "feed-1rjrhtj",
       "title": "Hacker sentenced for leaking Grand Theft Auto VI clips",
       "source": "Sky News",
@@ -1212,16 +1312,6 @@
       "publishedAt": "2026-11-23T06:33:50.000Z",
       "category": "science",
       "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history."
-    },
-    {
-      "id": "feed-3nfk5w",
-      "title": "Cost of renting in Britain to rise twice as fast as buying amid shortage of properties",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/money/2026/nov/23/cost-of-renting-in-britain-to-rise-twice-as-fast-as-buying-amid-shortage-of-properties",
-      "publishedAt": "2026-11-23T06:00:50.000Z",
-      "category": "business",
-      "summary": "Rents to rise by 14% until at least 2029, Hamptons predicts, as high demand for properties and low supply push up costs for tenants The cost of renting a home in Britain is expected to rise about twice as fast as that of buying one until at least 2029, accordi"
     },
     {
       "id": "feed-1itex9k",
@@ -1280,18 +1370,8 @@
       "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
       "url": "https://news.sky.com/story/major-trial-to-examine-if-ai-can-help-detect-breast-cancer-earlier-13615166",
       "publishedAt": "2026-11-23T00:01:00.000Z",
-      "category": "uk",
-      "summary": "Hundreds of thousands of women taking part in the NHS breast cancer screening programme could have their scans assessed by AI to see if it leads to earlier diagnosis."
-    },
-    {
-      "id": "feed-1jig9b3",
-      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-      "publishedAt": "2026-11-22T20:23:36.000Z",
       "category": "technology",
-      "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair "
+      "summary": "Hundreds of thousands of women taking part in the NHS breast cancer screening programme could have their scans assessed by AI to see if it leads to earlier diagnosis."
     },
     {
       "id": "feed-jpbmsj",
@@ -1302,16 +1382,6 @@
       "publishedAt": "2026-11-22T19:00:35.000Z",
       "category": "technology",
       "summary": "Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbuds The best sleep masks and best Bluetooth sleep masks Getting quality sleep is just as crucial as getting enough sleep. And how you feel in the "
-    },
-    {
-      "id": "feed-z3wpq",
-      "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/uk/rss",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
-      "publishedAt": "2026-11-22T19:00:34.000Z",
-      "category": "technology",
-      "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings wi"
     },
     {
       "id": "feed-4l8e8s",
@@ -1392,16 +1462,6 @@
       "publishedAt": "2026-11-22T12:00:27.000Z",
       "category": "science",
       "summary": "Emotions play a significant part in physical symptoms – but not in the way people often imagine When Diego started seeing bright flashing lights in his field of vision and felt his legs go weak, he thought he knew immediately what was happening. His mother had"
-    },
-    {
-      "id": "feed-14ah8dw",
-      "title": "Suspect charged over death of man found injured in hospital car park",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/man-21-dies-after-being-found-seriously-injured-in-hospital-car-park-13615200",
-      "publishedAt": "2026-11-22T11:47:00.000Z",
-      "category": "uk",
-      "summary": "A suspect has been charged following the death of a young man who was found seriously injured in a hospital car park, almost 20 miles from where he was wounded."
     },
     {
       "id": "feed-1kxrqb4",
@@ -1502,16 +1562,6 @@
       "publishedAt": "2026-11-21T22:44:52.000Z",
       "category": "science",
       "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey."
-    },
-    {
-      "id": "feed-15tjp9",
-      "title": "At least 24 dead after boat taking passengers to funeral capsizes in Nigeria",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/at-least-24-dead-after-boat-taking-passengers-to-funeral-capsizes-in-nigeria-13615057",
-      "publishedAt": "2026-11-21T21:32:00.000Z",
-      "category": "world",
-      "summary": "At least 24 people have died after a boat capsized carrying people to a funeral in Nigeria, according to emergency services."
     },
     {
       "id": "feed-1jvymgn",
@@ -1782,16 +1832,6 @@
       "publishedAt": "2026-11-17T07:20:00.000Z",
       "category": "technology",
       "summary": "California attorney general Rob Bonta has filed a lawsuit against OpenAI, accusing the tech giant of endangering public safety by creating AI models without adequate \"safeguards\"."
-    },
-    {
-      "id": "feed-1bupao5",
-      "title": "AI child sex abuse images 'soar 8,400% in two years'",
-      "source": "Sky News",
-      "sourceUrl": "https://feeds.skynews.com/feeds/rss/uk.xml",
-      "url": "https://news.sky.com/story/ai-generated-child-sex-abuse-images-soar-8400-in-two-years-study-finds-13612714",
-      "publishedAt": "2026-11-16T09:11:00.000Z",
-      "category": "technology",
-      "summary": "The amount of child sex abuse images and videos generated using AI is 85 times higher than just two years ago, scientists discovered."
     }
   ]
 }
