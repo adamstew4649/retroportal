@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T01:57:09.875Z",
+  "updatedAt": "2026-11-25T10:46:02.802Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
@@ -8,11 +8,35 @@
   },
   "articles": [
     {
-      "id": "feed-1ah9zzh",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "id": "feed-1jp4ns2",
+      "title": "EA adds AI-generated John Motson to FC 27 video game",
+      "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T10:11:34.000Z",
+      "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife."
+    },
+    {
+      "id": "feed-1flzvcn",
+      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T10:03:12.000Z",
+      "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire."
+    },
+    {
+      "id": "feed-17iohlr",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T03:44:07.000Z",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
+    },
+    {
+      "id": "feed-xfonnt",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
       "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
       "source": "BBC News",
-      "publishedAt": "2026-11-25T01:11:57.000Z",
+      "publishedAt": "2026-11-25T02:59:27.000Z",
       "summary": "The verdict follows a months-long trial in New York."
     },
     {
@@ -22,14 +46,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-25T00:34:05.000Z",
       "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic."
-    },
-    {
-      "id": "feed-17iohlr",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-24T21:19:42.000Z",
-      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
     },
     {
       "id": "feed-1pmgmrd",
@@ -104,28 +120,12 @@
       "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
     },
     {
-      "id": "feed-htkn8n",
+      "id": "feed-1j7i6p5",
       "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc",
       "source": "BBC News",
       "publishedAt": "2026-11-21T01:00:00.000Z",
       "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race."
-    },
-    {
-      "id": "feed-1b51sky",
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-21T00:06:11.000Z",
-      "summary": "We put four AI models to the test to see if they could save us money on a new TV."
-    },
-    {
-      "id": "feed-1a89wf6",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T23:08:57.000Z",
-      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
     },
     {
       "id": "feed-jzrnn4",
