@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T17:59:36.140Z",
+  "updatedAt": "2026-11-25T01:57:09.875Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
@@ -8,12 +8,44 @@
   },
   "articles": [
     {
-      "id": "feed-gc4zvl",
-      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "id": "feed-1ah9zzh",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T01:11:57.000Z",
+      "summary": "The verdict follows a months-long trial in New York."
+    },
+    {
+      "id": "feed-14cd40a",
+      "title": "Why tiny cars are taking off across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-25T00:34:05.000Z",
+      "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic."
+    },
+    {
+      "id": "feed-17iohlr",
+      "title": "US attorney general dodges questions about Nvidia investigation",
       "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
       "source": "BBC News",
-      "publishedAt": "2026-11-24T17:04:20.000Z",
-      "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading."
+      "publishedAt": "2026-11-24T21:19:42.000Z",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
+    },
+    {
+      "id": "feed-1pmgmrd",
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx",
+      "source": "BBC News",
+      "publishedAt": "2026-11-24T21:00:00.000Z",
+      "summary": "Experts from around the world plot the progress of AI development every five years."
+    },
+    {
+      "id": "feed-1b6lxp1",
+      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-24T18:21:43.000Z",
+      "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it"
     },
     {
       "id": "feed-1q5m2km",
@@ -72,9 +104,9 @@
       "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
     },
     {
-      "id": "feed-1j7i6p5",
+      "id": "feed-htkn8n",
       "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews",
       "source": "BBC News",
       "publishedAt": "2026-11-21T01:00:00.000Z",
       "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race."
@@ -94,30 +126,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-20T23:08:57.000Z",
       "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
-    },
-    {
-      "id": "feed-1r3xtp8",
-      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T22:53:24.000Z",
-      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record."
-    },
-    {
-      "id": "feed-v9jjou",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T22:42:47.000Z",
-      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
-    },
-    {
-      "id": "feed-5fd58q",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
-      "source": "BBC News",
-      "publishedAt": "2026-11-20T20:54:12.000Z",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
     },
     {
       "id": "feed-jzrnn4",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-10T20:30:00.000Z",
       "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout."
-    },
-    {
-      "id": "feed-nzwtml",
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T20:30:00.000Z",
-      "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show."
     }
   ]
 }
