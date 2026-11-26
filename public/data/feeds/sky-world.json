@@ -1,12 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T20:16:51.571Z",
+  "updatedAt": "2026-11-26T02:56:28.720Z",
   "feed": {
     "title": "World News - Breaking international news and headlines | Sky News",
     "url": "https://feeds.skynews.com/feeds/rss/world.xml",
     "link": "https://news.sky.com/world"
   },
   "articles": [
+    {
+      "id": "feed-w1bily",
+      "title": "US authorises SpaceX to deploy one million satellites to space",
+      "link": "https://news.sky.com/story/us-authorises-elon-musks-spacex-to-deploy-one-million-satellites-to-space-13616493",
+      "source": "Sky News",
+      "publishedAt": "2026-11-25T18:03:00.000Z",
+      "summary": "The US' Federal Communications Commission is authorising SpaceX to send a million satellites for data centres in space, the agency said."
+    },
     {
       "id": "feed-1mvfvg9",
       "title": "Eurostar trains cancelled and delayed over 'unannounced strike action'",
@@ -48,14 +56,6 @@
       "summary": "Thomas Markle has been formally charged on two counts of possessing child sexual abuse material in Los Angeles."
     },
     {
-      "id": "feed-pygrus",
-      "title": "China 'sentences official to death for spying'",
-      "link": "https://news.sky.com/story/china-reportedly-sentences-official-to-death-for-leaking-state-secrets-13615962",
-      "source": "Sky News",
-      "publishedAt": "2026-11-24T12:22:00.000Z",
-      "summary": "China has sentenced to death an official who was said to have leaked state secrets to a foreign country."
-    },
-    {
       "id": "feed-mqhwka",
       "title": "FA chair had to sign NDA to view FIFA documents on World Cup sell-off",
       "link": "https://news.sky.com/story/fa-chair-had-to-sign-nda-to-view-fifa-documents-on-world-cup-sell-off-13615958",
@@ -70,22 +70,6 @@
       "source": "Sky News",
       "publishedAt": "2026-11-24T08:06:00.000Z",
       "summary": "Senegal have been awarded the Africa Cup of Nations title after successfully appealing against the decision to strip them of it."
-    },
-    {
-      "id": "feed-1fgua9a",
-      "title": "Gisele Pelicot 'deeply shocked' as nude photos of her sent to media",
-      "link": "https://news.sky.com/story/gisele-pelicot-deeply-shocked-after-nude-photos-used-to-promote-book-13615849",
-      "source": "Sky News",
-      "publishedAt": "2026-11-24T02:54:00.000Z",
-      "summary": "Gisele Pelicot has said she is \"deeply shocked\" and \"humiliated\" after nude images of her were sent to the media without her consent to promote a new book about coercive control."
-    },
-    {
-      "id": "feed-1k18hls",
-      "title": "Deadly fire at confectionery factory kills 24 as rescuers search for dozens still missing",
-      "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577",
-      "source": "Sky News",
-      "publishedAt": "2026-11-23T10:52:00.000Z",
-      "summary": "A deadly fire that tore through a confectionery factory in Indonesia has claimed the lives of 24 people, with 34 others still missing."
     }
   ]
 }
