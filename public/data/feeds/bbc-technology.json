@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T21:42:56.253Z",
+  "updatedAt": "2026-11-28T03:37:28.044Z",
   "feed": {
     "title": "BBC News",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "link": "https://www.bbc.co.uk/news/technology"
   },
   "articles": [
+    {
+      "id": "feed-1vmwu4i",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-28T01:30:50.000Z",
+      "summary": "With an official PC version potentially still months away, fans are getting impatient."
+    },
+    {
+      "id": "feed-13siibs",
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m00353dd",
+      "source": "BBC News",
+      "publishedAt": "2026-11-28T01:00:00.000Z",
+      "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently."
+    },
     {
       "id": "feed-zcshql",
       "title": "Why is there a shortage of 'wizard' elevator mechanics?",
@@ -112,14 +128,6 @@
       "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%."
     },
     {
-      "id": "feed-1lg4mpv",
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-23T16:12:35.000Z",
-      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom."
-    },
-    {
       "id": "feed-1j7i6p5",
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc",
@@ -142,14 +150,6 @@
       "source": "BBC News",
       "publishedAt": "2026-11-14T01:00:00.000Z",
       "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides."
-    },
-    {
-      "id": "feed-fnl7fv",
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyv",
-      "source": "BBC News",
-      "publishedAt": "2026-11-10T20:30:00.000Z",
-      "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout."
     }
   ]
 }
